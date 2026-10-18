@@ -40,7 +40,11 @@ plt.rcParams.update({
 })
 
 
-def _time_axis(ax):
+def _time_axis(ax, times=None):
+    if times is not None and len(times):
+        lo, hi = pd.Timestamp(min(times)), pd.Timestamp(max(times))
+        pad = max(pd.Timedelta(hours=3), (hi - lo) * 0.04)
+        ax.set_xlim(lo - pad, hi + pad)
     loc = mdates.AutoDateLocator(minticks=3, maxticks=7)
     ax.xaxis.set_major_locator(loc)
     ax.xaxis.set_major_formatter(mdates.ConciseDateFormatter(loc))
@@ -52,7 +56,7 @@ def _arm_lines(ax, df: pd.DataFrame, var: str):
         if s.empty:
             continue
         ax.plot(s.index, s.values, color=st["color"], ls=st["ls"], lw=2, marker="o", ms=4, label=st["label"])
-    _time_axis(ax)
+    _time_axis(ax, df.t.unique())
 
 
 def by_persona(panel, var, title, ylabel, path):
@@ -84,7 +88,7 @@ def arm_gaps(panel, path):
             continue
         s = (gap.v - gap.base).groupby(level="t").mean()
         ax.plot(s.index, s.values, color=st["color"], lw=2, marker="o", ms=4, label=st["label"])
-    _time_axis(ax)
+    _time_axis(ax, panel.t.unique())
     ax.set_ylabel("percentage points")
     ax.set_title("1-year expected inflation (Q4): each news arm minus the no-news arm", loc="left")
     ax.legend(loc="upper left", ncol=4)
@@ -125,7 +129,7 @@ def quality(index, path):
     a2.bar(idx.t, idx.cost_usd, width=0.12, color="#2a78d6")
     a2.set_title("API cost per wave (USD)", loc="left")
     for ax in (a1, a2):
-        _time_axis(ax)
+        _time_axis(ax, idx.t.tolist())
     fig.tight_layout()
     fig.savefig(path, dpi=130)
     plt.close(fig)
