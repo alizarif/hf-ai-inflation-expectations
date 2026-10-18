@@ -1,0 +1,75 @@
+name: Survey wave
+
+# Waves run at 00, 04, 08, 12, 16 and 20 New York time. GitHub cron only knows UTC,
+# so both the EDT and the EST offsets are scheduled; the runner maps each trigger to
+# its New York slot and exits immediately if that slot already has a wave.
+on:
+  schedule:
+    - cron: "3 0,4,8,12,16,20 * * *"    # New York slots while on EDT (UTC-4)
+    - cron: "3 1,5,9,13,17,21 * * *"    # New York slots while on EST (UTC-5)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "production = real wave into data/ | test = real API, 1 trial, into data_test/ | dry-run = simulated answers, nothing committed"
+        type: choice
+        options: [test, production, dry-run]
+        default: test
+      force:
+        description: "Rerun even if this slot already has a wave"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: survey-wave
+  cancel-in-progress: false
+
+jobs:
+  wave:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      MODE: ${{ inputs.mode || 'production' }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run wave
+        id: wave
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: python -m hfie.run_wave --mode "$MODE" ${{ inputs.force && '--force' || '' }}
+
+      - name: Rebuild panel and charts
+        if: steps.wave.outputs.ran == 'true' && env.MODE == 'production'
+        run: python -m hfie.charts
+
+      - name: Rebuild test charts
+        if: steps.wave.outputs.ran == 'true' && env.MODE == 'test'
+        run: python -m hfie.charts --data data_test --charts charts_test --no-readme
+
+      - name: Commit results
+        if: steps.wave.outputs.ran == 'true' && env.MODE != 'dry-run'
+        run: |
+          git config user.name "survey-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          git diff --cached --quiet && exit 0
+          git commit -q -m "${{ env.MODE }} wave ${{ steps.wave.outputs.wave_id }}"
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && exit 0; sleep $((i * 5)); done
+          exit 1
+
+      - name: Keep dry-run output
+        if: env.MODE == 'dry-run'
+        uses: actions/upload-artifact@v4
+        with:
+          name: dry-run-wave
+          path: data_dryrun/

@@ -1,0 +1,85 @@
+# =====================================================================
+#  High-frequency AI inflation-expectations survey: the whole study design
+#  Change this file (and hfie/questions.py) only between, never during, a
+#  study period: every wave stores a hash of it in its manifest.
+# =====================================================================
+
+study_name: hf_ai_inflation_expectations
+design_version: "2026-10-18-v1"
+
+# ---- schedule ---------------------------------------------------------
+# Waves are indexed by New York clock slots. GitHub cron runs in UTC, so the
+# workflow fires at both EDT and EST offsets and the runner skips a trigger
+# whose slot already has a completed wave.
+schedule:
+  timezone: America/New_York
+  slot_hours: [0, 4, 8, 12, 16, 20]
+
+# ---- respondents ------------------------------------------------------
+models:                     # exact OpenRouter slugs; never "~...-latest" aliases
+  - openai/gpt-6-luna
+  - openai/gpt-4o-mini
+  - deepseek/deepseek-v4.1-flash-1017
+  - qwen/qwen3.8-flash
+  - meta-llama/llama-4-scout
+  - google/gemini-3.8-flash
+  - anthropic/claude-haiku-5.5
+
+trials: 3                   # independent conversations per model x persona x arm
+
+personas:
+  generic: ""
+  household: "Act as the head of a household in the US."
+  firm: "Act as the CEO of a US firm."
+  forecaster: "You are a professional forecaster."
+
+system_prompt: >-
+  You are taking part in a survey about inflation expectations about the U.S. economy.
+  Today is {date}, {hour}:00 UTC. {persona}
+  Answer each question with your own best estimate; there are no right or wrong answers.
+  Reply with your answer only, in exactly the format the question asks for.
+
+# ---- information arms -------------------------------------------------
+# One shared web search per topic per wave; every model in that arm gets the
+# identical captured results. "none" gets no news at all.
+arms:
+  none:          {query: null}
+  general:       {query: "top news headlines today"}
+  economy:       {query: "U.S. economy inflation prices news today"}
+  politics:      {query: "U.S. politics news today"}
+  entertainment: {query: "entertainment news today movies music celebrities"}
+
+news_intro: >-
+  Here are some recent news articles, collected {collected}:
+
+search:
+  provider: openrouter_exa        # one OpenRouter call per topic with the Exa web-search server tool
+  searcher_model: openai/gpt-4o-mini
+  max_results: 10
+  max_excerpt_chars: 600          # per article, in the text shown to respondents
+  min_results: 3                  # fewer than this -> fall back to Google News RSS
+  fallback: google_news_rss
+
+# ---- answering --------------------------------------------------------
+answer_instruction: >-
+  Answer each question on its own line, starting with its label, like this:
+
+  Q1_I: <answer>
+
+  Q2_I: <answer>
+
+  Q3_I: <answer>
+
+  Q4_I: <answer>
+
+  Q5_I: <answer>
+
+correction_turn: true             # one follow-up turn if an answer is unusable
+density_sum_tolerance: 0.1        # |sum - 100| allowed for Q2/Q3
+
+# ---- runtime ----------------------------------------------------------
+runtime:
+  max_workers: 16
+  request_timeout_s: 180
+  max_retries: 4
+  max_wave_cost_usd: 5.0          # hard stop: no new calls once the wave has spent this much
