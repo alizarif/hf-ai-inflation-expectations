@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-10-18T10:40:13+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news headlines today",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-18T10:40:13+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Google News",
+    "url": "https://news.google.com/",
+    "source": "news.google.com",
+    "published": "",
+    "excerpt": "### Top stories Lindsay Clancy trial jury reports deadlock during deliberations chevron_right CNN ... Live updates: Tensions flare in Lindsay Clancy courtroom over holdout juror ... Fox News parts ways with anchor Maria Bartiromo chevron_right The Guardian ... Fox News Media abruptly ousts longtime anchor Maria Bartiromo 7 hours ago ... AP News Missouri court blocks Trump-backed US House map and orders it to be put to a vote 1 hour ago ... Trump asks Supreme Court to lift block on USPS plan to restrict mail voting"
+   },
+   {
+    "title": "Google News",
+    "url": "https://news.google.com/home?ceid=US%3Aen&gl=US&hl=en-US&updateTrigger=9d9e4daca7a5be09e465aa94eb1a223a",
+    "source": "news.google.com",
+    "published": "",
+    "excerpt": "US and Israel launch \"pre-emptive\" attack against Iran 1 hour ago ... Reuters Iran crisis live: Explosions in Tehran as Israel and US announce strike ... U.S. AND ISRAEL BEGIN \"MAJOR COMBAT OPERATIONS\" IN IRAN 18 minutes ago ... Trump orders government to stop using Anthropic in battle over AI use 4 hours ago ... OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times ... Sam Altman says OpenAI shares Anthropic's red lines in Pentagon fight ... ‘I did nothing wrong’: Bill Clinton testifies in House Epstein inquiry ... Exclusive | Government Agencies Raise Alarm About Use of Elon Musk’s Grok Chatbot 5 hours ago"
+   },
+   {
+    "title": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News",
+    "url": "https://apnews.com/",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "### Major fire breaks out in Alberta after deadly incident at Canadian military base Canada’s defense minister says that people have been killed and injured in an incident at a military base in Alberta that caused a major fire, while reports said that large numbers of injured people were being transported to hospitals. ... ### Blaze at St Petersburg oil sites as Kyiv launches more than 1,000 drones at Russia Ukrainian attacks have set an oil export terminal ablaze in St. Petersburg. Kyiv launched over 1,000 drones across Russia in one of its largest aerial bombardments. ... ### Truck drives through soccer field during game"
+   },
+   {
+    "title": "Reuters | Breaking International News & Views",
+    "url": "https://www.reuters.com/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": "## United States - ago Erie, Pennsylvania shooter killed 8 people, then himself, police say A 45-year-old man shot and killed eight people, ​including a pregnant woman and two children, then apparently shot himself to ‌death, authorities said."
+   },
+   {
+    "title": "ABC News - Breaking News, Latest News and Videos",
+    "url": "https://abcnews.com/",
+    "source": "abcnews.com",
+    "published": "",
+    "excerpt": "## Trump waives Graham Act sanctions on Russia, drawing backlash from some lawmakers ... ## 2 dead, 11 injured after Kansas mother drives onto soccer field during game: Police ... ## Bend, Oregon, shooting: Suspect ID'd, had attended elementary school, police say ## Wildfire burns at least 570 acres in southern California, damages several homes ... ## Dems lead GOP in House vote choice as Trump's approval rating hits record low: Poll ... ## Iran live updates: Trump admin prepares options, including 'mother of all bombs' ... ## Japan to launch spacecraft on a mission to get samples from a Martian moon - ### Kenya’s Ebola cases rise to 7, including health workers who cared for the first patient - ### Fire guts a Bangladeshi beach resort, killing 10 people - ### 3 men sentenced to 158 years for the killings of Australian, US surfers in Mexico - ### North Korea says it tested new torpedo system with AI capabilities - ### A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine - ### Washington Post journalist attacked in the West Bank, police investigating"
+   },
+   {
+    "title": "Google News - World - Latest",
+    "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?ceid=US%3Aen&gl=US&hl=en-US",
+    "source": "news.google.com",
+    "published": "",
+    "excerpt": "Major fire breaks out at Canadian Forces Base Wainwright chevron_right Major fire breaks out in Alberta after deadly incident at Canadian military base 2 hours ago ... Several dead after major fire breaks out at Canada military base By Jessie Yeung & Paula Newton People killed, injured in incident at Canadian military base that caused major fire Multiple people dead, injured in 'disaster' at Alberta military base training area Looting and fires erupt in several French cities during protests chevron_right Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests France Reels After Largest Riots in Years Pope Leo XIV discharged from hospital after lung cancer surgery chevron_right Pope's surgeon details operating on the \"ideal patient\" after lung cancer discovery \"entirely by chance\" Pope Leo’s cancer surgery early in his papacy sends shockwaves through the Catholic Church European diplomats reportedly attacked by Israeli settlers in West Bank chevron_right ... Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings ... Referendum in Alberta addresses separation from Canada chevron_right ... Anti-government protesters battle with police in Albania Kenya confirms four new Ebola cases, bringing total number to seven 17 hours ago ... Grynspan holds lead for next UN chief as race enters decisive stage ... er Hurricane Trudy approaches Mexico's Pacific coast chevron_right ... Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength 13 hours ago ... Stampede at Kolkata Durga Puja pandal leaves multiple casualties chevron_right ... Amazon deforestation in Brazil falls to lowest level on record chevron_right Brazil: Amazon deforestation lowest in nearly 40 years ... 10 charred to death in fire at seaside resort in Bangladesh Bangladesh Deadly Fire ... Romanian F-16s down two jet-powered drones after airspace incursion"
+   },
+   {
+    "title": "Top News, U.S. News, International News, and Analysis - UPI.com",
+    "url": "https://www.upi.com/Top_News/",
+    "source": "upi.com",
+    "published": "",
+    "excerpt": "On This Day: U.S. purchases Alaska from Russia Oct. 18 (UPI) -- On Oct. 18, 1867, the United States completed its purchase of Alaska for $7.2 million, taking possession of the territory from Russia. Canadian military base 'incident' has killed people, officials say U.S. News // 6 hours ago Man killed in New York subway shooting, police say"
+   },
+   {
+    "title": "Daily Briefing — Today's Biggest Stories From Every Angle",
+    "url": "https://manyangles.news/daily-briefing",
+    "source": "manyangles.news",
+    "published": "",
+    "excerpt": "Sunday, October 18, 2026 · 9 stories · 278 outlets ... ## Rubio gives bizarre explanation for Trump pause on Russian sanctions ... What happened: President Donald Trump signed an executive order that temporarily waives or suspends a package of new sanctions and tariffs on Russia; U.S. officials including Marco Rubio said the pause could last up to 60 days to assess economic impact. The move drew bipartisan criticism in the U.S. and condemnations from Ukrainian President Volodymyr Zelensky and other international figures, while some Russian officials praised the decision.(summary by AI from the headlines) ... ## Deadly fire breaks out at Canadian military base in Alberta ... What happened: An explosion or other serious incident at Canadian Forces Base Wainwright in Alberta caused a major fire and resulted in multiple deaths and injuries, officials and political leaders said. Emergency services and hospitals responded as reports described a large, active scene.(summary by AI from the headlines) ... ## Washington Post CEO demands probe into settler attack on photographer in West Bank ... ## Embattled White House press secretary Katie Zacharia is leaving the job after less than a week ... ## Pope Leo set to lead Angelus after being discharged from hospital ... ## France counts cost of violent protests with 1,800 arrested ... What happened: Nationwide protests in France over rising living costs and related grievances turned violent in several cities, producing clashes with police, fires, looting and hundreds of arrests. Reports say large numbers of people participated and some historic and civic buildings were damaged.(summary by AI from the headlines) ... ## Ukraine Drone Attack Kills One, Sets Two Russian Oil Refineries Ablaze L 19% Center 67% R 14% ... What happened: Ukrainian President Volodymyr Zelensky announced that Ukraine will end a short pause and resume strikes on Russian oil refineries; at least one Russian refinery in Ryazan was reported on fire after the restart. Some outlets frame the move as defiance of U.S. President Donald Trump or as part of wider Russian attacks on Ukraine.(summary by AI from the headlines) ... ## Egypt says to provide all necessary support to Saudi Arabia to defend its security ... What happened: Multiple outlets report that Saudi Arabia intercepted drones and missiles launched by Yemen’s Houthi movement, including interceptions over Riyadh and alerts to residents. Several outlets say the Houthis have increasingly targeted Saudi infrastructure such as Riyadh’s airport and energy sites as the wider conflict has escalated.(summary by AI from the headlines) ... ## Two people killed, including a child, after truck drives through soccer field ... What happened: A vehicle drove onto a youth soccer field at a Wichita sports complex; two people died and multiple others were injured. Police say the driver was detained and an investigation is underway.(summary by AI from the headlines)"
+   },
+   {
+    "title": "Latest News Today: Breaking News, Top Headlines from India, World, Business, Sports, Lifestyle and More | Firstpost",
+    "url": "https://www.firstpost.com/",
+    "source": "firstpost.com",
+    "published": "",
+    "excerpt": "# Massive explosion, fire rock military base in Canada, multiple fatalities confirmed Canada's Defence Minister David McGuinty said on Saturday that several people were killed and injured after a massive fire broke out at a military base in Alberta."
+   },
+   {
+    "title": "CNN: Breaking News, Latest News and Videos",
+    "url": "https://www.cnn.com/",
+    "source": "cnn.com",
+    "published": "",
+    "excerpt": "Breaking News, Latest News and Videos | CNN Jason Whitman/NurPhoto/AP ## France protests ## Russia's war in Ukraine ## Streaming Now"
+   }
+  ],
+  "text": "[1] Google News (news.google.com)\n### Top stories Lindsay Clancy trial jury reports deadlock during deliberations chevron_right CNN ... Live updates: Tensions flare in Lindsay Clancy courtroom over holdout juror ... Fox News parts ways with anchor Maria Bartiromo chevron_right The Guardian ... Fox News Media abruptly ousts longtime anchor Maria Bartiromo 7 hours ago ... AP News Missouri court blocks Trump-backed US House map and orders it to be put to a vote 1 hour ago ... Trump asks Supreme Court to lift block on USPS plan to restrict mail voting\n\n[2] Google News (news.google.com)\nUS and Israel launch \"pre-emptive\" attack against Iran 1 hour ago ... Reuters Iran crisis live: Explosions in Tehran as Israel and US announce strike ... U.S. AND ISRAEL BEGIN \"MAJOR COMBAT OPERATIONS\" IN IRAN 18 minutes ago ... Trump orders government to stop using Anthropic in battle over AI use 4 hours ago ... OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times ... Sam Altman says OpenAI shares Anthropic's red lines in Pentagon fight ... ‘I did nothing wrong’: Bill Clinton testifies in House Epstein inquiry ... Exclusive | Government Agencies Raise …\n\n[3] Associated Press News: Breaking News, Latest Headlines and Videos | AP News (apnews.com)\n### Major fire breaks out in Alberta after deadly incident at Canadian military base Canada’s defense minister says that people have been killed and injured in an incident at a military base in Alberta that caused a major fire, while reports said that large numbers of injured people were being transported to hospitals. ... ### Blaze at St Petersburg oil sites as Kyiv launches more than 1,000 drones at Russia Ukrainian attacks have set an oil export terminal ablaze in St. Petersburg. Kyiv launched over 1,000 drones across Russia in one of its largest aerial bombardments. ... ### Truck drives …\n\n[4] Reuters | Breaking International News & Views (reuters.com)\n## United States - ago Erie, Pennsylvania shooter killed 8 people, then himself, police say A 45-year-old man shot and killed eight people, ​including a pregnant woman and two children, then apparently shot himself to ‌death, authorities said.\n\n[5] ABC News - Breaking News, Latest News and Videos (abcnews.com)\n## Trump waives Graham Act sanctions on Russia, drawing backlash from some lawmakers ... ## 2 dead, 11 injured after Kansas mother drives onto soccer field during game: Police ... ## Bend, Oregon, shooting: Suspect ID'd, had attended elementary school, police say ## Wildfire burns at least 570 acres in southern California, damages several homes ... ## Dems lead GOP in House vote choice as Trump's approval rating hits record low: Poll ... ## Iran live updates: Trump admin prepares options, including 'mother of all bombs' ... ## Japan to launch spacecraft on a mission to get samples from a …\n\n[6] Google News - World - Latest (news.google.com)\nMajor fire breaks out at Canadian Forces Base Wainwright chevron_right Major fire breaks out in Alberta after deadly incident at Canadian military base 2 hours ago ... Several dead after major fire breaks out at Canada military base By Jessie Yeung & Paula Newton People killed, injured in incident at Canadian military base that caused major fire Multiple people dead, injured in 'disaster' at Alberta military base training area Looting and fires erupt in several French cities during protests chevron_right Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after …\n\n[7] Top News, U.S. News, International News, and Analysis - UPI.com (upi.com)\nOn This Day: U.S. purchases Alaska from Russia Oct. 18 (UPI) -- On Oct. 18, 1867, the United States completed its purchase of Alaska for $7.2 million, taking possession of the territory from Russia. Canadian military base 'incident' has killed people, officials say U.S. News // 6 hours ago Man killed in New York subway shooting, police say\n\n[8] Daily Briefing — Today's Biggest Stories From Every Angle (manyangles.news)\nSunday, October 18, 2026 · 9 stories · 278 outlets ... ## Rubio gives bizarre explanation for Trump pause on Russian sanctions ... What happened: President Donald Trump signed an executive order that temporarily waives or suspends a package of new sanctions and tariffs on Russia; U.S. officials including Marco Rubio said the pause could last up to 60 days to assess economic impact. The move drew bipartisan criticism in the U.S. and condemnations from Ukrainian President Volodymyr Zelensky and other international figures, while some Russian officials praised the decision.(summary by AI from …\n\n[9] Latest News Today: Breaking News, Top Headlines from India, World, Business, Sports, Lifestyle and More | Firstpost (firstpost.com)\n# Massive explosion, fire rock military base in Canada, multiple fatalities confirmed Canada's Defence Minister David McGuinty said on Saturday that several people were killed and injured after a massive fire broke out at a military base in Alberta.\n\n[10] CNN: Breaking News, Latest News and Videos (cnn.com)\nBreaking News, Latest News and Videos | CNN Jason Whitman/NurPhoto/AP ## France protests ## Russia's war in Ukraine ## Streaming Now",
+  "hash": "3699ff822d27d1eba9bece8f01edfb60546bb27c6d898b0764240edc41826a35",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news today",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-18T10:40:19+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "CPI Home : U.S. Bureau of Labor Statistics",
+    "url": "https://www.bls.gov/cpi/",
+    "source": "bls.gov",
+    "published": "",
+    "excerpt": "The Consumer Price Index (CPI) is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services. Indexes are available for the U.S. and various geographic areas. Average price data for select utility, automotive fuel, and food items are also available. ... | Category | 12-month percent change, Sep 2026 | | --- | --- | | All items | 3.7% | | Food | 2.5% | | Food at home | 1.8% | | Cereals and bakery products | 2.1% | | Meats, poultry, fish, and eggs | 0.3% | | Dairy and related products | -0.7% | | Fruits and vegetables | 3.7% | | Nonalcoholic beverages and beverage materials | 3.8% | | Other food at home | 1.8% | | Food away from home | 3.5% | | Full service meals and snacks | 3.8% | | Limited service meals and snacks | 3.2% | | Energy | 20.4% | | Energy commodities | 35.3% | | Fuel oil | 74.2% | | Gasoline (all types) | 34.2% | | Energy services | 4.6% | | Electricity | 4.4% | | Natural gas (piped) | 5.0% | | All items less food and energy | 2.6% | | Commodities less food and energy commodities | 0.7% | | Apparel | 3.4% | | New vehicles | 0.6% | | Used cars and trucks | -1.5% | | Medical care commodities | -3.3% | | Alcoholic beverages | 1.4% | | Tobacco and smoking products | 6.4% | | Services less energy services | 3.1% | | Shelter | 3.2% | | Rent of primary residence | 2.8% | | Owners' equivalent rent of residences | 3.3% | | Medical care services | 2.5% | | Physicians' services | 2.1% | | Hospital services | 5.6% | | Transportation services | 2.7% | | Motor vehicle maintenance and repair | 5.8% | | Motor vehicle insurance | -5.0% | | Airline fare | 22.4% | ... The Consumer Price Index for October 2026 is scheduled to be released on November 10, 2026, at 8:30 A.M. Eastern Time. ... #### Prices for gasoline increased 34.2 percent over the year ended September 2026 From September 2025 to September 2026, prices for gasoline increased 34.2 percent. Over the same period, prices for fuel oil rose 74.2 percent, and airline fares were up 22.4 percent. Piped natural gas prices increased 5.0 percent, and electricity prices grew 4.4 percent over the year. Prices for all items increased 3.7 percent. read more »"
+   },
+   {
+    "title": "Inflation jumps to 3.7% as gas, diesel prices squeeze consumers",
+    "url": "https://www.nbcnews.com/business/economy/inflation-jumped-september-gas-diesel-prices-squeezed-consumers-ahead-rcna603202",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "# Inflation jumps to 3.7% as gas, diesel prices squeeze consumers Author: Steve Kopack Published: 2026-10-14T12:34:25Z Source: nbcnews.com Language: en"
+   },
+   {
+    "title": "U.S. inflation stays high for years, worrying Fed officials",
+    "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Wednesday's consumer price index release showed a 3.7% increase year over year in September. CPI has now registered around 65 months — that's more than five years — of consecutive annual readings above 2%, a widely accepted target for inflation in the U.S. ... This yearslong spell of high inflation has cast a dark cloud over everyday Americans' view of the economy, and could shape everything from how they budget to how they vote in next month's midterm elections. At the Fed, leaders are left questioning whether consumers' inflationary ... The uninterrupted string of above-2% monthly CPI readings is the longest of the 21st century, according to a CNBC analysis of data from the Bureau of Labor Statistics. The U.S. has seen longer periods on only two other occasions going back to the late 1940s. ... Consumers are expecting inflation to accelerate. The one-year inflation outlook in September rose three-tenths of a percentage point to 3.9%, its highest reading in more than three years, according to the New York Fed's Survey of Consumer Expectations released last week. ... Businesses anticipating rising costs can preemptively hike prices for consumers. Workers expecting sticky inflation will ask for steeper pay raises to get ahead of any sticker shock. ... Economists widely view interest rate hikes as the Fed's main mechanism for slowing demand and, in turn, putting downward pressure on the annual pace of price growth. After hiking interest rates in September, Fed funds futures traders anticipate the central bank will raise borrowing costs further in December and in 2027."
+   },
+   {
+    "title": "US consumers are muscling through higher prices, but for how long?",
+    "url": "https://apnews.com/article/us-economy-consumers-elections-inflation-28ffc9c856377d468a2fb231712806b1",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — High gas prices are intensifying inflation and vacuuming up more of Americans’ dollars, yet consumers are still digging deep to spend, powering the economy, at least for now. ... A slew of economic data Thursday showed that inflation accelerated last month as more expensive oil and gas began to lift prices in other parts of the economy, including shipping and warehousing, before the increases reach most Americans. ... Wholesale food prices jumped, which could make groceries more expensive in the months ahead. ... At the same time, consumers also ramped up their spending, according to data released Thursday. Though much of"
+   },
+   {
+    "title": "US inflation rises more than expected - here's what is ...",
+    "url": "https://www.bbc.com/news/articles/cwy8lx3pg4k2o",
+    "source": "bbc.com",
+    "published": "",
+    "excerpt": "Core inflation, which strips out food and energy prices, was 2.6%. ... Shortly after the latest inflation figure was released, the Social Security Administration announced that Social Security benefits including old age, survivors and disability insurance would rise by a similar amount - 3.6% - in 2027. ... The administration said that the 3.6% rise will mean an average retirement benefit increase of $75 a month. ... The cost-of-living adjustment will take effect in January for about 72 million people, while increased payments for the 7.2m receiving the supplemental security income will start on 31 December."
+   },
+   {
+    "title": "Dollar hits fresh 18-month high as hot inflation boosts Fed hike expectation",
+    "url": "https://www.cnbc.com/2026/10/14/dollar-languishes-as-focus-turns-to-cpi-fed-speakers.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "The U.S. dollar hit an 18-month high on Wednesday after stronger-than-expected inflation ​data revived expectations for a Federal Reserve interest rate hike later this month, highlighting concern that price pressures are broadening across ‌the economy. The Labor Department's Bureau of Labor Statistics said on Wednesday that U.S. consumer prices rose sharply in September as gasoline costs surged. \"The higher-than-expected core inflation print raises concerns that energy-driven inflation is spreading to other areas of the economy,\" said Uto Shinohara, senior investment strategist at Mesirow Currency Management. ... The U.S. ​dollar index, a measure of the greenback's strength against a basket of six currencies, rose 0.38% to 102.57. The index earlier hit its highest since April 2025, ​shaking off the previous day's losses. ... On Thursday, Fed Vice Chair for Supervision Michelle Bowman also signaled a wait-and-see approach before raising ​rates again. ... Traders now see a 67% chance that the Fed will leave rates unchanged at its October 27-28 meeting, compared with 53% a month ago, while ​pricing in about 79 basis points of tightening by late 2027, CME Group's FedWatch Tool showed ... The U.S. central bank raised its policy rate by a quarter of a percentage point to the 3.75%-4.00% range ​last month."
+   },
+   {
+    "title": "Economist breaks down new inflation report and what's driving prices higher | PBS News",
+    "url": "https://www.pbs.org/newshour/show/economist-breaks-down-new-inflation-report-and-whats-driving-prices-higher",
+    "source": "pbs.org",
+    "published": "",
+    "excerpt": ":** Prices climbed 3.7 percent over the past year and by more than half- ... month. It's the largest monthly increase in five months. The price increase was driven by gasoline, up 9 percent in September"
+   },
+   {
+    "title": "The economic crunch ahead of the election crunch",
+    "url": "https://www.nbcnews.com/business/economy/economic-crunch-ahead-elections-crunch-rcna603569",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "report before the midterm elections shows prices ... Inflation is squeezing Americans, rising higher than economists predicted. Overall prices rose 3.7% from a year ago, and 0.6% from August, according to a Bureau of Labor Statistics report out today."
+   },
+   {
+    "title": "Inflation Shakes Fed Outlook Crude Oil Surges, Sanders Targets Oil Companies and More: This Week in Economy",
+    "url": "https://www.benzinga.com/markets/macro-economic-events/26/10/62429062/inflation-fed-ai-boom-oil-prices-bond-yields",
+    "source": "benzinga.com",
+    "published": "",
+    "excerpt": "```json {\"@context\":\"https://schema.org\",\"@type ... Brand\",\"name\":\"Benzinga Markets\",\"url\":\"https://www.benzinga.com/markets ... https://cdn.benzinga.com/files/imagecache/bz2_opengraph ... 400x300/sites/all/themes/bz2/images/bz-icon ... ?v=app"
+   },
+   {
+    "title": "Inflation | Latest News & Reports",
+    "url": "https://apnews.com/hub/inflation",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "The latest profit updates and forecasts from technology companies, airlines, and a wide range of other businesses will dominate the calendar this week, along with more data on the jobs market and consumer sentiment."
+   }
+  ],
+  "text": "[1] CPI Home : U.S. Bureau of Labor Statistics (bls.gov)\nThe Consumer Price Index (CPI) is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services. Indexes are available for the U.S. and various geographic areas. Average price data for select utility, automotive fuel, and food items are also available. ... | Category | 12-month percent change, Sep 2026 | | --- | --- | | All items | 3.7% | | Food | 2.5% | | Food at home | 1.8% | | Cereals and bakery products | 2.1% | | Meats, poultry, fish, and eggs | 0.3% | | Dairy and related products | -0.7% | | Fruits and vegetables | …\n\n[2] Inflation jumps to 3.7% as gas, diesel prices squeeze consumers (nbcnews.com)\n# Inflation jumps to 3.7% as gas, diesel prices squeeze consumers Author: Steve Kopack Published: 2026-10-14T12:34:25Z Source: nbcnews.com Language: en\n\n[3] U.S. inflation stays high for years, worrying Fed officials (cnbc.com)\nWednesday's consumer price index release showed a 3.7% increase year over year in September. CPI has now registered around 65 months — that's more than five years — of consecutive annual readings above 2%, a widely accepted target for inflation in the U.S. ... This yearslong spell of high inflation has cast a dark cloud over everyday Americans' view of the economy, and could shape everything from how they budget to how they vote in next month's midterm elections. At the Fed, leaders are left questioning whether consumers' inflationary ... The uninterrupted string of above-2% monthly CPI …\n\n[4] US consumers are muscling through higher prices, but for how long? (apnews.com)\nWASHINGTON (AP) — High gas prices are intensifying inflation and vacuuming up more of Americans’ dollars, yet consumers are still digging deep to spend, powering the economy, at least for now. ... A slew of economic data Thursday showed that inflation accelerated last month as more expensive oil and gas began to lift prices in other parts of the economy, including shipping and warehousing, before the increases reach most Americans. ... Wholesale food prices jumped, which could make groceries more expensive in the months ahead. ... At the same time, consumers also ramped up their spending, …\n\n[5] US inflation rises more than expected - here's what is ... (bbc.com)\nCore inflation, which strips out food and energy prices, was 2.6%. ... Shortly after the latest inflation figure was released, the Social Security Administration announced that Social Security benefits including old age, survivors and disability insurance would rise by a similar amount - 3.6% - in 2027. ... The administration said that the 3.6% rise will mean an average retirement benefit increase of $75 a month. ... The cost-of-living adjustment will take effect in January for about 72 million people, while increased payments for the 7.2m receiving the supplemental security income will start …\n\n[6] Dollar hits fresh 18-month high as hot inflation boosts Fed hike expectation (cnbc.com)\nThe U.S. dollar hit an 18-month high on Wednesday after stronger-than-expected inflation ​data revived expectations for a Federal Reserve interest rate hike later this month, highlighting concern that price pressures are broadening across ‌the economy. The Labor Department's Bureau of Labor Statistics said on Wednesday that U.S. consumer prices rose sharply in September as gasoline costs surged. \"The higher-than-expected core inflation print raises concerns that energy-driven inflation is spreading to other areas of the economy,\" said Uto Shinohara, senior investment strategist at Mesirow …\n\n[7] Economist breaks down new inflation report and what's driving prices higher | PBS News (pbs.org)\n:** Prices climbed 3.7 percent over the past year and by more than half- ... month. It's the largest monthly increase in five months. The price increase was driven by gasoline, up 9 percent in September\n\n[8] The economic crunch ahead of the election crunch (nbcnews.com)\nreport before the midterm elections shows prices ... Inflation is squeezing Americans, rising higher than economists predicted. Overall prices rose 3.7% from a year ago, and 0.6% from August, according to a Bureau of Labor Statistics report out today.\n\n[9] Inflation Shakes Fed Outlook Crude Oil Surges, Sanders Targets Oil Companies and More: This Week in Economy (benzinga.com)\n```json {\"@context\":\"https://schema.org\",\"@type ... Brand\",\"name\":\"Benzinga Markets\",\"url\":\"https://www.benzinga.com/markets ... https://cdn.benzinga.com/files/imagecache/bz2_opengraph ... 400x300/sites/all/themes/bz2/images/bz-icon ... ?v=app\n\n[10] Inflation | Latest News & Reports (apnews.com)\nThe latest profit updates and forecasts from technology companies, airlines, and a wide range of other businesses will dominate the calendar this week, along with more data on the jobs market and consumer sentiment.",
+  "hash": "fee08faaa72dd21182b24253442629df36d42c65436846d5116586bbb4a42e12",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news today",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-18T10:40:25+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Politics: Latest & Breaking US Political News | AP News",
+    "url": "https://apnews.com/politics",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Politics: Latest & Breaking US Political News | AP News ... ### Trump’s new pitch for Republican candidates — they’re really good looking ... ### Trump touts his power at Kentucky rally to energize voters ahead of midterm elections 128 ... ### No Kings rallies across US urge voters to cast ballots early ahead of midterms ... ### Online forum controlled by Nevada GOP House candidate contains slurs and Nazi talk, AP review finds ... ### House Speaker Mike Johnson draws on faith as he fights to hold the Republican majority ... ### Retail price impacts from the Iran war are uneven but add up for US households before midterms ### Rep. Ilhan Omar’s attorneys"
+   },
+   {
+    "title": "The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill",
+    "url": "https://thehill.com/",
+    "source": "thehill.com",
+    "published": "",
+    "excerpt": "# Republicans warn that Pentagon funds will hinge on Trump getting tougher with Russia Senate by Ford McCracken / 10 hours ago Sen. Graham on Trump waiving Russia sanctions: ‘I look forward to talking to him’ Senate / 10 hours ago"
+   },
+   {
+    "title": "Politics - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "### What the final stretch of the midterms says about the 2028 presidential field ... ### Poll finds jump in Republicans who say Trump is enriching himself ... About one-third of Republicans and Republican-leaning independents now hold that view, up from about one-fifth a year ago, a Post-ABC-Ipsos poll finds. ... ### Trump approval hits record low, handing Democrats a clear midterm edge The president’s approval is at 33 percent, with 66 percent disapproving and just over half saying they disapprove strongly. Meanwhile, midterm support for Democrats is rising. ... ### Trump’s waiver of sanctions on Russia stirs bipartisan outrage ... Lawmakers, including several Republicans, said the move by President Donald Trump was reckless and a gift to Vladimir Putin."
+   },
+   {
+    "title": "Politics: Latest and breaking political news today - POLITICO",
+    "url": "https://www.politico.com/politics",
+    "source": "politico.com",
+    "published": "",
+    "excerpt": "Politics: Latest and breaking political news today - POLITICO ... ## Saturday, October 17, 2026 ... ### New Hampshire Dems question what Newsom has to offer ... ### Hochul’s GOP rival turns energy cost warnings against her By MARIE J. FRENCH 10/17/2026 02:00 PM EDT Updated 10/17/2026 03:37 PM EDT New York Republicans including gubernatorial candidate Bruce Blakeman are betting that voters will blame Albany Democrats — and Gov. Kathy Hochul — for rising utility bills. ... ### Sullivan walks the line in Alaska"
+   },
+   {
+    "title": "US political breaking news and analysis - USA TODAY",
+    "url": "https://www.usatoday.com/news/politics/",
+    "source": "usatoday.com",
+    "published": "",
+    "excerpt": "US political breaking news and analysis - USA TODAY ... Trump promises KY investment 'if Republicans win' Katie Zacharia’s 5-day stint makes White House history A Scaramucci or a Zacharia? A new unit of time for Trump White House Rep. Andy Harris won't apologize to student reporter in TV interview"
+   },
+   {
+    "title": "Politics, Policy, Political News - POLITICO",
+    "url": "https://www.politico.com/",
+    "source": "politico.com",
+    "published": "",
+    "excerpt": "## Republicans aren't getting the tax cut election they wanted ... They hoped cutting taxes would help them win the midterms. But our latest polling shows more Americans care about taxing the rich than embracing tax cuts, like those in the One Big Beautiful Bill Act. Bernie Becker Tax reporter ... ### The Fall of Roe Changed Doctors. Now They’re Changing Politics. State-level abortion debates have activated physicians as a political force like never before. ... ### Democrats Are Underfunding the Races That Could Remake the Map Democratic donors are pouring money into Senate races as Republicans build an advantage in gubernatorial contests that could shape the party’s future. By Jonathan Martin ... ### The GOP’s hopes of a tax cut election are falling flat, poll shows ... ### North Carolina and Georgia Senate races look lost for the GOP. Why Trump is going anyway. By Alex Gangitano, Megan Messerly and Erin Doherty ... ### DOJ sues California, demands it purge"
+   },
+   {
+    "title": "Breaking Political News, Video & Analysis-ABC News",
+    "url": "https://abcnews.com/politics",
+    "source": "abcnews.com",
+    "published": "",
+    "excerpt": "## How Elon Musk is bankrolling GOP’s hopes in Texas Senate race ... ## Dems lead GOP in House vote choice as Trump's approval rating hits record low: Poll Half or more Americans call every household purchase measured \"unaffordable.\" - 6 hours ago ... ## Trump administration accused of fast-tracking migrant children's asylum cases - 2 days ago ... ### Trump administration threatens to prosecute local California election workers ... ### Georgia's Senate and governor races test Trump's political influence ... ## President Trump rallying in Georgia as midterms loom ... ## How inflation could impact the midterm elections ... ## Bipartisan group of senators want answers on Starlink disruptions in Ukraine"
+   },
+   {
+    "title": "Politics",
+    "url": "https://www.cnn.com/politics",
+    "source": "cnn.com",
+    "published": "",
+    "excerpt": "didn’t meddle with Elon Musk’s Starshield in Ukraine as ties with Zelensky ... Republicans take an ominous turn in their midterm campaign - • For Subscribers ... Russia deal, execution plans and deportations tell a defining tale about Trump and power"
+   },
+   {
+    "title": "U.S. Politics",
+    "url": "https://www.nytimes.com/section/politics",
+    "source": "nytimes.com",
+    "published": "",
+    "excerpt": "1. ### Democrats Worry That a Few Senate Races in Bluer States Aren’t Slam Dunks Despite hopes for a blue wave, Democratic candidates in Minnesota, Maine and Michigan are facing local political headwinds and have struggled to open up clear daylight in the polls. By Reid J. Epstein Credit Jenn Ackerman, Nick Hagen and Ryan David Brown for The New York Times 2. 1. ### Senators Demand Investigation Into Ukraine Satellite Disruption Republicans joined Democrats in calling on the Pentagon’s inspector general to look into whether the Trump administration was responsible for the interruption. By Robert Jimison Credit Tyler Hicks/The New York Times 2. ### Hegseth’s Plan to Livestream Execution Drew Opposition From Many ... President Trump’s latest push to end the war in Ukraine has raised questions about the future of U.S. support. By Julian E. Barnes, John Ismay and Edward Wong ... ### All Elections Are Local (but These Ones Really Are) ... ### Trump Administration Sues"
+   },
+   {
+    "title": "Politics | PBS News",
+    "url": "https://www.pbs.org/newshour/politics",
+    "source": "pbs.org",
+    "published": "",
+    "excerpt": "The Republican governor candidates walking back some of their abortion stances By Shefali Luthra, The 19th ... America's politically divided Jewish community braces for Israel's elections Netanyahu’s supporters, especially among Orthodox Jews, believe he’s protecting a country they love as central to their identity. Many liberal and younger Jewish Americans believe his policies have harmed Israel’s global standing. By Giovanna Dell'Orto, Associated Press ... House Speaker Mike Johnson draws on faith as he fights to hold the Republican majority Ever the optimist, Speaker Mike Johnson said he believes Republicans will hold on to their U.S. House majority, defying a surge of Democratic momentum in the final stretch of the midterm elections that will determine control of Congress. By Lisa Mascaro, Associated Press Politics Oct 17 ... Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen Lawmakers from both parties blasted the executive order late Friday, the latest in a series of steps that the Republican president has taken drawing the United States closer to Russia's Vladimir Putin. By Lisa Mascaro, Associated Press ... DOJ says California officials who process ballots from suspected noncitizens risk prosecution The Trump administration is escalating its fight with California ahead of next month's midterm election, warning that local officials who process and tabulate ballots submitted by suspected noncitizen voters are putting themselves at risk of criminal investigation and potential prosecution. Oct 16"
+   }
+  ],
+  "text": "[1] Politics: Latest & Breaking US Political News | AP News (apnews.com)\nPolitics: Latest & Breaking US Political News | AP News ... ### Trump’s new pitch for Republican candidates — they’re really good looking ... ### Trump touts his power at Kentucky rally to energize voters ahead of midterm elections 128 ... ### No Kings rallies across US urge voters to cast ballots early ahead of midterms ... ### Online forum controlled by Nevada GOP House candidate contains slurs and Nazi talk, AP review finds ... ### House Speaker Mike Johnson draws on faith as he fights to hold the Republican majority ... ### Retail price impacts from the Iran war are uneven but add up for …\n\n[2] The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill (thehill.com)\n# Republicans warn that Pentagon funds will hinge on Trump getting tougher with Russia Senate by Ford McCracken / 10 hours ago Sen. Graham on Trump waiving Russia sanctions: ‘I look forward to talking to him’ Senate / 10 hours ago\n\n[3] Politics - The Washington Post (washingtonpost.com)\n### What the final stretch of the midterms says about the 2028 presidential field ... ### Poll finds jump in Republicans who say Trump is enriching himself ... About one-third of Republicans and Republican-leaning independents now hold that view, up from about one-fifth a year ago, a Post-ABC-Ipsos poll finds. ... ### Trump approval hits record low, handing Democrats a clear midterm edge The president’s approval is at 33 percent, with 66 percent disapproving and just over half saying they disapprove strongly. Meanwhile, midterm support for Democrats is rising. ... ### Trump’s waiver of …\n\n[4] Politics: Latest and breaking political news today - POLITICO (politico.com)\nPolitics: Latest and breaking political news today - POLITICO ... ## Saturday, October 17, 2026 ... ### New Hampshire Dems question what Newsom has to offer ... ### Hochul’s GOP rival turns energy cost warnings against her By MARIE J. FRENCH 10/17/2026 02:00 PM EDT Updated 10/17/2026 03:37 PM EDT New York Republicans including gubernatorial candidate Bruce Blakeman are betting that voters will blame Albany Democrats — and Gov. Kathy Hochul — for rising utility bills. ... ### Sullivan walks the line in Alaska\n\n[5] US political breaking news and analysis - USA TODAY (usatoday.com)\nUS political breaking news and analysis - USA TODAY ... Trump promises KY investment 'if Republicans win' Katie Zacharia’s 5-day stint makes White House history A Scaramucci or a Zacharia? A new unit of time for Trump White House Rep. Andy Harris won't apologize to student reporter in TV interview\n\n[6] Politics, Policy, Political News - POLITICO (politico.com)\n## Republicans aren't getting the tax cut election they wanted ... They hoped cutting taxes would help them win the midterms. But our latest polling shows more Americans care about taxing the rich than embracing tax cuts, like those in the One Big Beautiful Bill Act. Bernie Becker Tax reporter ... ### The Fall of Roe Changed Doctors. Now They’re Changing Politics. State-level abortion debates have activated physicians as a political force like never before. ... ### Democrats Are Underfunding the Races That Could Remake the Map Democratic donors are pouring money into Senate races as …\n\n[7] Breaking Political News, Video & Analysis-ABC News (abcnews.com)\n## How Elon Musk is bankrolling GOP’s hopes in Texas Senate race ... ## Dems lead GOP in House vote choice as Trump's approval rating hits record low: Poll Half or more Americans call every household purchase measured \"unaffordable.\" - 6 hours ago ... ## Trump administration accused of fast-tracking migrant children's asylum cases - 2 days ago ... ### Trump administration threatens to prosecute local California election workers ... ### Georgia's Senate and governor races test Trump's political influence ... ## President Trump rallying in Georgia as midterms loom ... ## How inflation could …\n\n[8] Politics (cnn.com)\ndidn’t meddle with Elon Musk’s Starshield in Ukraine as ties with Zelensky ... Republicans take an ominous turn in their midterm campaign - • For Subscribers ... Russia deal, execution plans and deportations tell a defining tale about Trump and power\n\n[9] U.S. Politics (nytimes.com)\n1. ### Democrats Worry That a Few Senate Races in Bluer States Aren’t Slam Dunks Despite hopes for a blue wave, Democratic candidates in Minnesota, Maine and Michigan are facing local political headwinds and have struggled to open up clear daylight in the polls. By Reid J. Epstein Credit Jenn Ackerman, Nick Hagen and Ryan David Brown for The New York Times 2. 1. ### Senators Demand Investigation Into Ukraine Satellite Disruption Republicans joined Democrats in calling on the Pentagon’s inspector general to look into whether the Trump administration was responsible for the interruption. By …\n\n[10] Politics | PBS News (pbs.org)\nThe Republican governor candidates walking back some of their abortion stances By Shefali Luthra, The 19th ... America's politically divided Jewish community braces for Israel's elections Netanyahu’s supporters, especially among Orthodox Jews, believe he’s protecting a country they love as central to their identity. Many liberal and younger Jewish Americans believe his policies have harmed Israel’s global standing. By Giovanna Dell'Orto, Associated Press ... House Speaker Mike Johnson draws on faith as he fights to hold the Republican majority Ever the optimist, Speaker Mike Johnson said he …",
+  "hash": "cd4889fa5993f75a517f026133c84a1a98f2aea47f0bb35499dee43806356e53",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news today movies music celebrities",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-18T10:40:30+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Entertainment News: Latest Celebrity, Music & TV News | AP News",
+    "url": "https://apnews.com/entertainment",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Entertainment News: Latest Celebrity, Music & TV News | AP News ... ### Selma Blair’s representatives say she didn’t intend to hurt anyone on flight that led to her arrest Selma Blair’s representatives have stated she did not intend to harm anyone during a recent flight incident. ... ### Can DC blend horror with a superhero movie? ‘Clayface’ wants to blur genres 18 ... Filmmaker Alex Gibney is braced for Elon Musk’s displeasure over his documentary “Musk.” With a runtime of nearly four hours, including an intermission, the film is a portrait of the world’s richest man and an investigation into the scope of his power and"
+   },
+   {
+    "title": "Variety - Entertainment news, film reviews, awards, film festivals, box office, entertainment industry conferences",
+    "url": "https://variety.com/",
+    "source": "variety.com",
+    "published": "",
+    "excerpt": "Variety - Entertainment news, film reviews, awards, film festivals, box office, entertainment industry conferences ... ### Harry Styles 'Together, Together' Tour Doc Coming From John Wilson, Universal Pictures Content Group EXCLUSIVE: Styles has invited one of the buzziest documentary filmmakers on the market behind the curtain of his historic Madison Square Garden residency. ### Miley Cyrus Tears Up While Honoring Dolly Parton During Hollywood Bowl Show Miley Cyrus paid tribute to her late godmother and country icon Dolly Parton onstage at the Hollywood Bowl Friday as she performed her first major show in… ### 'Dancing With the Stars' Pulls Val Chmerkovskiy After Carrie Ann Inaba Slap Joke “Dancing With the Stars” is benching Val Chmerkovskiy after his recent joke about judge Carrie Ann Inaba. “The well-being of everyone who works on ‘Dancing with the… ... ### Best Horror of the Year So Far 'Obsession,' 'Resident Evil,' 'Backrooms' and '28 Years Later: The Bone Temple' are some of 2026's best horror movies so far. ... ### 50 Cent Opens Up The 'Street Fighter' star talks Diddy's secret smear campaign, why he won't work with Courtney Kemp and learning his mom was gay. By Marlow Stern - ### ‘Widow’s Bay’ Makes Emmy History The show won the most Emmys ever for a comedy series in one year. - ### Rhea Seehorn Finally Wins Emmy The 'Pluribus' star had previously been shut out repeatedly for 'Better Call Saul.' ... - ### Harry Styles Debuts Unreleased Song He Wrote in Memory of Liam Payne, ‘What Is Enough,’ on Second Anniversary of Ex-Bandmate’s Death - ### Miley Cyrus Tears Up While Honoring Dolly Parton During Hollywood Bowl Show: ‘Nothing In This Life Could Ever Tear Us Apart’ - ### 50 Cent Opens Up About Diddy's Secret Smear Campaign Against Him, Why He Won't Work With Courtney Kemp Again and Learning His Mom Was Gay: 'I'm Not… - ### Miley Cyrus Embraces Being the Anti-Pop Pop Star With Her First ‘Bass Persuades’ Show at Hollywood Bowl: Concert Review"
+   },
+   {
+    "title": "The Hollywood Reporter – Movie news, TV news, awards news, lifestyle news, business news and more from The Hollywood Reporter.",
+    "url": "https://www.hollywoodreporter.com/",
+    "source": "hollywoodreporter.com",
+    "published": "",
+    "excerpt": "### Academy Museum Gala: Taylor Swift, Sabrina Carpenter, Jennifer Hudson, Connor Storrie, More Stars Walk the Carpet Inde Navarrette, Colman Domingo, Teyana Taylor, Anna Kendrick, Rami Malek, Jamie Lee Curtis, Jacob Elordi, Adrien Brody, Mikey Madison, Chase Infiniti, Mark Hamill, Kate Hudson, Sofia Vergara, Seth Rogen, Pamela Anderson, Naomi Ackie, Charlize Theron, Alexa Demie, Mia Goth, Cailee Spaeny, Mckenna Grace, Zoey Deutch and Kristen Wiig were also in attendance at the star-studded event. ... Movies ... ### ‘Street Fighter’ Scoring $31M at Box Office as ‘You Can See Everything’ Rises and ‘Whalefall’ Sinks A24's Elizabeth Holmes documentary is causing quite a stir over the weekend as 'Sense and Sensibility' also debuts. By Ryan Gajewski - ... Music ... ### Universal Music and Sony Want to Know How Many AI-Generated Songs DistroKid Releases The companies filed a new case this week, arguing the information is crucial in the labels' lawsuit against Suno. By Ethan Millman ... ### Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show - Music News - 04:17 pm ... ### Harry Styles Debuts Unreleased Song at MSG to Honor Liam Payne on Second Death Anniversary - Music News - 02:07 pm ... ## Carly Rae Jepsen on Her New Album, ‘Heated Rivalry,’ ’10 Things I Hate About You’ Musical & More ## Dolly Parton, Effervescent Queen of Country Music Dies at 80"
+   },
+   {
+    "title": "Entertainment & Arts | Latest News & Updates | BBC News",
+    "url": "https://www.bbc.com/culture/entertainment-news",
+    "source": "bbc.com",
+    "published": "",
+    "excerpt": "## Manifest: From reality TV to Wembley Arena in one turbulent year ... Turkish girl group manifest on taking their music to a global audience, as they prepare for their first UK concert. ... ## Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses. ... ## Judge"
+   },
+   {
+    "title": "Entertainment News | Celebrity, Movies, TV & Music – USA TODAY",
+    "url": "https://www.usatoday.com/entertainment/",
+    "source": "usatoday.com",
+    "published": "",
+    "excerpt": "Entertainment News | Celebrity, Movies, TV & Music – USA TODAY ... # Entertainment News | Celebrity, Movies, TV & Music – USA TODAY ... ## Carrot Top speaks for first time since reported suicide attempt ## Harry Styles performs unreleased tribute to Liam Payne - #### Miley Cyrus kisses finacé during concert 14h ago ... #### Miley shares special memory of Dolly Parton"
+   },
+   {
+    "title": "Entertainment Weekly: Entertainment News for Pop Culture Fans",
+    "url": "https://ew.com/",
+    "source": "ew.com",
+    "published": "",
+    "excerpt": "Tommy Lee Jones makes a rare red carpet appearance to support The Lowdown ... ## Movies ... Watch Robert Pattinson transform into To Catch a Predator host Chris Hansen in uncanny Primetime camera test By Wesley Stenzel ... Miley Cyrus’ new album Bass Persuades shockingly suffers one of the biggest drops from No. 1 in chart history By Joey Nolfi ... Emmys 2026: Widow’s Bay sets a new record — see the complete list of winners By Kat Pettibone ... Hollywood icon Eva Marie Saint dies at 102 ... Another World alum Mark Mortimer dies at 59 following cancer battle"
+   },
+   {
+    "title": "Vulture - Entertainment News - TV, Movies, Music, Books, Theater, Art",
+    "url": "https://www.vulture.com/",
+    "source": "vulture.com",
+    "published": "",
+    "excerpt": "Nathan Fielder and Lance Oppenheim’s new documentary argues that facts alone can’t explain a person. We also have to understand ourselves through art. By Jackson ... Tell “At first when I heard the song, I thought Neil was talking about people. And"
+   },
+   {
+    "title": "Breaking Music News, Celeb and Entertainment News and Gossip | iHeart",
+    "url": "https://www.iheart.com/news/",
+    "source": "iheart.com",
+    "published": "",
+    "excerpt": "Breaking Music News, Celeb and Entertainment News and Gossip | iHeart ... # Music & Entertainment News - Follow your favorite artists and bands and keep up on today's pop culture news. ... Lin-Manuel Miranda Honored With 2026 iHeartRadio Corazón Latino Award ... Travis Barker Opens Up About Falling 'Madly In Love' With Kourtney Kardashian ... Olivia Rodrigo & Chappell Roan Face Off On Retro Game Show In 'Expectations' Remix Video ... Pregnant Hilary Swank, 52, Hits Back At 'Backlash' For 'Having Children Older' ... Ashley Cooke Delivers 'Starry-Eyed"
+   },
+   {
+    "title": "Entertainment",
+    "url": "https://www.cbsnews.com/entertainment/",
+    "source": "cbsnews.com",
+    "published": "",
+    "excerpt": "Entertainment news: Latest celebrity news, movies, TV shows, music and awards shows news from CBS News ... ## Judge dismisses child sex abuse charges against actor Timothy Busfield A New Mexico judge has dismissed an indictment against actor Timothy Busfield that accused him of criminal sexual contact with a child, citing prosecutorial misconduct and errors that undermined the grand jury process. - Oct 16 ... ## Hilary Swank announces she's pregnant with third child at 52 The Oscar winner and \"Million Dollar Baby\" star, who had twins at 48, said she is due in December. ... ## Netflix cutting workforce as its revenue growth slows ... ## RJ Mitte, \"Breaking Bad\" actor, dies at 34 RJ Mitte rose to fame playing Walter White Jr. on the hit series \"Breaking Bad.\" ... ## Selma Blair arrested after allegedly biting flight attendant Actor Selma Blair was arrested after an incident on board a Delta Air Lines flight from Los Angeles to John F. Kennedy International Airport Sunday night. ... ## Noah Kahan: Songs of sorrow and joy \"Stick Season\" propelled the singer-songwriter from Vermont into a multi-platinum, two-time Grammy-nominated artist. Now, Noah Kahan's \"The Great Divide,\" with lyrics describing friendships lost and bouts of depression and anxiety, has topped the Billboard chart."
+   },
+   {
+    "title": "E! News: Celebrity News, Photos and Video",
+    "url": "https://www.eonline.com/",
+    "source": "eonline.com",
+    "published": "",
+    "excerpt": "E! News: Celebrity News, Photos and Video ### DWTS' Val Chmerkovskiy Suspended After Will Smith Oscars Slap Comment ### Kate Hudson Shows Off Abs in Red Bikini During Beach Workout ### Harry Shum Jr. Shares Sweet Message to DWTS Castmates Amid Lift"
+   }
+  ],
+  "text": "[1] Entertainment News: Latest Celebrity, Music & TV News | AP News (apnews.com)\nEntertainment News: Latest Celebrity, Music & TV News | AP News ... ### Selma Blair’s representatives say she didn’t intend to hurt anyone on flight that led to her arrest Selma Blair’s representatives have stated she did not intend to harm anyone during a recent flight incident. ... ### Can DC blend horror with a superhero movie? ‘Clayface’ wants to blur genres 18 ... Filmmaker Alex Gibney is braced for Elon Musk’s displeasure over his documentary “Musk.” With a runtime of nearly four hours, including an intermission, the film is a portrait of the world’s richest man and an investigation …\n\n[2] Variety - Entertainment news, film reviews, awards, film festivals, box office, entertainment industry conferences (variety.com)\nVariety - Entertainment news, film reviews, awards, film festivals, box office, entertainment industry conferences ... ### Harry Styles 'Together, Together' Tour Doc Coming From John Wilson, Universal Pictures Content Group EXCLUSIVE: Styles has invited one of the buzziest documentary filmmakers on the market behind the curtain of his historic Madison Square Garden residency. ### Miley Cyrus Tears Up While Honoring Dolly Parton During Hollywood Bowl Show Miley Cyrus paid tribute to her late godmother and country icon Dolly Parton onstage at the Hollywood Bowl Friday as she performed her first …\n\n[3] The Hollywood Reporter – Movie news, TV news, awards news, lifestyle news, business news and more from The Hollywood Reporter. (hollywoodreporter.com)\n### Academy Museum Gala: Taylor Swift, Sabrina Carpenter, Jennifer Hudson, Connor Storrie, More Stars Walk the Carpet Inde Navarrette, Colman Domingo, Teyana Taylor, Anna Kendrick, Rami Malek, Jamie Lee Curtis, Jacob Elordi, Adrien Brody, Mikey Madison, Chase Infiniti, Mark Hamill, Kate Hudson, Sofia Vergara, Seth Rogen, Pamela Anderson, Naomi Ackie, Charlize Theron, Alexa Demie, Mia Goth, Cailee Spaeny, Mckenna Grace, Zoey Deutch and Kristen Wiig were also in attendance at the star-studded event. ... Movies ... ### ‘Street Fighter’ Scoring $31M at Box Office as ‘You Can See Everything’ Rises …\n\n[4] Entertainment & Arts | Latest News & Updates | BBC News (bbc.com)\n## Manifest: From reality TV to Wembley Arena in one turbulent year ... Turkish girl group manifest on taking their music to a global audience, as they prepare for their first UK concert. ... ## Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses. ... ## Judge\n\n[5] Entertainment News | Celebrity, Movies, TV & Music – USA TODAY (usatoday.com)\nEntertainment News | Celebrity, Movies, TV & Music – USA TODAY ... # Entertainment News | Celebrity, Movies, TV & Music – USA TODAY ... ## Carrot Top speaks for first time since reported suicide attempt ## Harry Styles performs unreleased tribute to Liam Payne - #### Miley Cyrus kisses finacé during concert 14h ago ... #### Miley shares special memory of Dolly Parton\n\n[6] Entertainment Weekly: Entertainment News for Pop Culture Fans (ew.com)\nTommy Lee Jones makes a rare red carpet appearance to support The Lowdown ... ## Movies ... Watch Robert Pattinson transform into To Catch a Predator host Chris Hansen in uncanny Primetime camera test By Wesley Stenzel ... Miley Cyrus’ new album Bass Persuades shockingly suffers one of the biggest drops from No. 1 in chart history By Joey Nolfi ... Emmys 2026: Widow’s Bay sets a new record — see the complete list of winners By Kat Pettibone ... Hollywood icon Eva Marie Saint dies at 102 ... Another World alum Mark Mortimer dies at 59 following cancer battle\n\n[7] Vulture - Entertainment News - TV, Movies, Music, Books, Theater, Art (vulture.com)\nNathan Fielder and Lance Oppenheim’s new documentary argues that facts alone can’t explain a person. We also have to understand ourselves through art. By Jackson ... Tell “At first when I heard the song, I thought Neil was talking about people. And\n\n[8] Breaking Music News, Celeb and Entertainment News and Gossip | iHeart (iheart.com)\nBreaking Music News, Celeb and Entertainment News and Gossip | iHeart ... # Music & Entertainment News - Follow your favorite artists and bands and keep up on today's pop culture news. ... Lin-Manuel Miranda Honored With 2026 iHeartRadio Corazón Latino Award ... Travis Barker Opens Up About Falling 'Madly In Love' With Kourtney Kardashian ... Olivia Rodrigo & Chappell Roan Face Off On Retro Game Show In 'Expectations' Remix Video ... Pregnant Hilary Swank, 52, Hits Back At 'Backlash' For 'Having Children Older' ... Ashley Cooke Delivers 'Starry-Eyed\n\n[9] Entertainment (cbsnews.com)\nEntertainment news: Latest celebrity news, movies, TV shows, music and awards shows news from CBS News ... ## Judge dismisses child sex abuse charges against actor Timothy Busfield A New Mexico judge has dismissed an indictment against actor Timothy Busfield that accused him of criminal sexual contact with a child, citing prosecutorial misconduct and errors that undermined the grand jury process. - Oct 16 ... ## Hilary Swank announces she's pregnant with third child at 52 The Oscar winner and \"Million Dollar Baby\" star, who had twins at 48, said she is due in December. ... ## Netflix cutting …\n\n[10] E! News: Celebrity News, Photos and Video (eonline.com)\nE! News: Celebrity News, Photos and Video ### DWTS' Val Chmerkovskiy Suspended After Will Smith Oscars Slap Comment ### Kate Hudson Shows Off Abs in Red Bikini During Beach Workout ### Harry Shum Jr. Shares Sweet Message to DWTS Castmates Amid Lift",
+  "hash": "f1dc2deb41f9add95836eb4644520802b7fff90cf5031c138aca6b9fd95fa99f",
+  "notes": []
+ }
+}
