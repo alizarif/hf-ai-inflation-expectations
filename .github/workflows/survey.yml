@@ -7,6 +7,9 @@ on:
   schedule:
     - cron: "3 0,4,8,12,16,20 * * *"    # New York slots while on EDT (UTC-4)
     - cron: "3 1,5,9,13,17,21 * * *"    # New York slots while on EST (UTC-5)
+  push:                                  # editing this file runs a simulated (dry-run) wave as a check
+    branches: [main]
+    paths: [".github/workflows/survey.yml"]
   workflow_dispatch:
     inputs:
       mode:
@@ -31,7 +34,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     env:
-      MODE: ${{ inputs.mode || 'production' }}
+      MODE: ${{ inputs.mode || (github.event_name == 'push' && 'dry-run') || 'production' }}
     steps:
       - uses: actions/checkout@v5
 
