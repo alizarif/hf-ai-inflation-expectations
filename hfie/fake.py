@@ -1,6 +1,6 @@
 """Offline stand-in for OpenRouter, used by --mode dry-run and the tests.
-Produces plausible answers (and occasionally broken ones, to exercise the
-correction turn). No network access."""
+Produces plausible answers (and occasionally a probability list that misses 100,
+to exercise rescaling). No network access."""
 from __future__ import annotations
 
 import random
@@ -31,13 +31,11 @@ class FakeClient:
         news = "news articles" in messages[-1]["content"] or "news articles" in messages[1]["content"]
         econ = "inflation prices news" in messages[1]["content"] or "economy" in messages[1]["content"][:2000]
         base = 3.0 + shift + (0.3 if news and econ else 0)
-        is_correction = len(messages) > 2
         probs = [0, 0, 0, 0, 2, 13, 45, 30, 7, 3]
-        if r < self.broken_rate and not is_correction:
-            probs = [0, 0, 0, 0, 2, 13, 45, 30, 7, 9]          # sums to 106 -> triggers correction
+        if r < self.broken_rate:
+            probs = [0, 0, 0, 0, 2, 13, 45, 30, 7, 9]          # sums to 106 -> rescaled
         lst = "[" + ",".join(f"{p:.2f}%" for p in probs) + "]"
-        text = (f"Q1_I: {base + 0.3:.1f}\nQ2_I: {lst}\nQ3_I: {lst}\nQ4_I: {base:.1f} %\nQ5_I: {base - 0.5:.1f} %"
-                if not is_correction else f"Q2_I: [0,0,0,0,2,13,45,30,7,3]\nQ3_I: [0,0,0,0,2,13,45,30,7,3]")
+        text = f"Q1_I: {base + 0.3:.1f}\nQ2_I: {lst}\nQ3_I: {lst}\nQ4_I: {base:.1f} %\nQ5_I: {base - 0.5:.1f} %"
         body = {"model": model, "provider": "Fake", "choices": [{"message": {"content": text}}],
                 "usage": {"prompt_tokens": 1800, "completion_tokens": 120, "cost": 0.0004}}
         res = _result("ok", {"model": model, "messages": messages}, body, 1, time.monotonic(), "")

@@ -140,7 +140,7 @@ def update_readme(index: pd.DataFrame, panel: pd.DataFrame, readme: Path):
         return
     last = index.iloc[-1]
     block = (f"<!-- STATUS:START -->\n**Latest wave:** `{last.wave_id}` · {int(last.n_trials)} trials · "
-             f"{int(last.n_ok)} fully valid · {int(last.n_corrected)} needed a correction turn · "
+             f"{int(last.n_ok)} fully valid · {int(last.n_rescaled)} had a probability list rescaled to 100 · "
              f"cost ${last.cost_usd:.3f}  \n**Waves so far:** {len(index)} · **rows in panel:** {len(panel)} · "
              f"**total cost:** ${index.cost_usd.sum():.2f}\n<!-- STATUS:END -->")
     text = readme.read_text(encoding="utf-8")

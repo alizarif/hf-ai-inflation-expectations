@@ -14,10 +14,10 @@ were shown, every prompt, every raw reply, and the parsed answers.
 
 | | |
 |---|---|
-| **Models** (7) | `openai/gpt-6-luna`, `openai/gpt-4o-mini`, `deepseek/deepseek-v4.1-flash-1017`, `qwen/qwen3.8-flash`, `meta-llama/llama-4-scout`, `google/gemini-3.8-flash`, `anthropic/claude-haiku-5.5` |
+| **Models** (7) | `openai/gpt-6-luna`, `openai/gpt-4o-mini`, `deepseek/deepseek-v4.1-flash-1017`, `qwen/qwen3.8-flash`, `meta-llama/llama-4-scout`, `google/gemini-3.5-flash-lite`, `anthropic/claude-haiku-5.5` |
 | **Personas** (4) | generic (no role) · household ("Act as the head of a household in the US.") · firm ("Act as the CEO of a US firm.") · forecaster ("You are a professional forecaster.") |
 | **Information arms** (5) | `none` (no news) · `general` (top headlines) · `economy` (U.S. economy / inflation / prices) · `politics` (U.S. politics) · `entertainment` (placebo) |
-| **Trials** | 3 independent conversations per model × persona × arm → **420 per wave** |
+| **Trials** | 3 independent single-call conversations per model × persona × arm → **420 calls per wave** |
 | **Questions** | Q1 perceived inflation (last 12 months) · Q2 / Q3 ten-bin probability distributions (next 12 months; months 48–60) · Q4 / Q5 point forecasts for the same horizons. Text is in [`hfie/questions.py`](hfie/questions.py). |
 
 **How a wave runs**
@@ -29,10 +29,10 @@ were shown, every prompt, every raw reply, and the parsed answers.
 2. **One message per trial.** The system prompt (with the persona) and one user message (news, if
    any, then Q1–Q5 in order) are sent together, and the model answers all five questions in one reply.
    Each model runs at its default temperature and reasoning settings.
-3. **Validation without repair.** Answers are parsed from the labelled lines. A probability list
-   that doesn't have ten numbers summing to 100 (±0.1), or a point answer that isn't one number,
-   triggers **one** follow-up turn that asks again for only those questions. Both the first and
-   corrected replies are kept, and the row is flagged `corrected`.
+3. **One call per trial, no follow-up.** Answers are parsed from the labelled lines; the prompt says each
+   probability list must have ten numbers totalling 100. A list that still misses 100 (by more than 0.1) is
+   rescaled proportionally to 100: the raw sum is kept in `q2_sum_raw` / `q3_sum_raw` and the row is flagged
+   `rescaled`. A sum outside 50–150, or an unreadable answer, is recorded as invalid and never re-asked.
 4. **Charts and panel** are rebuilt from all waves and committed.
 
 System prompt (`config.yaml`):
@@ -60,7 +60,7 @@ data_test/, charts_test/        output of manual test runs (kept out of the pane
 Key columns in `responses.csv`: `q1`, `q4`, `q5` (percent); `q2_p0..q2_p9`, `q3_p0..q3_p9` (bin
 probabilities, ordered from "deflation ≥12%" to "inflation ≥12%"); `q2_mean`, `q2_sd`, `q3_mean`,
 `q3_sd` (descriptive, using bin midpoints with open bins closed at ±16%); `q2_p_above4`,
-`q2_p_deflation`; `status` (`ok` = all five answers valid), `corrected`, `problems`; token counts,
+`q2_p_deflation`; `status` (`ok` = all five answers valid), `rescaled`, `q2_sum_raw`, `q3_sum_raw`, `problems`; token counts,
 `cost_usd`, and `returned_model` / `provider`.
 
 ## Charts

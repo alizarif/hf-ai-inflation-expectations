@@ -23,7 +23,7 @@ from . import news as news_mod
 from .config import ROOT, design_hash, load_config
 from .openrouter import scrub
 from .parse import density_stats, parse_reply, problems
-from .prompts import build_messages, correction_message
+from .prompts import build_messages
 from .schedule import current_slot, slot_from_wave_id
 
 MODE_DIRS = {"production": "data", "test": "data_test", "dry-run": "data_dryrun"}
@@ -42,24 +42,7 @@ def run_trial(client, cfg, job, snapshot, slot, budget) -> tuple[dict, dict]:
     if first["status"] != "ok":
         return _row(cfg, job, slot, snapshot, None, calls, "failed"), {**job, "messages": messages, "calls": calls}
 
-    tol = cfg["density_sum_tolerance"]
-    parsed = parse_reply(first["content"], tol)
-    for q in parsed:
-        parsed[q]["corrected"] = False
-    bad = problems(parsed)
-    if bad and cfg.get("correction_turn") and budget.allow():
-        follow = messages + [{"role": "assistant", "content": first["content"]},
-                             {"role": "user", "content": correction_message(bad)}]
-        second = client.chat(job["model"], follow)
-        budget.add(second.get("cost_usd"))
-        calls.append(second)
-        if second["status"] == "ok":
-            fixed = parse_reply(second["content"], tol)
-            for q in bad:
-                parsed[q]["first_problem"] = parsed[q]["problem"]
-                if fixed[q]["ok"]:
-                    parsed[q] = {**fixed[q], "corrected": True, "first_problem": bad[q]}
-        messages = follow
+    parsed = parse_reply(first["content"], cfg["density_sum_tolerance"], tuple(cfg["density_rescale_range"]))
     row = _row(cfg, job, slot, snapshot, parsed, calls, None)
     return row, {**job, "messages": messages, "calls": calls, "parsed": parsed}
 
@@ -75,7 +58,7 @@ def _row(cfg, job, slot, snapshot, parsed, calls, forced_status) -> dict:
         n_ok = sum(r["ok"] for r in parsed.values())
         row["status"] = "ok" if n_ok == 5 else "partial"
         row["n_valid"] = n_ok
-        row["corrected"] = any(r.get("corrected") for r in parsed.values())
+        row["rescaled"] = any(r.get("rescaled") for r in parsed.values())
         for q in ("Q1_I", "Q4_I", "Q5_I"):
             row[q.lower()[:2]] = parsed[q]["value"] if parsed[q]["ok"] else None
         for q in ("Q2_I", "Q3_I"):
@@ -86,10 +69,10 @@ def _row(cfg, job, slot, snapshot, parsed, calls, forced_status) -> dict:
             stats = density_stats(probs) if probs else {}
             for s in ("mean", "sd", "p_deflation", "p_above4"):
                 row[f"{key}_{s}"] = round(stats[s], 4) if stats else None
-        row["problems"] = json.dumps({q: r.get("first_problem") or r["problem"]
-                                      for q, r in parsed.items() if r.get("first_problem") or not r["ok"]})
+            row[f"{key}_sum_raw"] = parsed[q].get("sum")
+        row["problems"] = json.dumps(problems(parsed)) if problems(parsed) else ""
     else:
-        row.update(status=forced_status, n_valid=0, corrected=False, problems="")
+        row.update(status=forced_status, n_valid=0, rescaled=False, problems="")
     last = calls[-1] if calls else {}
     row.update(
         n_calls=len(calls),
@@ -105,10 +88,10 @@ def _row(cfg, job, slot, snapshot, parsed, calls, forced_status) -> dict:
     return row
 
 
-COLUMNS = (["wave_id", "slot_et", "slot_utc", "model", "persona", "arm", "trial", "status", "n_valid", "corrected",
+COLUMNS = (["wave_id", "slot_et", "slot_utc", "model", "persona", "arm", "trial", "status", "n_valid", "rescaled",
             "q1", "q4", "q5"]
-           + [f"q2_p{i}" for i in range(10)] + ["q2_mean", "q2_sd", "q2_p_deflation", "q2_p_above4"]
-           + [f"q3_p{i}" for i in range(10)] + ["q3_mean", "q3_sd", "q3_p_deflation", "q3_p_above4"]
+           + [f"q2_p{i}" for i in range(10)] + ["q2_mean", "q2_sd", "q2_p_deflation", "q2_p_above4", "q2_sum_raw"]
+           + [f"q3_p{i}" for i in range(10)] + ["q3_mean", "q3_sd", "q3_p_deflation", "q3_p_above4", "q3_sum_raw"]
            + ["problems", "news_provider", "news_hash", "design_hash", "n_calls", "returned_model", "provider",
               "prompt_tokens", "completion_tokens", "reasoning_tokens", "cost_usd", "latency_s", "error"])
 
@@ -214,7 +197,7 @@ def run(mode: str, force: bool = False, wave_id: str | None = None, out: str | N
         "design_hash": dhash, "design_version": cfg["design_version"],
         "models": models, "personas": list(cfg["personas"]), "arms_run": arms, "arms_dropped": dropped,
         "trials": trials, "n_trials": len(rows), "status_counts": status_counts,
-        "n_corrected": sum(bool(r["corrected"]) for r in rows),
+        "n_rescaled": sum(bool(r["rescaled"]) for r in rows),
         "news": {a: {"provider": s.get("provider"), "n_items": s.get("n_items", 0), "hash": s["hash"][:16],
                      "notes": s.get("notes", [])} for a, s in snapshots.items()},
         "cost_usd": round(budget.spent, 4), "budget_cap_usd": budget.cap,
@@ -227,7 +210,7 @@ def run(mode: str, force: bool = False, wave_id: str | None = None, out: str | N
 
 def _summary(manifest: dict, rows: list[dict]) -> None:
     lines = [f"### Wave {manifest['wave_id']} ({manifest['mode']})",
-             f"- trials: {manifest['n_trials']}  status: {manifest['status_counts']}  corrected: {manifest['n_corrected']}",
+             f"- trials: {manifest['n_trials']}  status: {manifest['status_counts']}  rescaled: {manifest['n_rescaled']}",
              f"- cost: ${manifest['cost_usd']}  late by {manifest['lateness_minutes']} min",
              f"- news: " + ", ".join(f"{a}={v['provider']}:{v['n_items']}" for a, v in manifest["news"].items()),
              "", "| model | ok | partial | failed | mean q4 |", "|---|---|---|---|---|"]

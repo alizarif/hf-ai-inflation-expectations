@@ -40,11 +40,13 @@ def test_point_formats():
 
 
 def test_density_formats():
-    good = "[0.00%,0.00%,0.00%,0.00%,2.50%,12.50%,45%,30%,7%,3%]"
-    probs, why = parse_density(good, 0.1)
-    assert why == "" and sum(probs) == pytest.approx(100)
-    assert parse_density("[0,0,0,0,2,13,45,30,7,9]", 0.1)[0] is None          # sums to 106
-    assert parse_density("[10,20,30]", 0.1)[0] is None                        # wrong length
+    good = parse_density("[0.00%,0.00%,0.00%,0.00%,2.50%,12.50%,45%,30%,7%,3%]", 0.1)
+    assert good["problem"] == "" and not good["rescaled"] and sum(good["probs"]) == pytest.approx(100)
+    off = parse_density("[0,0,0,0,2,13,45,30,7,8]", 0.1)                     # sums to 105 -> rescaled
+    assert off["rescaled"] and off["sum"] == 105 and sum(off["probs"]) == pytest.approx(100)
+    assert off["probs_raw"][-1] == 8
+    assert parse_density("[0,0,0,0,0,0,10,10,5,5]", 0.1)["probs"] is None      # sums to 30 -> invalid
+    assert parse_density("[10,20,30]", 0.1)["probs"] is None                   # wrong length
     stats = density_stats([0, 0, 0, 0, 0, 0, 100, 0, 0, 0])
     assert stats["mean"] == 3 and stats["sd"] == 0
 

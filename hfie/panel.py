@@ -21,7 +21,7 @@ def build(data_dir: Path) -> tuple[pd.DataFrame, pd.DataFrame]:
             "wave_id": m["wave_id"], "slot_et": m["slot_et"], "slot_utc": m["slot_utc"],
             "n_trials": m["n_trials"], "n_ok": m["status_counts"].get("ok", 0),
             "n_partial": m["status_counts"].get("partial", 0), "n_failed": m["status_counts"].get("failed", 0),
-            "n_corrected": m["n_corrected"], "cost_usd": m["cost_usd"], "lateness_minutes": m["lateness_minutes"],
+            "n_rescaled": m.get("n_rescaled", 0), "n_corrected": m.get("n_corrected", 0), "cost_usd": m["cost_usd"], "lateness_minutes": m["lateness_minutes"],
             "arms_dropped": ";".join(m["arms_dropped"]), "design_hash": m["design_hash"],
             **{f"news_{a}": f"{v['provider']}:{v['n_items']}" for a, v in m["news"].items() if a != "none"},
         })

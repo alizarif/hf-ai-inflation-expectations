@@ -15,8 +15,10 @@ def test_full_dry_wave(tmp_path, monkeypatch):
     df = pd.read_csv(path / "responses.csv")
     cfg_models, personas, arms, trials = 7, 4, 5, 3
     assert len(df) == cfg_models * personas * arms * trials
-    assert (df.status == "ok").all()                    # broken densities fixed by the correction turn
-    assert df.corrected.any() and (df.n_calls[df.corrected] == 2).all()
+    assert (df.status == "ok").all() and (df.n_calls == 1).all()   # one call per trial, never a follow-up
+    assert df.rescaled.any()
+    r = df[df.rescaled].iloc[0]
+    assert r.q2_sum_raw == 106 and abs(sum(r[f"q2_p{i}"] for i in range(10)) - 100) < 1e-6
     news = json.loads((path / "news.json").read_text())
     assert news["none"]["text"] == "" and news["economy"]["n_items"] == 8
     with gzip.open(path / "raw.jsonl.gz", "rt") as fh:

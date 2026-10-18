@@ -5,7 +5,7 @@
 # =====================================================================
 
 study_name: hf_ai_inflation_expectations
-design_version: "2026-10-18-v1"
+design_version: "2026-10-18-v2"   # v2: gemini-3.5-flash-lite, one call per trial, no follow-up turn
 
 # ---- schedule ---------------------------------------------------------
 # Waves are indexed by New York clock slots. GitHub cron runs in UTC, so the
@@ -22,7 +22,7 @@ models:                     # exact OpenRouter slugs; never "~...-latest" aliase
   - deepseek/deepseek-v4.1-flash-1017
   - qwen/qwen3.8-flash
   - meta-llama/llama-4-scout
-  - google/gemini-3.8-flash
+  - google/gemini-3.5-flash-lite
   - anthropic/claude-haiku-5.5
 
 trials: 3                   # independent conversations per model x persona x arm
@@ -76,8 +76,13 @@ answer_instruction: >-
 
   Q5_I: <answer>
 
-correction_turn: true             # one follow-up turn if an answer is unusable
-density_sum_tolerance: 0.1        # |sum - 100| allowed for Q2/Q3
+  Each probability list must contain exactly ten numbers that add up to exactly 100.
+
+# One call per trial, no follow-up turn. A probability list whose sum misses 100 by
+# more than the tolerance is rescaled proportionally to 100 (raw numbers and sum kept,
+# row flagged `rescaled`); a sum outside density_rescale_range counts as invalid.
+density_sum_tolerance: 0.1
+density_rescale_range: [50, 150]
 
 # ---- runtime ----------------------------------------------------------
 runtime:

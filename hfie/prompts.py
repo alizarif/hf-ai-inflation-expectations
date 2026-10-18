@@ -36,11 +36,3 @@ def build_messages(cfg: dict, persona: str, snapshot: dict, slot: Slot) -> list[
         {"role": "system", "content": system_message(cfg, persona, slot)},
         {"role": "user", "content": user_message(cfg, snapshot)},
     ]
-
-
-def correction_message(problems: dict[str, str]) -> str:
-    lines = [f"- {qid}: {why}" for qid, why in problems.items()]
-    labels = ", ".join(problems)
-    return ("Some of your answers could not be recorded:\n" + "\n".join(lines) +
-            f"\n\nPlease answer {labels} again, each on its own line starting with its label, "
-            "in exactly the format the question asks for. Probability lists must have ten numbers that total 100.")

@@ -47,9 +47,11 @@ def parse_point(segment: str) -> tuple[float | None, str]:
     return value, ""
 
 
-def parse_density(segment: str, tol: float) -> tuple[list[float] | None, str]:
+def parse_density(segment: str, tol: float, rescale_range=(50, 150)) -> dict:
+    """Returns {probs, probs_raw, sum, rescaled, problem}. probs sum to 100 when valid."""
+    bad = lambda why, raw=None, total=None: {"probs": None, "probs_raw": raw, "sum": total, "rescaled": False, "problem": why}
     if not segment:
-        return None, "no answer found"
+        return bad("no answer found")
     candidates = []
     br = BRACKET.search(segment)
     if br:
@@ -58,13 +60,17 @@ def parse_density(segment: str, tol: float) -> tuple[list[float] | None, str]:
     candidates += [[v for v, p in nums if p], [v for v, _ in nums]]
     probs = next((c for c in candidates if len(c) == 10), None)
     if probs is None:
-        return None, f"expected 10 probabilities, found {len(candidates[0]) if candidates else 0}"
+        return bad(f"expected 10 probabilities, found {len(candidates[0]) if candidates else 0}")
     if any(p < 0 or p > 100 for p in probs):
-        return None, "each probability must be between 0 and 100"
+        return bad("each probability must be between 0 and 100", probs, sum(probs))
     total = sum(probs)
-    if abs(total - 100) > tol:
-        return None, f"the ten probabilities sum to {total:.2f}%, not 100%"
-    return probs, ""
+    if abs(total - 100) <= tol:
+        return {"probs": probs, "probs_raw": probs, "sum": total, "rescaled": False, "problem": ""}
+    lo, hi = rescale_range
+    if not lo <= total <= hi:
+        return bad(f"the ten probabilities sum to {total:.2f}%, outside {lo}-{hi}", probs, total)
+    return {"probs": [p * 100 / total for p in probs], "probs_raw": probs, "sum": total, "rescaled": True,
+            "problem": f"sum was {total:.2f}%, rescaled to 100"}
 
 
 def density_stats(probs: list[float]) -> dict[str, float]:
@@ -75,7 +81,7 @@ def density_stats(probs: list[float]) -> dict[str, float]:
     return {"mean": mean, "sd": sd, "p_deflation": sum(probs[:5]), "p_above4": sum(probs[7:])}
 
 
-def parse_reply(text: str, tol: float = 0.1) -> dict[str, dict]:
+def parse_reply(text: str, tol: float = 0.1, rescale_range=(50, 150)) -> dict[str, dict]:
     """Parse every question that appears in `text`."""
     segments = split_answers(text)
     result: dict[str, dict] = {}
@@ -85,13 +91,14 @@ def parse_reply(text: str, tol: float = 0.1) -> dict[str, dict]:
             value, problem = parse_point(seg)
             result[qid] = {"raw": seg, "value": value, "ok": value is not None, "problem": problem}
         else:
-            probs, problem = parse_density(seg, tol)
-            result[qid] = {"raw": seg, "probs": probs, "ok": probs is not None, "problem": problem}
+            d = parse_density(seg, tol, rescale_range)
+            result[qid] = {"raw": seg, **d, "ok": d["probs"] is not None}
     return result
 
 
 def problems(parsed: dict[str, dict]) -> dict[str, str]:
-    return {q: r["problem"] for q, r in parsed.items() if not r["ok"]}
+    """Every note worth recording: invalid answers and rescaled distributions."""
+    return {q: r["problem"] for q, r in parsed.items() if r["problem"]}
 
 
 __all__ = ["split_answers", "parse_point", "parse_density", "density_stats", "parse_reply",
