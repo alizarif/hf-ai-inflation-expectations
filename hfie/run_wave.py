@@ -160,7 +160,7 @@ def run(mode: str, force: bool = False, wave_id: str | None = None, out: str | N
 
     # 1) shared news, collected once for every model
     today = f"{slot.utc:%A, %B} {slot.utc.day}, {slot.utc:%Y}"
-    snapshots, search_calls = news_mod.collect(cfg, client, today)
+    snapshots, search_calls = news_mod.collect(cfg, client, today, f"{slot.local:%B} {slot.local.day}, {slot.local:%Y}")
     for c in search_calls:
         budget.add(c.get("cost_usd"))
     arms = [a for a, s in snapshots.items() if a == "none" or s["text"]]

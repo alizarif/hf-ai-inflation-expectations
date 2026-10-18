@@ -24,7 +24,7 @@ class FakeClient:
         if "tools" in extra:   # shared news search
             body = {"model": model, "choices": [{"message": {"content": "results", "annotations": [
                 {"type": "url_citation", "url_citation": {
-                    "url": f"https://example.com/story-{i}", "title": f"Example headline {i}",
+                    "url": f"https://example.com/news/example-story-number-{i}", "title": f"Example headline {i}",
                     "content": f"Example excerpt for story {i} about {messages[0]['content'][:40]}"}}
                 for i in range(1, 9)]}}], "usage": {"prompt_tokens": 300, "completion_tokens": 200, "cost": 0.008}}
             return _result("ok", {"model": model, "messages": messages, **extra}, body, 1, time.monotonic(), "")

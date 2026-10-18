@@ -42,12 +42,13 @@ system_prompt: >-
 # ---- information arms -------------------------------------------------
 # One shared web search per topic per wave; every model in that arm gets the
 # identical captured results. "none" gets no news at all.
+# {date} is filled with the wave date, e.g. "October 18, 2026".
 arms:
   none:          {query: null}
-  general:       {query: "top news headlines today"}
-  economy:       {query: "U.S. economy inflation prices news today"}
-  politics:      {query: "U.S. politics news today"}
-  entertainment: {query: "entertainment news today movies music celebrities"}
+  general:       {query: "top news stories {date}"}
+  economy:       {query: "U.S. economy inflation prices news {date}"}
+  politics:      {query: "U.S. politics news {date}"}
+  entertainment: {query: "entertainment news movies music celebrities {date}"}
 
 news_intro: >-
   Here are some recent news articles, collected {collected}:
@@ -55,7 +56,8 @@ news_intro: >-
 search:
   provider: openrouter_exa        # one OpenRouter call per topic with the Exa web-search server tool
   searcher_model: openai/gpt-4o-mini
-  max_results: 10
+  max_results: 20                 # requested; homepages/section pages are dropped ...
+  keep_articles: 10               # ... and the first 10 real articles are kept
   max_excerpt_chars: 600          # per article, in the text shown to respondents
   min_results: 3                  # fewer than this -> fall back to Google News RSS
   fallback: google_news_rss

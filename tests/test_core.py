@@ -80,3 +80,14 @@ def test_scrub_and_key_strip(monkeypatch):
     assert fake not in scrub(f"Invalid header value: 'Bearer {fake}\\n'")
     monkeypatch.setenv("OPENROUTER_API_KEY", fake + "\n")
     assert OpenRouterClient().api_key == fake
+
+
+def test_article_filter():
+    from hfie.news import is_article
+    assert not is_article("https://news.google.com/home?hl=en-US")
+    assert not is_article("https://apnews.com/hub/politics")
+    assert not is_article("https://www.washingtonpost.com/politics/")
+    assert not is_article("https://www.reuters.com/")
+    assert is_article("https://www.nbcnews.com/business/economy/inflation-jumps-gas-diesel-prices-rcna123456")
+    assert is_article("https://apnews.com/article/inflation-prices-consumers-fed-8f3a9c1d2e4b5a6c")
+    assert is_article("https://www.cnbc.com/2026/10/17/us-inflation-stays-high.html")
