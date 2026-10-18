@@ -241,7 +241,7 @@ function renderOverview() {
   select("ov-persona", [[-1, "All personas"], ...I.personas.map((p, i) => [i, PERSONA_LABEL[p]])], S.ov.persona, (v) => { S.ov.persona = +v; drawOverviewCharts(); });
   select("ov-arm", [[-1, "All arms"], ...I.arms.map((a, i) => [i, ARM_SHORT[a]])], S.ov.arm, (v) => { S.ov.arm = +v; drawOverviewCharts(); });
   rowTable($("ov-waves"), [
-    { label: "Wave (New York time)", get: (w) => el("a", { href: `#wave/${w.id}`, text: w.label }) },
+    { label: "Wave (New York time)", get: (w) => el("a", { href: `#wave-${w.id}`, text: w.label }) },
     { label: "Design", get: (w) => el("span", { class: "pill", text: w.design.split("-").pop() }) },
     { label: "Trials", key: "n_trials", fmt: int },
     { label: "Fully valid", key: "share_ok", fmt: pct },
@@ -251,7 +251,7 @@ function renderOverview() {
     { label: "Politics effect", key: "politics_q4", fmt: s2 },
     { label: "Placebo effect", key: "entertainment_q4", fmt: s2 },
     { label: "Cost", key: "cost_usd", fmt: usd },
-  ], [...waves].reverse(), (w) => { location.hash = `#wave/${w.id}`; });
+  ], [...waves].reverse(), (w) => { location.hash = `#wave-${w.id}`; });
   drawOverviewCharts();
 }
 
@@ -291,12 +291,13 @@ function drawOverviewCharts() {
 
 /* ================================================================== ONE WAVE */
 async function loadWave(id) {
-  if (!S.waveCache.has(id)) {
-    const r = await fetch(`data/waves/${id}.json`, { cache: "no-cache" });
-    if (!r.ok) throw new Error(`wave ${id}: ${r.status}`);
-    S.waveCache.set(id, await r.json());
+  const w = S.index.waves.find((x) => x.id === id), month = w.slot_et.slice(0, 7);
+  if (!S.waveCache.has(month)) {
+    const r = await fetch(`data/${S.index.wave_files[month]}`, { cache: "no-cache" });
+    if (!r.ok) throw new Error(`waves ${month}: ${r.status}`);
+    S.waveCache.set(month, await r.json());
   }
-  return S.waveCache.get(id);
+  return S.waveCache.get(month)[id];
 }
 
 async function renderWave(id) {
@@ -304,10 +305,10 @@ async function renderWave(id) {
   const wi = id ? waves.findIndex((w) => w.id === id) : waves.length - 1;
   const w = waves[wi < 0 ? waves.length - 1 : wi], idx = waves.indexOf(w);
   S.wv.id = w.id;
-  select("wv-select", [...waves].reverse().map((x) => [x.id, x.label]), w.id, (v) => { location.hash = `#wave/${v}`; });
+  select("wv-select", [...waves].reverse().map((x) => [x.id, x.label]), w.id, (v) => { location.hash = `#wave-${v}`; });
   $("wv-prev").disabled = idx === 0; $("wv-next").disabled = idx === waves.length - 1;
-  $("wv-prev").onclick = () => { location.hash = `#wave/${waves[idx - 1].id}`; };
-  $("wv-next").onclick = () => { location.hash = `#wave/${waves[idx + 1].id}`; };
+  $("wv-prev").onclick = () => { location.hash = `#wave-${waves[idx - 1].id}`; };
+  $("wv-next").onclick = () => { location.hash = `#wave-${waves[idx + 1].id}`; };
   $("wv-title").textContent = w.label;
   const D = await loadWave(w.id);
   const man = D.manifest, sm = D.summary;
@@ -427,12 +428,13 @@ function renderMethod() {
 async function route() {
   const h = location.hash.replace(/^#/, "");
   const view = h.startsWith("wave") ? "wave" : h === "method" ? "method" : "overview";
+  const waveId = h.startsWith("wave-") ? h.slice(5) : null;
   document.querySelectorAll(".view").forEach((v) => { v.hidden = v.id !== `view-${view}`; });
   document.querySelectorAll(".nav a[data-view]").forEach((a) => (a.dataset.view === view ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")));
   hideTip();
   try {
     if (view === "overview") renderOverview();
-    else if (view === "wave") await renderWave(h.split("/")[1]);
+    else if (view === "wave") await renderWave(waveId);
     else renderMethod();
   } catch (e) { console.error(e); $("load-error").hidden = false; }
 }

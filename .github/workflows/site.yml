@@ -2,7 +2,9 @@ name: Website
 
 # Builds the public site (web/ + JSON summaries of every wave) and deploys it to GitHub Pages.
 # Runs after every production wave (called from survey.yml), on changes to the site code, or by hand.
-# One-time setup: Settings -> Pages -> Build and deployment -> Source: "GitHub Actions".
+# Optional. To use it: Settings -> Pages -> Source: "GitHub Actions", then add the repository
+# variable PAGES_ENABLED=true (Settings -> Secrets and variables -> Actions -> Variables).
+# The site is also published as a claude.ai page by a daily scheduled task (see README).
 on:
   workflow_call:
   workflow_dispatch:
@@ -21,6 +23,7 @@ concurrency:
 
 jobs:
   build:
+    if: vars.PAGES_ENABLED == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5

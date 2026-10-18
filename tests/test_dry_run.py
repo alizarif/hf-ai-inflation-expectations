@@ -62,5 +62,7 @@ def test_site_build(tmp_path):
     assert (tmp_path / "_site" / "index.html").exists() and (tmp_path / "_site" / "app.js").exists()
     series = json.loads((tmp_path / "_site" / "data" / "series_2026-10.json").read_text())["rows"]
     assert len({r[0] for r in series}) == 2
-    detail = json.loads((tmp_path / "_site" / "data" / "waves" / "2026-10-18T08ET.json").read_text())
+    detail = json.loads((tmp_path / "_site" / "data" / "waves_2026-10.json").read_text())["2026-10-18T08ET"]
     assert detail["summary"]["flag"] == "rescaled" and len(detail["bins"]) == 2 * 8
+    page = site.artifact_page(tmp_path / "_site").read_text()
+    assert "<html" not in page and "<body" not in page and page.startswith("<title>") and 'id="view-wave"' in page

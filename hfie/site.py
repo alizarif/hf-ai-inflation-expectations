@@ -6,13 +6,17 @@
 Output (all read by web/app.js):
     data/index.json            study design, labels, one entry per wave
     data/series_YYYY-MM.json   mean answers per wave x model x persona x arm (incl. "all")
-    data/waves/<wave_id>.json  per-wave detail: distributions, consistency, quality, Q1 anchor, news
+    data/waves_YYYY-MM.json    per-wave detail, one object per wave of that month:
+                               distributions, consistency, quality, Q1 anchor, news
+With --artifact it also writes artifact.html, the page body without <html>/<head>/<body>,
+for publishing as a claude.ai page (the data files are published beside it).
 """
 from __future__ import annotations
 
 import argparse
 import json
 import math
+import re
 import shutil
 from datetime import datetime, timezone
 from pathlib import Path
@@ -105,7 +109,7 @@ def build(data_dir: Path, out: Path) -> dict:
     if out.exists():
         shutil.rmtree(out)
     shutil.copytree(ROOT / "web", out)
-    (out / "data" / "waves").mkdir(parents=True, exist_ok=True)
+    (out / "data").mkdir(parents=True, exist_ok=True)
     cfg = yaml.safe_load((ROOT / "config.yaml").read_text())
     files = sorted((data_dir / "waves").glob("*/*/*/*/responses.csv"))
     loaded = []
@@ -117,10 +121,10 @@ def build(data_dir: Path, out: Path) -> dict:
         loaded.append((man, df, news, f.parent))
     loaded.sort(key=lambda x: x[0]["slot_utc"])
     models = sorted({m for _, df, _, _ in loaded for m in df.model.unique()})
-    waves, months = [], {}
+    waves, months, details = [], {}, {}
     for i, (man, df, news, wdir) in enumerate(loaded):
         det = wave_detail(df, man, news)
-        (out / "data" / "waves" / f"{man['wave_id']}.json").write_text(json.dumps(det, ensure_ascii=False, separators=(",", ":")))
+        details.setdefault(man["slot_et"][:7], {})[man["wave_id"]] = det
         waves.append({"id": man["wave_id"], "label": det["label"], "slot_utc": man["slot_utc"], "slot_et": man["slot_et"],
                       "design": man.get("design_version", ""), "models": det["models"], "path": str(wdir.relative_to(data_dir.parent)),
                       **{k: det["summary"][k] for k in ("n_trials", "share_ok", "n_flagged", "flag", "cost_usd", "none_q4",
@@ -129,10 +133,13 @@ def build(data_dir: Path, out: Path) -> dict:
         months.setdefault(man["slot_et"][:7], []).extend(series_rows(df, i, models))
     for month, rows in months.items():
         (out / "data" / f"series_{month}.json").write_text(json.dumps({"rows": rows}, separators=(",", ":")))
+    for month, d in details.items():
+        (out / "data" / f"waves_{month}.json").write_text(json.dumps(d, ensure_ascii=False, separators=(",", ":")))
     index = {
         "generated_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "repo": REPO, "models": models, "personas": PERSONAS, "arms": ARMS, "qcols": QCOLS,
-        "series_files": [f"series_{m}.json" for m in sorted(months)], "series_fields": ["wave", "model", "persona", "arm", "n"] + QCOLS,
+        "series_files": [f"series_{m}.json" for m in sorted(months)],
+        "wave_files": {m: f"waves_{m}.json" for m in sorted(details)}, "series_fields": ["wave", "model", "persona", "arm", "n"] + QCOLS,
         "waves": waves,
         "design": {"models": cfg["models"], "personas": cfg["personas"], "arms": {a: v.get("query") for a, v in cfg["arms"].items()},
                    "trials": cfg["trials"], "system_prompt": " ".join(cfg["system_prompt"].split()),
@@ -143,12 +150,28 @@ def build(data_dir: Path, out: Path) -> dict:
     return index
 
 
+def artifact_page(out: Path) -> Path:
+    """claude.ai pages get their own <html>/<head>/<body> skeleton: keep only the title,
+    font/style links and the body content."""
+    html = (out / "index.html").read_text(encoding="utf-8")
+    head = re.search(r"<head>(.*?)</head>", html, re.S).group(1)
+    body = re.search(r"<body>(.*?)</body>", html, re.S).group(1)
+    keep = [m.group(0) for m in re.finditer(r"<title>.*?</title>|<link [^>]*>", head)]
+    page = "\n".join(keep[:1] + ['<meta name="claude:viewport-fit-sides" content="cover">'] + keep[1:]) + "\n" + body.strip() + "\n"
+    path = out / "artifact.html"
+    path.write_text(page, encoding="utf-8")
+    return path
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--data", default="data")
     ap.add_argument("--out", default="_site")
+    ap.add_argument("--artifact", action="store_true", help="also write artifact.html for a claude.ai page")
     a = ap.parse_args(argv)
     idx = build(ROOT / a.data, ROOT / a.out)
+    if a.artifact:
+        artifact_page(ROOT / a.out)
     print(f"Site written to {a.out}: {len(idx['waves'])} waves, {len(idx['series_files'])} series file(s)")
 
 
