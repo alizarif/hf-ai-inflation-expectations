@@ -30,3 +30,20 @@ def test_full_dry_wave(tmp_path, monkeypatch):
     charts_main(["--data", "data", "--charts", "charts", "--no-readme"])
     assert len(list((tmp_path / "charts").glob("*.png"))) == 9
     assert len(pd.read_csv(out / "panel" / "panel_2026-10.csv")) == 2 * len(df)
+
+
+def test_failed_wave_is_not_marked_complete(tmp_path, monkeypatch):
+    import pytest
+
+    def no_network(*a, **k):
+        raise RuntimeError("offline")
+    monkeypatch.setattr("hfie.news.search_rss", no_network)
+
+    class Down:
+        def chat(self, model, messages, **extra):
+            from hfie.openrouter import _result
+            return _result("failed", {}, None, 1, 0.0, "HTTP 401: invalid key")
+
+    with pytest.raises(run_wave.WaveFailed):
+        run_wave.run("dry-run", wave_id="2026-10-18T04ET", out=str(tmp_path), client=Down(), models=["x/y"])
+    assert not list(tmp_path.rglob("responses.csv"))

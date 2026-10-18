@@ -71,3 +71,12 @@ def test_prompts():
     assert "news" not in user_none["content"].split("Q1_I")[0].lower()
     sys_firm, _ = build_messages(cfg, "firm", {"text": ""}, slot)
     assert "Act as the CEO of a US firm." in sys_firm["content"]
+
+
+# ---------------- credentials never reach output files
+def test_scrub_and_key_strip(monkeypatch):
+    from hfie.openrouter import OpenRouterClient, scrub
+    fake = "sk-or-v1-" + "a1b2c3" * 8
+    assert fake not in scrub(f"Invalid header value: 'Bearer {fake}\\n'")
+    monkeypatch.setenv("OPENROUTER_API_KEY", fake + "\n")
+    assert OpenRouterClient().api_key == fake

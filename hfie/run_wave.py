@@ -21,6 +21,7 @@ from pathlib import Path
 
 from . import news as news_mod
 from .config import ROOT, design_hash, load_config
+from .openrouter import scrub
 from .parse import density_stats, parse_reply, problems
 from .prompts import build_messages, correction_message
 from .schedule import current_slot, slot_from_wave_id
@@ -112,6 +113,10 @@ COLUMNS = (["wave_id", "slot_et", "slot_utc", "model", "persona", "arm", "trial"
               "prompt_tokens", "completion_tokens", "reasoning_tokens", "cost_usd", "latency_s", "error"])
 
 
+class WaveFailed(RuntimeError):
+    pass
+
+
 class Budget:
     def __init__(self, cap: float):
         self.cap, self.spent, self.lock = cap, 0.0, threading.Lock()
@@ -183,15 +188,21 @@ def run(mode: str, force: bool = False, wave_id: str | None = None, out: str | N
 
     # 3) save: news, raw transcripts, parsed rows, manifest
     rows.sort(key=lambda r: (r["model"], r["persona"], r["arm"], r["trial"]))
-    with (wave_dir / "news.json").open("w", encoding="utf-8") as fh:
-        json.dump(snapshots, fh, ensure_ascii=False, indent=1)
+    if not any(r["status"] in ("ok", "partial") for r in rows):
+        # Nothing usable (e.g. bad key, OpenRouter outage): do not mark the slot complete,
+        # so the next trigger retries it. Print scrubbed errors for the log.
+        errors = sorted({r.get("error", "") for r in rows})
+        print("WAVE FAILED: no usable answers. Errors seen:\n  " + "\n  ".join(scrub(e) for e in errors[:5]))
+        raise WaveFailed(slot.wave_id)
+    # every file passes through scrub(): no credential can ever be written to disk
+    (wave_dir / "news.json").write_text(scrub(json.dumps(snapshots, ensure_ascii=False, indent=1)), encoding="utf-8")
     with gzip.open(wave_dir / "raw.jsonl.gz", "wt", encoding="utf-8") as fh:
         for rec in search_calls + raws:
-            fh.write(json.dumps(rec, ensure_ascii=False, default=str) + "\n")
+            fh.write(scrub(json.dumps(rec, ensure_ascii=False, default=str)) + "\n")
     with (wave_dir / "responses.csv").open("w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=COLUMNS, extrasaction="ignore")
         w.writeheader()
-        w.writerows(rows)
+        w.writerows([{k: scrub(v) for k, v in r.items()} for r in rows])
     status_counts = {}
     for r in rows:
         status_counts[r["status"]] = status_counts.get(r["status"], 0) + 1
@@ -245,7 +256,10 @@ def main(argv=None) -> int:
     ap.add_argument("--trials", type=int)
     a = ap.parse_args(argv)
     t0 = time.time()
-    path = run(a.mode, a.force, a.wave_id, a.out, a.models, a.trials)
+    try:
+        path = run(a.mode, a.force, a.wave_id, a.out, a.models, a.trials)
+    except WaveFailed:
+        return 1
     print(f"Done in {time.time() - t0:.0f}s -> {path}")
     if os.environ.get("GITHUB_OUTPUT"):
         with open(os.environ["GITHUB_OUTPUT"], "a") as fh:

@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import os
 import random
+import re
 import time
 from datetime import datetime, timezone
 from typing import Any
@@ -10,12 +11,20 @@ from typing import Any
 import requests
 
 URL = "https://openrouter.ai/api/v1/chat/completions"
+KEY_RE = re.compile(r"sk-or-[A-Za-z0-9_\-]{6,}")
+
+
+def scrub(text: str) -> str:
+    """Remove anything that looks like an OpenRouter key (error messages can echo headers)."""
+    return KEY_RE.sub("[REDACTED-KEY]", text) if isinstance(text, str) else text
+
+
 RETRYABLE = {408, 409, 425, 429, 500, 502, 503, 504, 520, 522, 524, 529}
 
 
 class OpenRouterClient:
     def __init__(self, api_key: str | None = None, timeout: int = 180, max_retries: int = 4):
-        self.api_key = api_key or os.environ.get("OPENROUTER_API_KEY", "")
+        self.api_key = (api_key or os.environ.get("OPENROUTER_API_KEY", "")).strip()
         if not self.api_key:
             raise RuntimeError("OPENROUTER_API_KEY is not set.")
         self.timeout, self.max_retries = timeout, max_retries
@@ -56,7 +65,7 @@ def _result(status: str, payload: dict, body: dict | None, attempt: int, started
     usage = (body or {}).get("usage") or {}
     return {
         "status": status,
-        "error": error,
+        "error": scrub(error),
         "request": payload,
         "response": body,
         "content": message.get("content") or "",
