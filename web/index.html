@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AI Inflation Expectations Panel</title>
+<meta name="description" content="Seven AI models answer the New York Fed's inflation-expectations questions every four hours, with and without the day's news. Live results, per-wave breakdowns and full data.">
+<meta property="og:title" content="AI Inflation Expectations Panel">
+<meta property="og:description" content="How AI models expect U.S. inflation, surveyed every four hours under different news conditions.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap topbar-in">
+    <a class="brand" href="#overview"><span class="brand-mark" aria-hidden="true"></span>AI Inflation Expectations Panel</a>
+    <nav class="nav" aria-label="Sections">
+      <a href="#overview" data-view="overview">All waves</a>
+      <a href="#wave" data-view="wave">By wave</a>
+      <a href="#method" data-view="method">Method</a>
+      <a class="ext" id="repo-link" href="#" target="_blank" rel="noopener">Data &amp; code ↗</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <p class="loading" id="loading">Loading the latest waves…</p>
+  <p class="error" id="load-error" hidden>The data could not be loaded. Refresh the page to try again.</p>
+
+  <!-- ===================================================== ALL WAVES -->
+  <section id="view-overview" class="view" hidden>
+    <div class="hero">
+      <p class="eyebrow" id="ov-status"></p>
+      <h1>How AI models expect U.S. inflation, surveyed every four hours</h1>
+      <p class="lede" id="ov-lede"></p>
+    </div>
+
+    <div class="tiles" id="ov-tiles"></div>
+
+    <article class="card" id="ov-trend-card">
+      <div class="card-head">
+        <h2>Answers over time</h2>
+        <p class="note">Mean answer in each wave. Pick a question, then split the lines by news arm, persona or model; the filters narrow which answers are averaged.</p>
+      </div>
+      <div class="controls">
+        <div class="seg" id="ov-q" role="group" aria-label="Question"></div>
+      </div>
+      <div class="controls">
+        <div class="seg" id="ov-split" role="group" aria-label="Split lines by"></div>
+        <label class="pick">Model <select id="ov-model"></select></label>
+        <label class="pick">Persona <select id="ov-persona"></select></label>
+        <label class="pick">News arm <select id="ov-arm"></select></label>
+      </div>
+      <div class="legend" id="ov-legend"></div>
+      <div class="chart" id="ov-trend"></div>
+    </article>
+
+      <article class="card">
+        <div class="card-head">
+          <h2>News effect over time</h2>
+          <p class="note">Each news arm minus the no-news arm, same question and filters as above. Above zero means the news raised the answer.</p>
+        </div>
+        <div class="legend" id="ov-eff-legend"></div>
+        <div class="chart" id="ov-effect"></div>
+      </article>
+      <article class="card">
+        <div class="card-head">
+          <h2>Model by news arm, all waves</h2>
+          <p class="note">Average over every wave so far, same question and persona filter as above.</p>
+        </div>
+        <div class="scroll"><table class="tbl heat" id="ov-heat"></table></div>
+      </article>
+
+    <article class="card">
+      <div class="card-head">
+        <h2>Every wave</h2>
+        <p class="note">Newest first. Times are the scheduled New York slot. Select a wave to open its full breakdown.</p>
+      </div>
+      <div class="scroll tall"><table class="tbl" id="ov-waves"></table></div>
+    </article>
+  </section>
+
+  <!-- ===================================================== ONE WAVE -->
+  <section id="view-wave" class="view" hidden>
+    <div class="wave-head">
+      <div>
+        <p class="eyebrow">Wave</p>
+        <h1 id="wv-title"></h1>
+        <p class="meta" id="wv-meta"></p>
+      </div>
+      <div class="wave-nav">
+        <button type="button" class="btn" id="wv-prev" aria-label="Previous wave">← Earlier</button>
+        <label class="pick"><span class="sr">Choose a wave</span><select id="wv-select"></select></label>
+        <button type="button" class="btn" id="wv-next" aria-label="Next wave">Later →</button>
+      </div>
+    </div>
+    <p class="lede" id="wv-lede"></p>
+    <div class="tiles" id="wv-tiles"></div>
+
+    <article class="card">
+      <div class="card-head"><h2>Answers by model and persona</h2>
+        <p class="note" id="wv-heat-note"></p></div>
+      <div class="controls"><div class="seg" id="wv-q-heat" role="group" aria-label="Question"></div></div>
+      <div class="controls"><div class="seg" id="wv-a-heat" role="group" aria-label="News arm"></div></div>
+      <div class="scroll"><table class="tbl heat" id="wv-heat"></table></div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><h2>How each kind of news moves the answers</h2>
+        <p class="note">Each dot is a news arm's mean minus the same model's no-news mean, pooled over personas and trials. Right of zero means the news raised the answer.</p></div>
+      <div class="controls"><div class="seg" id="wv-q-eff" role="group" aria-label="Question"></div></div>
+      <div class="legend" id="wv-eff-legend"></div>
+      <div class="chart" id="wv-eff"></div>
+    </article>
+
+    <div class="grid2">
+      <article class="card">
+        <div class="card-head"><h2>Perceived inflation, with and without economy news</h2>
+          <p class="note">Q1 by model. A spread near zero with economy news means every answer copied the same figure from the articles.</p></div>
+        <div class="scroll"><table class="tbl" id="wv-anchor"></table></div>
+      </article>
+      <article class="card">
+        <div class="card-head"><h2>The news each arm read</h2>
+          <p class="note" id="wv-news-note"></p></div>
+        <div class="seg" id="wv-a-news" role="group" aria-label="News arm"></div>
+        <div class="scroll news"><table class="tbl" id="wv-news"></table></div>
+      </article>
+    </div>
+
+    <article class="card">
+      <div class="card-head"><h2>Probability distributions</h2>
+        <p class="note">Average percent chance in each bin, all personas and arms. Bins run from deflation of 12% or more (left) to inflation of 12% or more (right); the dashed line is zero.</p></div>
+      <div class="controls"><div class="seg" id="wv-q-bins" role="group" aria-label="Horizon"></div></div>
+      <div class="minis" id="wv-bins"></div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><h2>Do point forecasts match the distributions?</h2>
+        <p class="note">Gap = point forecast minus the distribution's mean (bin midpoints, open bins closed at ±16%). Large positive gaps come from putting a lot of probability on deflation.</p></div>
+      <div class="scroll"><table class="tbl" id="wv-cons"></table></div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><h2>Answer quality, noise and cost</h2>
+        <p class="note" id="wv-qual-note"></p></div>
+      <div class="scroll"><table class="tbl" id="wv-qual"></table></div>
+    </article>
+  </section>
+
+  <!-- ===================================================== METHOD -->
+  <section id="view-method" class="view" hidden>
+    <div class="hero">
+      <p class="eyebrow">Method</p>
+      <h1>How the survey works</h1>
+      <p class="lede">Every four hours, at 00, 04, 08, 12, 16 and 20 New York time, each model answers the five inflation questions of the New York Fed Survey of Consumer Expectations. It does so as four different respondents and under five information conditions, three times each.</p>
+    </div>
+    <div class="grid2">
+      <article class="card prose">
+        <h2>Design</h2>
+        <ol class="steps">
+          <li><b>One shared news search per topic.</b> At the start of each wave, one web search per topic collects ten current articles (title, source, excerpt). Every model in that news arm reads exactly the same text, so differences between models are not differences in what they read.</li>
+          <li><b>One message per trial.</b> The system prompt sets the date, time and persona; one user message gives the news (if any) and then all five questions in order. The model answers all five in a single reply, at its default settings.</li>
+          <li><b>Parsing without second chances.</b> Answers are read from labelled lines. A probability list that misses 100 is rescaled to 100, with the raw sum kept and the answer flagged; anything unreadable is recorded as invalid. In design v1 (first wave only) a follow-up turn asked again instead.</li>
+          <li><b>Everything is kept.</b> Each wave stores the news, every prompt, every raw reply and the parsed answers, and this site is rebuilt from them after every wave.</li>
+        </ol>
+      </article>
+      <article class="card prose">
+        <h2>Reading the results</h2>
+        <ul>
+          <li>These are the answers of software systems under fixed prompts, not the beliefs of people. Personas are prompt framings, not demographic samples.</li>
+          <li>Within a wave, all trials in an arm share one set of articles. Treat a wave, not a trial, as the unit when judging whether a news effect is real.</li>
+          <li>Trials at default settings show how much a model's answer varies when asked the same thing again.</li>
+          <li>The entertainment arm is a placebo: if it moved expectations as much as economy news, the models would be reacting to any text rather than to information.</li>
+          <li>Distribution means use bin midpoints, with the open-ended bins closed at ±16%. They are descriptive, not the SCE's fitted densities.</li>
+        </ul>
+      </article>
+    </div>
+    <div class="grid2">
+      <article class="card prose"><h2>Respondents</h2><div id="m-models"></div><div id="m-personas"></div></article>
+      <article class="card prose"><h2>News arms</h2><div id="m-arms"></div><h3>System prompt</h3><blockquote id="m-system"></blockquote></article>
+    </div>
+    <article class="card prose"><h2>The five questions, verbatim</h2><div id="m-questions"></div><h3>Answer format instruction</h3><pre class="qtext" id="m-answer"></pre></article>
+    <article class="card prose"><h2>Data</h2>
+      <p>All raw and parsed data are public in the repository: one folder per wave (manifest, captured news, every request and reply, parsed answers), a monthly panel with one row per trial, and a wave index.</p>
+      <p class="links" id="m-links"></p>
+    </article>
+  </section>
+</main>
+
+<footer class="foot"><div class="wrap foot-in"><span id="foot-updated"></span><span>Questions from the New York Fed Survey of Consumer Expectations. Models via OpenRouter.</span></div></footer>
+<div class="tip" id="tip" hidden></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

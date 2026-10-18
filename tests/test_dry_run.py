@@ -49,3 +49,18 @@ def test_failed_wave_is_not_marked_complete(tmp_path, monkeypatch):
     with pytest.raises(run_wave.WaveFailed):
         run_wave.run("dry-run", wave_id="2026-10-18T04ET", out=str(tmp_path), client=Down(), models=["x/y"])
     assert not list(tmp_path.rglob("responses.csv"))
+
+
+def test_site_build(tmp_path):
+    from hfie import site
+    out = tmp_path / "data"
+    for w in ("2026-10-18T04ET", "2026-10-18T08ET"):
+        run_wave.run("dry-run", wave_id=w, out=str(out), client=FakeClient(seed=3))
+    idx = site.build(out, tmp_path / "_site")
+    assert [w["id"] for w in idx["waves"]] == ["2026-10-18T04ET", "2026-10-18T08ET"]
+    assert idx["waves"][0]["label"] == "Sun Oct 18, 04:00 ET"
+    assert (tmp_path / "_site" / "index.html").exists() and (tmp_path / "_site" / "app.js").exists()
+    series = json.loads((tmp_path / "_site" / "data" / "series_2026-10.json").read_text())["rows"]
+    assert len({r[0] for r in series}) == 2
+    detail = json.loads((tmp_path / "_site" / "data" / "waves" / "2026-10-18T08ET.json").read_text())
+    assert detail["summary"]["flag"] == "rescaled" and len(detail["bins"]) == 2 * 8

@@ -3,10 +3,13 @@ name: Survey wave
 # Waves run at 00, 04, 08, 12, 16 and 20 New York time. GitHub cron only knows UTC,
 # so both the EDT and the EST offsets are scheduled; the runner maps each trigger to
 # its New York slot and exits immediately if that slot already has a wave.
+# GitHub sometimes delays or drops scheduled runs, so an hourly backup trigger also
+# runs; it finishes in seconds when the current slot is already done.
 on:
   schedule:
     - cron: "3 0,4,8,12,16,20 * * *"    # New York slots while on EDT (UTC-4)
     - cron: "3 1,5,9,13,17,21 * * *"    # New York slots while on EST (UTC-5)
+    - cron: "33 * * * *"                 # hourly backup: catches a dropped or late trigger
   push:                                  # editing this file runs a simulated (dry-run) wave as a check
     branches: [main]
     paths: [".github/workflows/survey.yml"]
@@ -33,19 +36,40 @@ jobs:
   wave:
     runs-on: ubuntu-latest
     timeout-minutes: 120
+    outputs:
+      ran: ${{ steps.wave.outputs.ran }}
+      mode: ${{ env.MODE }}
     env:
       MODE: ${{ inputs.mode || (github.event_name == 'push' && 'dry-run') || 'production' }}
     steps:
       - uses: actions/checkout@v5
 
+      - name: Is this slot already done?
+        id: gate
+        if: github.event_name == 'schedule'
+        run: |
+          python3 - <<'PY'
+          import os, pathlib, datetime, zoneinfo
+          ny = datetime.datetime.now(zoneinfo.ZoneInfo("America/New_York"))
+          hour = max(h for h in (0, 4, 8, 12, 16, 20) if h <= ny.hour)   # keep in sync with config.yaml
+          wave = f"{ny:%Y-%m-%d}T{hour:02d}ET"
+          done = pathlib.Path(f"data/waves/{ny:%Y/%m/%d}/{wave}/responses.csv").exists()
+          print(f"slot {wave}: {'already done, skipping' if done else 'running'}")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
+              fh.write(f"done={'true' if done else 'false'}\n")
+          PY
+
       - uses: actions/setup-python@v6
+        if: steps.gate.outputs.done != 'true'
         with:
           python-version: "3.12"
           cache: pip
 
       - run: pip install -r requirements.txt
+        if: steps.gate.outputs.done != 'true'
 
       - name: Run wave
+        if: steps.gate.outputs.done != 'true'
         id: wave
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
@@ -76,3 +100,12 @@ jobs:
         with:
           name: dry-run-wave
           path: data_dryrun/
+
+  website:
+    needs: wave
+    if: needs.wave.outputs.ran == 'true' && needs.wave.outputs.mode == 'production'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/site.yml

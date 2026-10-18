@@ -5,6 +5,8 @@ about U.S. inflation, under five information conditions and four respondent pers
 follow the New York Fed Survey of Consumer Expectations. Everything is saved: the news the models
 were shown, every prompt, every raw reply, and the parsed answers.
 
+**Live website:** https://alizarif.github.io/hf-ai-inflation-expectations/ (all waves over time, each wave in detail, and the method; rebuilt after every wave)
+
 <!-- STATUS:START -->
 **Latest wave:** `2026-10-18T08ET` · 420 trials · 420 fully valid · 30 had a probability list rescaled to 100 · cost $0.384  
 **Waves so far:** 2 · **rows in panel:** 840 · **total cost:** $1.13
@@ -54,6 +56,7 @@ data/waves/YYYY/MM/DD/<wave>/   one folder per wave
 data/panel/panel_YYYY-MM.csv    all waves stacked (one row per trial), split by month
 data/waves_index.csv            one row per wave (quality, cost, news sources)
 charts/                         regenerated after every wave
+web/                            the public website (static HTML + D3); hfie/site.py writes its JSON data
 data_test/, charts_test/        output of manual test runs (kept out of the panel)
 ```
 
