@@ -103,8 +103,7 @@ jobs:
 
   website:
     needs: wave
-    # GitHub Pages deploy is optional: set the repository variable PAGES_ENABLED=true to turn it on.
-    if: needs.wave.outputs.ran == 'true' && needs.wave.outputs.mode == 'production' && vars.PAGES_ENABLED == 'true'
+    if: needs.wave.outputs.ran == 'true' && needs.wave.outputs.mode == 'production'
     permissions:
       contents: read
       pages: write
