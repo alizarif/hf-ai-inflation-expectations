@@ -1,4 +1,4 @@
-# High-frequency AI inflation expectations
+# AI High Frequency Inflation Expectations Panel
 
 Every four hours (00, 04, 08, 12, 16, 20 New York time) this repository surveys seven AI models
 about U.S. inflation, under five information conditions and four respondent personas. Questions
@@ -9,7 +9,7 @@ were shown, every prompt, every raw reply, and the parsed answers.
 
 <!-- STATUS:START -->
 **Latest wave:** `2026-10-18T08ET` · 420 trials · 420 fully valid · 30 had a probability list rescaled to 100 · cost $0.384  
-**Waves so far:** 2 · **rows in panel:** 840 · **total cost:** $1.13
+**Waves so far:** 1 · **rows in panel:** 420 · **total cost:** $0.38
 <!-- STATUS:END -->
 
 ## Design

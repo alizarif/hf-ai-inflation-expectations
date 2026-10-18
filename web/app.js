@@ -217,12 +217,12 @@ function rowTable(table, cols, rows, onRow) {
 function renderOverview() {
   const I = S.index, waves = I.waves, last = waves.at(-1), prev = waves.at(-2), wi = waves.length - 1;
   const totalTrials = d3.sum(waves, (w) => w.n_trials);
-  $("ov-status").textContent = `Latest wave ${last.label} · ${waves.length} waves · ${int(totalTrials)} answers`;
+  $("ov-status").textContent = `Latest wave ${last.label} · ${waves.length} wave${waves.length === 1 ? "" : "s"} · ${int(totalTrials)} answers`;
   $("ov-lede").replaceChildren(
-    "In the latest wave, with no news the seven models expect ", el("b", { text: `${f2(last.none_q4)}%` }),
-    " inflation over the next 12 months. Economy news moves that by ", el("b", { text: `${s2(last.economy_q4)} pp` }),
+    `Every four hours, ${last.models.length} AI models answer the New York Fed's inflation-expectations questions. In the latest wave, with no news they expect `,
+    el("b", { text: `${f2(last.none_q4)}%` }), " inflation over the next 12 months; economy news moves that by ", el("b", { text: `${s2(last.economy_q4)} pp` }),
     ", politics news by ", el("b", { text: `${s2(last.politics_q4)} pp` }), " and the entertainment placebo by ",
-    el("b", { text: `${s2(last.entertainment_q4)} pp` }), ". Each model answers as four kinds of respondent, under five news conditions, three times per wave.");
+    el("b", { text: `${s2(last.entertainment_q4)} pp` }), ".");
   const delta = (a, b) => (b == null || a == null ? null : `${s2(a - b)} vs previous wave`);
   $("ov-tiles").replaceChildren(
     tile("1-year expectation, no news", f2(last.none_q4), "%", delta(last.none_q4, prev?.none_q4)),
@@ -245,7 +245,7 @@ function renderOverview() {
     { label: "Design", get: (w) => el("span", { class: "pill", text: w.design.split("-").pop() }) },
     { label: "Trials", key: "n_trials", fmt: int },
     { label: "Fully valid", key: "share_ok", fmt: pct },
-    { label: "Flagged", get: (w) => (w.flag ? `${w.n_flagged} ${w.flag}` : "—") },
+    { label: "Lists rescaled", key: "n_flagged", fmt: int },
     { label: "1-yr, no news", key: "none_q4", fmt: f2 },
     { label: "Economy effect", key: "economy_q4", fmt: s2 },
     { label: "Politics effect", key: "politics_q4", fmt: s2 },
@@ -287,6 +287,30 @@ function drawOverviewCharts() {
   const cols = I.arms.map((_, i) => i).concat([-1]);
   heatTable($("ov-heat"), rowsL, cols, I.arms.map((a) => ARM_SHORT[a]).concat(["All arms"]),
     (m, a) => d3.mean(W, (w) => val(w, m, o.persona, a, q) ?? undefined) ?? null);
+
+  // trial-to-trial spread, averaged over waves
+  const sdRows = I.models.concat(["All models"]).map((m) => {
+    const out = { model: m };
+    SD_QS.forEach((qq, j) => { out[qq] = d3.mean(waves, (w) => w.trial_sd?.[m]?.[j] ?? undefined) ?? null; });
+    return out;
+  }).filter((r) => SD_QS.some((qq) => r[qq] != null));
+  sdTable($("ov-sd"), sdRows, false);
+}
+
+const SD_QS = ["q1", "q4", "q5", "q2_mean", "q3_mean"];
+function sdTable(table, rows, withIdentical) {
+  const inner = rows.filter((r) => r.model !== "All models").flatMap((r) => SD_QS.map((q) => r[q])).filter((v) => v != null);
+  const hi = d3.max(inner) || 1;
+  const heads = SD_QS.map((q) => Q[q].short).concat(withIdentical ? ["Q4 identical"] : []);
+  table.replaceChildren(
+    el("thead", {}, el("tr", {}, el("th", { text: "Model" }), ...heads.map((h) => el("th", { text: h })))),
+    el("tbody", {}, ...rows.map((r) => el("tr", { class: r.model === "All models" ? "all" : "" }, el("td", { text: r.model }),
+      ...SD_QS.map((q) => {
+        const td = el("td", { text: r[q] == null ? "—" : f2(r[q]) });
+        if (r[q] != null && r.model !== "All models") td.style.background = `color-mix(in srgb, var(--heat) ${Math.round(4 + 44 * r[q] / hi)}%, transparent)`;
+        return td;
+      }),
+      ...(withIdentical ? [el("td", { text: r.identical_q4 == null ? "—" : pct(r.identical_q4) })] : [])))));
 }
 
 /* ================================================================== ONE WAVE */
@@ -319,7 +343,7 @@ async function renderWave(id) {
     " inflation over the next 12 months. Economy news moves that by ", el("b", { text: `${s2(sm.economy_q4)} pp` }),
     ", politics news by ", el("b", { text: `${s2(sm.politics_q4)} pp` }), ", general news by ", el("b", { text: `${s2(sm.general_q4)} pp` }),
     " and the entertainment placebo by ", el("b", { text: `${s2(sm.entertainment_q4)} pp` }), ".");
-  const flagText = sm.flag === "rescaled" ? `${sm.n_flagged} had a list rescaled to 100` : sm.flag === "corrected" ? `${sm.n_flagged} needed a follow-up turn` : "";
+  const flagText = sm.flag === "rescaled" ? `${sm.n_flagged} had a list rescaled to 100` : "";
   $("wv-tiles").replaceChildren(
     tile("Trials", int(sm.n_trials), "", "one conversation each"),
     tile("All five answers valid", pct(sm.share_ok), "", flagText),
@@ -343,13 +367,12 @@ async function renderWave(id) {
     { label: "Gap, 1 yr", key: "gap_1y", fmt: s2 }, { label: "Q5 point", key: "q5", fmt: f2 }, { label: "Q3 mean", key: "q3_mean", fmt: f2 },
     { label: "Gap, 5 yr", key: "gap_5y", fmt: s2 }, { label: "Chance of deflation, 1 yr", key: "p_deflation", fmt: (v) => `${d3.format(".1f")(v)}%` },
   ], D.consistency);
-  $("wv-qual-note").textContent = (sm.flag === "corrected"
-    ? "Design v1: an unusable answer got one follow-up turn. Flagged = trials that needed it."
-    : "One call per trial. A probability list that misses 100 is rescaled to 100 (flagged); unreadable answers are invalid.")
-    + " Trial spread = average SD of Q4 across the identical trials in each cell.";
+  const sdRows = D.trial_sd ? [...D.trial_sd.slice(1), D.trial_sd[0]] : [];
+  sdTable($("wv-sd"), sdRows, true);
+  $("wv-qual-note").textContent = "One call per trial. A probability list that misses 100 is rescaled to 100 and counted as flagged; unreadable answers are invalid.";
   rowTable($("wv-qual"), [
     { label: "Model", key: "model" }, { label: "All 5 valid", key: "share_ok", fmt: pct }, { label: "Q2 valid", key: "valid_q2", fmt: pct },
-    { label: "Q3 valid", key: "valid_q3", fmt: pct }, { label: "Flagged", key: "flagged", fmt: int }, { label: "Trial spread, Q4", key: "trial_sd_q4", fmt: f2 },
+    { label: "Q3 valid", key: "valid_q3", fmt: pct }, { label: "Rescaled lists", key: "flagged", fmt: int },
     { label: "Reasoning tokens", key: "reasoning_tokens", fmt: int }, { label: "Seconds", key: "latency_s", fmt: d3.format(".1f") },
     { label: "Cost", key: "cost_usd", fmt: usd3 }, { label: "Share of cost", key: "cost_share", fmt: pct },
   ], D.quality);

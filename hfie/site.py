@@ -73,6 +73,14 @@ def wave_detail(df: pd.DataFrame, manifest: dict, news: dict) -> dict:
         e, n = s[s.arm == "economy"].q1.dropna(), s[s.arm == "none"].q1.dropna()
         anchor.append({"model": m, "none_q1": r(n.mean()), "econ_q1": r(e.mean()), "econ_sd": r(e.std()),
                        "econ_min": r(e.min()), "econ_max": r(e.max())})
+    sd_qs = ["q1", "q4", "q5", "q2_mean", "q3_mean"]
+    trial_sd = []
+    for m in ["All models"] + models:
+        s = df if m == "All models" else df[df.model == m]
+        cells = s.groupby(["model", "persona", "arm"])
+        row = {"model": m, **{q: r(cells[q].std().mean()) for q in sd_qs}}
+        row["identical_q4"] = r((cells.q4.std() == 0).mean())
+        trial_sd.append(row)
     pooled = df.groupby("arm").q4.mean()
     summary = {"n_trials": len(df), "share_ok": r((df.status == "ok").mean()), "flag": flag,
                "n_flagged": int(df[flag].astype(bool).sum()) if flag else 0, "cost_usd": r(manifest.get("cost_usd"), 4),
@@ -82,7 +90,7 @@ def wave_detail(df: pd.DataFrame, manifest: dict, news: dict) -> dict:
                 for a, s in news.items() if a != "none"}
     providers = {a: v.get("provider") for a, v in manifest.get("news", {}).items() if a != "none"}
     return {"wave_id": manifest["wave_id"], "label": label_et(manifest["slot_et"]), "summary": summary, "bins": bins,
-            "bin_labels": BIN_LABELS, "consistency": cons, "quality": qual, "anchor": anchor, "news": news_out,
+            "bin_labels": BIN_LABELS, "consistency": cons, "trial_sd": trial_sd, "quality": qual, "anchor": anchor, "news": news_out,
             "news_providers": providers, "models": models,
             "manifest": {k: manifest.get(k) for k in ("design_version", "design_hash", "slot_et", "slot_utc", "started_utc",
                                                       "finished_utc", "lateness_minutes", "trials", "cost_usd")}}
@@ -126,7 +134,8 @@ def build(data_dir: Path, out: Path) -> dict:
         det = wave_detail(df, man, news)
         details.setdefault(man["slot_et"][:7], {})[man["wave_id"]] = det
         waves.append({"id": man["wave_id"], "label": det["label"], "slot_utc": man["slot_utc"], "slot_et": man["slot_et"],
-                      "design": man.get("design_version", ""), "models": det["models"], "path": str(wdir.relative_to(data_dir.parent)),
+                      "design": man.get("design_version", ""), "models": det["models"],
+                      "trial_sd": {t["model"]: [t[q] for q in ("q1", "q4", "q5", "q2_mean", "q3_mean")] for t in det["trial_sd"]}, "path": str(wdir.relative_to(data_dir.parent)),
                       **{k: det["summary"][k] for k in ("n_trials", "share_ok", "n_flagged", "flag", "cost_usd", "none_q4",
                                                         "none_q5", "economy_q4", "politics_q4", "general_q4", "entertainment_q4")
                          if k in det["summary"]}})

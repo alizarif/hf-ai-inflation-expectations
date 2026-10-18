@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>AI Inflation Expectations Panel</title>
+<title>AI High Frequency Inflation Expectations Panel</title>
 <meta name="description" content="Seven AI models answer the New York Fed's inflation-expectations questions every four hours, with and without the day's news. Live results, per-wave breakdowns and full data.">
-<meta property="og:title" content="AI Inflation Expectations Panel">
+<meta property="og:title" content="AI High Frequency Inflation Expectations Panel">
 <meta property="og:description" content="How AI models expect U.S. inflation, surveyed every four hours under different news conditions.">
 <meta property="og:type" content="website">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,7 +16,7 @@
 <body>
 <header class="topbar">
   <div class="wrap topbar-in">
-    <a class="brand" href="#overview"><span class="brand-mark" aria-hidden="true"></span>AI Inflation Expectations Panel</a>
+    <a class="brand" href="#overview"><span class="brand-mark" aria-hidden="true"></span>AI High Frequency Inflation Expectations Panel</a>
     <nav class="nav" aria-label="Sections">
       <a href="#overview" data-view="overview">All waves</a>
       <a href="#wave" data-view="wave">By wave</a>
@@ -34,8 +34,7 @@
   <section id="view-overview" class="view" hidden>
     <div class="hero">
       <p class="eyebrow" id="ov-status"></p>
-      <h1>How AI models expect U.S. inflation, surveyed every four hours</h1>
-      <p class="lede" id="ov-lede"></p>
+      <p class="lede big" id="ov-lede"></p>
     </div>
 
     <div class="tiles" id="ov-tiles"></div>
@@ -73,6 +72,14 @@
         </div>
         <div class="scroll"><table class="tbl heat" id="ov-heat"></table></div>
       </article>
+
+    <article class="card">
+      <div class="card-head">
+        <h2>How much answers vary between identical trials</h2>
+        <p class="note">Each model answers every persona × news-arm combination three times with the identical prompt. This is the standard deviation across those three answers, averaged over all combinations and all waves, in percentage points. 0 means the model gave exactly the same answer every time. Lighter cells are more consistent.</p>
+      </div>
+      <div class="scroll"><table class="tbl heat" id="ov-sd"></table></div>
+    </article>
 
     <article class="card">
       <div class="card-head">
@@ -144,7 +151,13 @@
     </article>
 
     <article class="card">
-      <div class="card-head"><h2>Answer quality, noise and cost</h2>
+      <div class="card-head"><h2>How much answers vary between identical trials</h2>
+        <p class="note">Standard deviation across the three identical trials in each persona × news-arm cell, averaged over cells, in percentage points. 0 means the same answer every time. The last column is the share of cells where all three 1-year forecasts (Q4) were identical.</p></div>
+      <div class="scroll"><table class="tbl heat" id="wv-sd"></table></div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><h2>Answer quality, speed and cost</h2>
         <p class="note" id="wv-qual-note"></p></div>
       <div class="scroll"><table class="tbl" id="wv-qual"></table></div>
     </article>
@@ -163,7 +176,7 @@
         <ol class="steps">
           <li><b>One shared news search per topic.</b> At the start of each wave, one web search per topic collects ten current articles (title, source, excerpt). Every model in that news arm reads exactly the same text, so differences between models are not differences in what they read.</li>
           <li><b>One message per trial.</b> The system prompt sets the date, time and persona; one user message gives the news (if any) and then all five questions in order. The model answers all five in a single reply, at its default settings.</li>
-          <li><b>Parsing without second chances.</b> Answers are read from labelled lines. A probability list that misses 100 is rescaled to 100, with the raw sum kept and the answer flagged; anything unreadable is recorded as invalid. In design v1 (first wave only) a follow-up turn asked again instead.</li>
+          <li><b>Parsing without second chances.</b> Answers are read from labelled lines. A probability list that misses 100 is rescaled to 100, with the raw sum kept and the answer flagged; anything unreadable is recorded as invalid. Nothing is asked twice.</li>
           <li><b>Everything is kept.</b> Each wave stores the news, every prompt, every raw reply and the parsed answers, and this site is rebuilt from them after every wave.</li>
         </ol>
       </article>
