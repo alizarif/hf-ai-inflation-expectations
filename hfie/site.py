@@ -118,6 +118,12 @@ def build(data_dir: Path, out: Path) -> dict:
         shutil.rmtree(out)
     shutil.copytree(ROOT / "web", out)
     (out / "data").mkdir(parents=True, exist_ok=True)
+    # cache-busting: browsers and the Pages CDN must never pair new HTML with an old script
+    import hashlib
+    ver = hashlib.sha256(b"".join((ROOT / "web" / f).read_bytes() for f in ("app.js", "style.css"))).hexdigest()[:10]
+    page = (out / "index.html").read_text(encoding="utf-8")
+    page = page.replace('src="app.js"', f'src="app.js?v={ver}"').replace('href="style.css"', f'href="style.css?v={ver}"')
+    (out / "index.html").write_text(page, encoding="utf-8")
     cfg = yaml.safe_load((ROOT / "config.yaml").read_text())
     files = sorted((data_dir / "waves").glob("*/*/*/*/responses.csv"))
     loaded = []
@@ -165,6 +171,7 @@ def artifact_page(out: Path) -> Path:
     html = (out / "index.html").read_text(encoding="utf-8")
     head = re.search(r"<head>(.*?)</head>", html, re.S).group(1)
     body = re.search(r"<body>(.*?)</body>", html, re.S).group(1)
+    head, body = (re.sub(r"\?v=[0-9a-f]+", "", x) for x in (head, body))   # claude.ai pages serve fresh files
     keep = [m.group(0) for m in re.finditer(r"<title>.*?</title>|<link [^>]*>", head)]
     page = "\n".join(keep[:1] + ['<meta name="claude:viewport-fit-sides" content="cover">'] + keep[1:]) + "\n" + body.strip() + "\n"
     path = out / "artifact.html"
