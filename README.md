@@ -6,8 +6,8 @@ follow the New York Fed Survey of Consumer Expectations. Everything is saved: th
 were shown, every prompt, every raw reply, and the parsed answers.
 
 <!-- STATUS:START -->
-**Latest wave:** `2026-10-18T04ET` · 420 trials · 400 fully valid · 27 needed a correction turn · cost $0.742  
-**Waves so far:** 1 · **rows in panel:** 420 · **total cost:** $0.74
+**Latest wave:** `2026-10-18T08ET` · 420 trials · 420 fully valid · 30 had a probability list rescaled to 100 · cost $0.384  
+**Waves so far:** 2 · **rows in panel:** 840 · **total cost:** $1.13
 <!-- STATUS:END -->
 
 ## Design
