@@ -3,10 +3,10 @@
  "mode": "test",
  "slot_et": "2026-10-18T04:00:00-04:00",
  "slot_utc": "2026-10-18T08:00:00+00:00",
- "started_utc": "2026-10-18T10:40:13+00:00",
- "finished_utc": "2026-10-18T10:46:59+00:00",
- "lateness_minutes": 160.2,
- "design_hash": "d2fd30a3af496427",
+ "started_utc": "2026-10-18T10:49:11+00:00",
+ "finished_utc": "2026-10-18T10:55:12+00:00",
+ "lateness_minutes": 169.2,
+ "design_hash": "3efccf0b28580b17",
  "design_version": "2026-10-18-v1",
  "models": [
   "openai/gpt-6-luna",
@@ -34,10 +34,10 @@
  "trials": 1,
  "n_trials": 140,
  "status_counts": {
-  "ok": 136,
-  "partial": 4
+  "ok": 133,
+  "partial": 7
  },
- "n_corrected": 5,
+ "n_corrected": 13,
  "news": {
   "none": {
    "provider": null,
@@ -48,29 +48,29 @@
   "general": {
    "provider": "openrouter_exa",
    "n_items": 10,
-   "hash": "3699ff822d27d1eb",
+   "hash": "80918b46384851ee",
    "notes": []
   },
   "economy": {
    "provider": "openrouter_exa",
    "n_items": 10,
-   "hash": "fee08faaa72dd211",
+   "hash": "f1cc566da45bcedb",
    "notes": []
   },
   "politics": {
    "provider": "openrouter_exa",
    "n_items": 10,
-   "hash": "cd4889fa5993f75a",
+   "hash": "b160805e126764e9",
    "notes": []
   },
   "entertainment": {
    "provider": "openrouter_exa",
    "n_items": 10,
-   "hash": "f1dc2deb41f9add9",
+   "hash": "0d18312758f1e246",
    "notes": []
   }
  },
- "cost_usd": 0.2618,
+ "cost_usd": 0.3158,
  "budget_cap_usd": 5.0,
- "github_run": "39120136256"
+ "github_run": "39120727415"
 }
