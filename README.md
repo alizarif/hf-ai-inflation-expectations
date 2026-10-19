@@ -8,8 +8,8 @@ were shown, every prompt, every raw reply, and the parsed answers.
 **Live website:** https://alizarif.github.io/hf-ai-inflation-expectations/ (all waves over time, each wave in detail, and the method; rebuilt after every wave)
 
 <!-- STATUS:START -->
-**Latest wave:** `2026-10-18T16ET` · 420 trials · 418 fully valid · 23 had a probability list rescaled to 100 · cost $0.413  
-**Waves so far:** 3 · **rows in panel:** 1260 · **total cost:** $1.22
+**Latest wave:** `2026-10-18T20ET` · 420 trials · 420 fully valid · 37 had a probability list rescaled to 100 · cost $0.396  
+**Waves so far:** 4 · **rows in panel:** 1680 · **total cost:** $1.62
 <!-- STATUS:END -->
 
 ## Design
