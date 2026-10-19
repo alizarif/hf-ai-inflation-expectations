@@ -1,5 +1,21 @@
 # AI High Frequency Inflation Expectations Panel
 
+## Run calendar
+
+<!-- CALENDAR:START -->
+**Running or due now:** **Mon Oct 19, 04:00 New York** (EDT) = **Mon Oct 19, 11:30 Tehran**  
+**Next scheduled wave:** **Mon Oct 19, 08:00 New York** (EDT) = **Mon Oct 19, 15:30 Tehran**  
+**Completed waves:** 5 · calendar updated Oct 19, 04:46 New York / 12:16 Tehran (it refreshes after every wave)
+
+Times in the cells are **Tehran time** for each New York slot. 🟢 completed · 🔴 missed · 🟡 due now · ⏳ next · ⚪ scheduled
+
+| New York date | 00:00 ET | 04:00 ET | 08:00 ET | 12:00 ET | 16:00 ET | 20:00 ET |
+|---|---|---|---|---|---|---|
+| Tue Oct 20 | ⚪ 07:30 | ⚪ 11:30 | ⚪ 15:30 | ⚪ 19:30 | ⚪ 23:30 | ⚪ 03:30 (+1d) |
+| Mon Oct 19 | 🟢 07:30 | 🟡 11:30 | ⏳ 15:30 | ⚪ 19:30 | ⚪ 23:30 | ⚪ 03:30 (+1d) |
+| Sun Oct 18 | · | · | 🟢 15:30 | 🟢 19:30 | 🟢 23:30 | 🟢 03:30 (+1d) |
+<!-- CALENDAR:END -->
+
 Every four hours (00, 04, 08, 12, 16, 20 New York time) this repository surveys seven AI models
 about U.S. inflation, under five information conditions and four respondent personas. Questions
 follow the New York Fed Survey of Consumer Expectations. Everything is saved: the news the models

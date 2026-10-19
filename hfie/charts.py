@@ -17,6 +17,7 @@ import matplotlib.pyplot as plt  # noqa: E402
 import pandas as pd  # noqa: E402
 
 from .config import ROOT  # noqa: E402
+from . import runcal  # noqa: E402
 from .panel import build  # noqa: E402
 
 # Control arm in neutral ink (dashed); treatment arms take categorical slots 1-4 in fixed order.
@@ -175,6 +176,7 @@ def main(argv=None):
     quality(index, out / "data_quality.png")
     if not a.no_readme:
         update_readme(index, panel, ROOT / "README.md")
+        runcal.update_readme(ROOT / "README.md", data_dir)
     print(f"Charts written to {out} ({len(index)} waves, {len(panel)} rows)")
 
 

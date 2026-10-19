@@ -3,13 +3,13 @@ name: Survey wave
 # Waves run at 00, 04, 08, 12, 16 and 20 New York time. GitHub cron only knows UTC,
 # so both the EDT and the EST offsets are scheduled; the runner maps each trigger to
 # its New York slot and exits immediately if that slot already has a wave.
-# GitHub sometimes delays or drops scheduled runs, so an hourly backup trigger also
-# runs; it finishes in seconds when the current slot is already done.
+# GitHub often delays or drops scheduled runs, so a backup trigger also fires every
+# 10 minutes; it finishes in seconds when the current slot is already done.
 on:
   schedule:
     - cron: "3 0,4,8,12,16,20 * * *"    # New York slots while on EDT (UTC-4)
     - cron: "3 1,5,9,13,17,21 * * *"    # New York slots while on EST (UTC-5)
-    - cron: "33 * * * *"                 # hourly backup: catches a dropped or late trigger
+    - cron: "*/10 * * * *"               # backup every 10 min: GitHub delays or drops many scheduled runs
   push:                                  # editing this file runs a simulated (dry-run) wave as a check
     branches: [main]
     paths: [".github/workflows/survey.yml"]

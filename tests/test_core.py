@@ -93,3 +93,18 @@ def test_article_filter():
     assert is_article("https://www.nbcnews.com/business/economy/inflation-jumps-gas-diesel-prices-rcna123456")
     assert is_article("https://apnews.com/article/inflation-prices-consumers-fed-8f3a9c1d2e4b5a6c")
     assert is_article("https://www.cnbc.com/2026/10/17/us-inflation-stays-high.html")
+
+
+def test_run_calendar(tmp_path):
+    from datetime import datetime, timezone
+    from hfie.runcal import render
+    for w in ("2026-10-18T08ET", "2026-10-18T12ET", "2026-10-19T00ET"):
+        p = tmp_path / "waves" / "2026" / "10" / w[8:10] / w
+        p.mkdir(parents=True)
+        (p / "responses.csv").write_text("x")
+    now = datetime(2026, 10, 19, 8, 45, tzinfo=timezone.utc)          # 04:45 New York, 12:15 Tehran
+    out = render(tmp_path, now)
+    assert "| Sun Oct 18 | · | · | 🟢 15:30 | 🟢 19:30 | 🔴 23:30 | 🔴 03:30 (+1d) |" in out
+    assert "| Mon Oct 19 | 🟢 07:30 | 🟡 11:30 | ⏳ 15:30 | ⚪ 19:30 |" in out
+    assert "Running or due now:** **Mon Oct 19, 04:00 New York** (EDT) = **Mon Oct 19, 11:30 Tehran**" in out
+    assert "Next scheduled wave:** **Mon Oct 19, 08:00 New York** (EDT) = **Mon Oct 19, 15:30 Tehran**" in out
