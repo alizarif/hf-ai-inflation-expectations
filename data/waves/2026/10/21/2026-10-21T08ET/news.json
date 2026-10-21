@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-10-21T14:18:56+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories October 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-21T14:18:56+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "World news | World | The Guardian",
+    "url": "https://www.theguardian.com/world/2026/oct/21/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "military detains US politician Brad Lander and rabbis at olive harvest About 80 US, Israeli and British volunteers held near Nahalin in West Bank and taken to ... - ### Putin orders release of jailed American as he meets Trump envoy for Ukraine talks"
+   },
+   {
+    "title": "Morning news brief : NPR",
+    "url": "https://www.npr.org/2026/10/21/nx-s1-6003502/morning-news-brief",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "By A Martínez Steve Inskeep Listen · 11:36 11:36 Trump envoy Steve Witkoff to visit Russia in hopes of ending war, Trump campaigns in North Carolina, Saudi Arabia cancels 'Davos in the Desert' due to Houthi strikes."
+   },
+   {
+    "title": "Morning Briefing: Oct. 21, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-21-2026/4095279",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "to start your Wednesday, including Libya’s parliament approving a maritime deal with Türkiye, ... -led coalition intercepting drones targeting kingdom, the first day of US-sponsored military-technical talks between Lebanon and Israel concluding in Florida"
+   },
+   {
+    "title": "Reuters World News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3995777-reuters-world-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "approved treatment or vaccine. Since the first cases were confirmed in Democratic Republic of ... May, the disease has killed 4,646 people. Health officials fear misinformation and funding shortfalls could fuel further spread within the region and across"
+   },
+   {
+    "title": "Top news of the day on October 21, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/top-news-of-the-day-on-october-21-2026/article71607450.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "# Top news of the day on October 21, 2026 - The Hindu Author: The Hindu Bureau Published: 2026-10-21T12:23:23Z Source: thehindu.com Language: en"
+   },
+   {
+    "title": "World News Today Live Updates 21 October 2026: Trump on India US Trade Deal, US Iran War News, France Protest Reason, Breaking News Around US, Iran, Russia, Ukraine",
+    "url": "https://indianexpress.com/article/world/world-news-today-live-updates-trump-opposed-netanyahu-iran-strike-israel-us-midterm-elections-saudi-arabia-houthi-yemen-10930392/",
+    "source": "indianexpress.com",
+    "published": "",
+    "excerpt": "expect dialogue ⁠with Iran ​while blockading ​and threatening ​it, ... ‌said on Wednesday, according ⁠to ⁠state media, ⁠a day ‌after ​Pakistan’s ‌army chief Asim Munir visited ‌Tehran ​to ​discuss mediation ​efforts ​and regional ⁠developments."
+   },
+   {
+    "title": "Google News trending today: Oct 21, 2026 | Trends MCP",
+    "url": "https://www.trendsmcp.ai/trending/google-news-trending-october-21-2026",
+    "source": "trendsmcp.ai",
+    "published": "",
+    "excerpt": "A Washington Post story on Ohio's governor race leads Google News Top News for October 21, 2026, snapshot 08:01:46.633513. All 10 headlines are new versus October 20, when Paris curfews sat at rank 1. AP said Vivek Ramaswamy's campaign confirmed a 4 million dollar ad featuring Amy Acton's estranged mother on October 20. get_growth is skipped for headline rows. Clock moved from 08:01:34.901090 on October 20. ... 1. Ohio governor's race in uproar over ad featuring Democrat's estranged mother - The Washington Post Campaign story at rank 1, new. AP and Axios said Ramaswamy's team confirmed the spot late October 20 and would spend 4 million dollars to air it. Acton has said she has not seen her mother since about age 12. 2. Petaluma woman arrested and charged in Trump DOJ's purge of alleged fraudulent voters - The Press Democrat California story at rank 2, new. The Press Democrat named Veronica Bullene, 43, among 28 people charged in Operation Protect the Vote. A warrant was signed October 16. 3. U.S. envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now' - BBC Diplomacy story at rank 3, new. The Guardian said Steve Witkoff met Volodymyr Zelenskyy in Oslo, then was due to see Vladimir Putin on October 21. Zelenskyy said missile warnings \"work now.\" 4. Election Dispatches: Vast Sums Flood Races as Republicans Try Fending Off Democratic Charge - The New York Times ... Midterm money story at rank 4, new. No extra box-score figure was attached beyond the ranked headline. 5. Texas couple charged in shooting death of Missouri high schooler on her way to the zoo - NBC News Crime story at rank 5, new. NBC said Willie Herndon, 42, faces first-degree murder in the October 14 killing of Alyssa Wilson, 17, on Interstate 170. Taiya Herndon, 45, is charged with hindering prosecution. 6. Musk chose to restrict Ukraine's access to SpaceX satellite network, sources say - CBS News Starlink story at rank 6, new. WSJ dated an exclusive on Musk ordering a slowdown to October 20. CBS said the limits hit military-grade terminals. 7. Trump presents $10,000 check to Nick Shirley, the YouTuber behind Minnesota day care fraud furor - CBS News Reward story at rank 7, new. The Star Tribune said the October 20 check is the first award in a 25 million dollar Justice Department fraud-tip program. 8. 'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute - BBC Golf-course story at rank 8, new. It replaces yesterday's tree-clearing headline on the same fight. 9. 'France should serve as a wakeup call': Republicans find a closing message in Paris riots - Politico Politics story at rank 9, new. NPR said Paris kept a Republique and Les Halles curfew \"for as long as necessary\" after weekend riots and at least 2400 arrests. 10. In Texas' Senate Race, Paxton and Talarico Converge on Key Battleground - The New York Times ... Senate story at rank 10, new. University of Houston Hobby School put James Talarico at 48 percent and Ken Paxton at 46 percent, margin 2.19 percent, fielded October 10 to 14 among 2000 likely voters. See the Google News Top News API page."
+   },
+   {
+    "title": "GPB morning headlines for October 21, 2026",
+    "url": "https://www.gpb.org/news/2026/10/21/gpb-morning-headlines-for-october-21-2026",
+    "source": "gpb.org",
+    "published": "",
+    "excerpt": "President Donald Trump and former president Barack Obama are both making stops in Georgia ahead of election day. Georgia’s share of people over 65 years old nearly doubled over the past decade and shows no signs of slowing down."
+   },
+   {
+    "title": "10 Things Global News - 21st October 2026",
+    "url": "https://www.10things.news/p/10-things-global-news-21st-october-678",
+    "source": "10things.news",
+    "published": "",
+    "excerpt": "1. Trump Pushes Kyiv As Envoy Takes Proposal To Putin (Geopolitics) 2. European Protests Expose Widening Public Discontent (Europe) 3. Britain Sends Fighters As Saudi Attacks Intensify (UK) 4. Ebola Reaches Nigeria As Outbreak Spreads Across Africa (Medical) 5. Iran Draws Out Talks Ahead Of US Midterms (Middle East) 6. Musk Ordered Starlink Restrictions Disrupt Ukraine’s Defences (Europe) 7. Nato Reinforces Black Sea After Attacks On Shipping (Europe) 8. Alberta Rejects Path To Independence Vote (North America) 9. Rwandan Government Critic Found Beheaded In Uganda (Africa) 10. Lula Seeks Bolsonaro Disqualification Over Meta Claims (South America) ... Protests over living costs, housing and deteriorating public services have spread across Europe, with demonstrations turning violent in several countries. In France, authorities estimated 550,000 people marched on Saturday, while unrest brought looting, fires and more than 2,400 arrests. The government imposed partial curfews after clashes with police."
+   },
+   {
+    "title": "Morning Edition for October 21, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5987095/morning-edition-for-october-21-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "# Morning Edition for October 21, 2026 : NPR Author: A Martínez, Steve Inskeep Published: 2026-10-21T12:35:13Z Source: npr.org Language: en"
+   }
+  ],
+  "text": "[1] World news | World | The Guardian (theguardian.com)\nmilitary detains US politician Brad Lander and rabbis at olive harvest About 80 US, Israeli and British volunteers held near Nahalin in West Bank and taken to ... - ### Putin orders release of jailed American as he meets Trump envoy for Ukraine talks\n\n[2] Morning news brief : NPR (npr.org)\nBy A Martínez Steve Inskeep Listen · 11:36 11:36 Trump envoy Steve Witkoff to visit Russia in hopes of ending war, Trump campaigns in North Carolina, Saudi Arabia cancels 'Davos in the Desert' due to Houthi strikes.\n\n[3] Morning Briefing: Oct. 21, 2026 (aa.com.tr)\nto start your Wednesday, including Libya’s parliament approving a maritime deal with Türkiye, ... -led coalition intercepting drones targeting kingdom, the first day of US-sponsored military-technical talks between Lebanon and Israel concluding in Florida\n\n[4] Reuters World News Summary | International (devdiscourse.com)\napproved treatment or vaccine. Since the first cases were confirmed in Democratic Republic of ... May, the disease has killed 4,646 people. Health officials fear misinformation and funding shortfalls could fuel further spread within the region and across\n\n[5] Top news of the day on October 21, 2026 - The Hindu (thehindu.com)\n# Top news of the day on October 21, 2026 - The Hindu Author: The Hindu Bureau Published: 2026-10-21T12:23:23Z Source: thehindu.com Language: en\n\n[6] World News Today Live Updates 21 October 2026: Trump on India US Trade Deal, US Iran War News, France Protest Reason, Breaking News Around US, Iran, Russia, Ukraine (indianexpress.com)\nexpect dialogue ⁠with Iran ​while blockading ​and threatening ​it, ... ‌said on Wednesday, according ⁠to ⁠state media, ⁠a day ‌after ​Pakistan’s ‌army chief Asim Munir visited ‌Tehran ​to ​discuss mediation ​efforts ​and regional ⁠developments.\n\n[7] Google News trending today: Oct 21, 2026 | Trends MCP (trendsmcp.ai)\nA Washington Post story on Ohio's governor race leads Google News Top News for October 21, 2026, snapshot 08:01:46.633513. All 10 headlines are new versus October 20, when Paris curfews sat at rank 1. AP said Vivek Ramaswamy's campaign confirmed a 4 million dollar ad featuring Amy Acton's estranged mother on October 20. get_growth is skipped for headline rows. Clock moved from 08:01:34.901090 on October 20. ... 1. Ohio governor's race in uproar over ad featuring Democrat's estranged mother - The Washington Post Campaign story at rank 1, new. AP and Axios said Ramaswamy's team confirmed the …\n\n[8] GPB morning headlines for October 21, 2026 (gpb.org)\nPresident Donald Trump and former president Barack Obama are both making stops in Georgia ahead of election day. Georgia’s share of people over 65 years old nearly doubled over the past decade and shows no signs of slowing down.\n\n[9] 10 Things Global News - 21st October 2026 (10things.news)\n1. Trump Pushes Kyiv As Envoy Takes Proposal To Putin (Geopolitics) 2. European Protests Expose Widening Public Discontent (Europe) 3. Britain Sends Fighters As Saudi Attacks Intensify (UK) 4. Ebola Reaches Nigeria As Outbreak Spreads Across Africa (Medical) 5. Iran Draws Out Talks Ahead Of US Midterms (Middle East) 6. Musk Ordered Starlink Restrictions Disrupt Ukraine’s Defences (Europe) 7. Nato Reinforces Black Sea After Attacks On Shipping (Europe) 8. Alberta Rejects Path To Independence Vote (North America) 9. Rwandan Government Critic Found Beheaded In Uganda (Africa) 10. Lula Seeks …\n\n[10] Morning Edition for October 21, 2026 : NPR (npr.org)\n# Morning Edition for October 21, 2026 : NPR Author: A Martínez, Steve Inskeep Published: 2026-10-21T12:35:13Z Source: npr.org Language: en",
+  "hash": "80f84296b0c1a97c0d1cb0c28e429584f604326214dc36e5f8638b04f8506a72",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news October 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-21T14:19:08+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "FACT FOCUS: Trump's economy before Nov. 3 midterm elections | AP News",
+    "url": "https://apnews.com/article/fact-check-trump-economy-inflation-38c6e694edd13742244e23cff5f96446",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — President Donald Trump is trying to convince voters before the Nov. 3 midterm elections that the U.S. economy is rocketing upward. But voters say inflation remains a challenge because the Iran war has pushed up gasoline prices, grocery bills have remained expensive and high interest rates have made it harder to afford a home or a new car. The economy is neither as strong as Trump has claimed nor as weak as consumer sentiment surveys suggest. But with its mix of inflation, inequality and stock market gains, the economy is unsatisfying to most of the public, and its"
+   },
+   {
+    "title": "US inflation broadens as oil and services rise | Adalytica",
+    "url": "https://adalytica.com/news/us-inflation-oil-services-rise-a6c5887c",
+    "source": "adalytica.com",
+    "published": "",
+    "excerpt": "price data point to a broadening inflation impulse after wars in the Middle East and Russia pushed oil higher ... as airfares, delivery services and trucking showed clear signs of pass-through. That matters because it suggests the inflation problem is"
+   },
+   {
+    "title": "Grocery Prices Sit 22% Above 2021 Levels as Near-Record Diesel Raises Costs From Farm to Store",
+    "url": "https://www.foodworldnews.com/articles/81708/20261021/grocery-prices-sit-22-above-2021-levels-near-record-diesel-raises-costs-farm-store.htm",
+    "source": "foodworldnews.com",
+    "published": "",
+    "excerpt": "September price data show food at home costs 22.5% more than five years ago, while diesel above $6 a gallon adds pressure that has not fully reached store shelves. ... Americans are paying about 22% more for groceries than they did five years ago, and the latest federal price data arrived as diesel — the fuel that powers tractors, freight trucks and refrigerated trailers — holds near its record high. The Bureau of Labor Statistics' food-at-home index stood at 321.758 in September 2026, compared with 262.695 in September 2021, a 22.5% increase, according to BLS figures compiled by the St. Louis Fed. The monthly picture looks calmer. Grocery prices slipped 0.1% in September and were 1.8% higher than a year earlier, the Bureau of Labor Statistics reported in its latest Consumer Price Index release. But a slower annual rate does not erase five years of accumulated increases, and several of the foods most closely tied to a balanced diet are still rising faster than the grocery average. Fuel is what makes the next few months hard to call. The national average price of diesel was $6.33 a gallon on Oct. 16, up 68% from $3.76 before the U.S.-Iran war began, according to AAA figures cited by the Associated Press. Diesel hit a record $6.53 in September. No federal agency has yet measured how much of that cost will reach retail food prices, and economists quoted by the AP said much of it has not shown up so far. ... The September report shows a split grocery aisle. Fresh fruits were up 4.9% from a year earlier, fruits and vegetables overall rose 3.7%, coffee climbed 7.1%, and beef rose 3.5%, according to the BLS detailed tables. Eggs fell 20.6%, and dairy dipped 0.7%, which helped hold the overall grocery figure down. ... Eating out remains the bigger budget strain. Prices for food away from home rose 3.5% over the year, nearly double the grocery rate. The U.S. Department of Agriculture's Economic Research Service now forecasts grocery prices will rise 2.4% in 2026, with fresh vegetables up 5.7% and beef and veal up 9.4%, while eggs are expected to fall 29.4%. The AP reported that USDA's forecast before the war called for a 1.7% grocery increase this year. ... The fuel effect starts on the farm. A Farm Bureau analysis by Deputy Chief Economist Faith Parum and Associate Economist Cameron Castillo found farm diesel in Illinois, as reported by USDA's Agricultural Marketing Service, rose from $3.01 a gallon in September 2025 to $5.61 in September 2026. The American Farm Bureau Federation is a farm advocacy organization, and its estimates rely on representative farm models rather than surveys of actual bills. ... Freight data point the same way. September producer-price data showed truck freight prices up 19.3% from a year earlier, while transportation and warehousing of goods sold to businesses cost 10.2% more, the AP reported. Those indexes track what carriers charge, not what shoppers pay. USDA also raised its 2026 estimates of fuel, lubricant and electricity costs for major crops by 33% to 41%, according to the AP. ... The evidence has limits, and they matter. The 22% five-year figure is a measured price index, but the share of today's prices caused by diesel is not. The AP noted it is unclear how much of this year's increase stems from the war versus tariffs, weather, or labor costs. Experts have warned that fresh produce and other frequently restocked perishables could respond fastest to higher transportation and refrigeration costs, so those are the categories to watch."
+   },
+   {
+    "title": "FACT FOCUS: When it comes to Trump's economy, these are the numbers that matter before Nov. 3 - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/10/21/fact-check-trump-economy-inflation/f1503146-cd3f-11f1-ac04-9f58578a68b4_story.html",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "The consumer price index had been rising at an annual clip of 3% in January ... Trump announced a sweeping set of tariffs and prices began to climb again. The inflationary pressures were compounded this year with the start of the Iran war"
+   },
+   {
+    "title": "Treasury yields steady ahead of jobless claims and mortgage data",
+    "url": "https://www.cnbc.com/2026/10/21/bonds-us-treasurys-yields.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "# Treasury yields steady ahead of jobless claims and mortgage data Author: Hugh Leask, Sean Conlon Published: 2026-10-21T08:57:33Z Source: cnbc.com Language: en"
+   },
+   {
+    "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine By Reuters",
+    "url": "https://www.investing.com/news/economy-news/fed-sees-ai-boom-adding-to-inflation-headache-but-others-may-pay-for-the-medicine-4956834",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "# Fed sees AI boom adding to inflation headache, but others may pay for the medicine By Reuters Published: 2026-10-19T10:04:56Z Source: investing.com Language: en"
+   },
+   {
+    "title": "Gold hits near one-week low on elevated oil prices",
+    "url": "https://www.cnbc.com/2026/10/21/gold-dips-for-fourth-session-as-oil-rally-fans-inflation-concerns.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "# Gold hits near one-week low on elevated oil prices Author: Reuters Published: 2026-10-21T03:54:18Z Source: cnbc.com Language: en"
+   },
+   {
+    "title": "US inflation rose slightly last month after 2 years of steady cooling but remained low",
+    "url": "https://www.wbrz.com/videos/us-inflation-rose-slightly-last-month-after-2-years-of-steady-cooling-but-remained-low/",
+    "source": "wbrz.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — Inflation in the United States ticked up in October, driven by costlier rents, used cars and air fares, a sign that price increases might be leveling off after having slowed in September to their lowest pace since 2021. Consumer prices rose 2.6% from a year earlier, the Labor Department said Wednesday, up from 2.4% in September. It was the first rise in annual inflation in seven months. From September to October, prices edged up 0.2%, the same as the previous month. Excluding volatile food and energy costs, “core” prices rose 3.3% from a year earlier, the same as in September. From September to October, core prices rose 0.3% for a third straight month. Over the long run, core inflation at that pace would exceed the Fed’s 2% target. ... An uptick in prices, if sustained, could stir concerns in financial markets that progress in taming inflation may be slowing. It might also make the Federal Reserve less inclined to cut its key interest rate in the coming months, as its officials have previously indicated they likely would. ... Still, most economists think inflation will eventually resume its slowdown. Consumer inflation, which peaked at 9.1% in 2022, has since fallen steadily, though overall prices are still about 20% higher than they were three years ago. ... At a news conference last week, Fed Chair Jerome Powell expressed confidence that inflation is still heading down to the central bank’s 2% target, though perhaps slowly and unevenly. Powell also noted that most sources of price pressures are cooling, suggesting that inflation isn’t likely to accelerate in the coming months. Wages are still growing and have outpaced prices for the past year and a half. But Powell noted that wages aren’t rising quickly enough to boost inflation. ... A survey released Tuesday by the Federal Reserve Bank of New York found that consumers expect prices to rise just 2.9% in the next 12 months, which would be the lowest such measure in nearly four years. Lower inflation expectations are important because when consumers expect milder price increases, they’re less likely to act in ways that raise inflation, such as accelerating their purchases or demanding higher pay to offset higher prices. ... Another potential source of relief for Americans’ budgets is in apartment rents. They are now barely rising on average nationwide, according to the real estate brokerage Redfin. Its measure of median rent was just 0.2% higher than it was a year ago in October, at $1,619, though that figure reflects rents only for new leases."
+   },
+   {
+    "title": "America In Focus: key inflation gauge remains high; Fed's Warsh signals rate hikes may be needed | AP News",
+    "url": "https://apnews.com/article/inflation-economy-iran-trump-fed-warsh-31077ff3bc27f6639689cf099f4c1160",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "’s Wednesday report showed that prices rose 3.7% in ... compared with a year earlier, the same as June. Inflation has worsened since the U.S. and Israel attacked Iran in late February, when it stood at 2.9%. It’s noticeably above the Fed’s target of 2%."
+   },
+   {
+    "title": "US inflation holds steady as diesel prices pass $6 a gallon",
+    "url": "https://www.bbc.com/news/articles/cly41rdkrleo",
+    "source": "bbc.com",
+    "published": "",
+    "excerpt": "they will be increased in a bid to slow the rate at which prices are rising ... US household budgets have come under mounting pressure, especially at the fuel pumps, with a gallon of ... hitting a new all-time high of more than $6 on average on"
+   }
+  ],
+  "text": "[1] FACT FOCUS: Trump's economy before Nov. 3 midterm elections | AP News (apnews.com)\nWASHINGTON (AP) — President Donald Trump is trying to convince voters before the Nov. 3 midterm elections that the U.S. economy is rocketing upward. But voters say inflation remains a challenge because the Iran war has pushed up gasoline prices, grocery bills have remained expensive and high interest rates have made it harder to afford a home or a new car. The economy is neither as strong as Trump has claimed nor as weak as consumer sentiment surveys suggest. But with its mix of inflation, inequality and stock market gains, the economy is unsatisfying to most of the public, and its\n\n[2] US inflation broadens as oil and services rise | Adalytica (adalytica.com)\nprice data point to a broadening inflation impulse after wars in the Middle East and Russia pushed oil higher ... as airfares, delivery services and trucking showed clear signs of pass-through. That matters because it suggests the inflation problem is\n\n[3] Grocery Prices Sit 22% Above 2021 Levels as Near-Record Diesel Raises Costs From Farm to Store (foodworldnews.com)\nSeptember price data show food at home costs 22.5% more than five years ago, while diesel above $6 a gallon adds pressure that has not fully reached store shelves. ... Americans are paying about 22% more for groceries than they did five years ago, and the latest federal price data arrived as diesel — the fuel that powers tractors, freight trucks and refrigerated trailers — holds near its record high. The Bureau of Labor Statistics' food-at-home index stood at 321.758 in September 2026, compared with 262.695 in September 2021, a 22.5% increase, according to BLS figures compiled by the St. …\n\n[4] FACT FOCUS: When it comes to Trump's economy, these are the numbers that matter before Nov. 3 - The Washington Post (washingtonpost.com)\nThe consumer price index had been rising at an annual clip of 3% in January ... Trump announced a sweeping set of tariffs and prices began to climb again. The inflationary pressures were compounded this year with the start of the Iran war\n\n[5] Treasury yields steady ahead of jobless claims and mortgage data (cnbc.com)\n# Treasury yields steady ahead of jobless claims and mortgage data Author: Hugh Leask, Sean Conlon Published: 2026-10-21T08:57:33Z Source: cnbc.com Language: en\n\n[6] Fed sees AI boom adding to inflation headache, but others may pay for the medicine By Reuters (investing.com)\n# Fed sees AI boom adding to inflation headache, but others may pay for the medicine By Reuters Published: 2026-10-19T10:04:56Z Source: investing.com Language: en\n\n[7] Gold hits near one-week low on elevated oil prices (cnbc.com)\n# Gold hits near one-week low on elevated oil prices Author: Reuters Published: 2026-10-21T03:54:18Z Source: cnbc.com Language: en\n\n[8] US inflation rose slightly last month after 2 years of steady cooling but remained low (wbrz.com)\nWASHINGTON (AP) — Inflation in the United States ticked up in October, driven by costlier rents, used cars and air fares, a sign that price increases might be leveling off after having slowed in September to their lowest pace since 2021. Consumer prices rose 2.6% from a year earlier, the Labor Department said Wednesday, up from 2.4% in September. It was the first rise in annual inflation in seven months. From September to October, prices edged up 0.2%, the same as the previous month. Excluding volatile food and energy costs, “core” prices rose 3.3% from a year earlier, the same as in …\n\n[9] America In Focus: key inflation gauge remains high; Fed's Warsh signals rate hikes may be needed | AP News (apnews.com)\n’s Wednesday report showed that prices rose 3.7% in ... compared with a year earlier, the same as June. Inflation has worsened since the U.S. and Israel attacked Iran in late February, when it stood at 2.9%. It’s noticeably above the Fed’s target of 2%.\n\n[10] US inflation holds steady as diesel prices pass $6 a gallon (bbc.com)\nthey will be increased in a bid to slow the rate at which prices are rising ... US household budgets have come under mounting pressure, especially at the fuel pumps, with a gallon of ... hitting a new all-time high of more than $6 on average on",
+  "hash": "0186c03931962c1e5817583b54bac9547105dbaff4cb2b6a1213f2048c96d9b1",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news October 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-21T14:19:20+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Live updates: Trump and Vance announce $25M whistleblower program | AP News",
+    "url": "https://apnews.com/live/trump-midterm-elections-news-updates-10-21-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "# Live updates: Trump and"
+   },
+   {
+    "title": "Trump calls for data center ‘dividends’ in bid to win over midterm voters – US politics live",
+    "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "## New polling shows likely voters prefer Democratic candidates over Republicans, fewer than two weeks until midterm elections New polling from the New York Times and Siena University shows that likely voters prefer Democratic candidates over Republicans running for office by 11 percentage points. Meanwhile, Donald Trump’s approval rating dropped to a new low for this particular survey – 36%. Notably, according to the Times’ polling, the perception of either party has shifted over the last two years. The number of people who consider Democrats as the party of the working class has grown by five points – from 48% to 53%. While it’s dropped by five points for Republicans – from 45% to 40%."
+   },
+   {
+    "title": "The Latest: Trump, Vance announce $25M whistleblower program to encourage reporting of alleged fraud",
+    "url": "https://apnews.com/article/midterm-election-congress-donald-trump-6a5e7f5e97fbba6f45e290dc6ad1a4b4",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "President Donald Trump and Vice President JD Vance on Tuesday announced a $25 million program to encourage the public to blow the whistle on suspected fraud in the U.S. government as they ramp up efforts to end the abuse of federal programs and dollars. Meanwhile, Republican Vivek Ramaswamy ’s team confirmed late Tuesday that it produced a controversial advertisement featuring the estranged mother of Amy Acton, and the campaign says it will spend $4 million to promote it despite facing bipartisan rebuke for dredging up the painful childhood of his Democratic opponent in Ohio’s governor’s race. ... President Donald Trump and"
+   },
+   {
+    "title": "Live updates: Trump to rally for Sen. Darline Graham in South Carolina",
+    "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-south-carolina-rally-senate-debate-2026-midterm-live-updates-rcna604651",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "- TRUMP RALLY: President Donald Trump will travel to South Carolina today for a rally at Clemson University to boost appointed Sen. Darline Graham, the sister of the late Sen. Lindsey Graham, who is running for a full term against Democrat Annie Andrews. - CANDIDATE DEBATES: The candidates for Senate in Michigan and Kansas and the nominees for governor in Wisconsin will face off in debates tonight. The races are considered competitive, with the Senate contests crucial battlegrounds in the fight for control of the chamber. - AMERICAN RELEASED: Russia has released retired American teacher Stephen Hubbard, 74, the latest sign of warmer ties between the two countries as Washington pressures Kyiv to agree to a deal to end Moscow’s war. ... ## Justice Elena Kagan accuses Supreme Court’s conservative majority of undermining democracy ... Liberal Justice Elena Kagan sharply criticized the Supreme Court’s conservative majority Tuesday, saying it undermined democracy in a series of rulings, including several that have prompted a new wave of legislative map-drawing that has increasingly eliminated competitive districts. Kagan, who has dissented in those cases, also took aim at the majority for striking down campaign finance restrictions and, as she put it, the “evisceration” of the landmark 1965 Voting Rights Act that was enacted to protect minority voters. ... In the Michigan Senate race, Democrat Abdul El-Sayed will face off against Republican former Rep. Mike Rogers. Republicans are aiming to flip the Senate seat, and the race is considered a top battleground. Tonight's debate is the final scheduled one for the open seat. In Kansas, Republican Sen. Roger Marshall will debate Democrat Adam Hamilton in their second debate. Although the state is deep red, the Senate race has become competitive. Trump visited the state earlier this week."
+   },
+   {
+    "title": "Trump promises more than $5,000 checks and Russia frees U.S. citizen: Morning Rundown",
+    "url": "https://www.nbcnews.com/news/us-news/trump-promises-rallies-christina-applegate-ms-morning-rundown-rcna604728",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "of warmer ties between the two countries as Washington pressures Kyiv to agree to a deal to ... talks with Putin early today in St. Petersburg. In remarks aired on ... was at the airport and Witkoff lauded the Russian leader for his release. “You talk"
+   },
+   {
+    "title": "Morning Edition for October 21, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5987095/morning-edition-for-october-21-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request by Charles Maynes, Joanna Kakissis #### Trump envoy Steve Witkoff visits Russia as Trump administration hopes to end war Listen"
+   },
+   {
+    "title": "New poll finds Democrats’ faith in election results is falling, Ramaswamy takes responsibility for ad with Amy Acton’s birth mother, AI agent boom",
+    "url": "https://apnews.com/newsletter/morning-wire/october-21-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Good morning. The race to Nov. 3 is heating up, and in Ohio, the vote for governor has taken a controversial turn with an ad featuring one candidate’s estranged mother. Also in the news: A new AP-NORC poll finds that Democrats’ faith in election results is falling; what you need to know about AI agents’ privacy issues; and keep an eye out for the Orionid meteor shower that peaks tonight. ... ## Democrats’ faith in election results is falling but still exceeds that of Republicans, AP-NORC poll finds ... Registered voters who identify as Democrats have lost faith in America’s election results since"
+   },
+   {
+    "title": "Trump leans into unprecedented power ahead of midterm elections : NPR",
+    "url": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "Less than two weeks before the election, Trump continues to crash through barriers that he wouldn't dare cross in his first term – and pointing to that power to make his case to midterm voters. Trump's Justice Department is raiding a congresswoman's home. He's knocking down trees in Washington, D.C. against a judge's wishes. And he's making deals with Russia that fly in the face of congressionally passed sanctions."
+   },
+   {
+    "title": "Inside Congress Live - Live Updates - POLITICO",
+    "url": "https://www.politico.com/live-updates/2026/10/21/congress",
+    "source": "politico.com",
+    "published": "",
+    "excerpt": "# Inside Congress Live - Live Updates - POLITICO Author: Riley Rogerson, Calen Razor Published: 2026-10-21T08:05:00Z Source: politico.com Language: en"
+   },
+   {
+    "title": "White House officials fear a post-midterms Trump rampage",
+    "url": "https://www.cnn.com/2026/10/21/politics/video/white-house-officials-fear-a-post-midterms-trump-rampage-digvid-vrtc-hnk",
+    "source": "cnn.com",
+    "published": "",
+    "excerpt": "President Donald Trump still has two weeks to salvage his Republican congressional majorities and defy expectations of a midterm wipeout. But all around him, aides and allies are bracing for what happens if he fails. CNN's Kristen Holmes reports."
+   }
+  ],
+  "text": "[1] Live updates: Trump and Vance announce $25M whistleblower program | AP News (apnews.com)\n# Live updates: Trump and\n\n[2] Trump calls for data center ‘dividends’ in bid to win over midterm voters – US politics live (theguardian.com)\n## New polling shows likely voters prefer Democratic candidates over Republicans, fewer than two weeks until midterm elections New polling from the New York Times and Siena University shows that likely voters prefer Democratic candidates over Republicans running for office by 11 percentage points. Meanwhile, Donald Trump’s approval rating dropped to a new low for this particular survey – 36%. Notably, according to the Times’ polling, the perception of either party has shifted over the last two years. The number of people who consider Democrats as the party of the working class has grown by …\n\n[3] The Latest: Trump, Vance announce $25M whistleblower program to encourage reporting of alleged fraud (apnews.com)\nPresident Donald Trump and Vice President JD Vance on Tuesday announced a $25 million program to encourage the public to blow the whistle on suspected fraud in the U.S. government as they ramp up efforts to end the abuse of federal programs and dollars. Meanwhile, Republican Vivek Ramaswamy ’s team confirmed late Tuesday that it produced a controversial advertisement featuring the estranged mother of Amy Acton, and the campaign says it will spend $4 million to promote it despite facing bipartisan rebuke for dredging up the painful childhood of his Democratic opponent in Ohio’s governor’s …\n\n[4] Live updates: Trump to rally for Sen. Darline Graham in South Carolina (nbcnews.com)\n- TRUMP RALLY: President Donald Trump will travel to South Carolina today for a rally at Clemson University to boost appointed Sen. Darline Graham, the sister of the late Sen. Lindsey Graham, who is running for a full term against Democrat Annie Andrews. - CANDIDATE DEBATES: The candidates for Senate in Michigan and Kansas and the nominees for governor in Wisconsin will face off in debates tonight. The races are considered competitive, with the Senate contests crucial battlegrounds in the fight for control of the chamber. - AMERICAN RELEASED: Russia has released retired American teacher …\n\n[5] Trump promises more than $5,000 checks and Russia frees U.S. citizen: Morning Rundown (nbcnews.com)\nof warmer ties between the two countries as Washington pressures Kyiv to agree to a deal to ... talks with Putin early today in St. Petersburg. In remarks aired on ... was at the airport and Witkoff lauded the Russian leader for his release. “You talk\n\n[6] Morning Edition for October 21, 2026 : NPR (npr.org)\n### Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request by Charles Maynes, Joanna Kakissis #### Trump envoy Steve Witkoff visits Russia as Trump administration hopes to end war Listen\n\n[7] New poll finds Democrats’ faith in election results is falling, Ramaswamy takes responsibility for ad with Amy Acton’s birth mother, AI agent boom (apnews.com)\nGood morning. The race to Nov. 3 is heating up, and in Ohio, the vote for governor has taken a controversial turn with an ad featuring one candidate’s estranged mother. Also in the news: A new AP-NORC poll finds that Democrats’ faith in election results is falling; what you need to know about AI agents’ privacy issues; and keep an eye out for the Orionid meteor shower that peaks tonight. ... ## Democrats’ faith in election results is falling but still exceeds that of Republicans, AP-NORC poll finds ... Registered voters who identify as Democrats have lost faith in America’s election results …\n\n[8] Trump leans into unprecedented power ahead of midterm elections : NPR (npr.org)\nLess than two weeks before the election, Trump continues to crash through barriers that he wouldn't dare cross in his first term – and pointing to that power to make his case to midterm voters. Trump's Justice Department is raiding a congresswoman's home. He's knocking down trees in Washington, D.C. against a judge's wishes. And he's making deals with Russia that fly in the face of congressionally passed sanctions.\n\n[9] Inside Congress Live - Live Updates - POLITICO (politico.com)\n# Inside Congress Live - Live Updates - POLITICO Author: Riley Rogerson, Calen Razor Published: 2026-10-21T08:05:00Z Source: politico.com Language: en\n\n[10] White House officials fear a post-midterms Trump rampage (cnn.com)\nPresident Donald Trump still has two weeks to salvage his Republican congressional majorities and defy expectations of a midterm wipeout. But all around him, aides and allies are bracing for what happens if he fails. CNN's Kristen Holmes reports.",
+  "hash": "6a29c0ea7432f01cfca17a162fee3c6db7e6603f7504fa9e441808eb387ef6bd",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities October 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-21T14:19:34+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Dwayne Johnson Looks Unrecognizable on the Set of Lizard Music in N.Y.C., Plus Kate Middleton, Prince William and More",
+    "url": "https://people.com/star-tracks-wednesday-october-21-2026-new-celebrity-photos-updated-daily-12185186",
+    "source": "people.com",
+    "published": "",
+    "excerpt": "Celebrities have been everywhere this week. In New York City, Dwayne Johnson looks unrecognizable as an elderly man on set for his new movie Lizard Music , while Kate Middleton and Prince William arrive together at the state banquet for the Sultan of Oman at Windsor Castle in Berkshire, England."
+   },
+   {
+    "title": "Music News for Wednesday, October 21, 2026 — Headlines & New Albums as Drum Beats | RockBlocks",
+    "url": "https://rockblocks.app/news/2026-10-21",
+    "source": "rockblocks.app",
+    "published": "",
+    "excerpt": "# Music News for Wednesday, October 21, 2026 13 music news headlines from Wednesday, October 21, 2026, each one a drum beat. See today's news → ... ### Beck Regrets Turning Down ‘Zoolander’ Character That Went to Davie Bowie"
+   },
+   {
+    "title": "Film News Today — October 21, 2026 — FilmNews.net",
+    "url": "https://filmnews.net/news/daily-signal-20261021",
+    "source": "filmnews.net",
+    "published": "",
+    "excerpt": "Ozzy Osbourne Was ‘Flying High’ Until the ‘Day He Passed’ After Final Concert, Sharon Osbourne Says: ‘We Hadn’t Seen Him That Way in Years’ and more — today's film signal. The world of film is abuzz with a mix of nostalgia, celebration, and innovation, as today's headlines weave a narrative that takes us on a journey from the past to the present. We start with a poignant reflection on the life of a rock legend, Ozzy Osbourne, whose final concert marked a high point before his passing, according to his wife Sharon Osbourne. This somber note is balanced by the excitement of upcoming film competitions, such as the Tokyo Filmex, which will feature Oscar entries from Thailand and Nepal, and boast a jury that includes the acclaimed Lee Kang-sheng. As we delve deeper into the day's news, we find ourselves reminiscing about classic films, thanks to Julia Stiles' emotional reunion with her '10 Things I Hate About You' castmates on 'Dancing With the Stars', which included a heartfelt tribute to the late Heath Ledger. The film world is also looking to the future, with the announcement of Disney+'s and Hulu's Japanese horror series 'Night Tales Club', which boasts an impressive lineup of directors, including Kurosawa Kiyoshi and Shimizu Takashi. Meanwhile, the Access: Horror Virtual Film Festival is pushing boundaries by challenging traditional horror tropes and shedding light on disability in a unique and thought-provoking way, making for a truly diverse and captivating day in the world of film. Today's signal: • Ozzy Osbourne Was ‘Flying High’ Until the ‘Day He Passed’ After Final Concert, Sharon Osbourne Says: ‘We Hadn’t Seen Him That Way in Years’ (variety.com) • Oscar Entries From Thailand, Nepal Head to Tokyo Filmex Competition; Lee Kang-sheng Joins Jury (variety.com) • Julia Stiles ‘Bawled’ Before Heath Ledger Tribute, Breaks Down ’10 Things I Hate About You’ Cast Reunion on ‘Dancing With the Stars’ (variety.com) • Julia Stiles Reunites With ’10 Things I Hate About You’ Cast, Cries During Heath Ledger Tribute on ‘Dancing With the Stars’ (variety.com) • Kurosawa Kiyoshi, Shimizu Takashi Among Directors of Disney+, Hulu Japanese Horror Series ‘Night Tales Club’ (variety.com) • Access: Horror Virtual Film Festival Sheds Light on Disability by ‘Centering Ableism as the Horror Rather Than Disability’ (variety.com)"
+   },
+   {
+    "title": "Entertainment News (10/21/26) - BusinessWorld Online",
+    "url": "https://bworldonline.com/arts-and-leisure/2026/10/20/788122/entertainment-news-10-21-26/",
+    "source": "bworldonline.com",
+    "published": "",
+    "excerpt": "Entertainment News (10/21/26) - BusinessWorld Online # Entertainment News (10/21/26) PRODUCER, songwriter, and multi-instrumentalist Ziv has teamed up with rising P-pop girl group VVINK for “Trisikulo,” a pop track on the familiar third-wheel experience. October 20, 2026 | 6:06 pm ## Ziv, VVINK release collaboration PRODUCER, songwriter, and multi-instrumentalist Ziv has teamed up with rising P-pop girl group VVINK for “Trisikulo,” a pop track on the familiar third-wheel experience. Released under Sony Music Entertainment, it is built around Filipino wordplay that links a tricycle’s three wheels to the feeling of being the extra person in someone else’s love story. The song was co-written by Ziv alongside Paolo Benjamin Guico of Filipino folk-pop band Ben&Ben and Angelika Samantha Ortiz, one of the songwriters behind BINI’s hit “Pantropiko.” The mixing was also done by Jacques Jenkins and mastering by Luna Tebbs. The track is out now on all digital music streaming platforms. ## *Love in Disguise* premieres on Prime Video *LOVE in Disguise*, a Korean series based on the hit web novel *Why Don’t You Know It’s a Girl?*, has premiered on Prime Video. It is directed by Park Dhan-hee and stars Yim Si Wan, Seorina, Kim Junghyun, and Yeonwoo. The genre-blending romance is exclusively seen on Prime Video in the Philippines and in more than 240 countries and territories worldwide. ## Estelle Fly drops club-pop single SINGAPOREAN pop artist Estelle Fly has released “Shut It Down,” a playful club-pop single about switching off the overthinking and making the dance floor your own. Inspired by the Rihanna and Kesha songs, the new release is an invitation to let loose, dance with friends and have fun even when life feels complicated. It"
+   },
+   {
+    "title": "Music News Today — October 21, 2026 — MusicNewsletter.com",
+    "url": "https://musicnewsletter.com/news/daily-signal-20261021",
+    "source": "musicnewsletter.com",
+    "published": "",
+    "excerpt": "Thai Pop Star Jeff Satur Signs With Universal Music Southeast Asia, Sets 2027 Album and World Tour and more — today's music signal. The music world is buzzing with news of new beginnings and unfortunate setbacks. Thai pop star Jeff Satur has just signed with Universal Music Southeast Asia, paving the way for a highly anticipated 2027 album and world tour. This exciting development is a testament to the growing global influence of Southeast Asian music, and fans are eagerly awaiting Satur's upcoming projects. On the other hand, Charli XCX has been forced to cancel her 'Music, Fashion, Film' show in Arizona due to illness, leaving her devastated and disappointed that she won't be able to perform for her fans. As the music industry continues to evolve, we're also seeing significant changes in leadership and personnel. Barbara Cane, BMI's VP of Worldwide Creative, has announced her retirement after an impressive five decades in the business. Meanwhile, Netflix's Ted Sarandos is addressing the recent content exec purge, acknowledging that the company can do better. In awards news, the Golden Globes has rejected the submission of 'Michael' to compete in the comedy/musical categories, sparking interest and debate among music and film enthusiasts. With all these developments, it's clear that the music industry is always on the move, with new talent emerging, veteran leaders passing the torch, and the constant pursuit of creativity and innovation driving the conversation."
+   },
+   {
+    "title": "Entertainment Live News Updates Today (October 21): More Arrests In Tiger Shroff Firing Case; Ramayana Declared Tax-Free In Bengal | Entertainment News Live Updates Today In India | Entertainment News Bollywood Updates Live | Live Entertainment News Bollywood, South, OTT, TV - Filmibeat",
+    "url": "https://www.filmibeat.com/bollywood/news/2026/entertainment-live-news-updates-today-ramayana-tax-free-in-bengal-more-arrests-in-tiger-shroff-case-535421.html",
+    "source": "filmibeat.com",
+    "published": "",
+    "excerpt": "Starting with the latest developments in the Tiger Shroff firing case, the investigation has led to more arrests. After three suspected shooters were apprehended in Kota, the Delhi Police Special Cell arrested four additional accused on Tuesday. According to The Hindu, they are suspected of transporting a firearm to Mumbai and helping coordinate the operation allegedly connected to the attack on Tiger Shroff. With just days left before its grand theatrical release, Ramayana: Part 1, starring Ranbir Kapoor, Sai Pallavi and Yash, has made headlines after being declared tax-free in West Bengal by Chief Minister Suvendu Adhikari. ... ## Jailer 2 Box Office Collection Day 6: Rajinikanth's Film Crosses ₹540 Cr Worldwide Rajinikanth's Tamil action comedy Jailer 2 continued its theatrical run with an increase in domestic net collections on Tuesday, October 20. According to Sacnilk's estimates, the film earned ₹45.55 crore net in India on Day 6, taking its cumulative India net collection to ₹287.80 crore. With its overseas earnings also contributing to the total, the film's worldwide gross collection reached ₹541 crore. Following Tuesday's earnings, Jailer 2's India net collection stood at ₹287.80 crore, while its domestic gross collection reached ₹337 crore. Overseas markets contributed an estimated ₹10 crore gross on Day 6, taking the film's cumulative overseas gross to ₹204 crore. Combining the domestic and overseas figures, the film's worldwide gross collection reached ₹541 crore after six days. ... ## Ranbir Kapoor’s ‘Ramayana’ Declared Tax-Free In Bengal Ahead Of Grand Theatrical Release On November 5 Nitesh Tiwari’s upcoming cinematic adaptation of the Hindu epic Ramayana, featuring Ranbir Kapoor as Lord Rama and Yash as Ravana, has been declared tax-free in West Bengal. Chief Minister Suvendu Adhikari announced the decision on Dussehra, ahead of the film’s scheduled theatrical release on November 5, 2026. Speaking to ANI, Adhikari confirmed the move and referred to other films that have received similar treatment. He said, \"The Ramayana film has been made tax-free. The Kerala Story, The Kashmir Files, and The Bengal Files—all of these will be (or have been) made tax-free, and the same will apply to Ramayana. In the days to come, we will see films on Shri Krishna and Arjuna, as well as the Mahabharata...\""
+   },
+   {
+    "title": "Pop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News",
+    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "former co-stars on ‘Dancing with the Stars’ Jenna ... helping Michelle Collins make a love connection with three eligible bachelors on TODAY! She asks questions to the contestants behind a barrier to get to know more about them. See which one she picks!"
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3995780-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-21T13:00:15Z Source: devdiscourse.com Language: en"
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3995482-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-21T04:55:52Z Source: devdiscourse.com Language: en"
+   },
+   {
+    "title": "U.S. Premiere of LAIKA's 'Wildwood' to Open 40th AFI FEST | Animation World Network",
+    "url": "https://www.awn.com/news/us-premiere-laikas-wildwood-open-40th-afi-fest",
+    "source": "awn.com",
+    "published": "",
+    "excerpt": "LAIKA has set the U.S. premiere of its highly-anticipated new film, Wildwood, at the 40th edition of AFI FEST presented by Canva on Wednesday, October 21, at the TCL Chinese Theatres in Hollywood, two days before the epic stop-motion fantasy hits theaters nationwide through Fathom Entertainment. The film is a long time coming: Travis Knight directs and produces from a screenplay by Chris Butler, based on the novel by Colin Meloy, which LAIKA optioned way back in 2011. Caleb Deschanel handles cinematography; Peyton Elizabeth Lee and Jacob Tremblay lead the voice cast, alongside Carey Mulligan, Academy Award winner Mahershala Ali, Angela Bassett, Awkwafina, Jake Johnson, Charlie Day, Amandla Stenberg, Jemaine Clement, Maya Erskine, Tantoo Cardinal, Tom Waits and Richard E. Grant. In the film, after her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel (Lee) launches a desperate rescue mission into the Impassable Wilderness, an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg (Tremblay), Prue navigates a world of talking animals, bandits and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed. ... AFI FEST runs October 21-25 at the TCL Chinese Theatres, with Red Carpet Premieres, Special Screenings, World Cinema, Documentaries and Short Films. The full lineup will be unveiled September 29, individual tickets go on sale October 3, and passes are available now at FEST.AFI.com. The festival is an Academy Awards qualifying festival for the Live Action, Animated and Documentary Short Film categories."
+   }
+  ],
+  "text": "[1] Dwayne Johnson Looks Unrecognizable on the Set of Lizard Music in N.Y.C., Plus Kate Middleton, Prince William and More (people.com)\nCelebrities have been everywhere this week. In New York City, Dwayne Johnson looks unrecognizable as an elderly man on set for his new movie Lizard Music , while Kate Middleton and Prince William arrive together at the state banquet for the Sultan of Oman at Windsor Castle in Berkshire, England.\n\n[2] Music News for Wednesday, October 21, 2026 — Headlines & New Albums as Drum Beats | RockBlocks (rockblocks.app)\n# Music News for Wednesday, October 21, 2026 13 music news headlines from Wednesday, October 21, 2026, each one a drum beat. See today's news → ... ### Beck Regrets Turning Down ‘Zoolander’ Character That Went to Davie Bowie\n\n[3] Film News Today — October 21, 2026 — FilmNews.net (filmnews.net)\nOzzy Osbourne Was ‘Flying High’ Until the ‘Day He Passed’ After Final Concert, Sharon Osbourne Says: ‘We Hadn’t Seen Him That Way in Years’ and more — today's film signal. The world of film is abuzz with a mix of nostalgia, celebration, and innovation, as today's headlines weave a narrative that takes us on a journey from the past to the present. We start with a poignant reflection on the life of a rock legend, Ozzy Osbourne, whose final concert marked a high point before his passing, according to his wife Sharon Osbourne. This somber note is balanced by the excitement of upcoming film …\n\n[4] Entertainment News (10/21/26) - BusinessWorld Online (bworldonline.com)\nEntertainment News (10/21/26) - BusinessWorld Online # Entertainment News (10/21/26) PRODUCER, songwriter, and multi-instrumentalist Ziv has teamed up with rising P-pop girl group VVINK for “Trisikulo,” a pop track on the familiar third-wheel experience. October 20, 2026 | 6:06 pm ## Ziv, VVINK release collaboration PRODUCER, songwriter, and multi-instrumentalist Ziv has teamed up with rising P-pop girl group VVINK for “Trisikulo,” a pop track on the familiar third-wheel experience. Released under Sony Music Entertainment, it is built around Filipino wordplay that links a tricycle’s three …\n\n[5] Music News Today — October 21, 2026 — MusicNewsletter.com (musicnewsletter.com)\nThai Pop Star Jeff Satur Signs With Universal Music Southeast Asia, Sets 2027 Album and World Tour and more — today's music signal. The music world is buzzing with news of new beginnings and unfortunate setbacks. Thai pop star Jeff Satur has just signed with Universal Music Southeast Asia, paving the way for a highly anticipated 2027 album and world tour. This exciting development is a testament to the growing global influence of Southeast Asian music, and fans are eagerly awaiting Satur's upcoming projects. On the other hand, Charli XCX has been forced to cancel her 'Music, Fashion, Film' …\n\n[6] Entertainment Live News Updates Today (October 21): More Arrests In Tiger Shroff Firing Case; Ramayana Declared Tax-Free In Bengal | Entertainment News Live Updates Today In India | Entertainment News Bollywood Updates Live | Live Entertainment News Bollywood, South, OTT, TV - Filmibeat (filmibeat.com)\nStarting with the latest developments in the Tiger Shroff firing case, the investigation has led to more arrests. After three suspected shooters were apprehended in Kota, the Delhi Police Special Cell arrested four additional accused on Tuesday. According to The Hindu, they are suspected of transporting a firearm to Mumbai and helping coordinate the operation allegedly connected to the attack on Tiger Shroff. With just days left before its grand theatrical release, Ramayana: Part 1, starring Ranbir Kapoor, Sai Pallavi and Yash, has made headlines after being declared tax-free in West Bengal …\n\n[7] Pop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News (nbcnews.com)\nformer co-stars on ‘Dancing with the Stars’ Jenna ... helping Michelle Collins make a love connection with three eligible bachelors on TODAY! She asks questions to the contestants behind a barrier to get to know more about them. See which one she picks!\n\n[8] Reuters Entertainment News Summary | International (devdiscourse.com)\n# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-21T13:00:15Z Source: devdiscourse.com Language: en\n\n[9] Reuters Entertainment News Summary | International (devdiscourse.com)\n# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-21T04:55:52Z Source: devdiscourse.com Language: en\n\n[10] U.S. Premiere of LAIKA's 'Wildwood' to Open 40th AFI FEST | Animation World Network (awn.com)\nLAIKA has set the U.S. premiere of its highly-anticipated new film, Wildwood, at the 40th edition of AFI FEST presented by Canva on Wednesday, October 21, at the TCL Chinese Theatres in Hollywood, two days before the epic stop-motion fantasy hits theaters nationwide through Fathom Entertainment. The film is a long time coming: Travis Knight directs and produces from a screenplay by Chris Butler, based on the novel by Colin Meloy, which LAIKA optioned way back in 2011. Caleb Deschanel handles cinematography; Peyton Elizabeth Lee and Jacob Tremblay lead the voice cast, alongside Carey Mulligan, …",
+  "hash": "98b93e68675d51b62c9d0626105fcafc1eca082d2ae315e0b596993ada64382c",
+  "notes": []
+ }
+}
