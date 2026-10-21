@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-10-21T09:11:22+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories October 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-21T09:11:22+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/10/21",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "## Witkoff to present Putin with peace proposal after talks with Zelensky Russian President Vladimir Putin welcomes U.S. envoy Steve Witkoff prior to their talks in Moscow on Sept. 5 about ending the war with Ukraine. - Kate Santaliz"
+   },
+   {
+    "title": "Daily World Briefing, Oct. 21-Xinhua",
+    "url": "https://english.news.cn/20261021/e7196340abf54675a0a35043691495ff/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "S. Korea to partially withdraw diplomatic staff from Ukraine South Korea has decided to partially withdraw its diplomatic staff from Ukraine amid airstrike threats across Ukraine and diplomatic dispute between the two countries, the South Korean foreign ministry said Tuesday. Park Doo-soon, spokesman of the Ministry of Foreign Affairs, told a press briefing that the government decided on a partial withdrawal of embassy personnel, considering that it was made difficult to ensure safety as airstrike threats persisted across Ukraine, while there had been no proactive measures from the Ukrainian side even after the recall of the South Korean ambassador. U.S. defense chief makes unannounced visit to Israel, meets Netanyahu U.S. Defense Secretary Pete Hegseth made an unannounced visit to Israel on Monday and met with Israeli Prime Minister Benjamin Netanyahu, Israel's Channel 12 News reported on Tuesday, citing sources familiar with the matter. The meeting took place at a military base in southern Israel, according to the Israeli Army Radio. Netanyahu's office did not immediately comment on the report. Britain to send jets to defend Saudi Arabia from Houthi attacks Britain will deploy Royal Air Force (RAF) Typhoon jets to defend Saudi Arabia to protect the country from escalating Houthi attacks, the BBC reported Tuesday. The defensive mission authorized by British Prime Minister Andy Burnham will help defend Saudi cities and infrastructure against aerial attacks by the Houthi group, said the report."
+   },
+   {
+    "title": "World news | World | The Guardian",
+    "url": "https://www.theguardian.com/world/2026/oct/21/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "- Live US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live The meeting comes after the US official held ‘constructive’ talks with Zelenskyy in Norway ... : ​Why has Jackdaw been approved in the middle of a climate"
+   },
+   {
+    "title": "World News Today Live Updates 21 October 2026: Trump on India US Trade Deal, US Iran War News, France Protest Reason, Breaking News Around US, Iran, Russia, Ukraine",
+    "url": "https://indianexpress.com/article/world/world-news-today-live-updates-trump-opposed-netanyahu-iran-strike-israel-us-midterm-elections-saudi-arabia-houthi-yemen-10930392/",
+    "source": "indianexpress.com",
+    "published": "",
+    "excerpt": "# World News Today Live Updates 21 October 2026: Trump on India US Trade Deal, US Iran War News, France Protest Reason, Breaking News Around US, Iran, Russia, Ukraine Author: Navya Beri Published: 2026-10-21T06:43:41Z Source: indianexpress.com Language:"
+   },
+   {
+    "title": "Video. Latest news bulletin | October 21st, 2026 – Morning | Euronews",
+    "url": "https://www.euronews.com/video/2026/10/21/latest-news-bulletin-october-21st-2026-morning",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "## How Turkey and Uzbekistan are preparing their cities for a changing climate ... ## Uzbekistan expands transport links and eases travel rules to turn its tourism boom into economic gains ... welcomes Oman’s Sultan Haitham for state visit to UK"
+   },
+   {
+    "title": "10 Things Global News - 21st October 2026",
+    "url": "https://www.10things.news/p/10-things-global-news-21st-october-678",
+    "source": "10things.news",
+    "published": "",
+    "excerpt": "1. Trump Pushes Kyiv As Envoy Takes Proposal To Putin (Geopolitics) 2. European Protests Expose Widening Public Discontent (Europe) 3. Britain Sends Fighters As Saudi Attacks Intensify (UK) 4. Ebola Reaches Nigeria As Outbreak Spreads Across Africa (Medical) 5. Iran Draws Out Talks Ahead Of US Midterms (Middle East) 6. Musk Ordered Starlink Restrictions Disrupt Ukraine’s Defences (Europe) 7. Nato Reinforces Black Sea After Attacks On Shipping (Europe) 8. Alberta Rejects Path To Independence Vote (North America) 9. Rwandan Government Critic Found Beheaded In Uganda (Africa) 10. Lula Seeks Bolsonaro Disqualification Over Meta Claims (South America) ... Washington is seeking a new peace framework for Ukraine as President Donald Trump urges Kyiv to settle while offering concessions to Moscow. US envoy Steve Witkoff will present Russian President Vladimir Putin with an updated proposal on Wednesday, following talks with Ukrainian President Volodymyr Zelensky and European leaders in Oslo. ... The diplomatic initiative follows Trump’s decision to lift sanctions on Russian diesel and waive further restrictions. Meanwhile, Russian attacks have disrupted electricity across Ukraine. Kyiv says vital US military support and intelligence have been withheld. Although Zelensky reported restored missile warnings, questions remain over Patriot interceptor deliveries and restrictions affecting Starlink. Trump has publicly questioned Kyiv’s willingness to negotiate. Protests over living costs, housing and deteriorating public services have spread across Europe, with demonstrations turning violent in several countries. In France, authorities estimated 550,000 people marched on Saturday, while unrest brought looting, fires and more than 2,400 arrests. The government imposed partial curfews after clashes with police. Housing affordability has driven demonstrations in Spain and Portugal. Spanish Prime Minister Pedro Sánchez called an early election after parliament rejected housing measures. In Portugal, police dismantled protest camps in Lisbon and Porto, where activists say wages have failed to keep pace with rents. ... Britain will deploy Royal Air Force Typhoon fighters to defend Saudi Arabia against escalating Houthi missile and drone attacks, extending its support beyond refuelling and air defence equipment. The aircraft will protect cities and infrastructure but will not conduct strikes inside Yemen, according to the UK government. Defence Secretary Wes Streeting condemned attacks on Riyadh’s airport, where one strike killed 13 people and wounded more than 300. ... Nigeria has confirmed its first Ebola case in the current outbreak after a woman arriving from Uganda tested positive in Abuja. She developed symptoms on 7 October and entered hospital four days later but was diagnosed only after treatment had begun. Authorities have identified 44 contacts and isolated her. Uganda says she had travelled to eastern Congo and transited through Uganda; where she became infected remains unknown. ... The outbreak began in Congo in May and has spread to Kenya, which has recorded nine cases. More than 9,500 infections and 4,600 deaths have been reported, while Uganda says it has no active cases. Africa CDC director general Dr Jean Kaseya described the Bundibugyo outbreak as the most geographically extensive on record, with a fatality rate approaching 50%. ... Iranian officials say Tehran is deliberately prolonging negotiations with Washington to deny US President Donald Trump a political victory before the 3 November midterm elections. Three senior officials and an insider say Iran expects renewed American and Israeli attacks despite continuing diplomatic contacts. The eight-month war began with US and Israeli strikes in February. ... Elon Musk ordered restrictions on the military-grade Starlink service used by Ukraine, according to US officials cited in a report, disrupting Ukrainian attack drones and air defences. The slowdown began on 14 October, limiting connections for fast-moving drones. Ukrainian President Volodymyr Zelensky warned that lives were at risk and sought an explanation from Washington and SpaceX. ... Nato is sending additional patrol aircraft, radar systems, drones and intelligence personnel to the Black Sea following deadly attacks on merchant vessels near Romania and Bulgaria. Russia said it struck five cargo ships on Tuesday, including three in Ukraine’s port of Reni and two travelling towards Odesa. The alliance has not formally attributed recent attacks near its members’ coasts to Moscow. ... The attacks threaten routes used for Ukrainian agricultural exports and have driven up shipping insurance costs. Nato says its additional deployment will focus on surveillance and intelligence, as concerns grow over the war reaching the alliance’s borders. Voters in Alberta have overwhelmingly rejected beginning the constitutional process for a referendum on independence from Canada. With 86% of votes counted, 75.5% supported remaining in Canada and 24.5% backed another vote on separation. Official results are expected on Thursday. The ballot did not directly ask whether the oil-rich province should become independent. Canadian Prime Minister Mark Carney welcomed the result as a vote for unity. Alberta Premier Danielle Smith, who introduced the question, said previously that a rejection would rule out another separation referendum during her tenure. Separatist campaigners nevertheless pledged to continue their efforts. ... A former Rwandan soldier who became an outspoken critic of President Paul Kagame has been found beheaded in Uganda. Robert Kabera, 50, had lived in exile since 2020 and recently posted a video expressing fears for his life. Police discovered his body near Kampala on Saturday and have opened a murder investigation. His head remains missing. Human rights organisations say the killing resembles previous attacks on Rwandan dissidents living abroad, although responsibility for Kabera’s death has not been established. Kabera had received asylum and security protection in Uganda, but Human Rights Watch reported that he had previously been assaulted twice while in hiding. ... Brazilian President Luiz Inacio Lula da Silva’s campaign is preparing to seek the disqualification of presidential rival Flavio Bolsonaro over alleged interference by Meta ahead of Sunday’s runoff. The campaign accuses the technology company of suppressing Lula’s content while favouring Bolsonaro, who won 47% of the first-round vote against Lula’s 45%. Polls suggest a close contest. ... Brazil’s Superior Electoral Court has ordered Meta to demonstrate equal treatment of both candidates, doubling the daily fine for noncompliance to about $200,000. Lula’s campaign alleges restrictions on Instagram visibility and uneven moderation across Meta’s platforms. Meta denies favouring either candidate but acknowledges that technical errors temporarily disabled some Lula advertisements."
+   },
+   {
+    "title": "Morning Briefing: Oct. 21, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-21-2026/4095279",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "# Morning Briefing: Oct. 21, 2026 Author: Diyar Guldogan Published: 2026-10-21T09:42:10Z Source: aa.com.tr Language: en"
+   },
+   {
+    "title": "Big News Stories Overnight - Wednesday, October 21, 2026",
+    "url": "https://www.golocalprov.com/news/big-news-stories-overnight-wednesday-october-21-2026",
+    "source": "golocalprov.com",
+    "published": "",
+    "excerpt": "Street Journal reports: Elon Musk ordered the slowdown of a military-grade version of Starlink relied on by Ukraine, a decision that sparked panic in ... confusion inside the Trump administration, U.S. officials and people familiar with the matter said."
+   },
+   {
+    "title": "Catching Our Eye News Roundup, Oct. 21, 2026",
+    "url": "https://www.newsfromthestates.com/article/catching-our-eye-news-roundup-oct-21-2026",
+    "source": "newsfromthestates.com",
+    "published": "",
+    "excerpt": "they added a provision to last year’s state budget that would have taken away citizens’ right to sue polluters. The Oct. 14 ruling by ... Pleas Judge Julie Lynch preserves the state’s Air Nuisance Rule, a 50-year-old provision that allows communities"
+   },
+   {
+    "title": "India News Live Updates, October 21, 2026:",
+    "url": "https://indianexpress.com/article/india/breaking-news-india-live-updates-21-october-2026-cjp-protest-jhota-punjab-weather-congress-delhi-navratri-10930120/",
+    "source": "indianexpress.com",
+    "published": "",
+    "excerpt": ". The request came after Justice Subramonium Prasad questioned why the pleas should be entertained ... the leaders have an alternate remedy, seeking a revision of the special executive magistrate’s ... that the bond to keep the peace, given on October"
+   }
+  ],
+  "text": "[1] Axios (axios.com)\n## Witkoff to present Putin with peace proposal after talks with Zelensky Russian President Vladimir Putin welcomes U.S. envoy Steve Witkoff prior to their talks in Moscow on Sept. 5 about ending the war with Ukraine. - Kate Santaliz\n\n[2] Daily World Briefing, Oct. 21-Xinhua (english.news.cn)\nS. Korea to partially withdraw diplomatic staff from Ukraine South Korea has decided to partially withdraw its diplomatic staff from Ukraine amid airstrike threats across Ukraine and diplomatic dispute between the two countries, the South Korean foreign ministry said Tuesday. Park Doo-soon, spokesman of the Ministry of Foreign Affairs, told a press briefing that the government decided on a partial withdrawal of embassy personnel, considering that it was made difficult to ensure safety as airstrike threats persisted across Ukraine, while there had been no proactive measures from the Ukrainian …\n\n[3] World news | World | The Guardian (theguardian.com)\n- Live US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live The meeting comes after the US official held ‘constructive’ talks with Zelenskyy in Norway ... : ​Why has Jackdaw been approved in the middle of a climate\n\n[4] World News Today Live Updates 21 October 2026: Trump on India US Trade Deal, US Iran War News, France Protest Reason, Breaking News Around US, Iran, Russia, Ukraine (indianexpress.com)\n# World News Today Live Updates 21 October 2026: Trump on India US Trade Deal, US Iran War News, France Protest Reason, Breaking News Around US, Iran, Russia, Ukraine Author: Navya Beri Published: 2026-10-21T06:43:41Z Source: indianexpress.com Language:\n\n[5] Video. Latest news bulletin | October 21st, 2026 – Morning | Euronews (euronews.com)\n## How Turkey and Uzbekistan are preparing their cities for a changing climate ... ## Uzbekistan expands transport links and eases travel rules to turn its tourism boom into economic gains ... welcomes Oman’s Sultan Haitham for state visit to UK\n\n[6] 10 Things Global News - 21st October 2026 (10things.news)\n1. Trump Pushes Kyiv As Envoy Takes Proposal To Putin (Geopolitics) 2. European Protests Expose Widening Public Discontent (Europe) 3. Britain Sends Fighters As Saudi Attacks Intensify (UK) 4. Ebola Reaches Nigeria As Outbreak Spreads Across Africa (Medical) 5. Iran Draws Out Talks Ahead Of US Midterms (Middle East) 6. Musk Ordered Starlink Restrictions Disrupt Ukraine’s Defences (Europe) 7. Nato Reinforces Black Sea After Attacks On Shipping (Europe) 8. Alberta Rejects Path To Independence Vote (North America) 9. Rwandan Government Critic Found Beheaded In Uganda (Africa) 10. Lula Seeks …\n\n[7] Morning Briefing: Oct. 21, 2026 (aa.com.tr)\n# Morning Briefing: Oct. 21, 2026 Author: Diyar Guldogan Published: 2026-10-21T09:42:10Z Source: aa.com.tr Language: en\n\n[8] Big News Stories Overnight - Wednesday, October 21, 2026 (golocalprov.com)\nStreet Journal reports: Elon Musk ordered the slowdown of a military-grade version of Starlink relied on by Ukraine, a decision that sparked panic in ... confusion inside the Trump administration, U.S. officials and people familiar with the matter said.\n\n[9] Catching Our Eye News Roundup, Oct. 21, 2026 (newsfromthestates.com)\nthey added a provision to last year’s state budget that would have taken away citizens’ right to sue polluters. The Oct. 14 ruling by ... Pleas Judge Julie Lynch preserves the state’s Air Nuisance Rule, a 50-year-old provision that allows communities\n\n[10] India News Live Updates, October 21, 2026: (indianexpress.com)\n. The request came after Justice Subramonium Prasad questioned why the pleas should be entertained ... the leaders have an alternate remedy, seeking a revision of the special executive magistrate’s ... that the bond to keep the peace, given on October",
+  "hash": "4a3860b45d7a710cf3a07ee4c12b94e7472f0aad0ccb93dab83e8e33f828099d",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news October 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-21T09:11:36+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Inflation jumps to 3.7% as gas, diesel prices squeeze consumers",
+    "url": "https://www.nbcnews.com/business/economy/inflation-jumped-september-gas-diesel-prices-squeezed-consumers-ahead-rcna603202",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "Categories including housing, clothing, and restaurant and takeout food all saw price increases. Only three major categories saw price declines: groceries, medical care commodities and utility gas service"
+   },
+   {
+    "title": "What Will It Take to Be Confident About Inflation? | Investing.com",
+    "url": "https://www.investing.com/analysis/what-will-it-take-to-be-confident-about-inflation-200689938",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Risk management, the Fed’s main rationale in September, points to another rate hike next week. Markets put the odds at one in five. ... A question I was asked repeatedly this year on Bloomberg: “Are you confident inflation is going back to 2%?” Early in the year, I said yes; the temporary boost from energy prices and tariffs would wane, delivering the necessary disinflation. By the end of the summer, I was much less confident. In September, I shifted to favoring modest rate hikes as insurance against persistently elevated inflation. Risk management was a signature approach of the Powell Fed and was also the most common reason given in the FOMC minutes for the September rate increase. ... Information since the September meeting has underscored the upside risks to inflation, while the labor market has remained in balance. Long lags between changes in the policy rate and their effects on inflation argue for adjusting policy sooner rather than later. Other considerations, such as higher long-term interest rates, the timing of the midterm election, and the potential for a market surprise, are insufficient to justify a hold in October. Currently, futures markets imply less than a 20% chance of a rate increase next week, partly reflecting patient messages from Fed leadership in recent weeks. The case for a rate hike is stronger than the odds suggest. ... The September CPI offered little to build confidence in disinflation. First, the upside surprise was broad-based, unlike in August, when it was concentrated in wireless services. Second, while energy drove the 0.6% headline increase in September, core CPI, which excludes food and energy, rose 0.33%, an annualized rate of about 4%. Finally, the disinflation over the three-month horizon (orange line below), which Fed Governor Waller had highlighted as a possible inflection point before the August CPI, reversed. ... The September PPI shows even more pricing pressure in the pipeline. The direct effect of higher energy prices was as clear in the PPI as in the CPI, and the PPI also shows those energy costs feeding into non-energy goods and services, the second-round effects. Prices that U.S. businesses charge for transportation and warehousing services (blue line) continued to rise sharply in September and are now increasing at a pace last seen in 2022. Whether those costs end up in higher consumer prices or in squeezed business margins"
+   },
+   {
+    "title": "Economist breaks down new inflation report and what's driving prices higher | PBS News",
+    "url": "https://www.pbs.org/newshour/show/economist-breaks-down-new-inflation-report-and-whats-driving-prices-higher",
+    "source": "pbs.org",
+    "published": "",
+    "excerpt": "Prices climbed 3.7 percent over the past year and by more than half-a-percent in just the last month. It's the largest monthly increase in five months. The price increase was driven by gasoline, up 9 percent in September."
+   },
+   {
+    "title": "Americans are spending in the face of inflation and they are not happy about it | AP News",
+    "url": "https://apnews.com/article/us-economy-consumers-elections-inflation-28ffc9c856377d468a2fb231712806b1",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — High gas prices are intensifying inflation and vacuuming up more of Americans’ dollars, yet consumers are still digging deep to spend, powering the economy, at least for now. A slew of economic data Thursday showed that ... A report Thursday on wholesale prices helps explain the gloom: The government’s producer price index, which measures costs before they reach the consumer, jumped 6.3% in September from a year earlier, the biggest increase in nearly four years. On a monthly basis, prices soared 1.3% from August to September, powered by a 20% rise in gas prices. Higher diesel prices have made"
+   },
+   {
+    "title": "The Chicago Fed President answers questions on inflation numbers : NPR",
+    "url": "https://www.npr.org/2026/10/14/nx-s1-6000584/the-chicago-fed-president-answers-questions-on-inflation-numbers",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": ": We know inflation is ticking up. One of the biggest stories of the year - consumer prices up ... businesses, individuals, nonprofits - are about cost, about prices, about affordability. The thing that was unfortunate in this report, it's not"
+   },
+   {
+    "title": "Soaring Energy Prices Push Inflation Higher",
+    "url": "https://www.nytimes.com/live/2026/10/14/business/inflation-cpi-report-september",
+    "source": "nytimes.com",
+    "published": "",
+    "excerpt": "Consumer Price Index Report, released by the Bureau of Labor Statistics on Wednesday, showed overall prices rose 0.6 percent, the largest monthly increase in five months. Compared with the same time ... , which have shot higher this year because of the"
+   },
+   {
+    "title": "Gold dips for fourth session as oil rally fans inflation concerns",
+    "url": "https://www.cnbc.com/2026/10/21/gold-dips-for-fourth-session-as-oil-rally-fans-inflation-concerns.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "# Gold dips for fourth session as oil rally fans inflation concerns Author: Reuters Published: 2026-10-21T03:54:18Z Source: cnbc.com Language: en"
+   },
+   {
+    "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine By Reuters",
+    "url": "https://www.investing.com/news/economy-news/fed-sees-ai-boom-adding-to-inflation-headache-but-others-may-pay-for-the-medicine-4956834",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "# Fed sees AI boom adding to inflation headache, but others may pay for the medicine By Reuters Published: 2026-10-19T10:04:56Z Source: investing.com Language: en"
+   },
+   {
+    "title": "Treasury yields steady ahead of jobless claims and mortgage data",
+    "url": "https://www.cnbc.com/2026/10/21/bonds-us-treasurys-yields.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "# Treasury yields steady ahead of jobless claims and mortgage data Author: Hugh Leask Published: 2026-10-21T08:57:33Z Source: cnbc.com Language: en"
+   },
+   {
+    "title": "September CPI Report: Inflation Hits 3.7%, Markets Wobble",
+    "url": "https://worldreachdaily.com/september-cpi-report-2026-inflation-markets/",
+    "source": "worldreachdaily.com",
+    "published": "",
+    "excerpt": "The September CPI report came in hotter than anyone wanted. Inflation ran at 3.7% year over year through September, the Labor Department said on October 14 — a touch above what economists expected, and a fresh reminder that the fight against rising prices isn’t over yet. But investors didn’t just worry about the Federal Reserve this time. They worried about whether Wall Street’s giant AI spending spree will ever pay for itself. ... Here’s the fear underneath it all. The AI industry is spending like there’s no tomorrow: chips, buildings, power plants, data centers — much of it funded by debt. With the 10-year Treasury yielding above 5% and mortgages near 7.5%, money isn’t cheap anymore. The September CPI report only added to worries that borrowing costs will stay high. ... After the hot September CPI report, futures traders briefly piled into bets on a rate hike at the Fed’s October 27-28 meeting. Fed officials spent the week talking them down. ... “We are more likely than not to need additional adjustments, but the timing of those adjustments to me is something we’re still deliberating,” San Francisco Fed President Mary Daly told Reuters on October 14. “I don’t feel urgent that we have to decide with a limited set of information. I think we have the time that we need.” ... The policy rate sits at 3.75% to 4.00% after the Fed raised it a quarter point in September — its first hike since 2023. New York Fed President John Williams, the committee’s vice chair, reaffirmed that one more hike in 2026 may fit, adding he has “no reason to believe” more would be needed in 2027. Minneapolis Fed President Neel Kashkari said he’s “open-minded” about timing. The message from all of them: not October. Probably December, if at all. ... Confusion after the September CPI report sent investors sprinting for safety. The 10-year Treasury yield, which climbed above 5.3% last week, dropped to around 5.1% — its biggest weekly decline since February. Bond prices rise when yields fall, and money that fled tech stocks poured into government debt. ... October’s story is really two stories. The September CPI report confirms inflation refuses to die — 3.7% is a long way from the Fed’s 2% target — and the market’s faith in the AI spending boom is cracking. The Fed has time, as Daly put it. Investors, nursing record valuations and record borrowing costs at the same time, may not. The next few weeks — the October FOMC meeting, earnings season, and November inflation data — will decide whether this was a scare or the start of something uglier."
+   }
+  ],
+  "text": "[1] Inflation jumps to 3.7% as gas, diesel prices squeeze consumers (nbcnews.com)\nCategories including housing, clothing, and restaurant and takeout food all saw price increases. Only three major categories saw price declines: groceries, medical care commodities and utility gas service\n\n[2] What Will It Take to Be Confident About Inflation? | Investing.com (investing.com)\nRisk management, the Fed’s main rationale in September, points to another rate hike next week. Markets put the odds at one in five. ... A question I was asked repeatedly this year on Bloomberg: “Are you confident inflation is going back to 2%?” Early in the year, I said yes; the temporary boost from energy prices and tariffs would wane, delivering the necessary disinflation. By the end of the summer, I was much less confident. In September, I shifted to favoring modest rate hikes as insurance against persistently elevated inflation. Risk management was a signature approach of the Powell Fed …\n\n[3] Economist breaks down new inflation report and what's driving prices higher | PBS News (pbs.org)\nPrices climbed 3.7 percent over the past year and by more than half-a-percent in just the last month. It's the largest monthly increase in five months. The price increase was driven by gasoline, up 9 percent in September.\n\n[4] Americans are spending in the face of inflation and they are not happy about it | AP News (apnews.com)\nWASHINGTON (AP) — High gas prices are intensifying inflation and vacuuming up more of Americans’ dollars, yet consumers are still digging deep to spend, powering the economy, at least for now. A slew of economic data Thursday showed that ... A report Thursday on wholesale prices helps explain the gloom: The government’s producer price index, which measures costs before they reach the consumer, jumped 6.3% in September from a year earlier, the biggest increase in nearly four years. On a monthly basis, prices soared 1.3% from August to September, powered by a 20% rise in gas prices. Higher …\n\n[5] The Chicago Fed President answers questions on inflation numbers : NPR (npr.org)\n: We know inflation is ticking up. One of the biggest stories of the year - consumer prices up ... businesses, individuals, nonprofits - are about cost, about prices, about affordability. The thing that was unfortunate in this report, it's not\n\n[6] Soaring Energy Prices Push Inflation Higher (nytimes.com)\nConsumer Price Index Report, released by the Bureau of Labor Statistics on Wednesday, showed overall prices rose 0.6 percent, the largest monthly increase in five months. Compared with the same time ... , which have shot higher this year because of the\n\n[7] Gold dips for fourth session as oil rally fans inflation concerns (cnbc.com)\n# Gold dips for fourth session as oil rally fans inflation concerns Author: Reuters Published: 2026-10-21T03:54:18Z Source: cnbc.com Language: en\n\n[8] Fed sees AI boom adding to inflation headache, but others may pay for the medicine By Reuters (investing.com)\n# Fed sees AI boom adding to inflation headache, but others may pay for the medicine By Reuters Published: 2026-10-19T10:04:56Z Source: investing.com Language: en\n\n[9] Treasury yields steady ahead of jobless claims and mortgage data (cnbc.com)\n# Treasury yields steady ahead of jobless claims and mortgage data Author: Hugh Leask Published: 2026-10-21T08:57:33Z Source: cnbc.com Language: en\n\n[10] September CPI Report: Inflation Hits 3.7%, Markets Wobble (worldreachdaily.com)\nThe September CPI report came in hotter than anyone wanted. Inflation ran at 3.7% year over year through September, the Labor Department said on October 14 — a touch above what economists expected, and a fresh reminder that the fight against rising prices isn’t over yet. But investors didn’t just worry about the Federal Reserve this time. They worried about whether Wall Street’s giant AI spending spree will ever pay for itself. ... Here’s the fear underneath it all. The AI industry is spending like there’s no tomorrow: chips, buildings, power plants, data centers — much of it funded by debt. …",
+  "hash": "d338128a483aeb9a5cd2b41fa8bf15156552a068685fc088e3b7e80c102455c9",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news October 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-21T09:11:46+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Justice Kagan warns Supreme Court rulings are fueling polarization and undermining democracy",
+    "url": "https://apnews.com/article/supreme-court-democracy-elena-kagan-4554d6c508f37ac9821dfed06cfa02ab",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — Justice Elena Kagan on Tuesday said voting and elections decisions from her conservative Supreme Court colleagues have helped make the country more politically polarized and less democratic. In a speech two weeks before the pivotal midterm elections for control of Congress, the liberal-leaning justice sharply criticized how the majority’s rulings have affected the nation’s political environment. “The court has kind ... The court’s majority, for its part, said in a 2019 ruling that"
+   },
+   {
+    "title": "Morning news brief : NPR",
+    "url": "https://www.npr.org/2026/10/21/nx-s1-6003502/morning-news-brief",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "# Morning news brief : NPR Author: A Martínez Published: 2026-10-21T08:42:59Z Source: npr.org Language: en"
+   },
+   {
+    "title": "Catching Our Eye News Roundup, Oct. 21, 2026",
+    "url": "https://ohiocapitaljournal.com/2026/10/21/catching-our-eye-news-roundup-oct-21-2026/",
+    "source": "ohiocapitaljournal.com",
+    "published": "",
+    "excerpt": "• Republicans for socialism? Politico reports, “ GOP-linked PAC spends over $1M to boost third-party socialist in Ohio Senate race ... it seeks to boost a socialist candidate — an apparent attempt to sink former Democratic Sen. Sherrod Brown"
+   },
+   {
+    "title": "AP News in Brief at 12:04 a.m. EDT | 10tv.com",
+    "url": "https://www.10tv.com/article/syndication/associatedpress/ap-news-in-brief-at-1204-am-edt/616-3e74f3cb-b25c-42c6-832a-f4c74876f049",
+    "source": "10tv.com",
+    "published": "",
+    "excerpt": "Zelenskyy says early warning system for Russian missile attacks resumes following call with Rubio KYIV, Ukraine (AP) — Ukrainian President Volodymyr Zelenskyy said Tuesday that Kyiv is once again receiving early warnings from its partners about incoming Russian missiles following recent strikes that he said occurred without enough notice, leaving civilians vulnerable. For at least a week, the Ukrainian leader has said that his country has not received early warnings about ballistic missiles aimed at the capital. Such intelligence, he said, saves lives by allowing the public to be alerted and giving military units time to try to intercept the missiles. Zelenskyy said the change happened after talks with his American counterparts, including a phone call with U.S. Secretary of State Marco Rubio. “We are thankful that intelligence works now, and I’m speaking about early warning, which is very important for our people, for children, adults, civilians, because we can hear when ballistic is coming,” Zelenskyy said on a visit to Norway. “So we are thankful to American side now that it works.” Speaking to reporters in India, Rubio acknowledged mutual frustration between the U.S. and Ukraine over intelligence sharing and weapons supplies but emphatically denied that the Trump administration has made any changes to previous policy on either issue. FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence PARIS (AP) — President Donald Trump and leading Republicans are trying to leverage widespread riots in France ahead of midterm congressional elections by making unsubstantiated claims that the social unrest in Europe is caused by Muslim migrants. Peaceful nationwide demonstrations in France over the high cost of living and in support of students' grievances over underfunded schools turned violent over the weekend, with masked rioters committing vandalism and clashing with overwhelmed police. In Italy’s finance and fashion capital of Milan on Saturday, rioters clashed with police, looted stores and set property on fire. Here's a closer look at the facts. ... Trump and Vance announce $25M whistleblower program to encourage public to report alleged fraud WASHINGTON (AP) — President Donald Trump and Vice President JD Vance on Tuesday announced a $25 million program to encourage the public to blow the whistle on suspected fraud in the U.S. government as they ramp up efforts to end the abuse of federal programs and dollars. The White House said that under the Fraud Whistleblower Incentive Program, anyone who submits a tip that leads to a fraud conviction or a significant federal enforcement action is eligible to receive up to $30,000, and that the Justice Department will administer the program. During the announcement, Trump said payments will amount to a 1% commission on the amount of fraud the tip helps uncover. Trump also said he will decide who gets reward money in cases where more than one person claims to have provided the tip."
+   },
+   {
+    "title": "1am ET, October 21 | The latest headlines from NPR Transcript – NPR News Now | Audioscrape",
+    "url": "https://www.audioscrape.com/podcast/npr-news-now/episode/1am-et-october-21-the-latest-headlines-from-npr-59409",
+    "source": "audioscrape.com",
+    "published": "",
+    "excerpt": "Live from NPR News, I'm Charles Snyder. With less than two weeks to go until midterm election day, President Trump was in North Carolina Tuesday night to support Republican Michael Whatley, his hand-picked Senate candidate to replace outgoing Senator Tom Tillis."
+   },
+   {
+    "title": "Politics & Policy - Axios",
+    "url": "https://www.axios.com/politics-policy/2026/10/21",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "# Politics & Policy - Axios Source: axios.com Language: en"
+   },
+   {
+    "title": "Fed up with Trump, Maine mulls sticking with GOP 'devil ...",
+    "url": "https://www.afp.com/en/fed-trump-maine-mulls-sticking-gop-devil-you-know",
+    "source": "afp.com",
+    "published": "",
+    "excerpt": "Early snow is already dusting the northeasternmost US state of Maine, where a canny 73-year-old Republican senator is having to run the race of her life to help save Donald Trump's party from being frozen out of power nationwide. Susan Collins has held her Senate seat for three decades, becoming a near immovable fixture in the state's political landscape. But with President Trump deeply unpopular nationwide and Mainers furious about surging fuel prices ahead of winter, Collins's Democratic challenger is eying an upset -- and a chance to make his party's outside bid to regain the Senate a reality. The stakes are enormous in the race between Collins and logger-turned-politician Troy Jackson, as Maine is crucial for any Democratic path to a US Senate majority. While Democrats are forecast to win the House of Representatives in the November 3 midterms, they would need to clinch the Senate too if they want to stop Trump's right-wing agenda in its tracks, including his power to nominate Supreme Court justices. About one-third of Maine's voters are unaffiliated with either party. Because independents generally are opposed to Trump nationwide, that could work to Jackson's advantage. Most voters interviewed by AFP agreed that Collins had done well in funneling federal funding back to Maine over the years and that 58-year-old newcomer Jackson would not be so successful. But like many Mainers, retired teacher Louisa Beckett believes a perfect storm of national setbacks -- cost-of-living hikes, the Iran war, and allegations of massive Trump corruption -- could finally sink Collins. ... 2020 she trailed her Democratic challenger in pre-election polling. Then she won"
+   },
+   {
+    "title": "Poll: Voters Oppose Political Control of Grant Making",
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/10/21/poll-voters-oppose-political-control-grant-making",
+    "source": "insidehighered.com",
+    "published": "",
+    "excerpt": "Poll: Voters Oppose Political Control of Grant Making October 21, 2026 # Poll: Battleground Voters Oppose Political Control of Grant Making By Kathryn Palmer Photo illustration by Justin Morrison/Inside Higher Ed | SDI Productions/E+/Getty Images Ahead of the midterm elections Nov. 3, a new poll shows that voters in some Midwestern battleground states don’t approve of the federal government’s plans to assert more political control over the federal grant-making process. Earlier this month, United for Cures Action surveyed 1,200 registered voters in Iowa, Kansas, and Ohio, all of which Republican President Donald Trump won in 2024. According to the survey, published last week, 76 percent of voters in those states oppose the Office of Management and Budget’s proposal to overhaul the grant-approval process, including at the National Institutes of Health, the National Science Foundation and other federal agencies that send millions in research funding to universities each year. Right now, peer reviewers at those agencies make the final decision on who is awarded a grant. But under the proposal (which advocacy groups, including United for Cures, have opposed), political appointees would have the final say on awards, which could be canceled at their discretion. Strong voter opposition to the proposal extends across geographic and party lines. According to the poll, 77 percent of voters in Iowa and Kansas oppose, along with 75 percent in Ohio. Across all three states, 88 percent of Democrats, 82 percent of independents and 64 percent of Republicans oppose it. The poll also found that 64 percent believe the federal government spends too little on medical research, while 91 percent believe that federally funded medical research has had a “great deal” or “some” impact on finding breakthrough cures and treatments. The “bottom line,” United for Cures Action wrote in a memo about the poll, is “Voters clearly do not want increased political interference with federal grants from EITHER party.” ## Written By Kathryn Palmer"
+   },
+   {
+    "title": "10/21/2026 | Video | C-SPAN.org",
+    "url": "https://www.c-span.org/event/washington-journal/10-21-2026/448412",
+    "source": "c-span.org",
+    "published": "",
+    "excerpt": "10/21/2026 | Video | C-SPAN.org 10/21/2026 | Video | C-SPAN.org [ ![](https://static.c-spanvideo.org/assets/images/tagline_white.png)o ![](https://static.c- ... .org/assets/images/CSPAN_Reverse.svg) ](//www."
+   },
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/10/21",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "# Axios Source: axios.com Language: en"
+   }
+  ],
+  "text": "[1] Justice Kagan warns Supreme Court rulings are fueling polarization and undermining democracy (apnews.com)\nWASHINGTON (AP) — Justice Elena Kagan on Tuesday said voting and elections decisions from her conservative Supreme Court colleagues have helped make the country more politically polarized and less democratic. In a speech two weeks before the pivotal midterm elections for control of Congress, the liberal-leaning justice sharply criticized how the majority’s rulings have affected the nation’s political environment. “The court has kind ... The court’s majority, for its part, said in a 2019 ruling that\n\n[2] Morning news brief : NPR (npr.org)\n# Morning news brief : NPR Author: A Martínez Published: 2026-10-21T08:42:59Z Source: npr.org Language: en\n\n[3] Catching Our Eye News Roundup, Oct. 21, 2026 (ohiocapitaljournal.com)\n• Republicans for socialism? Politico reports, “ GOP-linked PAC spends over $1M to boost third-party socialist in Ohio Senate race ... it seeks to boost a socialist candidate — an apparent attempt to sink former Democratic Sen. Sherrod Brown\n\n[4] AP News in Brief at 12:04 a.m. EDT | 10tv.com (10tv.com)\nZelenskyy says early warning system for Russian missile attacks resumes following call with Rubio KYIV, Ukraine (AP) — Ukrainian President Volodymyr Zelenskyy said Tuesday that Kyiv is once again receiving early warnings from its partners about incoming Russian missiles following recent strikes that he said occurred without enough notice, leaving civilians vulnerable. For at least a week, the Ukrainian leader has said that his country has not received early warnings about ballistic missiles aimed at the capital. Such intelligence, he said, saves lives by allowing the public to be alerted and …\n\n[5] 1am ET, October 21 | The latest headlines from NPR Transcript – NPR News Now | Audioscrape (audioscrape.com)\nLive from NPR News, I'm Charles Snyder. With less than two weeks to go until midterm election day, President Trump was in North Carolina Tuesday night to support Republican Michael Whatley, his hand-picked Senate candidate to replace outgoing Senator Tom Tillis.\n\n[6] Politics & Policy - Axios (axios.com)\n# Politics & Policy - Axios Source: axios.com Language: en\n\n[7] Fed up with Trump, Maine mulls sticking with GOP 'devil ... (afp.com)\nEarly snow is already dusting the northeasternmost US state of Maine, where a canny 73-year-old Republican senator is having to run the race of her life to help save Donald Trump's party from being frozen out of power nationwide. Susan Collins has held her Senate seat for three decades, becoming a near immovable fixture in the state's political landscape. But with President Trump deeply unpopular nationwide and Mainers furious about surging fuel prices ahead of winter, Collins's Democratic challenger is eying an upset -- and a chance to make his party's outside bid to regain the Senate a …\n\n[8] Poll: Voters Oppose Political Control of Grant Making (insidehighered.com)\nPoll: Voters Oppose Political Control of Grant Making October 21, 2026 # Poll: Battleground Voters Oppose Political Control of Grant Making By Kathryn Palmer Photo illustration by Justin Morrison/Inside Higher Ed | SDI Productions/E+/Getty Images Ahead of the midterm elections Nov. 3, a new poll shows that voters in some Midwestern battleground states don’t approve of the federal government’s plans to assert more political control over the federal grant-making process. Earlier this month, United for Cures Action surveyed 1,200 registered voters in Iowa, Kansas, and Ohio, all of which …\n\n[9] 10/21/2026 | Video | C-SPAN.org (c-span.org)\n10/21/2026 | Video | C-SPAN.org 10/21/2026 | Video | C-SPAN.org [ ![](https://static.c-spanvideo.org/assets/images/tagline_white.png)o ![](https://static.c- ... .org/assets/images/CSPAN_Reverse.svg) ](//www.\n\n[10] Axios (axios.com)\n# Axios Source: axios.com Language: en",
+  "hash": "1e9bcc6a2a67ad75f2bf6cab40f4a1f698ee4b67d1a68e408e6e28ba6433a6be",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities October 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-21T09:11:57+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "10-21-2026 Daily Edition",
+    "url": "https://www.hollywoodreporter.com/dailyedition/21-10-2026/1236737063/",
+    "source": "hollywoodreporter.com",
+    "published": "",
+    "excerpt": "## Netflix: “We Need Better Execution” in U.S., and Peter Rice Can Deliver It Co-CEO Ted Sarandos says the former Disney and Fox executive can help the streamer keep growing. ... ’s strategy for continued growth is sound, it needs “better execution” of"
+   },
+   {
+    "title": "What To Watch On TV And Streaming Wednesday, October 21, 2026",
+    "url": "https://www.tvline.com/2291271/what-to-watch-october-21-2026-tv-shows-movies/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "On TV this Wednesday: \"The Terminal List\" returns for another mission on Prime Video, \"Slow Horses\" wraps up Season 6, and ABC pays tribute to Dolly Parton. ... ### CMA Presents I Will Always Love You: A Celebration of Dolly Parton Country music's biggest stars, from Reba McEntire and Brad Paisley to Carrie Underwood and Ella Langley, pay tribute to the late Dolly Parton with a two-hour live concert special benefitting Dolly Parton's Imagination Library."
+   },
+   {
+    "title": "Entertainment News (10/21/26) - BusinessWorld Online",
+    "url": "https://bworldonline.com/arts-and-leisure/2026/10/20/788122/entertainment-news-10-21-26/",
+    "source": "bworldonline.com",
+    "published": "",
+    "excerpt": "Entertainment News (10/21/26) - BusinessWorld Online # Entertainment News (10/21/26) PRODUCER, songwriter, and multi-instrumentalist Ziv has teamed up with rising P-pop girl group VVINK for “Trisikulo,” a pop track on the familiar third-wheel experience. October 20, 2026 | 6:06 pm ## Ziv, VVINK release collaboration PRODUCER, songwriter, and multi-instrumentalist Ziv has teamed up with rising P-pop girl group VVINK for “Trisikulo,” a pop track on the familiar third-wheel experience. Released under Sony Music Entertainment, it is built around Filipino wordplay that links a tricycle’s three wheels to the feeling of being the extra person in someone else’s love story. The song was co-written by Ziv alongside Paolo Benjamin Guico of Filipino folk-pop band Ben&Ben and Angelika Samantha Ortiz, one of the songwriters behind BINI’s hit “Pantropiko.” The mixing was also done by Jacques Jenkins and mastering by Luna Tebbs. The track is out now on all digital music streaming platforms. ## *Love in Disguise* premieres on Prime Video *LOVE in Disguise*, a Korean series based on the hit web novel *Why Don’t You Know It’s a Girl?*, has premiered on Prime Video. It is directed by Park Dhan-hee and stars Yim Si Wan, Seorina, Kim Junghyun, and Yeonwoo. The genre-blending romance is exclusively seen on Prime Video in the Philippines and in more than 240 countries and territories worldwide. ## Estelle Fly drops club-pop single SINGAPOREAN pop artist Estelle Fly has released “Shut It Down,” a playful club-pop single about switching off the overthinking and making the dance floor your own. Inspired by the Rihanna and Kesha songs, the new release is an invitation to let loose, dance with friends and have fun even when life feels complicated. It is out now on all digital music streaming platforms. ## Cayabyab, APO, Mitch Valdes reunion THIS holiday season, National Artist for Music Ryan Cayabyab, OPM legends APO, and performer Mitch Valdes will come together for *naRyan nAPO Kami*, the fourth chapter of the MaestroClass Concert Series. The shows will be held on Dec. 4, 5, and 6 at the Proscenium Theater at Rockwell Center, Makati. All shows take place at 7:30 p.m. Joined by the Ryan Cayabyab Singers, the special Christmas chapter of the concert series brings together familiar songs, stories, and artists in a celebration that captures the warmth and spirit of a Filipino family gathering. Tickets are available directly at the Proscenium Theater website via *https://prosceniumtheater.com/* and at the Power Plant Mall Cinema. ## *Amir* gets international distribution GMA Pictures, GMA Public Affairs, and Brightburn Entertainment have officially locked in a partnership deal with Columbia Pictures for the distribution of the upcoming fantasy-drama film and 52 nd Metro Manila Film Festival (MMFF) finalist *Amir*. It is directed by Zig Dulay, with a script crafted by National Artist for Film and Broadcast Arts Ricky Lee alongside Anj Atienza. The film’s cast features Dennis Trillo, Argus Aspiras, Glaiza de Castro, Will Ashley, Caprice Cayetano, Epy Quizon, Joel Saracho, Ronnie Lazaro, Laila Ulao, Heath Jornales, Yasser Marta, Mad Ramos, Ethan Hariot, Hebron Ecal, and Mon Confiado. ## Rachel Chinouriri releases new album UK’s indie-pop singer-songwriter Rachel Chinouriri has released her second studio album, I think I spoke too soon, via Atlas Artists/Parlophone Records. The album expands upon the pop, indie, and rock influences that Ms. Chinouriri has long used to sketch portraits of her inner world. The album’s focus track is “Pretty girls,” which celebrates women, self-confidence, and the freedom to express oneself without fear of judgement. ## M2M 2027 world tour has Manila leg NORWEGIAN pop duo M2M have announced that their global tour *TWO* will be coming to Manila in 2027. The tour will start in March and after concerts at Mexico, Singapore, Hong Kong, and Jakarta, M2M’s global tour will reach Manila on April 2, 2027, at the Araneta Coliseum in Quezon City. Tickets will go on sale on Oct. 24 at 10 a.m. via *TicketNet.com.ph* and TicketNet outlets nationwide. Presented by Wilbros Live, the concert will feature M2M performing their greatest hits, “Don’t Say You Love Me,” “Mirror Mirror,” “Pretty Boy,” and “The Day You Went Away,” among others. ## Maris Racal appears in Maya Black’s music video ACTRESS Maris Racal is featured in Maya Black’s latest music video, serving edgy"
+   },
+   {
+    "title": "DWTS: Julia Stiles, 10 Things Cast Reunite in Heath Ledger Tribute",
+    "url": "https://www.eonline.com/news/1437160/dwts-julia-stiles-10-things-cast-reunite-in-heath-ledger-tribute",
+    "source": "eonline.com",
+    "published": "",
+    "excerpt": "For Dancing With the Stars Dedication Night Oct. 20, Julia Stiles reunited with the 10 Things I Hate About You cast to honor Heath Ledger, performing a routine set to \"Can't Take My Eyes Off You.\" ... During Dancing With the Stars’ Dedication Night Oct. 20, the 10 Things I Hate About You actress paid tribute to her late costar Heath Ledger with heartfelt contemporary routine set to Frankie Valli's \"Can't Take My Eyes Off You\"—the same song Ledger’s character Patrick Verona sang to her character Kat Stratford in the 1999 movie—culminating in an emotional reunion with the rest of the cast."
+   },
+   {
+    "title": "Entertainment Live News Updates Today (October 21): More Arrests In Tiger Shroff Firing Case; Ramayana Declared Tax-Free In Bengal | Entertainment News Live Updates Today In India | Entertainment News Bollywood Updates Live | Live Entertainment News Bollywood, South, OTT, TV - Filmibeat",
+    "url": "https://www.filmibeat.com/bollywood/news/2026/entertainment-live-news-updates-today-ramayana-tax-free-in-bengal-more-arrests-in-tiger-shroff-case-535421.html",
+    "source": "filmibeat.com",
+    "published": "",
+    "excerpt": "Starting with the latest developments in the Tiger Shroff firing case, the investigation has led to more arrests. After three suspected shooters were apprehended in Kota, the Delhi Police Special Cell arrested four additional accused on Tuesday. According to The Hindu, they are suspected of transporting a firearm to Mumbai and helping coordinate the operation allegedly connected to the attack on Tiger Shroff. With just days left before its grand theatrical release, Ramayana: Part 1, starring Ranbir Kapoor, Sai Pallavi and Yash, has made headlines after being declared tax-free in West Bengal by Chief Minister Suvendu Adhikari. ... ## Jailer 2 Box Office Collection Day 6: Rajinikanth's Film Crosses ₹540 Cr Worldwide Rajinikanth's Tamil action comedy Jailer 2 continued its theatrical run with an increase in domestic net collections on Tuesday, October 20. According to Sacnilk's estimates, the film earned ₹45.55 crore net in India on Day 6, taking its cumulative India net collection to ₹287.80 crore. With its overseas earnings also contributing to the total, the film's worldwide gross collection reached ₹541 crore. Following Tuesday's earnings, Jailer 2's India net collection stood at ₹287.80 crore, while its domestic gross collection reached ₹337 crore. Overseas markets contributed an estimated ₹10 crore gross on Day 6, taking the film's cumulative overseas gross to ₹204 crore. Combining the domestic and overseas figures, the film's worldwide gross collection reached ₹541 crore after six days. ... ## Ranbir Kapoor’s ‘Ramayana’ Declared Tax-Free In Bengal Ahead Of Grand Theatrical Release On November 5 Nitesh Tiwari’s upcoming cinematic adaptation of the Hindu epic Ramayana, featuring Ranbir Kapoor as Lord Rama and Yash as Ravana, has been declared tax-free in West Bengal. Chief Minister Suvendu Adhikari announced the decision on Dussehra, ahead of the film’s scheduled theatrical release on November 5, 2026. Speaking to ANI, Adhikari confirmed the move and referred to other films that have received similar treatment. He said, \"The Ramayana film has been made tax-free. The Kerala Story, The Kashmir Files, and The Bengal Files—all of these will be (or have been) made tax-free, and the same will apply to Ramayana. In the days to come, we will see films on Shri Krishna and Arjuna, as well as the Mahabharata...\""
+   },
+   {
+    "title": "2026年10月21日の映画ニュース - 映画.com",
+    "url": "https://eiga.com/news/20261021/",
+    "source": "eiga.com",
+    "published": "",
+    "excerpt": "## 本国版&吹替版ポスタークリアカード配布決定！「BOSS ボス」黒モナキのアザービジュアル&撮影風景動画も解禁 2026年10月21日 15:00 ## ジュード・ロウ、新作ドラマでリバプールFCの伝説的監督ビル・シャンクリーに 2026年10月21日 14:00 ## 「RYUJI 竜二」公開記念！10月末の「午後のロードショー」ではアウトロー作品を放送 2026年10月21日 13:00 ... 」スペシャル映像公開！ 公式グッズ＆パンフレット発売も決定"
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3995482-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-21T04:55:52Z Source: devdiscourse.com Language: en"
+   },
+   {
+    "title": "U.S. Premiere of LAIKA's 'Wildwood' to Open 40th AFI FEST | Animation World Network",
+    "url": "https://www.awn.com/news/us-premiere-laikas-wildwood-open-40th-afi-fest",
+    "source": "awn.com",
+    "published": "",
+    "excerpt": "LAIKA has set the U.S. premiere of its highly-anticipated new film, Wildwood, at the 40th edition of AFI FEST presented by Canva on Wednesday, October 21, at the TCL Chinese Theatres in Hollywood, two days before the epic stop-motion fantasy hits theaters nationwide through Fathom Entertainment. ... The film is a long time coming: Travis Knight directs and produces from a screenplay by Chris Butler, based on the novel by Colin Meloy, which LAIKA optioned way back in 2011. Caleb Deschanel handles cinematography; Peyton Elizabeth Lee and Jacob Tremblay lead the voice cast, alongside Carey Mulligan, Academy Award winner Mahershala Ali, Angela Bassett, Awkwafina, Jake Johnson, Charlie Day, Amandla Stenberg, Jemaine Clement, Maya Erskine, Tantoo Cardinal, Tom Waits and Richard E. Grant. ... AFI FEST runs October 21-25 at the TCL Chinese Theatres, with Red Carpet Premieres, Special Screenings, World Cinema, Documentaries and Short Films. The full lineup will be unveiled September 29, individual tickets go on sale October 3, and passes are available now at FEST.AFI.com. The festival is an Academy Awards qualifying festival for the Live Action, Animated and Documentary Short Film categories."
+   },
+   {
+    "title": "What to do in NYC on October 21st, 2026",
+    "url": "https://donyc.com/events/2026/10/21",
+    "source": "donyc.com",
+    "published": "",
+    "excerpt": "# What to do in NYC Tomorrow - Through Jan 03 Paranormal Activity on Broadway August Wilson Theatre 2:00PM ... 2026 - NYC Haunted House The Ridgewood Asylum 8:00PM 2 Built to Spill Fall 2026 Tour Music Hall of Williamsburg"
+   },
+   {
+    "title": "Pop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News",
+    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "### FOR SUBSCRIBERS The complicated bargain between ‘looksmaxxing’ ... the women in his orbit ### Elizabeth Holmes movie ‘You Can See Everything’ is a hit in theaters ### Val Chmerkovskiy gets one-week suspension on ‘Dancing with the Stars’"
+   }
+  ],
+  "text": "[1] 10-21-2026 Daily Edition (hollywoodreporter.com)\n## Netflix: “We Need Better Execution” in U.S., and Peter Rice Can Deliver It Co-CEO Ted Sarandos says the former Disney and Fox executive can help the streamer keep growing. ... ’s strategy for continued growth is sound, it needs “better execution” of\n\n[2] What To Watch On TV And Streaming Wednesday, October 21, 2026 (tvline.com)\nOn TV this Wednesday: \"The Terminal List\" returns for another mission on Prime Video, \"Slow Horses\" wraps up Season 6, and ABC pays tribute to Dolly Parton. ... ### CMA Presents I Will Always Love You: A Celebration of Dolly Parton Country music's biggest stars, from Reba McEntire and Brad Paisley to Carrie Underwood and Ella Langley, pay tribute to the late Dolly Parton with a two-hour live concert special benefitting Dolly Parton's Imagination Library.\n\n[3] Entertainment News (10/21/26) - BusinessWorld Online (bworldonline.com)\nEntertainment News (10/21/26) - BusinessWorld Online # Entertainment News (10/21/26) PRODUCER, songwriter, and multi-instrumentalist Ziv has teamed up with rising P-pop girl group VVINK for “Trisikulo,” a pop track on the familiar third-wheel experience. October 20, 2026 | 6:06 pm ## Ziv, VVINK release collaboration PRODUCER, songwriter, and multi-instrumentalist Ziv has teamed up with rising P-pop girl group VVINK for “Trisikulo,” a pop track on the familiar third-wheel experience. Released under Sony Music Entertainment, it is built around Filipino wordplay that links a tricycle’s three …\n\n[4] DWTS: Julia Stiles, 10 Things Cast Reunite in Heath Ledger Tribute (eonline.com)\nFor Dancing With the Stars Dedication Night Oct. 20, Julia Stiles reunited with the 10 Things I Hate About You cast to honor Heath Ledger, performing a routine set to \"Can't Take My Eyes Off You.\" ... During Dancing With the Stars’ Dedication Night Oct. 20, the 10 Things I Hate About You actress paid tribute to her late costar Heath Ledger with heartfelt contemporary routine set to Frankie Valli's \"Can't Take My Eyes Off You\"—the same song Ledger’s character Patrick Verona sang to her character Kat Stratford in the 1999 movie—culminating in an emotional reunion with the rest of the cast.\n\n[5] Entertainment Live News Updates Today (October 21): More Arrests In Tiger Shroff Firing Case; Ramayana Declared Tax-Free In Bengal | Entertainment News Live Updates Today In India | Entertainment News Bollywood Updates Live | Live Entertainment News Bollywood, South, OTT, TV - Filmibeat (filmibeat.com)\nStarting with the latest developments in the Tiger Shroff firing case, the investigation has led to more arrests. After three suspected shooters were apprehended in Kota, the Delhi Police Special Cell arrested four additional accused on Tuesday. According to The Hindu, they are suspected of transporting a firearm to Mumbai and helping coordinate the operation allegedly connected to the attack on Tiger Shroff. With just days left before its grand theatrical release, Ramayana: Part 1, starring Ranbir Kapoor, Sai Pallavi and Yash, has made headlines after being declared tax-free in West Bengal …\n\n[6] 2026年10月21日の映画ニュース - 映画.com (eiga.com)\n## 本国版&吹替版ポスタークリアカード配布決定！「BOSS ボス」黒モナキのアザービジュアル&撮影風景動画も解禁 2026年10月21日 15:00 ## ジュード・ロウ、新作ドラマでリバプールFCの伝説的監督ビル・シャンクリーに 2026年10月21日 14:00 ## 「RYUJI 竜二」公開記念！10月末の「午後のロードショー」ではアウトロー作品を放送 2026年10月21日 13:00 ... 」スペシャル映像公開！ 公式グッズ＆パンフレット発売も決定\n\n[7] Reuters Entertainment News Summary | International (devdiscourse.com)\n# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-21T04:55:52Z Source: devdiscourse.com Language: en\n\n[8] U.S. Premiere of LAIKA's 'Wildwood' to Open 40th AFI FEST | Animation World Network (awn.com)\nLAIKA has set the U.S. premiere of its highly-anticipated new film, Wildwood, at the 40th edition of AFI FEST presented by Canva on Wednesday, October 21, at the TCL Chinese Theatres in Hollywood, two days before the epic stop-motion fantasy hits theaters nationwide through Fathom Entertainment. ... The film is a long time coming: Travis Knight directs and produces from a screenplay by Chris Butler, based on the novel by Colin Meloy, which LAIKA optioned way back in 2011. Caleb Deschanel handles cinematography; Peyton Elizabeth Lee and Jacob Tremblay lead the voice cast, alongside Carey …\n\n[9] What to do in NYC on October 21st, 2026 (donyc.com)\n# What to do in NYC Tomorrow - Through Jan 03 Paranormal Activity on Broadway August Wilson Theatre 2:00PM ... 2026 - NYC Haunted House The Ridgewood Asylum 8:00PM 2 Built to Spill Fall 2026 Tour Music Hall of Williamsburg\n\n[10] Pop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News (nbcnews.com)\n### FOR SUBSCRIBERS The complicated bargain between ‘looksmaxxing’ ... the women in his orbit ### Elizabeth Holmes movie ‘You Can See Everything’ is a hit in theaters ### Val Chmerkovskiy gets one-week suspension on ‘Dancing with the Stars’",
+  "hash": "ab3335f6f683f6f21af86c79f4af0bf0a458e30814bcb8f49f2e71224e3bd772",
+  "notes": []
+ }
+}
