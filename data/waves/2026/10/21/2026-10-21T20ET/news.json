@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-10-22T00:55:02+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories October 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-22T00:55:02+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Morning Briefing: Oct. 21, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-21-2026/4095279",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": ", including Libya’s parliament approving a maritime deal with Türkiye, Saudi-led coalition intercepting ... the first day of US-sponsored military-technical talks between Lebanon and Israel concluding in Florida, and US President Donald Trump urging"
+   },
+   {
+    "title": "October 21, 2026 - PBS News Hour full episode | PBS News",
+    "url": "https://www.pbs.org/newshour/show/october-21-2026-pbs-news-hour-full-episode",
+    "source": "pbs.org",
+    "published": "",
+    "excerpt": "releases an imprisoned American and agrees to resume negotiations to end its war in Ukraine. How Elon Musk, the world's richest man, has gained such power over U.S. security interests. Plus, abortion rights are on"
+   },
+   {
+    "title": "Headlines for October 21, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/10/21/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "Allah has nearly surrounded Yemen’s third-largest city and cut off most of its supply routes. ... by the Saudi-backed government. U.N. human rights chief Volker Türk warned that residents are in serious danger as food runs short and prices climb. This is"
+   },
+   {
+    "title": "Reuters World News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3995777-reuters-world-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Following is a summary of current world news briefs. US Democratic congressional candidate Lander detained by Israeli authorities in West Bank Brad Lander, an ally of New York City Mayor Zohran Mamdani who is a Democratic candidate for the US Congress, was among 90 volunteers detained by Israeli forces in the occupied West Bank on Wednesday, according to American and Israeli rights groups. Rabbis for Human Rights, ​an Israeli organization, said in a statement that Lander and other volunteers were accompanying Palestinian farmers harvest olives close to a village near Bethlehem before Israeli forces arrived and detained the group. Georgian court begins hearing lawsuit seeking ban on major opposition parties A court ​in Georgia opened hearings on Wednesday in a lawsuit filed by the government seeking outright bans on the five main opposition parties, in a move that civil society ‌groups say presages the beginning ​of one-party rule in the South Caucasus country. The Constitutional Court in the Black Sea city of Batumi will meet for three days to review the suit, first filed by the ruling Georgian Dream party a year ago. The court, whose ruling is final and cannot be appealed in Georgia, must give its decision by June 2027. Turkey, Qatar, Pakistan, Indonesia sign defence cooperation accord, Ankara says Turkey, Qatar, Pakistan, and Indonesia signed an agreement on Wednesday to boost defence cooperation and strengthen defensive capabilities, the Turkish Defence Ministry said. In a statement, the ministry said the countries signed the \"Badr Memorandum of Understanding\" in Doha as a sign of their desire to further deepen cooperation and develop partnerships. Nigeria reports Ebola case, fourth African country affected by outbreak Nigeria reported its first Ebola case in more than a decade on Tuesday, becoming the fourth African country and the most populous ‌yet to be affected by an outbreak that health officials have described as the fastest-spreading on record. The Ebola species behind the outbreak kills about half of those infected and has no approved treatment or vaccine. Since the first cases were confirmed in Democratic Republic of Congo in May, the disease has killed 4,646 people. Health officials fear misinformation and funding shortfalls could fuel further spread within the region and across borders. Ghana president: anybody committed to fighting terrorism is welcome in West Africa Ghana's President John Dramani Mahama said on Wednesday he was not concerned about Russian security assistance in the Sahel and that anyone committed to fighting terrorism is welcome in the region. “My opinion on this is that anybody who is committed to the fight against terrorism is welcome,” Mahama said at the Financial Times Africa"
+   },
+   {
+    "title": "Daily news for October 21, 2026 | EL PAÍS in English",
+    "url": "https://english.elpais.com/archive/2026-10-21/",
+    "source": "english.elpais.com",
+    "published": "",
+    "excerpt": "## The Amazon in flames: Brazil’s rainforest burns amid El Niño and election tensions Joan Royo Gual| Río de Janeiro| Oct 21, 2026 - 17:02 CEST The rise in wildfires comes despite deforestation falling to its lowest level in nearly 40 years"
+   },
+   {
+    "title": "World News Today Live Updates 21 October 2026: Trump on India US Trade Deal, US Iran War News, France Protest Reason, Breaking News Around US, Iran, Russia, Ukraine",
+    "url": "https://indianexpress.com/article/world/world-news-today-live-updates-trump-opposed-netanyahu-iran-strike-israel-us-midterm-elections-saudi-arabia-houthi-yemen-10930392/",
+    "source": "indianexpress.com",
+    "published": "",
+    "excerpt": "⁠with Iran ​while blockading ​and threatening ​it, ⁠Iranian President Masoud Pezeshkian ‌said on Wednesday, according ⁠to ⁠state media, ⁠a day ‌after ​Pakistan’s ‌army chief Asim Munir visited ‌Tehran ​to ​discuss mediation ​efforts ​and regional"
+   },
+   {
+    "title": "Top news of the day on October 21, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/top-news-of-the-day-on-october-21-2026/article71607450.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "# Top news of the day on October 21, 2026 - The Hindu Author: The Hindu Bureau Published: 2026-10-21T12:23:23Z Source: thehindu.com Language: en"
+   },
+   {
+    "title": "Morning Edition for October 21, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5987095/morning-edition-for-october-21-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "# Morning Edition for October 21, 2026 : NPR Author: A Martínez, Steve Inskeep Published: 2026-10-21T18:43:27Z Source: npr.org Language: en"
+   },
+   {
+    "title": "Live updates: SCOTUS rebuffs Trump admin restrictions on medical care for trans inmates | AP News",
+    "url": "https://apnews.com/live/trump-midterm-elections-news-updates-10-21-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Updated 5:16 PM PDT, October 21, 2026 Here’s what we’re following: - President Donald Trump is in South Carolina Wednesday to boost U.S. Sen. Darline Graham, whose stumbles in her first campaign since replacing her late brother have Democratic voters hopeful — but not necessarily optimistic — that their candidate can break Republicans’ grip on the state. - The Supreme Court on Wednesday refused to allow the Trump administration to immediately enforce new medical restrictions for transgender people in prison. An executive order by Trump had called on the Bureau of Prisons to revise its medical care policies so that federal funds aren’t spent"
+   },
+   {
+    "title": "10 Things Global News - 21st October 2026",
+    "url": "https://www.10things.news/p/10-things-global-news-21st-october-678",
+    "source": "10things.news",
+    "published": "",
+    "excerpt": ". Ebola Reaches Nigeria As Outbreak Spreads Across Africa (Medical) 5. Iran Draws Out Talks Ahead Of US Midterms (Middle East ... . Musk Ordered Starlink Restrictions Disrupt Ukraine’s Defences (Europe)"
+   }
+  ],
+  "text": "[1] Morning Briefing: Oct. 21, 2026 (aa.com.tr)\n, including Libya’s parliament approving a maritime deal with Türkiye, Saudi-led coalition intercepting ... the first day of US-sponsored military-technical talks between Lebanon and Israel concluding in Florida, and US President Donald Trump urging\n\n[2] October 21, 2026 - PBS News Hour full episode | PBS News (pbs.org)\nreleases an imprisoned American and agrees to resume negotiations to end its war in Ukraine. How Elon Musk, the world's richest man, has gained such power over U.S. security interests. Plus, abortion rights are on\n\n[3] Headlines for October 21, 2026 | Democracy Now! (democracynow.org)\nAllah has nearly surrounded Yemen’s third-largest city and cut off most of its supply routes. ... by the Saudi-backed government. U.N. human rights chief Volker Türk warned that residents are in serious danger as food runs short and prices climb. This is\n\n[4] Reuters World News Summary | International (devdiscourse.com)\nFollowing is a summary of current world news briefs. US Democratic congressional candidate Lander detained by Israeli authorities in West Bank Brad Lander, an ally of New York City Mayor Zohran Mamdani who is a Democratic candidate for the US Congress, was among 90 volunteers detained by Israeli forces in the occupied West Bank on Wednesday, according to American and Israeli rights groups. Rabbis for Human Rights, ​an Israeli organization, said in a statement that Lander and other volunteers were accompanying Palestinian farmers harvest olives close to a village near Bethlehem before Israeli …\n\n[5] Daily news for October 21, 2026 | EL PAÍS in English (english.elpais.com)\n## The Amazon in flames: Brazil’s rainforest burns amid El Niño and election tensions Joan Royo Gual| Río de Janeiro| Oct 21, 2026 - 17:02 CEST The rise in wildfires comes despite deforestation falling to its lowest level in nearly 40 years\n\n[6] World News Today Live Updates 21 October 2026: Trump on India US Trade Deal, US Iran War News, France Protest Reason, Breaking News Around US, Iran, Russia, Ukraine (indianexpress.com)\n⁠with Iran ​while blockading ​and threatening ​it, ⁠Iranian President Masoud Pezeshkian ‌said on Wednesday, according ⁠to ⁠state media, ⁠a day ‌after ​Pakistan’s ‌army chief Asim Munir visited ‌Tehran ​to ​discuss mediation ​efforts ​and regional\n\n[7] Top news of the day on October 21, 2026 - The Hindu (thehindu.com)\n# Top news of the day on October 21, 2026 - The Hindu Author: The Hindu Bureau Published: 2026-10-21T12:23:23Z Source: thehindu.com Language: en\n\n[8] Morning Edition for October 21, 2026 : NPR (npr.org)\n# Morning Edition for October 21, 2026 : NPR Author: A Martínez, Steve Inskeep Published: 2026-10-21T18:43:27Z Source: npr.org Language: en\n\n[9] Live updates: SCOTUS rebuffs Trump admin restrictions on medical care for trans inmates | AP News (apnews.com)\nUpdated 5:16 PM PDT, October 21, 2026 Here’s what we’re following: - President Donald Trump is in South Carolina Wednesday to boost U.S. Sen. Darline Graham, whose stumbles in her first campaign since replacing her late brother have Democratic voters hopeful — but not necessarily optimistic — that their candidate can break Republicans’ grip on the state. - The Supreme Court on Wednesday refused to allow the Trump administration to immediately enforce new medical restrictions for transgender people in prison. An executive order by Trump had called on the Bureau of Prisons to revise its medical …\n\n[10] 10 Things Global News - 21st October 2026 (10things.news)\n. Ebola Reaches Nigeria As Outbreak Spreads Across Africa (Medical) 5. Iran Draws Out Talks Ahead Of US Midterms (Middle East ... . Musk Ordered Starlink Restrictions Disrupt Ukraine’s Defences (Europe)",
+  "hash": "c8bd884af47a91819e304fc6acbeca18e764ae37eb4410ed9c1c8189078be5d2",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news October 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-22T00:55:15+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "FACT FOCUS: Trump's economy before Nov. 3 midterm elections | AP News",
+    "url": "https://apnews.com/article/fact-check-trump-economy-inflation-38c6e694edd13742244e23cff5f96446",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — President Donald Trump is trying to convince voters before the Nov. 3 midterm elections that the U.S. economy is rocketing upward. But voters say inflation remains a challenge because the Iran war has pushed up gasoline prices, grocery bills have remained expensive and high interest rates have made it harder to afford a home or a new car. The economy is neither as strong as Trump has claimed nor as weak as consumer sentiment surveys suggest. But with its mix of inflation, inequality and stock market gains, the economy is unsatisfying to most of the public, and its"
+   },
+   {
+    "title": "Economy - Axios",
+    "url": "https://www.axios.com/economy/2026/10/21",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "Traders are betting that oil prices will remain elevated for longer than they anticipated just ... threatening to prolong the inflationary pressures that businesses and consumers have weathered for months."
+   },
+   {
+    "title": "Grocery Prices Sit 22% Above 2021 Levels as Near-Record Diesel Raises Costs From Farm to Store",
+    "url": "https://www.foodworldnews.com/articles/81708/20261021/grocery-prices-sit-22-above-2021-levels-near-record-diesel-raises-costs-farm-store.htm",
+    "source": "foodworldnews.com",
+    "published": "",
+    "excerpt": "September price data show food at home costs 22.5% more than five years ago, while diesel above $6 a gallon adds pressure that has not fully reached store shelves. ... Americans are paying about 22% more for groceries than they did five years ago, and the latest federal price data arrived as diesel — the fuel that powers tractors, freight trucks and refrigerated trailers — holds near its record high. The Bureau of Labor Statistics' food-at-home index stood at 321.758 in September 2026, compared with 262.695 in September 2021, a 22.5% increase, according to BLS figures compiled by the St. Louis Fed. The monthly picture looks calmer. Grocery prices slipped 0.1% in September and were 1.8% higher than a year earlier, the Bureau of Labor Statistics reported in its latest Consumer Price Index release. But a slower annual rate does not erase five years of accumulated increases, and several of the foods most closely tied to a balanced diet are still rising faster than the grocery average. ... Fuel is what makes the next few months hard to call. The national average price of diesel was $6.33 a gallon on Oct. 16, up 68% from $3.76 before the U.S.-Iran war began, according to AAA figures cited by the Associated Press. Diesel hit a record $6.53 in September. No federal agency has yet measured how much of that cost will reach retail food prices, and economists quoted by the AP said much of it has not shown up so far. ... The September report shows a split grocery aisle. Fresh fruits were up 4.9% from a year earlier, fruits and vegetables overall rose 3.7%, coffee climbed 7.1%, and beef rose 3.5%, according to the BLS detailed tables. Eggs fell 20.6%, and dairy dipped 0.7%, which helped hold the overall grocery figure down. ... Eating out remains the bigger budget strain. Prices for food away from home rose 3.5% over the year, nearly double the grocery rate. The U.S. Department of Agriculture's Economic Research Service now forecasts grocery prices will rise 2.4% in 2026, with fresh vegetables up 5.7% and beef and veal up 9.4%, while eggs are expected to fall 29.4%. The AP reported that USDA's forecast before the war called for a 1.7% grocery increase this year. ... The fuel effect starts on the farm. A Farm Bureau analysis by Deputy Chief Economist Faith Parum and Associate Economist Cameron Castillo found farm diesel in Illinois, as reported by USDA's ... Freight data point the same way. September producer-price data showed truck freight prices up 19.3% from a year earlier, while transportation and warehousing of goods sold to businesses cost 10.2% more, the AP reported. Those indexes track what carriers charge, not what shoppers pay. USDA also raised its 2026 estimates of fuel, lubricant and electricity costs for major crops by 33% to 41%, according to the AP."
+   },
+   {
+    "title": "Inflation Overshot Expectations in September | Fifth Third Bank",
+    "url": "https://www.53.com/content/fifth-third/en/financial-insights/business/fifth-third-economic-weekly-with-bill-adams/economic-weekly-oct-20-2026.html",
+    "source": "53.com",
+    "published": "",
+    "excerpt": "Inflation surprised to the upside in September. Headline CPI matched expectations for the month, accelerating to 0.6% from 0.4% on a 9.1% jump in gasoline prices. The negative surprise was in core prices, which rose a faster-than-expected 0.3%. Price increases were widespread across the core CPI basket, affecting a range of durable goods, nondurables, and services. The PPI rose even more than the CPI, up 1.3% versus the 0.6% expected. Diesel surged a seasonally adjusted 21.0%. Producer prices for foods rose 1.2% on double-digit increases of fresh and dry vegetables, hay and hayseeds, grains, and oilseeds—rising prices of livestock feeds will likely translate to more expensive meat in 2027. Core PPI excluding food and energy rose 0.7% as trade services (Wholesale and retail margins) climbed 1.4% and energy-intensive transportation and warehousing charges jumped 3.4%. A silver lining is that many of the core PPI components that carry over into PCE inflation behaved better than the headline."
+   },
+   {
+    "title": "Gold steadies near one-week low as oil-driven inflation fears grow",
+    "url": "https://www.cnbc.com/2026/10/21/gold-dips-for-fourth-session-as-oil-rally-fans-inflation-concerns.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "# Gold steadies near one-week low as oil-driven inflation fears grow Author: Reuters Published: 2026-10-21T03:54:18Z Source: cnbc.com Language: en"
+   },
+   {
+    "title": "Treasury yields steady ahead of jobless claims",
+    "url": "https://www.cnbc.com/2026/10/21/bonds-us-treasurys-yields.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "# Treasury yields steady ahead of jobless claims Author: Hugh Leask, Sean Conlon Published: 2026-10-21T08:57:33Z Source: cnbc.com Language: en"
+   },
+   {
+    "title": "FACT FOCUS: When it comes to Trump's economy, these ...",
+    "url": "https://www.wsls.com/news/politics/2026/10/21/fact-focus-when-it-comes-to-trumps-economy-these-are-the-numbers-that-matter-before-nov-3/",
+    "source": "wsls.com",
+    "published": "",
+    "excerpt": "had been rising at an annual clip of 3% in January 2025, when Trump returned to the ... , when Trump announced a sweeping set of tariffs and prices began to climb again. The inflationary pressures were compounded this year with the start of the Iran war."
+   },
+   {
+    "title": "Stock market news for Oct. 21, 2026",
+    "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "in capital expenditures from equipment builders. \"We have more compute capacity than we have demand, and we have a lot of the tokens and ... -man standing position. Pretty much every market that Gartner is tracking in our AI race is likely to collapse"
+   },
+   {
+    "title": "America In Focus: key inflation gauge remains high; Fed's Warsh signals rate hikes may be needed | AP News",
+    "url": "https://apnews.com/article/inflation-economy-iran-trump-fed-warsh-31077ff3bc27f6639689cf099f4c1160",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "’s Wednesday report showed that prices rose 3.7% in July compared with a year earlier, the same as June. Inflation has worsened since the U.S. and Israel attacked Iran in late February, when it stood at 2.9%. It’s noticeably above the Fed’s target of 2%."
+   },
+   {
+    "title": "US inflation rose slightly last month after 2 years of steady cooling but remained low",
+    "url": "https://www.wbrz.com/videos/us-inflation-rose-slightly-last-month-after-2-years-of-steady-cooling-but-remained-low/",
+    "source": "wbrz.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — Inflation in the United States ticked up in October, driven by costlier rents, used cars and air fares, a sign that price increases might be leveling off after having slowed in September to their lowest pace since 2021. Consumer prices rose 2.6% from a year earlier, the Labor Department said Wednesday, up from 2.4% in September. It was the first rise in annual inflation in seven months. From September to October, prices edged up 0.2%, the same as the previous month. Excluding volatile food and energy costs, “core” prices rose 3.3% from a year earlier, the same as in September. From September to October, core prices rose 0.3% for a third straight month. Over the long run, core inflation at that pace would exceed the Fed’s 2% target. An uptick in prices, if sustained, could stir concerns in financial markets that progress in taming inflation may be slowing. It might also make the Federal Reserve less inclined to cut its key interest rate in the coming months, as its officials have previously indicated they likely would. ... Still, most economists think inflation will eventually resume its slowdown. Consumer inflation, which peaked at 9.1% in 2022, has since fallen steadily, though overall prices are still about 20% higher than they were three years ago. ... In addition, the economy is growing faster than many economists had expected earlier this year. It has expanded at nearly a 3% annual rate over the past six months, with consumers, particularly those with higher incomes, spending freely and fueling growth. ... At a news conference last week, Fed Chair Jerome Powell expressed confidence that inflation is still heading down to the central bank’s 2% target, though perhaps slowly and unevenly. Powell also noted that most sources of price pressures are cooling, suggesting that inflation isn’t likely to accelerate in the coming months. Wages are still growing and have outpaced prices for the past year and a half. But Powell noted that wages aren’t rising quickly enough to boost inflation. ... A survey released Tuesday by the Federal Reserve Bank of New York found that consumers expect prices to rise just 2.9% in the next 12 months, which would be the lowest such measure in nearly four years. Lower inflation expectations are important because when consumers expect milder price increases, they’re less likely to act in ways that raise inflation, such as accelerating their purchases or demanding higher pay to offset higher prices."
+   }
+  ],
+  "text": "[1] FACT FOCUS: Trump's economy before Nov. 3 midterm elections | AP News (apnews.com)\nWASHINGTON (AP) — President Donald Trump is trying to convince voters before the Nov. 3 midterm elections that the U.S. economy is rocketing upward. But voters say inflation remains a challenge because the Iran war has pushed up gasoline prices, grocery bills have remained expensive and high interest rates have made it harder to afford a home or a new car. The economy is neither as strong as Trump has claimed nor as weak as consumer sentiment surveys suggest. But with its mix of inflation, inequality and stock market gains, the economy is unsatisfying to most of the public, and its\n\n[2] Economy - Axios (axios.com)\nTraders are betting that oil prices will remain elevated for longer than they anticipated just ... threatening to prolong the inflationary pressures that businesses and consumers have weathered for months.\n\n[3] Grocery Prices Sit 22% Above 2021 Levels as Near-Record Diesel Raises Costs From Farm to Store (foodworldnews.com)\nSeptember price data show food at home costs 22.5% more than five years ago, while diesel above $6 a gallon adds pressure that has not fully reached store shelves. ... Americans are paying about 22% more for groceries than they did five years ago, and the latest federal price data arrived as diesel — the fuel that powers tractors, freight trucks and refrigerated trailers — holds near its record high. The Bureau of Labor Statistics' food-at-home index stood at 321.758 in September 2026, compared with 262.695 in September 2021, a 22.5% increase, according to BLS figures compiled by the St. …\n\n[4] Inflation Overshot Expectations in September | Fifth Third Bank (53.com)\nInflation surprised to the upside in September. Headline CPI matched expectations for the month, accelerating to 0.6% from 0.4% on a 9.1% jump in gasoline prices. The negative surprise was in core prices, which rose a faster-than-expected 0.3%. Price increases were widespread across the core CPI basket, affecting a range of durable goods, nondurables, and services. The PPI rose even more than the CPI, up 1.3% versus the 0.6% expected. Diesel surged a seasonally adjusted 21.0%. Producer prices for foods rose 1.2% on double-digit increases of fresh and dry vegetables, hay and hayseeds, grains, …\n\n[5] Gold steadies near one-week low as oil-driven inflation fears grow (cnbc.com)\n# Gold steadies near one-week low as oil-driven inflation fears grow Author: Reuters Published: 2026-10-21T03:54:18Z Source: cnbc.com Language: en\n\n[6] Treasury yields steady ahead of jobless claims (cnbc.com)\n# Treasury yields steady ahead of jobless claims Author: Hugh Leask, Sean Conlon Published: 2026-10-21T08:57:33Z Source: cnbc.com Language: en\n\n[7] FACT FOCUS: When it comes to Trump's economy, these ... (wsls.com)\nhad been rising at an annual clip of 3% in January 2025, when Trump returned to the ... , when Trump announced a sweeping set of tariffs and prices began to climb again. The inflationary pressures were compounded this year with the start of the Iran war.\n\n[8] Stock market news for Oct. 21, 2026 (cnbc.com)\nin capital expenditures from equipment builders. \"We have more compute capacity than we have demand, and we have a lot of the tokens and ... -man standing position. Pretty much every market that Gartner is tracking in our AI race is likely to collapse\n\n[9] America In Focus: key inflation gauge remains high; Fed's Warsh signals rate hikes may be needed | AP News (apnews.com)\n’s Wednesday report showed that prices rose 3.7% in July compared with a year earlier, the same as June. Inflation has worsened since the U.S. and Israel attacked Iran in late February, when it stood at 2.9%. It’s noticeably above the Fed’s target of 2%.\n\n[10] US inflation rose slightly last month after 2 years of steady cooling but remained low (wbrz.com)\nWASHINGTON (AP) — Inflation in the United States ticked up in October, driven by costlier rents, used cars and air fares, a sign that price increases might be leveling off after having slowed in September to their lowest pace since 2021. Consumer prices rose 2.6% from a year earlier, the Labor Department said Wednesday, up from 2.4% in September. It was the first rise in annual inflation in seven months. From September to October, prices edged up 0.2%, the same as the previous month. Excluding volatile food and energy costs, “core” prices rose 3.3% from a year earlier, the same as in …",
+  "hash": "ce322fdfa13efa9dc659df205c8226cff3881e891df8c3229b1fa88753897c53",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news October 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-22T00:55:24+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Live updates: Trump in South Carolina to rally for Darline Graham | AP News",
+    "url": "https://apnews.com/live/trump-midterm-elections-news-updates-10-21-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "# Live updates: Trump in South Carolina"
+   },
+   {
+    "title": "The Latest: Trump brings last-minute rally boost to Darline Graham in South Carolina US Senate race",
+    "url": "https://apnews.com/article/midterm-election-congress-donald-trump-6a5e7f5e97fbba6f45e290dc6ad1a4b4",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "President Donald Trump is in South Carolina Wednesday to boost U.S. Sen. Darline Graham, whose stumbles in her first campaign since replacing her late brother have Democratic voters hopeful — but not necessarily optimistic — that their candidate can break Republicans’ grip on the state. The Supreme Court on Wednesday refused to allow the Trump administration to immediately enforce new medical restrictions for transgender people in prison. An executive order by Trump had called on the Bureau of Prisons to revise its medical care policies so that federal funds aren’t spent “for the purpose of conforming an inmate’s appearance to that of"
+   },
+   {
+    "title": "New poll finds Democrats’ faith in election results is falling, Ramaswamy takes responsibility for ad with Amy Acton’s birth mother, AI agent boom",
+    "url": "https://apnews.com/newsletter/morning-wire/october-21-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "V Published 4:08 AM PDT, October 21, 2026 Good morning. The race to Nov. 3 is heating up, and in Ohio, the vote for governor has taken a controversial turn with an ad featuring one candidate’s estranged mother. Also in the news: A new AP-NORC poll finds that Democrats’ faith in election results is falling; what you need to know about AI agents’ privacy issues; and keep an eye out for the Orionid meteor shower that peaks tonight. ... ## Democrats’ faith in election results is falling but still exceeds that of Republicans, AP-NORC poll finds ... Registered voters who identify as Democrats"
+   },
+   {
+    "title": "Democrats sue Trump, DOJ over effort to remove voters from state rolls - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/10/21/democrats-sue-trump-doj-over-effort-remove-voters-state-rolls/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "Democrats have filed a lawsuit against President Donald Trump and the Justice Department, alleging that the Trump administration is unlawfully interfering with the midterms by pressuring states to remove voters from their rolls."
+   },
+   {
+    "title": "Morning Edition for October 21, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5987095/morning-edition-for-october-21-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request by Charles Maynes, Joanna Kakissis ... ### Trump campaigns in North Carolina as GOP stops on-air spending for Senate candidate"
+   },
+   {
+    "title": "Trump calls for data center ‘dividends’ in bid to win over midterm voters – US politics live",
+    "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "## Key takeaways from early voting numbers ... With 13 days until the midterms, early voting data is rolling in nationwide. Democrats need to net four Senate seats and hold 218 House seats to reclaim a congressional majority. Here is where the numbers stand so far: - Turnout is surging in key battlegrounds: Over 16 million Americans have already voted in person or by mail. According to the University of Florida’s Election Lab, battleground states -including Michigan, Ohio, Georgia, Texas, Florida and North Carolina – have each passed 700,000 ballots cast as of 21 October. Turnout is being driven in part by widespread voter frustration, reflected in Donald Trump’s record-low approval ratings. - Democrats lead in early returns: Registered Democrats account for 47% of early ballots cast, compared with 29% from Republicans (tracking returned ballots, not candidate selection). The party gap is most pronounced in North Carolina, Kansas and Iowa. While Republicans traditionally favor"
+   },
+   {
+    "title": "Trump officials ask Supreme Court to let border security project resume in national park - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/10/21/trump-officials-ask-supreme-court-let-border-security-project-resume-national-park/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "# Trump officials ask Supreme Court to let border security project resume in national park The move comes after an injunction blocking construction on a more than 500-mile stretch in and around Big Bend National Park in Texas. October 21, 2026 at 4:25 p.m. EDT Today at 4:25 p.m. EDT Big Bend National Park consists of more than 800,000 acres of protected lands along the border with Mexico. (Rebecca Santana/AP) By Justin Jouvenal The Trump administration asked the Supreme Court on Wednesday to clear the way for work to continue on a more than 500-mile stretch of the border security project in and around a major national park in Texas. The appeal came after a federal judge in Texas halted work this month following a challenge by an environmental group, preservationists, a river guide and landowner, who said it would harm wildlife, deprive people of property,"
+   },
+   {
+    "title": "Inside Congress Live - Live Updates - POLITICO",
+    "url": "https://www.politico.com/live-updates/2026/10/21/congress",
+    "source": "politico.com",
+    "published": "",
+    "excerpt": "# Inside Congress Live - Live Updates - POLITICO Author: Gary Fineout, Owen Dahlkamp, Riley Rogerson, Brian Faler, Calen Razor Published: 2026-10-21T08:05:00Z Source: politico.com Language: en"
+   },
+   {
+    "title": "October 21, 2026 - PBS News Hour full episode | PBS News",
+    "url": "https://www.pbs.org/newshour/show/october-21-2026-pbs-news-hour-full-episode",
+    "source": "pbs.org",
+    "published": "",
+    "excerpt": "## Wednesday on the News Hour... Wednesday on the News Hour, Russia releases an imprisoned American and agrees to resume negotiations to end its war in Ukraine. How Elon Musk, the world's richest man, has gained such power over U.S. security interests. Plus, abortion rights are on the ballot in Idaho, where the state's near-total ban has dramatically reshaped reproductive health care."
+   },
+   {
+    "title": "Headlines for October 21, 2026",
+    "url": "https://www.democracynow.org/2026/10/21/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "In Gaza, Israeli strikes killed at least seven Palestinians Tuesday, including a married couple and a 17-year-old, in separate ​incidents across the Gaza Strip. Despite last October’s so-called ceasefire, Israeli strikes have"
+   }
+  ],
+  "text": "[1] Live updates: Trump in South Carolina to rally for Darline Graham | AP News (apnews.com)\n# Live updates: Trump in South Carolina\n\n[2] The Latest: Trump brings last-minute rally boost to Darline Graham in South Carolina US Senate race (apnews.com)\nPresident Donald Trump is in South Carolina Wednesday to boost U.S. Sen. Darline Graham, whose stumbles in her first campaign since replacing her late brother have Democratic voters hopeful — but not necessarily optimistic — that their candidate can break Republicans’ grip on the state. The Supreme Court on Wednesday refused to allow the Trump administration to immediately enforce new medical restrictions for transgender people in prison. An executive order by Trump had called on the Bureau of Prisons to revise its medical care policies so that federal funds aren’t spent “for the purpose of …\n\n[3] New poll finds Democrats’ faith in election results is falling, Ramaswamy takes responsibility for ad with Amy Acton’s birth mother, AI agent boom (apnews.com)\nV Published 4:08 AM PDT, October 21, 2026 Good morning. The race to Nov. 3 is heating up, and in Ohio, the vote for governor has taken a controversial turn with an ad featuring one candidate’s estranged mother. Also in the news: A new AP-NORC poll finds that Democrats’ faith in election results is falling; what you need to know about AI agents’ privacy issues; and keep an eye out for the Orionid meteor shower that peaks tonight. ... ## Democrats’ faith in election results is falling but still exceeds that of Republicans, AP-NORC poll finds ... Registered voters who identify as Democrats\n\n[4] Democrats sue Trump, DOJ over effort to remove voters from state rolls - The Washington Post (washingtonpost.com)\nDemocrats have filed a lawsuit against President Donald Trump and the Justice Department, alleging that the Trump administration is unlawfully interfering with the midterms by pressuring states to remove voters from their rolls.\n\n[5] Morning Edition for October 21, 2026 : NPR (npr.org)\n### Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request by Charles Maynes, Joanna Kakissis ... ### Trump campaigns in North Carolina as GOP stops on-air spending for Senate candidate\n\n[6] Trump calls for data center ‘dividends’ in bid to win over midterm voters – US politics live (theguardian.com)\n## Key takeaways from early voting numbers ... With 13 days until the midterms, early voting data is rolling in nationwide. Democrats need to net four Senate seats and hold 218 House seats to reclaim a congressional majority. Here is where the numbers stand so far: - Turnout is surging in key battlegrounds: Over 16 million Americans have already voted in person or by mail. According to the University of Florida’s Election Lab, battleground states -including Michigan, Ohio, Georgia, Texas, Florida and North Carolina – have each passed 700,000 ballots cast as of 21 October. Turnout is being …\n\n[7] Trump officials ask Supreme Court to let border security project resume in national park - The Washington Post (washingtonpost.com)\n# Trump officials ask Supreme Court to let border security project resume in national park The move comes after an injunction blocking construction on a more than 500-mile stretch in and around Big Bend National Park in Texas. October 21, 2026 at 4:25 p.m. EDT Today at 4:25 p.m. EDT Big Bend National Park consists of more than 800,000 acres of protected lands along the border with Mexico. (Rebecca Santana/AP) By Justin Jouvenal The Trump administration asked the Supreme Court on Wednesday to clear the way for work to continue on a more than 500-mile stretch of the border security project in …\n\n[8] Inside Congress Live - Live Updates - POLITICO (politico.com)\n# Inside Congress Live - Live Updates - POLITICO Author: Gary Fineout, Owen Dahlkamp, Riley Rogerson, Brian Faler, Calen Razor Published: 2026-10-21T08:05:00Z Source: politico.com Language: en\n\n[9] October 21, 2026 - PBS News Hour full episode | PBS News (pbs.org)\n## Wednesday on the News Hour... Wednesday on the News Hour, Russia releases an imprisoned American and agrees to resume negotiations to end its war in Ukraine. How Elon Musk, the world's richest man, has gained such power over U.S. security interests. Plus, abortion rights are on the ballot in Idaho, where the state's near-total ban has dramatically reshaped reproductive health care.\n\n[10] Headlines for October 21, 2026 (democracynow.org)\nIn Gaza, Israeli strikes killed at least seven Palestinians Tuesday, including a married couple and a 17-year-old, in separate ​incidents across the Gaza Strip. Despite last October’s so-called ceasefire, Israeli strikes have",
+  "hash": "98c2118cf4399e97c89fa2f71a2e1d6ce9e773ed695fc84e5a7293bbc29b1f56",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities October 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-22T00:55:36+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Pop Culture & Entertainment, Wednesday, October 21, 2026: 17 stories | BBN",
+    "url": "https://bbn.live/pop-culture/archive/2026-10-21",
+    "source": "bbn.live",
+    "published": "",
+    "excerpt": "# Pop Culture & Entertainment on Wednesday, October 21, 2026 ... , each credited to the outlet that reported it. Everything BBN aired that day. ... singers and saxophonists at the Academy Museum Gala, and the song topped country radio for her first time"
+   },
+   {
+    "title": "October 21, 2026 | News Headlines | Page Six",
+    "url": "https://pagesix.com/2026/10/21/",
+    "source": "pagesix.com",
+    "published": "",
+    "excerpt": ": ‘A true love of mine’ October 21, 2026 | ... ### Denise Rich and Deborah Cox honor Clive Davis at Angel Ball October 21, 2026 | 5:36pm Cox paid tribute to the music man with a surprise performance of Whitney Houston's \"Greatest Love of All.\""
+   },
+   {
+    "title": "Music News for Wednesday, October 21, 2026 — Headlines & New Albums as Drum Beats | RockBlocks",
+    "url": "https://rockblocks.app/news/2026-10-21",
+    "source": "rockblocks.app",
+    "published": "",
+    "excerpt": "Music News for Wednesday, October 21, 2026 — Headlines & New Albums as Drum Beats | RockBlocks ... # Music News for Wednesday, October 21, 2026 ... 54 music news headlines from Wednesday, October 21, 2026, each one a drum beat. See today's news → ... ### Martin Garrix Recruits Madonna, U2 & Ed Sheeran for Debut Pop Album ‘MARTY’: Here’s When It Arrives 1 ... ### Chvrches Announce First Album in Six Years and 2027 Tour 1"
+   },
+   {
+    "title": "Film News Today — October 21, 2026 — FilmNews.net",
+    "url": "https://filmnews.net/news/daily-signal-20261021",
+    "source": "filmnews.net",
+    "published": "",
+    "excerpt": "Ozzy Osbourne Was ‘Flying High’ Until the ‘Day He Passed’ After Final Concert, Sharon Osbourne Says: ‘We Hadn’t Seen Him That Way in Years’ and more — today's film signal. The world of film is abuzz with a mix of nostalgia, celebration, and innovation, as today's headlines weave a narrative that takes us on a journey from the past to the present. We start with a poignant reflection on the life of a rock legend, Ozzy Osbourne, whose final concert marked a high point before his passing, according to his wife Sharon Osbourne. This somber note is balanced by the excitement of upcoming film competitions, such as the Tokyo Filmex, which will feature Oscar entries from Thailand and Nepal, and boast a jury that includes the acclaimed Lee Kang-sheng. As we delve deeper into the day's news, we find ourselves reminiscing about classic films, thanks to Julia Stiles' emotional reunion with her '10 Things I Hate About You' castmates on 'Dancing With the Stars', which included a heartfelt tribute to the late Heath Ledger. The film world is also looking to the future, with the announcement of Disney+'s and Hulu's Japanese horror series 'Night Tales Club', which boasts an impressive lineup of directors, including Kurosawa Kiyoshi and Shimizu Takashi. Meanwhile, the Access: Horror Virtual Film Festival is pushing boundaries by challenging traditional horror tropes and shedding light on disability in a unique and thought-provoking way, making for a truly diverse and captivating day in the world of film. Today's signal: • Ozzy Osbourne Was ‘Flying High’ Until the ‘Day He Passed’ After Final Concert, Sharon Osbourne Says: ‘We Hadn’t Seen Him That Way in Years’ (variety.com) • Oscar Entries From Thailand, Nepal Head to Tokyo Filmex Competition; Lee Kang-sheng Joins Jury (variety.com) • Julia Stiles ‘Bawled’ Before Heath Ledger Tribute, Breaks Down ’10 Things I Hate About You’ Cast Reunion on ‘Dancing With the Stars’ (variety.com) • Julia Stiles Reunites With ’10 Things I Hate About You’ Cast, Cries During Heath Ledger Tribute on ‘Dancing With the Stars’ (variety.com) • Kurosawa Kiyoshi, Shimizu Takashi Among Directors of Disney+, Hulu Japanese Horror Series ‘Night Tales Club’ (variety.com) • Access: Horror Virtual Film Festival Sheds Light on Disability by ‘Centering Ableism as the Horror Rather Than Disability’ (variety.com)"
+   },
+   {
+    "title": "Entertainment News (10/21/26) - BusinessWorld Online",
+    "url": "https://bworldonline.com/arts-and-leisure/2026/10/20/788122/entertainment-news-10-21-26/",
+    "source": "bworldonline.com",
+    "published": "",
+    "excerpt": "# ... Entertainment News (10/21/26) - BusinessWorld Online # Entertainment News (10/21/26) PRODUCER, songwriter, and multi-instrumentalist Ziv has teamed up with rising P-pop girl group VVINK for “Trisikulo,” a pop track on the familiar third-wheel experience. October 20, 2026 | 6:06 pm ## Ziv, VVINK release collaboration PRODUCER, songwriter, and multi-instrumentalist Ziv has teamed up with rising P-pop girl group VVINK for “Trisikulo,” a pop track on the familiar third-wheel experience. Released under Sony Music Entertainment, it is built around Filipino wordplay that links a tricycle’s three wheels to the feeling of being the extra person in someone else’s love story. The song was co-written by Ziv alongside Paolo Benjamin Guico of Filipino folk-pop band Ben&Ben and Angelika Samantha Ortiz, one of the songwriters behind BINI’s hit “Pantropiko.” The mixing was also done by Jacques Jenkins and mastering by Luna Tebbs. The track is out now on all digital music streaming platforms. ## *Love in Disguise* premieres on Prime Video *LOVE in Disguise*, a Korean series based on the hit web novel *Why Don’t You Know It’s a Girl?*, has premiered on Prime Video. It is directed by Park Dhan-hee and stars Yim Si Wan, Seorina, Kim Junghyun, and Yeonwoo. The genre-blending romance is exclusively seen on Prime Video in the Philippines and in more than 240 countries and territories worldwide. ## Estelle Fly drops club-pop single SINGAPOREAN pop artist Estelle Fly has released “Shut It Down,” a playful club-pop single about switching off the overthinking and making the dance floor your own. Inspired by the Rihanna and Kesha songs, the new release is an invitation to let loose, dance with friends and have fun even when life feels complicated. It is out now on all digital music streaming"
+   },
+   {
+    "title": "Entertainment News: October 21, 2026",
+    "url": "https://www.yahoo.com/news/videos/entertainment-news-october-21-2026-160013472.html",
+    "source": "yahoo.com",
+    "published": "",
+    "excerpt": "Entertainment News: October 21, 2026 # Entertainment News: October 21, 2026 WXMI Wed, October 21, 2026 at 4:00 PM UTC Entertainment News: October 21, 2026"
+   },
+   {
+    "title": "Entertainment Live News Updates Today (October 21): More Arrests In Tiger Shroff Firing Case; Ramayana Declared Tax-Free In Bengal | Entertainment News Live Updates Today In India | Entertainment News Bollywood Updates Live | Live Entertainment News Bollywood, South, OTT, TV - Filmibeat",
+    "url": "https://www.filmibeat.com/bollywood/news/2026/entertainment-live-news-updates-today-ramayana-tax-free-in-bengal-more-arrests-in-tiger-shroff-case-535421.html",
+    "source": "filmibeat.com",
+    "published": "",
+    "excerpt": "Starting with the latest developments in the Tiger Shroff firing case, the investigation has led to more arrests. After three suspected shooters were apprehended in Kota, the Delhi Police Special Cell arrested four additional accused on Tuesday. According to The Hindu, they are suspected of transporting a firearm to Mumbai and helping coordinate the operation allegedly connected to the attack on Tiger Shroff. With just days left before its grand theatrical release, Ramayana: Part 1, starring Ranbir Kapoor, Sai Pallavi and Yash, has made headlines after being declared tax-free in West Bengal by Chief Minister Suvendu Adhikari. Check out all the live updates below: ... ## Tiger Shroff Firing Probe: Five More Persons Held Five more persons, including two women, have been nabbed from Haryana and Uttar Pradesh as the investigation into actor Tiger Shroff firing case is being expanded to unravel a firearm-supplying network and other aspects, a Mumbai Police officer said on Wednesday. Addressing a press conference, DCP Raj Tilak Roshan said the five individuals are being brought to Mumbai, taking the total number of arrests in the case to eight so far. Earlier in the day, three key accused allegedly involved in firing at Shroff's car on Sunday were brought to Mumbai from Kota in Rajasthan and sent to police custody till October 31. ... ## Tiger Shroff Back On Lag Jaa Gale Sets After Firing Incident Days after unidentified assailiants attacked Tiger Shroff, the actor has reportedly returned to the sets of his upcoming film Lag Jaa Gale which also features Janhvi Kapoor and Lakshya in the lead. ... ## Jailer 2 Box Office Collection Day 6: Rajinikanth's Film Crosses ₹540 Cr Worldwide Rajinikanth's Tamil action comedy Jailer 2 continued its theatrical run with an increase in domestic net collections on Tuesday, October 20. According to Sacnilk's estimates, the film earned ₹45.55 crore net in India on Day 6, taking its cumulative India net collection to ₹287.80 crore. With its overseas earnings also contributing to the total, the film's worldwide gross collection reached ₹541 crore. Following Tuesday's earnings, Jailer 2's India net collection stood at ₹287.80 crore, while its domestic gross collection reached ₹337 crore. Overseas markets contributed an estimated ₹10 crore gross on Day 6, taking the film's cumulative overseas gross to ₹204 crore. Combining the domestic and overseas figures, the film's worldwide gross collection reached ₹541 crore after six days. ... ## Ranbir Kapoor’s ‘Ramayana’ Declared Tax-Free In Bengal Ahead Of Grand Theatrical Release On November 5 Nitesh Tiwari’s upcoming cinematic adaptation of the Hindu epic Ramayana, featuring Ranbir Kapoor as Lord Rama and Yash as Ravana, has been declared tax-free in West Bengal. Chief Minister Suvendu Adhikari announced the decision on Dussehra, ahead of the film’s scheduled theatrical release on November 5, 2026. Speaking to ANI, Adhikari confirmed the move and referred to other films that have received similar treatment. He said, \"The Ramayana film has been made tax-free. The Kerala Story, The Kashmir Files, and The Bengal Files—all of these will be (or have been) made tax-free, and the same will apply to Ramayana. In the days to come, we will see films on Shri Krishna and Arjuna, as well as the Mahabharata...\" ... The Delhi Police Special Cell’s Northern Range (NDR) unit arrested four people on Tuesday in connection with an alleged arms supply network linked to the October 18 firing incident involving actor Tiger Shroff’s car in Mumbai, a senior police official confirmed. The accused have been identified as Kunal, 21, and Sumit, 19, both from Haryana’s Sonipat district, along with Radha, 23, and Babita, 23, who are residents of Uttar Pradesh."
+   },
+   {
+    "title": "Pop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News",
+    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "## Richard Riehle, character actor best known for ‘Office Space,’ dies at 78 He racked up more than 400 film and television credits in a screen career spanning more than 40 years. ... ## Christina Applegate says she was misdiagnosed with multiple sclerosis ... ## Billy Joel says he doesn’t know if he can perform on stage again due to brain disorder ... ## ‘Godfather’ star Al Pacino to"
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3995780-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-21T13:00:15Z Source: devdiscourse.com Language: en"
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3995482-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-21T04:55:52Z Source: devdiscourse.com Language: en"
+   }
+  ],
+  "text": "[1] Pop Culture & Entertainment, Wednesday, October 21, 2026: 17 stories | BBN (bbn.live)\n# Pop Culture & Entertainment on Wednesday, October 21, 2026 ... , each credited to the outlet that reported it. Everything BBN aired that day. ... singers and saxophonists at the Academy Museum Gala, and the song topped country radio for her first time\n\n[2] October 21, 2026 | News Headlines | Page Six (pagesix.com)\n: ‘A true love of mine’ October 21, 2026 | ... ### Denise Rich and Deborah Cox honor Clive Davis at Angel Ball October 21, 2026 | 5:36pm Cox paid tribute to the music man with a surprise performance of Whitney Houston's \"Greatest Love of All.\"\n\n[3] Music News for Wednesday, October 21, 2026 — Headlines & New Albums as Drum Beats | RockBlocks (rockblocks.app)\nMusic News for Wednesday, October 21, 2026 — Headlines & New Albums as Drum Beats | RockBlocks ... # Music News for Wednesday, October 21, 2026 ... 54 music news headlines from Wednesday, October 21, 2026, each one a drum beat. See today's news → ... ### Martin Garrix Recruits Madonna, U2 & Ed Sheeran for Debut Pop Album ‘MARTY’: Here’s When It Arrives 1 ... ### Chvrches Announce First Album in Six Years and 2027 Tour 1\n\n[4] Film News Today — October 21, 2026 — FilmNews.net (filmnews.net)\nOzzy Osbourne Was ‘Flying High’ Until the ‘Day He Passed’ After Final Concert, Sharon Osbourne Says: ‘We Hadn’t Seen Him That Way in Years’ and more — today's film signal. The world of film is abuzz with a mix of nostalgia, celebration, and innovation, as today's headlines weave a narrative that takes us on a journey from the past to the present. We start with a poignant reflection on the life of a rock legend, Ozzy Osbourne, whose final concert marked a high point before his passing, according to his wife Sharon Osbourne. This somber note is balanced by the excitement of upcoming film …\n\n[5] Entertainment News (10/21/26) - BusinessWorld Online (bworldonline.com)\n# ... Entertainment News (10/21/26) - BusinessWorld Online # Entertainment News (10/21/26) PRODUCER, songwriter, and multi-instrumentalist Ziv has teamed up with rising P-pop girl group VVINK for “Trisikulo,” a pop track on the familiar third-wheel experience. October 20, 2026 | 6:06 pm ## Ziv, VVINK release collaboration PRODUCER, songwriter, and multi-instrumentalist Ziv has teamed up with rising P-pop girl group VVINK for “Trisikulo,” a pop track on the familiar third-wheel experience. Released under Sony Music Entertainment, it is built around Filipino wordplay that links a tricycle’s …\n\n[6] Entertainment News: October 21, 2026 (yahoo.com)\nEntertainment News: October 21, 2026 # Entertainment News: October 21, 2026 WXMI Wed, October 21, 2026 at 4:00 PM UTC Entertainment News: October 21, 2026\n\n[7] Entertainment Live News Updates Today (October 21): More Arrests In Tiger Shroff Firing Case; Ramayana Declared Tax-Free In Bengal | Entertainment News Live Updates Today In India | Entertainment News Bollywood Updates Live | Live Entertainment News Bollywood, South, OTT, TV - Filmibeat (filmibeat.com)\nStarting with the latest developments in the Tiger Shroff firing case, the investigation has led to more arrests. After three suspected shooters were apprehended in Kota, the Delhi Police Special Cell arrested four additional accused on Tuesday. According to The Hindu, they are suspected of transporting a firearm to Mumbai and helping coordinate the operation allegedly connected to the attack on Tiger Shroff. With just days left before its grand theatrical release, Ramayana: Part 1, starring Ranbir Kapoor, Sai Pallavi and Yash, has made headlines after being declared tax-free in West Bengal …\n\n[8] Pop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News (nbcnews.com)\n## Richard Riehle, character actor best known for ‘Office Space,’ dies at 78 He racked up more than 400 film and television credits in a screen career spanning more than 40 years. ... ## Christina Applegate says she was misdiagnosed with multiple sclerosis ... ## Billy Joel says he doesn’t know if he can perform on stage again due to brain disorder ... ## ‘Godfather’ star Al Pacino to\n\n[9] Reuters Entertainment News Summary | International (devdiscourse.com)\n# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-21T13:00:15Z Source: devdiscourse.com Language: en\n\n[10] Reuters Entertainment News Summary | International (devdiscourse.com)\n# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-21T04:55:52Z Source: devdiscourse.com Language: en",
+  "hash": "b64dae39fa716cd3649525152652e377a7678b2829edcbc76642ec70a26b0191",
+  "notes": []
+ }
+}
