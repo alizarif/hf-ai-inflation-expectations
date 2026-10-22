@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-10-22T09:14:03+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories October 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-22T09:14:03+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/10/22",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "Democratic groups sued the Trump administration Tuesday, accusing it of using unfounded voter fraud claims to muscle its way into how states run elections ... Meta to pay $25 billion in penalties Wednesday after a jury found in September that the social"
+   },
+   {
+    "title": "Morning news brief : NPR",
+    "url": "https://www.npr.org/2026/10/22/nx-s1-6003503/morning-news-brief",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "# Morning news brief : NPR Author: Leila Fadel Published: 2026-10-22T08:57:46Z Source: npr.org Language: en"
+   },
+   {
+    "title": "Video. Latest news bulletin | October 22nd, 2026 – Morning | Euronews",
+    "url": "https://www.euronews.com/video/2026/10/22/latest-news-bulletin-october-22nd-2026-morning",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "## Nine Emperor Gods Festival: Devotees walk across burning embers for good luck ... ## Qatar in Motion | Made in Qatar: Local brands with global ambitions ... ## Milei reignites war of words with Sánchez as Spanish PM declares himself ‘leftie and proud’"
+   },
+   {
+    "title": "World News Today Live Updates: Trump on India US Trade Deal, US Iran War News, France Protest Reason, Breaking News Around US, Iran, Russia, Ukraine",
+    "url": "https://indianexpress.com/article/world/world-news-today-live-updates-trump-signals-action-us-israel-strike-plans-iran-midterms-hormuz-saudi-arabia-houthi-yemen-10931842/",
+    "source": "indianexpress.com",
+    "published": "",
+    "excerpt": "## US, Israel draw up plans for new strikes on Iran after midterm elections The United States and Israel have drawn up plans for possible renewed military strikes on Iran following the US midterm elections on November 3, according to a report by The New York Times. The report stated that both the countries hve ramped up military drills head of the “short but intensive operation” and said the exercises have included flyovers of Iraq to simulate strike maneuvers. The possible targets of the strikes are Iranian energy sites, nuclear facilities as well as Iran’s arsenals of missiles and drones, the report cited US officials as saying. ## Iran’s Islamic Revolutionary Guard Corps Navy says four vessels carrying oil hit mines near Hormuz Iran’s Islamic Revolutionary Guard Corps Navy said that four vessels involved in alleged illegal oil transfers in the northern Persian Gulf were hit simultaneously and caught fire after being tracked by its forces. The IRGC added that three more vessels collided with mines west of the Hormuz and warned the US military that continued provocations could trigger a wider response against American bases across the region."
+   },
+   {
+    "title": "Xinhua world news summary at 0030 GMT, Oct. 22-Xinhua",
+    "url": "https://english.news.cn/20261022/f5fe4cc48b634aba9a2dabba419023f6/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "RIYADH -- Saudi Arabia's General Authority of Civil Aviation said on Thursday that one resident was killed and eight others were injured in an attack targeting King Fahd International Airport in Dammam on Wednesday evening. The authority said in a statement that the injuries ranged from minor to critical, adding that the injured were immediately transported to hospital for medical care. (Saudi Airport-Attack-Death) WASHINGTON -- The U.S. State Department on Wednesday ordered non-emergency U.S. government staff and their family members to leave Saudi Arabia as Houthi attacks intensify. The ordered departure applies only to Saudi Arabia, not to other countries in the Middle East region, State Department spokesperson Tommy Pigott later clarified on X. (U.S.-Saudi Arabia) OTTAWA -- Canadian Prime Minister Mark Carney and Ontario Premier Doug Ford on Wednesday jointly announced a series of strategic industry support initiatives aimed at supporting workers and businesses impacted by U.S. tariffs and driving long-term economic growth. According to a news release issued by the prime minister's office, the action plan, totaling 8.7 billion Canadian dollars (about 6.18 billion U.S. dollars), focuses on safeguarding Ontario's steel, automotive, and critical mineral sectors. (Canada-U.S.-Tariff) ATHENS -- Students, teachers, civil servants and pensioners staged protests across Greece on Wednesday, calling for increased funding for public education and healthcare, higher wages and pensions, and measures to ease the rising cost of living. In Athens, approximately 10,000 people marched to the parliament, according to national broadcaster ERT. Demonstrators carried banners and chanted slogans including \"Bread, Education, Freedom.\" Students had set up tents in Syntagma Square, opposite the parliament on Tuesday ahead of Wednesday's main rally. (Greece-Protests) TRIPOLI -- Five people were killed and dozens injured on Wednesday in a road accident in the western Libyan city of Sabratha, according to preliminary figures released by Sabratha Teaching Hospital. The hospital's emergency department received the victims, with the injured suffering varying degrees of injuries, ranging from moderate to critical, the hospital's media center said in a statement. (Libya-Accident-Death) ■"
+   },
+   {
+    "title": "Morning Briefing: Oct. 22, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-22-2026/4096629",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "# Morning Briefing: Oct. 22, 2026 Author: Rabia Iclal Turan Published: 2026-10-22T09:07:42Z Source: aa.com.tr Language: en"
+   },
+   {
+    "title": "10 Things Global News - 22nd October 2026",
+    "url": "https://www.10things.news/p/10-things-global-news-22nd-october-b74",
+    "source": "10things.news",
+    "published": "",
+    "excerpt": "1. Saudi Airport Attack Prompts US Diplomatic Withdrawal (Middle East) 2. Arab Turnout Could Decide Israel’s Election (Politics) 3. Gulf Oil Exports Recover Despite Rising Attacks (Middle East) 4. Israeli Air Exercise Raises Risk Of Renewed Iran War (Middle East) 5. US And Israel Plan Fresh Iran Strikes After Elections (Conflict) 6. Putin Frees American As US-Russia Ties Warm (Diplomacy) 7. Russian Missiles Strike Kyiv As Peace Talks Resume (Conflict) 8. Haitian Gangs Seize Four Salvadoran Security Personnel (Caribbean) 9. UN Warns Climate Targets Are Slipping Further (Climate) 10. Meta Ordered To Pay $25 Billion Over Privacy Claims (Technology) ... An attack on King Fahd International Airport in Dammam killed one person and injured eight on Wednesday, as Houthi attacks continued across Saudi Arabia. The country’s civil aviation authority said the wounded were taken to hospital. Saudi authorities blamed the Houthis, although the group had not immediately claimed responsibility. ... Israel’s October 27 th election could hinge on Arab voters, whose turnout may determine whether Prime Minister Benjamin Netanyahu remains in power. Pollsters expect participation among Arab citizens to reach 63%, up from 56% in 2022. Their parties could hold the balance of power, with neither major bloc projected to secure the 61 seats needed for a majority. ... Middle Eastern oil exports have rebounded towards prewar levels despite increasingly frequent attacks on shipping, as producers adapt their routes to keep crude moving. Kpler estimates shipments from Gulf producers excluding Iran averaged 24.6mn barrels daily in the week to October 18, exceeding the prewar average of 23.3mn. Rival Vortexa data shows a smaller recovery, highlighting difficulties tracking vessels operating without positioning signals. ... Russia released jailed American Stephen Hubbard during talks between President Vladimir Putin and US envoy Steve Witkoff in St Petersburg on Wednesday. President Donald Trump said he had personally requested the 74-year-old former teacher’s freedom and that no prisoner exchange was required. Witkoff praised Putin as a humanitarian and thanked him for an agreement restoring Russian diesel exports to the US. Stephen ... Russian missiles struck Kyiv overnight, injuring six people hours after Moscow said it was willing in principle to resume US-mediated peace talks. Four of the injured required hospital treatment. US President Donald Trump described negotiations as the closest yet to ending the war, following envoy Steve Witkoff’s meeting with Russian President Vladimir Putin in St Petersburg. ... Kremlin aide Yuri Ushakov suggested trilateral talks could resume around mid-November, focused on postwar security guarantees, but dismissed Ukrainian and European proposals as lacking substance. Ukrainian President Volodymyr Zelenskyy said Kyiv supported renewed talks and would accept a ceasefire freezing the current front line, with security guarantees discussed afterwards. ... El Salvador has launched a military operation to rescue four aviation technicians from a UN-backed security force whom Haitian gangs are holding hostage. President Nayib Bukele said the men must be returned unharmed after they disappeared on Sunday when armed gangs ambushed their vehicle outside Port-au-Prince. The vehicle caught fire, forcing its occupants to flee. Bukele said the Salvadorans were pilots and technical personnel responsible for medical evacuations rather than combat operations. He warned gang leaders of further consequences unless all four were released alive. Fighting during rescue efforts has already injured four members of the international force. ... UN projections now put global warming at 2.6C above pre-industrial levels by 2100 even if countries fulfil their climate pledges, up from last year’s forecast. The UN Environment Programme says exceeding the Paris Agreement’s 1.5C limit is now unavoidable, with current policies pointing to 2.8C of warming. ... The report attributes the deteriorating outlook partly to the United States’ withdrawal from the Paris Agreement and rising American emissions. US emissions increased by 133 million tonnes of CO2 equivalent in 2025, driven by electricity demand and renewed coal generation. Global emissions remained broadly unchanged at 58.4 billion tonnes. ... Returning temperatures towards 1.5C would require emissions cuts of 18% by 2030 and 69% by 2040, alongside large-scale carbon removal. The report warns those removal methods are costly and risky. Solar expansion has exceeded expectations but fossil fuels still supply most of the world’s energy. A New Mexico judge has ordered Meta to pay $25 billion for misleading Facebook users about control of their personal data. The ruling follows a jury finding that the company committed 43 million violations of state consumer protection law following the Cambridge Analytica scandal. Judge Francis Mathew said the deception was deliberate over years. ... The penalty, reduced from an initial calculation of $219 billion, is Meta’s largest to date. New Mexico will direct the award to a public education fund. Meta disputes the ruling and plans to appeal, arguing that the case seeks to impose restrictions on online speech."
+   },
+   {
+    "title": "Iran says 7 tankers were damaged in the Strait of Hormuz, and other Mideast news",
+    "url": "https://apnews.com/article/mideast-yemen-saudi-israel-october-22-2026-dde5b98a8bf961224514994b02babce9",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "’s state television reported that seven oil tankers caught fire and were damaged overnight Thursday after being targeted or striking naval mines in the Strait of Hormuz. ... be the largest single-day number of vessels damaged in the waterway since the"
+   },
+   {
+    "title": "Top Stories, World News, Breaking News and Headlines - 22 October 2026 | TAMRAH NEWS",
+    "url": "https://tamrahnews.com/daily-edition/top-stories-world-news-breaking-news-headlines-politics-war-updates-elections-business-sports-health-culture-crypto-technology-ai-22-october-2026/",
+    "source": "tamrahnews.com",
+    "published": "",
+    "excerpt": "### Trump Approval Falls to 36 Percent as Midterms Enter Final Stretch President Donald Trump’s approval rating has dropped to 36 percent with two weeks remaining before the midterm elections. New polling shows likely voters favoring Democratic candidates by an 11-point margin in congressional races. Read full story →"
+   },
+   {
+    "title": "Big News Stories Overnight - Thursday, October 22, 2026",
+    "url": "https://www.golocalprov.com/news/stories-overnight-thursday-october-22-2026",
+    "source": "golocalprov.com",
+    "published": "",
+    "excerpt": "### U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections New York Times reports: The U.S. and Israeli militaries have developed specific plans for renewed strikes against Iran after the American midterm elections, according to U.S. officials and other people briefed on the deliberations. As planning for a short but intensive operation progresses, the U.S. and Israeli militaries have stepped up exercises, flying planes over Iraq to practice strike maneuvers. Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu in Israel this week to discuss new strikes, U.S. officials said. The targets would likely include Iran’s energy infrastructure, nuclear facilities, and missile and drone arsenal. Some officials say one more big round of attacks"
+   }
+  ],
+  "text": "[1] Axios (axios.com)\nDemocratic groups sued the Trump administration Tuesday, accusing it of using unfounded voter fraud claims to muscle its way into how states run elections ... Meta to pay $25 billion in penalties Wednesday after a jury found in September that the social\n\n[2] Morning news brief : NPR (npr.org)\n# Morning news brief : NPR Author: Leila Fadel Published: 2026-10-22T08:57:46Z Source: npr.org Language: en\n\n[3] Video. Latest news bulletin | October 22nd, 2026 – Morning | Euronews (euronews.com)\n## Nine Emperor Gods Festival: Devotees walk across burning embers for good luck ... ## Qatar in Motion | Made in Qatar: Local brands with global ambitions ... ## Milei reignites war of words with Sánchez as Spanish PM declares himself ‘leftie and proud’\n\n[4] World News Today Live Updates: Trump on India US Trade Deal, US Iran War News, France Protest Reason, Breaking News Around US, Iran, Russia, Ukraine (indianexpress.com)\n## US, Israel draw up plans for new strikes on Iran after midterm elections The United States and Israel have drawn up plans for possible renewed military strikes on Iran following the US midterm elections on November 3, according to a report by The New York Times. The report stated that both the countries hve ramped up military drills head of the “short but intensive operation” and said the exercises have included flyovers of Iraq to simulate strike maneuvers. The possible targets of the strikes are Iranian energy sites, nuclear facilities as well as Iran’s arsenals of missiles and drones, …\n\n[5] Xinhua world news summary at 0030 GMT, Oct. 22-Xinhua (english.news.cn)\nRIYADH -- Saudi Arabia's General Authority of Civil Aviation said on Thursday that one resident was killed and eight others were injured in an attack targeting King Fahd International Airport in Dammam on Wednesday evening. The authority said in a statement that the injuries ranged from minor to critical, adding that the injured were immediately transported to hospital for medical care. (Saudi Airport-Attack-Death) WASHINGTON -- The U.S. State Department on Wednesday ordered non-emergency U.S. government staff and their family members to leave Saudi Arabia as Houthi attacks intensify. The …\n\n[6] Morning Briefing: Oct. 22, 2026 (aa.com.tr)\n# Morning Briefing: Oct. 22, 2026 Author: Rabia Iclal Turan Published: 2026-10-22T09:07:42Z Source: aa.com.tr Language: en\n\n[7] 10 Things Global News - 22nd October 2026 (10things.news)\n1. Saudi Airport Attack Prompts US Diplomatic Withdrawal (Middle East) 2. Arab Turnout Could Decide Israel’s Election (Politics) 3. Gulf Oil Exports Recover Despite Rising Attacks (Middle East) 4. Israeli Air Exercise Raises Risk Of Renewed Iran War (Middle East) 5. US And Israel Plan Fresh Iran Strikes After Elections (Conflict) 6. Putin Frees American As US-Russia Ties Warm (Diplomacy) 7. Russian Missiles Strike Kyiv As Peace Talks Resume (Conflict) 8. Haitian Gangs Seize Four Salvadoran Security Personnel (Caribbean) 9. UN Warns Climate Targets Are Slipping Further (Climate) 10. Meta …\n\n[8] Iran says 7 tankers were damaged in the Strait of Hormuz, and other Mideast news (apnews.com)\n’s state television reported that seven oil tankers caught fire and were damaged overnight Thursday after being targeted or striking naval mines in the Strait of Hormuz. ... be the largest single-day number of vessels damaged in the waterway since the\n\n[9] Top Stories, World News, Breaking News and Headlines - 22 October 2026 | TAMRAH NEWS (tamrahnews.com)\n### Trump Approval Falls to 36 Percent as Midterms Enter Final Stretch President Donald Trump’s approval rating has dropped to 36 percent with two weeks remaining before the midterm elections. New polling shows likely voters favoring Democratic candidates by an 11-point margin in congressional races. Read full story →\n\n[10] Big News Stories Overnight - Thursday, October 22, 2026 (golocalprov.com)\n### U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections New York Times reports: The U.S. and Israeli militaries have developed specific plans for renewed strikes against Iran after the American midterm elections, according to U.S. officials and other people briefed on the deliberations. As planning for a short but intensive operation progresses, the U.S. and Israeli militaries have stepped up exercises, flying planes over Iraq to practice strike maneuvers. Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu in Israel this week to discuss new …",
+  "hash": "d9c73d6f3b1d08de0e09b909d757367806c87f3d96420a311e43b844715a1535",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news October 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-22T09:14:16+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Energy Costs Push September Inflation to 3.7 Percent - Philly Talks",
+    "url": "https://www.phillytalks.com/2026/10/energy-costs-push-september-inflation-to-3-7-percent/",
+    "source": "phillytalks.com",
+    "published": "",
+    "excerpt": "The gain widened from 3.4 percent in August and topped the 3.6 percent consensus in a Dow Jones survey, CNBC reported. It is the last inflation reading ... the Federal Reserve’s Oct. 27-28 monetary policy meeting"
+   },
+   {
+    "title": "Economy - Axios",
+    "url": "https://www.axios.com/economy/2026/10/22",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "Traders are betting that oil prices will remain elevated for longer than they anticipated just weeks ago, threatening to prolong the inflationary pressures that businesses and consumers have weathered for months"
+   },
+   {
+    "title": "Federal Reserve Policymakers Signal Lingering Inflation Risks Following Weak Data - CNNBC",
+    "url": "https://cnnbc.com/federal-reserve-policymakers-signal-lingering-inflation-risks-following-weak-data",
+    "source": "cnnbc.com",
+    "published": "",
+    "excerpt": "Federal Reserve Policymakers Signal Lingering Inflation Risks Following Weak Data - CNNBC Thursday, Oct 22, 2026 Outside the box. ... # Federal Reserve Policymakers Signal Lingering Inflation Risks Following Weak Data Federal Reserve Bank of Chicago President Austan Goolsbee warned that recent consumer and wholesale price figures remain discouraging, clouding the outlook for interest rate cuts and unsettling global financial markets."
+   },
+   {
+    "title": "The Latest Inflation Data Spells Bad News for Fed Chair Kevin Warsh and the Stock Market | The Motley Fool",
+    "url": "https://www.fool.com/investing/2026/10/22/inflation-data-bad-news-kevin-warsh-stock-market/",
+    "source": "fool.com",
+    "published": "",
+    "excerpt": "the Stock Market The stock market looks especially vulnerable to a sharp correction right now. ... for the first time in three years at its recent September meeting. * More hikes might be on ... rate-hiking cycle triggered a decline of more than 20% in"
+   },
+   {
+    "title": "Inflation worsened last month to 3.7% as midterm elections ...",
+    "url": "https://www.pbs.org/newshour/economy/inflation-worsened-last-month-to-3-7-as-midterm-elections-near",
+    "source": "pbs.org",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — U.S. inflation accelerated last month as gas, clothes, and air fares got more expensive, evidence that rising prices remain an economic challenge just a few weeks before the midterm elections that have focused heavily on issues related to affordability. ... The consumer price index rose 3.7% in September compared with a year ago, the Labor Department said Wednesday, up from 3.4% in August. On a monthly basis, costs jumped 0.6% from August to September, the biggest gain in five months, up from a 0.4% increase the previous month. ... The figures underscore the lingering impact of the Iran war on gas prices and the stubborn persistence of inflation, which fell sharply from a 9.1% peak in 2022 but this year has ticked higher since the war began in late February. The rise isn't all linked to gas prices, as surging investment in data centers and AI has also pushed up prices for computer chips and the consumer electronics that also use them. Elevated inflation has posed political problems for Republicans in Congress and is a challenge for the Federal Reserve, which is required by Congress to seek stable prices. ... Excluding the volatile food and energy categories, core prices rose 2.6% in September from a year ago, up from 2.4% the previous month. And they climbed 0.3% from August to September, an elevated pace that, if it continued for a year, would run well above the Fed's 2% target. ... Federal Reserve officials are watching inflation data closely to determine whether they need to raise their short-term interest rate further, and by how much. ... Fed Chairman Kevin Warsh said last month that inflation isn't moving quickly enough back to the central bank's target, causing the Fed to hike rates for the first time in three years, to about 3.9%. ... Yet some key Fed officials have suggested the central bank can wait before increasing rates again. The Fed has a policy meeting Oct. 27-28, but most Wall Street investors expect it to hold rates then, and potentially implement another hike in December. Fed officials have penciled in just one more rate hike this year. ... By raising borrowing costs, the Fed hopes to slow spending and growth and cool price increases. Yet much of the current inflation comes from supply shocks, such as the Iran war's disruption to oil and gas supplies, and higher interest rates can't address those bottlenecks. ... Warsh has said his goal is to keep the gas price spike from seeping into more areas of the economy. It's already pushed up the price of air fares about 22% from a year ago. ... Gas prices jumped more than 9% from August to September, Wednesday's report said. Rising gas costs are a highly visible sign of inflation and often drive down measures of consumer sentiment about the economy. ... Prices at the pump have ticked lower in the past two weeks to a nationwide average of $4.33 a gallon, according to AAA, though they remain higher than a month ago. ... Those costs raise shipping and other expenses for many large and small businesses, some of which are forced to pass the cost to consumers. Last week, PepsiCo said that it will raise prices for its snack foods, including Doritos, Ruffles, Sun Chips, and some sodas to offset higher costs for fuel, aluminum, and food ingredients. ... The artificial intelligence buildout has also sharply elevated the cost of semiconductors, computer equipment, and electrical components, which have been passed on to consumers in the form of more expensive electronics such as gaming devices, laptops, and smartphones. Goldman Sachs estimated in a report Tuesday that the AI buildout has added about a half-percentage point to the annual inflation rate, according to the Fed's preferred inflation gauge."
+   },
+   {
+    "title": "US inflation rises more than expected - here's what is ...",
+    "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
+    "source": "bbc.co.uk",
+    "published": "",
+    "excerpt": "Shortly after the latest inflation figure was released, the Social Security Administration announced that Social Security benefits including old age, survivors and disability insurance would rise by a similar amount - 3.6% - in 2027. The administration said that the 3.6%"
+   },
+   {
+    "title": "Asian shares retreat as report of damage to oil takers pushes oil prices higher",
+    "url": "https://apnews.com/article/stocks-markets-rates-earnings-oil-33767691a4a0730b96d6f0c5100ea9b2",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Updated 2:37 AM MDT, October 22, 2026 ... World shares and U.S. futures retreated on Thursday as oil prices jumped more than 2% following a report by Iran’s state television that seven oil tankers caught fire and were damaged in the Strait of Hormuz. If the report is verified, it would be the largest number of vessels damaged in the waterway in a single day since the start of the Iran war on Feb. 28. Brent crude, the international standard, gained 3.2% to $112.27 per barrel. It has been bouncing between $97 and $112 in recent days on uncertainty about when"
+   },
+   {
+    "title": "Inflation Overshot Expectations in September | Fifth Third Bank",
+    "url": "https://www.53.com/content/fifth-third/en/financial-insights/business/fifth-third-economic-weekly-with-bill-adams/economic-weekly-oct-20-2026.html",
+    "source": "53.com",
+    "published": "",
+    "excerpt": "Inflation surprised to the upside in September. Headline CPI matched expectations for the month, accelerating to 0.6% from 0.4% on a 9.1% jump in gasoline prices. The negative surprise was in core prices, which rose a faster-than-expected 0.3%. Price increases were widespread across the core CPI basket, affecting a range of durable goods, nondurables, and services. ... The PPI rose even more than the CPI, up 1.3% versus the 0.6% expected. Diesel surged a seasonally adjusted 21.0%. Producer prices for foods rose 1.2% on double-digit increases of fresh and dry vegetables, hay and hayseeds, grains, and oilseeds—rising prices of livestock feeds will likely translate to more expensive meat in 2027. Core PPI excluding food and energy rose 0.7% as trade services (Wholesale and retail margins) climbed 1.4% and energy-intensive transportation and warehousing charges jumped 3.4%. A silver lining is that many of the core PPI components that carry over into PCE inflation behaved better than the headline. These include portfolio management services, most medical services, and pharmaceuticals. ... Headlines were strong for the first September activity data, but the details were uneven. Retail sales rose a strong 0.8% on a 6.4% increase in gas station spending (All due to higher prices—recall gas prices jumped 9.1% in the CPI report). Other retail categories rose 0.2%, lagging the 0.3% increase of CPI core goods prices. Industrial production rose 0.7% as utilities output jumped 3.5%. This was the hottest September on record, boosting cooling demand. Manufacturing rose a more moderate 0.3% after declining 0.2% in August."
+   },
+   {
+    "title": "Oil prices today: WTI, Brent, Saudi Arabia",
+    "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "# Oil prices today: WTI, Brent, Saudi Arabia Author: Lee Ying Shan Published: 2026-10-22T05:12:19Z Source: cnbc.com Language: en"
+   },
+   {
+    "title": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook",
+    "url": "https://www.cnbc.com/2026/10/22/gold-drops-over-1percent-as-oil-rally-reinforces-higher-for-longer-rate-outlook.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "# Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook Author: Reuters Published: 2026-10-22T05:27:46Z Source: cnbc.com Language: en"
+   }
+  ],
+  "text": "[1] Energy Costs Push September Inflation to 3.7 Percent - Philly Talks (phillytalks.com)\nThe gain widened from 3.4 percent in August and topped the 3.6 percent consensus in a Dow Jones survey, CNBC reported. It is the last inflation reading ... the Federal Reserve’s Oct. 27-28 monetary policy meeting\n\n[2] Economy - Axios (axios.com)\nTraders are betting that oil prices will remain elevated for longer than they anticipated just weeks ago, threatening to prolong the inflationary pressures that businesses and consumers have weathered for months\n\n[3] Federal Reserve Policymakers Signal Lingering Inflation Risks Following Weak Data - CNNBC (cnnbc.com)\nFederal Reserve Policymakers Signal Lingering Inflation Risks Following Weak Data - CNNBC Thursday, Oct 22, 2026 Outside the box. ... # Federal Reserve Policymakers Signal Lingering Inflation Risks Following Weak Data Federal Reserve Bank of Chicago President Austan Goolsbee warned that recent consumer and wholesale price figures remain discouraging, clouding the outlook for interest rate cuts and unsettling global financial markets.\n\n[4] The Latest Inflation Data Spells Bad News for Fed Chair Kevin Warsh and the Stock Market | The Motley Fool (fool.com)\nthe Stock Market The stock market looks especially vulnerable to a sharp correction right now. ... for the first time in three years at its recent September meeting. * More hikes might be on ... rate-hiking cycle triggered a decline of more than 20% in\n\n[5] Inflation worsened last month to 3.7% as midterm elections ... (pbs.org)\nWASHINGTON (AP) — U.S. inflation accelerated last month as gas, clothes, and air fares got more expensive, evidence that rising prices remain an economic challenge just a few weeks before the midterm elections that have focused heavily on issues related to affordability. ... The consumer price index rose 3.7% in September compared with a year ago, the Labor Department said Wednesday, up from 3.4% in August. On a monthly basis, costs jumped 0.6% from August to September, the biggest gain in five months, up from a 0.4% increase the previous month. ... The figures underscore the lingering impact …\n\n[6] US inflation rises more than expected - here's what is ... (bbc.co.uk)\nShortly after the latest inflation figure was released, the Social Security Administration announced that Social Security benefits including old age, survivors and disability insurance would rise by a similar amount - 3.6% - in 2027. The administration said that the 3.6%\n\n[7] Asian shares retreat as report of damage to oil takers pushes oil prices higher (apnews.com)\nUpdated 2:37 AM MDT, October 22, 2026 ... World shares and U.S. futures retreated on Thursday as oil prices jumped more than 2% following a report by Iran’s state television that seven oil tankers caught fire and were damaged in the Strait of Hormuz. If the report is verified, it would be the largest number of vessels damaged in the waterway in a single day since the start of the Iran war on Feb. 28. Brent crude, the international standard, gained 3.2% to $112.27 per barrel. It has been bouncing between $97 and $112 in recent days on uncertainty about when\n\n[8] Inflation Overshot Expectations in September | Fifth Third Bank (53.com)\nInflation surprised to the upside in September. Headline CPI matched expectations for the month, accelerating to 0.6% from 0.4% on a 9.1% jump in gasoline prices. The negative surprise was in core prices, which rose a faster-than-expected 0.3%. Price increases were widespread across the core CPI basket, affecting a range of durable goods, nondurables, and services. ... The PPI rose even more than the CPI, up 1.3% versus the 0.6% expected. Diesel surged a seasonally adjusted 21.0%. Producer prices for foods rose 1.2% on double-digit increases of fresh and dry vegetables, hay and hayseeds, …\n\n[9] Oil prices today: WTI, Brent, Saudi Arabia (cnbc.com)\n# Oil prices today: WTI, Brent, Saudi Arabia Author: Lee Ying Shan Published: 2026-10-22T05:12:19Z Source: cnbc.com Language: en\n\n[10] Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook (cnbc.com)\n# Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook Author: Reuters Published: 2026-10-22T05:27:46Z Source: cnbc.com Language: en",
+  "hash": "b5443fc6570c8785789a502ffa40672a4c366390f8861e5591c2f6972b41486a",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news October 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-22T09:14:32+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Reuters US Domestic News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3996047-reuters-us-domestic-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "US congressional candidate Brad Lander released after being detained by Israeli military in West Bank Brad Lander, a US Democratic Party candidate for Congress, was detained by Israeli forces in the occupied West Bank on Wednesday, along with other Americans and Israelis harvesting olives alongside Palestinian farmers, rights groups said. Lander wrote on X that he had been released with a warning, which he said was apparently due to his public profile, but said several dozen ​rabbis and other participants were still detained. Ohio State University disputes DOJ finding that medical school discriminates in admissions Ohio State University said on Wednesday it disagreed with the US Department of Justice's findings that alleged its medical school favored Black and Hispanic applicants in admissions and discriminated against white and Asian applicants. The DOJ said findings from ​a federal probe showed Ohio State College of Medicine discriminated against white and Asian students in granting admission to its 2023, 2024 and 2025 incoming classes. Trump warns Kansans that US will 'burn' like France if Democrats win US ‌President Donald Trump on Monday used ​violent unrest in France as an argument against Democrats in his battle to defend a Kansas Senate seat long held by Republicans but in danger of falling to his political opponents. Trump's rally on behalf of Republican incumbent Roger Marshall was his latest foray into conservative states where Republican candidates are on defense due to voter frustrations over the Iran war and rising prices. New Mexico sues to stop payouts to Jeffrey Epstein's lawyer, accountant New Mexico has filed a civil lawsuit to block payments from Jeffrey Epstein's estate to the late sex offender's lawyer and accountant, and to recover damages for survivors of his alleged sexual abuse, the state's top law enforcement official said on Wednesday. The suit is the first law enforcement action against Epstein's longtime personal attorney Darren Indyke and accountant Richard Kahn, according to New Mexico Attorney General Raul Torrez. Trump to rally for Graham in tight South Carolina Senate race amid Russia rift President Donald Trump travels to South Carolina on Wednesday to bolster Republican Darline Graham in a surprisingly competitive Senate race, even as his recent moves toward Russia have put him at odds with the ‌sister of his late ally Lindsey Graham. Less than two weeks before the November 3 election, Darline Graham is running about even in the polls against Democrat Annie Andrews in a state Republicans typically win handily, another sign of the political headwinds confronting Trump's party amid high gasoline prices and the war in Iran. Trump administration says it has revoked over 300,000 visas President Donald Trump's administration has revoked over 300,000 US visas during his second term, the State Department said on Tuesday as the federal government continues its sweeping immigration crackdown. The number showed an acceleration in the pace of visa revocations in recent weeks. Vance defends Ramaswamy's explosive attack ad in Ohio governor race US Vice President JD Vance on Wednesday defended an explosive attack ad by Republican Vivek Ramaswamy’s campaign against his Democratic rival in the Ohio governor’s race. The ad features Democrat Amy Acton’s estranged mother, Donna Arthur, disputing Acton’s account of a childhood she says involved a period of homelessness and sexual abuse. Arthur, whom Acton says she has not seen since 1978, urges Ohioans not to vote for her daughter. Trump says fraud investigations make 'very big dent' in overseas scams President Donald Trump said on Wednesday his administration has made a \"very big dent\" in scams by foreign criminal networks that lure Americans into fraudulent investments, focusing on an anti-fraud message ahead of November's midterm elections. Trump, members of his cabinet and other top administration officials met at the White House for an event on cybercrime prevention, where FBI Director Kash Patel said his agency had taken down 20 scam compounds throughout the world. Lawmakers ‌say US briefing showed Russia targeting Democrats with misinformation The top Democratic lawmakers on the congressional intelligence committees on Wednesday said they received an intelligence briefing that Russia has been waging a misinformation campaign against Democrats running in next month's midterm elections. The comments by Senator Mark Warner and Representative Jim Himes come as Republican President Donald Trump has in recent weeks eased economic sanctions on Russia and increased pressure on Ukraine to end its fight against Russian forces. Supreme Court won't allow Trump administration restrictions on transgender inmates The US Supreme Court rejected on Wednesday a bid by President Donald Trump's administration to immediately enforce a policy restricting gender-affirming care for transgender inmates in federal prisons in a rare win for transgender rights at ‌the nation's top judicial body. The court denied the Justice Department's emergency request to lift a federal judge's order blocking the Federal Bureau of Prisons from implementing the policy, while a legal challenge to the measure plays out. Explainer-Three issues defining the 2026 US midterm elections President Donald Trump’s record-low popularity, voter frustration over the cost of living and a fierce immigration fight are shaping the November 3 midterm elections, which will determine whether Republicans keep control of Congress or Democrats gain the power to challenge his administration. Republicans hold narrow majorities in the House of Representatives and Senate. Democrats need a net gain of four seats to take control of each chamber. US single-family housing starts plunge; building permits hit 3-1/2-year low"
+   },
+   {
+    "title": "Politics & Policy - Axios",
+    "url": "https://www.axios.com/politics-policy/2026/10/22",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "# Politics & Policy - Axios Source: axios.com Language: en"
+   },
+   {
+    "title": "Iran War Updates: U.S. reduces troop footprint in Mideast ...",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+    "source": "cbsnews.com",
+    "published": "",
+    "excerpt": "## What to know about the Iran war today: - The U.S. military has quietly reduced its footprint at posts in the Middle East due to ongoing threats and attacks by Iran and its Houthi allies in Yemen, sources told CBS News on Wednesday. The latest attack, on King Fahd International Airport in the eastern Saudi city of Dammam, has killed at least two people and injured eight more. - Iran's Islamic Revolutionary Guard Corps said Thursday that it had struck four vessels transferring oil ship-to-ship in the Persian Gulf after they used a route through the Strait of Hormuz that Iran rejects. The IRGC said three other vessels hit sea mines and were forced to halt. - Iranian Foreign Minister Abbas Araghchi said Wednesday that indirect negotiations with the U.S. continue over a seven-day ceasefire proposal that President Trump initially rejected last month, with the U.S. seeking new clauses."
+   },
+   {
+    "title": "CNBC Daily Open: War worries meet AI anxiety",
+    "url": "https://www.cnbc.com/2026/10/22/trump-iran-musk-tesla-spacex-merger-.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "drawn up plans for renewed Iran strikes after the Nov. 3 ... but escalation may not wait long after that. The U.S. and Israeli militaries have ... for renewed strikes once the election is over, targeting energy infrastructure, nuclear facilities"
+   },
+   {
+    "title": "Morning news brief : NPR",
+    "url": "https://www.npr.org/2026/10/22/nx-s1-6003503/morning-news-brief",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "# Morning news brief : NPR Author: Leila Fadel Published: 2026-10-22T08:57:46Z Source: npr.org Language: en"
+   },
+   {
+    "title": "12am ET, October 22 | The latest headlines from NPR Transcript – NPR News Now | Audioscrape",
+    "url": "https://www.audioscrape.com/podcast/npr-news-now/episode/12am-et-october-22-the-latest-headlines-from-npr-42192",
+    "source": "audioscrape.com",
+    "published": "",
+    "excerpt": "This is NPR News Now. at the latest headlines every hour. Live from MPR News, I'm Giles Snyder. With Senate midterm races tightening for many GOP candidates in traditionally solid red states, President Trump traveled to South Carolina to support appointed Senator Darlene Graham. NPR's Franco Ordoñez reports"
+   },
+   {
+    "title": "Analysis: Trump deportations near 1M, but few are criminals",
+    "url": "https://stateline.org/2026/10/22/analysis-trump-deportations-near-1m-but-few-are-criminals/",
+    "source": "stateline.org",
+    "published": "",
+    "excerpt": "The current Trump administration’s mass deportation efforts claims to have expelled nearly a million people through July of this year, but those include both voluntary returns and people turned around at the border, according to a new analysis by the former chief statistician for the Department of Homeland Security."
+   },
+   {
+    "title": "AP News in Brief at 12:04 a.m. EDT | National | chronicleonline.com",
+    "url": "https://www.chronicleonline.com/news/national/ap-news-in-brief-at-12-04-a-m-edt/article_7d08437f-d7af-574c-8996-c21e0226f29c.html",
+    "source": "chronicleonline.com",
+    "published": "",
+    "excerpt": "In Texas, early voting is up 74% compared with 2022. In Kansas it’s more than doubled. Maine, North Carolina and Ohio also have seen increases of more than 30% in early in-person and mail voting compared with the same point in 2022"
+   },
+   {
+    "title": "Catching Our Eye News Roundup, Oct. 22, 2026",
+    "url": "https://ohiocapitaljournal.com/2026/10/22/catching-our-eye-news-roundup-oct-22-2026/",
+    "source": "ohiocapitaljournal.com",
+    "published": "",
+    "excerpt": "The U.S. and Israeli militaries have developed specific plans for renewed strikes against Iran after the American midterm elections, according to U.S. officials and other people briefed on the deliberations."
+   },
+   {
+    "title": "10/22/2026 | Video | C-SPAN.org",
+    "url": "https://www.c-span.org/event/washington-journal/10-22-2026/448413",
+    "source": "c-span.org",
+    "published": "",
+    "excerpt": "10/22/2026 | Video | C-SPAN.org 10/22/2026 | Video | C-SPAN.org [ ![](https://static.c-spanvideo.org/assets/images/tagline_white.png)o ![](https://static.c-spanvideo.org/assets/images/CSPAN_Reverse.svg) ](//www.c-span.org/) Global Search Search In"
+   }
+  ],
+  "text": "[1] Reuters US Domestic News Summary | International (devdiscourse.com)\nUS congressional candidate Brad Lander released after being detained by Israeli military in West Bank Brad Lander, a US Democratic Party candidate for Congress, was detained by Israeli forces in the occupied West Bank on Wednesday, along with other Americans and Israelis harvesting olives alongside Palestinian farmers, rights groups said. Lander wrote on X that he had been released with a warning, which he said was apparently due to his public profile, but said several dozen ​rabbis and other participants were still detained. Ohio State University disputes DOJ finding that medical school …\n\n[2] Politics & Policy - Axios (axios.com)\n# Politics & Policy - Axios Source: axios.com Language: en\n\n[3] Iran War Updates: U.S. reduces troop footprint in Mideast ... (cbsnews.com)\n## What to know about the Iran war today: - The U.S. military has quietly reduced its footprint at posts in the Middle East due to ongoing threats and attacks by Iran and its Houthi allies in Yemen, sources told CBS News on Wednesday. The latest attack, on King Fahd International Airport in the eastern Saudi city of Dammam, has killed at least two people and injured eight more. - Iran's Islamic Revolutionary Guard Corps said Thursday that it had struck four vessels transferring oil ship-to-ship in the Persian Gulf after they used a route through the Strait of Hormuz that Iran rejects. The …\n\n[4] CNBC Daily Open: War worries meet AI anxiety (cnbc.com)\ndrawn up plans for renewed Iran strikes after the Nov. 3 ... but escalation may not wait long after that. The U.S. and Israeli militaries have ... for renewed strikes once the election is over, targeting energy infrastructure, nuclear facilities\n\n[5] Morning news brief : NPR (npr.org)\n# Morning news brief : NPR Author: Leila Fadel Published: 2026-10-22T08:57:46Z Source: npr.org Language: en\n\n[6] 12am ET, October 22 | The latest headlines from NPR Transcript – NPR News Now | Audioscrape (audioscrape.com)\nThis is NPR News Now. at the latest headlines every hour. Live from MPR News, I'm Giles Snyder. With Senate midterm races tightening for many GOP candidates in traditionally solid red states, President Trump traveled to South Carolina to support appointed Senator Darlene Graham. NPR's Franco Ordoñez reports\n\n[7] Analysis: Trump deportations near 1M, but few are criminals (stateline.org)\nThe current Trump administration’s mass deportation efforts claims to have expelled nearly a million people through July of this year, but those include both voluntary returns and people turned around at the border, according to a new analysis by the former chief statistician for the Department of Homeland Security.\n\n[8] AP News in Brief at 12:04 a.m. EDT | National | chronicleonline.com (chronicleonline.com)\nIn Texas, early voting is up 74% compared with 2022. In Kansas it’s more than doubled. Maine, North Carolina and Ohio also have seen increases of more than 30% in early in-person and mail voting compared with the same point in 2022\n\n[9] Catching Our Eye News Roundup, Oct. 22, 2026 (ohiocapitaljournal.com)\nThe U.S. and Israeli militaries have developed specific plans for renewed strikes against Iran after the American midterm elections, according to U.S. officials and other people briefed on the deliberations.\n\n[10] 10/22/2026 | Video | C-SPAN.org (c-span.org)\n10/22/2026 | Video | C-SPAN.org 10/22/2026 | Video | C-SPAN.org [ ![](https://static.c-spanvideo.org/assets/images/tagline_white.png)o ![](https://static.c-spanvideo.org/assets/images/CSPAN_Reverse.svg) ](//www.c-span.org/) Global Search Search In",
+  "hash": "2e12d9c68df38e89ddf07f1bf5439794aa0b989edbc1c97a2a62980a5e1f8561",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities October 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-22T09:14:47+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "10-22-2026 Daily Edition",
+    "url": "https://www.hollywoodreporter.com/dailyedition/22-10-2026/1236737932/",
+    "source": "hollywoodreporter.com",
+    "published": "",
+    "excerpt": "L.A. saw a nearly 5 percent drop in shoot days from June to September compared to the same period last year and an 11 percent drop compared to the previous quarter, according to the latest report from permitting office FilmLA issued on Wednesday. The total is 36 percent below the five-year average, highlighting the fierce competition between states and other countries to host Hollywood. ... Get your slushies ready: Glee is returning. Disney+ and Hulu have ordered a revival of the high school musical, which ran from 2009-15 on Fox. 20th Television, which produced the original series, is also behind the new show. ... Directed by James Watkins and co-written by Mike Flanagan, the standalone film stars Tom Rhys Harries, Naomi Ackie and Max Minghella. ... i."
+   },
+   {
+    "title": "Pop Culture & Entertainment in October 2026: 463 stories | BBN",
+    "url": "https://bbn.live/pop-culture/archive/2026-10",
+    "source": "bbn.live",
+    "published": "",
+    "excerpt": "## Pop Culture on Thursday, October 22, 2026 1. 2:27 AM ET BBN CULTURE ### Bowie and Nina Simone meet in the dark at Guggenheim Bilbao Reported by Euronews · with a Short ... eyes first Oscar for Toy Story 5 ballad after gala Reported by New York"
+   },
+   {
+    "title": "Michael Jackson biopic loses Golden Globes musical bid",
+    "url": "https://www.rte.ie/entertainment/2026/1022/1596401-michael-jackson-biopic-loses-golden-globes-musical-bid/",
+    "source": "rte.ie",
+    "published": "",
+    "excerpt": "The Michael Jackson biopic Michael is set to compete as a drama at next year's Golden Globe Awards after its bid to be considered a musical was rejected. Studio Lionsgate had submitted the blockbuster film, starring Jackson’s nephew Jaafar Jackson as the late King of Pop, for consideration in the musical or comedy categories. ... However, the Golden Globes awards committee turned down the request, meaning the film and its leading actor are now expected to compete in the drama categories. ... The committee reportedly determined that the performances in Michael, which recreate some of Jackson’s most famous songs and concerts, did not meet that requirement. ... If the ruling stands, Jaafar Jackson will compete for a nomination in the Best Actor in a Motion Picture - Drama category."
+   },
+   {
+    "title": "Entertainment Live Updates Today (October 22, 2026): Salman Khan Residence Under Heavy Security After Tiger Shroff Firing Incident | Rajinikanth Starrer Jailer 2 Crosses Rs 300 Crore Mark | Daler Mehndi Drunk Video Controversy New Update - Filmibeat",
+    "url": "https://www.filmibeat.com/bollywood/news/2026/entertainment-live-updates-october-22-salman-khan-residence-security-rajinikanth-jailer-2-300-crore-535519.html",
+    "source": "filmibeat.com",
+    "published": "",
+    "excerpt": "Entertainment News Live Updates Today: Thursday (October 22) brings fresh updates from the world of Bollywood, television and OTT, with several developments catching viewers' attention. From the latest film buzz and box office news to TV show twists and streaming updates, there's plenty for entertainment fans to follow. Among the stories making headlines is Jailer 2, featuring Rajinikanth and directed by Nelson Dilipkumar. The action-comedy has crossed the Rs 300 crore mark in the first week itself. Also, Bollywood superstar Salman Khan's Bandra residence is under heavy security. ... Ranbir Kapoor has addressed the controversy surrounding his Dussehra speech after a video of his remarks from a Kolkata event went viral on social media. The actor apologised for the verbal slip at the music and audio launch of Nitesh Tiwari's upcoming film Ramayana in Chennai Addressing the audience at the Chennai event, Ranbir directly spoke about the incident and accepted that he had made a mistake while speaking. \"I would like to take this opportunity to apologise over an incident that happened yesterday. I was at a Dussehra event, and I had a slip of tongue,\" the actor said. \"What I meant to say is, 'Burai chaahe kitni bhi taaqatwar kyun na ho, aakhir mein jeet achhai aur sachchai ki hogi',\" he added. ... ## Jailer 2 Box Office Collection Day 7: Film Crosses Rs 300 Crore Mark ... Rajinikanth and Nelson Dilipkumar’s Jailer 2 has crossed the Rs 300 crore mark at the Indian box office within its first week. Released on October 15, the sequel has emerged as the highest-grossing Tamil film of 2026 so far, surpassing several major releases from the past two years. According to Sacnilk, the film collected Rs 28.15 crore net in India on Wednesday, taking its total domestic net collection to Rs 317.20 crore in seven days. Despite the festive season coming to an end, Jailer 2 recorded an overall occupancy of 33.7% across 14,438 shows. With its box office run continuing, the Rajinikanth-starrer is now moving closer to surpassing the lifetime domestic collection of its predecessor, Jailer (2023)."
+   },
+   {
+    "title": "Wake Up With BroadwayWorld October 22, 2026- Lea Michele Joins GLEE Reboot and More",
+    "url": "https://www.broadwayworld.com/article/Wake-Up-With-BroadwayWorld-October-22-2026--Lea-Michele-Joins-GLEE-Reboot-and-More-20261022",
+    "source": "broadwayworld.com",
+    "published": "",
+    "excerpt": "# ... Welcome to Wake Up with BroadwayWorld! Here's what you might have missed yesterday in the theatre world. Get ready for some exciting news: the **GLEE reboot has been officially greenlit at Disney+ and Hulu**, and **Lea Michele is set to return as Rachel Berry**. Meanwhile, **voting is now open for Next on Stage: Season 7**, so you can help decide which talented young performers move forward in the competition. Get inspired with **Elizabeth Teeter's favorite shows**, catch **Teri Hatcher taking her first bows in The Devil Wears Prada**, and check out **Back to the Future: The Musical's acquisition by MTI**. Plus, discover all the latest casting announcements, reviews, and industry updates below! But first... ... **Thursday, October 22** *The Imaginary Invalid* opens on Broadway ... | Wake Up With BroadwayWorld October 22, 2026- Lea Michele Joins GLEE Reboot and More Image **GLEE Reboot Greenlit at Disney+ and Hulu** The previously teased Glee reboot is officially underway! Disney+ and Hulu have greenlit the remounting of Ryan Murphy‘s musical dramedy series. Learn more here. | | --- | ... **Lea Michele to Return to GLEE Reboot as Rachel Berry** by Chloe Rabinowitz Lea Michele is reportedly set to reprise her role as Rachel Berry in the upcoming Glee reboot on Disney+ and Hulu, marking her return to the hit musical series more than a decade after its finale.. (more...)"
+   },
+   {
+    "title": "2026年10月22日の映画ニュース - 映画.com",
+    "url": "https://eiga.com/news/20261022/",
+    "source": "eiga.com",
+    "published": "",
+    "excerpt": "## 映画「このごにおよんで愛など」長澤まさみ、柄本佑、石橋静河が語る和やかな撮影裏 本編未収録の場面を切り取ったアザービジュアルも到着 2026年10月22日 18:00 ## 映画「すべて真夜中の恋人たち」岸井ゆきの＆浅野忠信は「第一希望だった」岨手由貴子監督が明かす起用理由【新規場面写真も解禁】 2026年10月22日 17:00 ... ## 「アベンジャーズ ドゥームズデイ」、日本版声優に三宅健太、中村悠一、溝端淳平、百田夏菜子ら総勢29人の豪華声優陣がアッセンブル！【コメントあり】"
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3996154-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-22T05:00:05Z Source: devdiscourse.com Language: en"
+   },
+   {
+    "title": "Pop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News",
+    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "## Tyler Cameron reveals he’s having a baby with fiancée during ‘DWTS’ dedication night routine - NBCU; WireImage via ... Culture News ## Heath Ledger and James Avery honored by former co-stars on ‘Dancing with the Stars’ - Robyn Beck / AFP via Getty"
+   },
+   {
+    "title": "Telemundo Gears Up for Latin Music's Biggest Night: The 2026 Billboard Latin Music Awards to Air Live Thursday, October 22 - NBCUniversal Telemundo Enterprises Press Releases",
+    "url": "https://nbcuniversalnewsgroup.com/telemundo/2026/07/21/telemundo-gears-up-for-latin-musics-biggest-night-the-2026-billboard-latin-music-awards-to-air-live-thursday-october-22/",
+    "source": "nbcuniversalnewsgroup.com",
+    "published": "",
+    "excerpt": "WHAT: Telemundo and Billboard announced the date for the 2026 Billboard Latin Music Awards, the longest-running and most prestigious awards show in Latin music. The live music special will bring fans together for an unforgettable celebration of Latin music’s biggest stars, honoring the year’s top artists, albums, and songs, while featuring exciting live performances from today’s top music talent. The Billboard Latin Music Awards is the only awards show to honor the most popular albums, songs, and performers in Latin music, as determined by the actual sales, streaming, radio airplay and social data that informs Billboard’s weekly charts during a one-year period. ... WHEN: Thursday, October 22 ... WHERE: The award show will take place at the James L. Knight Center in Miami, Florida, and will be available LIVE on Telemundo and Peacock. ... The awards will coincide with Billboard Latin Music Week, which returns to Miami October 19-22, celebrating Latin music, culture, and entertainment all week long with exclusive performances, one-of-a-kind conversations, workshops, showcases and exclusive fan experiences. Learn more about Billboard Latin Music Week at billboardlatinmusicweek.com."
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3996016-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-21T21:00:29Z Source: devdiscourse.com Language: en"
+   }
+  ],
+  "text": "[1] 10-22-2026 Daily Edition (hollywoodreporter.com)\nL.A. saw a nearly 5 percent drop in shoot days from June to September compared to the same period last year and an 11 percent drop compared to the previous quarter, according to the latest report from permitting office FilmLA issued on Wednesday. The total is 36 percent below the five-year average, highlighting the fierce competition between states and other countries to host Hollywood. ... Get your slushies ready: Glee is returning. Disney+ and Hulu have ordered a revival of the high school musical, which ran from 2009-15 on Fox. 20th Television, which produced the original series, is also …\n\n[2] Pop Culture & Entertainment in October 2026: 463 stories | BBN (bbn.live)\n## Pop Culture on Thursday, October 22, 2026 1. 2:27 AM ET BBN CULTURE ### Bowie and Nina Simone meet in the dark at Guggenheim Bilbao Reported by Euronews · with a Short ... eyes first Oscar for Toy Story 5 ballad after gala Reported by New York\n\n[3] Michael Jackson biopic loses Golden Globes musical bid (rte.ie)\nThe Michael Jackson biopic Michael is set to compete as a drama at next year's Golden Globe Awards after its bid to be considered a musical was rejected. Studio Lionsgate had submitted the blockbuster film, starring Jackson’s nephew Jaafar Jackson as the late King of Pop, for consideration in the musical or comedy categories. ... However, the Golden Globes awards committee turned down the request, meaning the film and its leading actor are now expected to compete in the drama categories. ... The committee reportedly determined that the performances in Michael, which recreate some of Jackson’s …\n\n[4] Entertainment Live Updates Today (October 22, 2026): Salman Khan Residence Under Heavy Security After Tiger Shroff Firing Incident | Rajinikanth Starrer Jailer 2 Crosses Rs 300 Crore Mark | Daler Mehndi Drunk Video Controversy New Update - Filmibeat (filmibeat.com)\nEntertainment News Live Updates Today: Thursday (October 22) brings fresh updates from the world of Bollywood, television and OTT, with several developments catching viewers' attention. From the latest film buzz and box office news to TV show twists and streaming updates, there's plenty for entertainment fans to follow. Among the stories making headlines is Jailer 2, featuring Rajinikanth and directed by Nelson Dilipkumar. The action-comedy has crossed the Rs 300 crore mark in the first week itself. Also, Bollywood superstar Salman Khan's Bandra residence is under heavy security. ... Ranbir …\n\n[5] Wake Up With BroadwayWorld October 22, 2026- Lea Michele Joins GLEE Reboot and More (broadwayworld.com)\n# ... Welcome to Wake Up with BroadwayWorld! Here's what you might have missed yesterday in the theatre world. Get ready for some exciting news: the **GLEE reboot has been officially greenlit at Disney+ and Hulu**, and **Lea Michele is set to return as Rachel Berry**. Meanwhile, **voting is now open for Next on Stage: Season 7**, so you can help decide which talented young performers move forward in the competition. Get inspired with **Elizabeth Teeter's favorite shows**, catch **Teri Hatcher taking her first bows in The Devil Wears Prada**, and check out **Back to the Future: The Musical's …\n\n[6] 2026年10月22日の映画ニュース - 映画.com (eiga.com)\n## 映画「このごにおよんで愛など」長澤まさみ、柄本佑、石橋静河が語る和やかな撮影裏 本編未収録の場面を切り取ったアザービジュアルも到着 2026年10月22日 18:00 ## 映画「すべて真夜中の恋人たち」岸井ゆきの＆浅野忠信は「第一希望だった」岨手由貴子監督が明かす起用理由【新規場面写真も解禁】 2026年10月22日 17:00 ... ## 「アベンジャーズ ドゥームズデイ」、日本版声優に三宅健太、中村悠一、溝端淳平、百田夏菜子ら総勢29人の豪華声優陣がアッセンブル！【コメントあり】\n\n[7] Reuters Entertainment News Summary | International (devdiscourse.com)\n# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-22T05:00:05Z Source: devdiscourse.com Language: en\n\n[8] Pop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News (nbcnews.com)\n## Tyler Cameron reveals he’s having a baby with fiancée during ‘DWTS’ dedication night routine - NBCU; WireImage via ... Culture News ## Heath Ledger and James Avery honored by former co-stars on ‘Dancing with the Stars’ - Robyn Beck / AFP via Getty\n\n[9] Telemundo Gears Up for Latin Music's Biggest Night: The 2026 Billboard Latin Music Awards to Air Live Thursday, October 22 - NBCUniversal Telemundo Enterprises Press Releases (nbcuniversalnewsgroup.com)\nWHAT: Telemundo and Billboard announced the date for the 2026 Billboard Latin Music Awards, the longest-running and most prestigious awards show in Latin music. The live music special will bring fans together for an unforgettable celebration of Latin music’s biggest stars, honoring the year’s top artists, albums, and songs, while featuring exciting live performances from today’s top music talent. The Billboard Latin Music Awards is the only awards show to honor the most popular albums, songs, and performers in Latin music, as determined by the actual sales, streaming, radio airplay and social …\n\n[10] Reuters Entertainment News Summary | International (devdiscourse.com)\n# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-21T21:00:29Z Source: devdiscourse.com Language: en",
+  "hash": "36f95c63cccc5acb30ea3b76cdafd4f73fda600b3e904fef9f256b4f76aae47f",
+  "notes": []
+ }
+}
