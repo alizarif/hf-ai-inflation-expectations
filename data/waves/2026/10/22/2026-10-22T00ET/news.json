@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-10-22T05:42:06+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories October 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-22T05:42:06+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/10/22",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "$25 billion in penalties Wednesday after a jury found in September that the social media giant misled users about their data privacy. ... : The penalties come nearly a decade after the Cambridge Analytica scandal first broke and signal that Big Tech can"
+   },
+   {
+    "title": "The Hindu Morning Digest: October 22, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/morning-digest-october-22-2026/article71609158.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "# The Hindu Morning Digest: October 22, 2026 - The Hindu Author: The Hindu Bureau Published: 2026-10-22T00:40:27Z Source: thehindu.com Language: en"
+   },
+   {
+    "title": "Xinhua world news summary at 0030 GMT, Oct. 22-Xinhua",
+    "url": "https://english.news.cn/20261022/f5fe4cc48b634aba9a2dabba419023f6/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "2026-10-22 08:30:15 RIYADH -- Saudi Arabia's General Authority of Civil Aviation said on Thursday that one resident was killed and eight others were injured in an attack targeting King Fahd International Airport in Dammam on Wednesday evening. The authority said in a statement that the injuries ranged from minor to critical, adding that the injured were immediately transported to hospital for medical care. (Saudi Airport-Attack-Death) WASHINGTON -- The U.S. State Department on Wednesday ordered non-emergency U.S. government staff and their family members to leave Saudi Arabia as Houthi attacks intensify. The ordered departure applies only to Saudi Arabia, not to other countries in the Middle East region, State Department spokesperson Tommy Pigott later clarified on X. (U.S.-Saudi Arabia) OTTAWA -- Canadian Prime Minister Mark Carney and Ontario Premier Doug Ford on Wednesday jointly announced a series of strategic industry support initiatives aimed at supporting workers and businesses impacted by U.S. tariffs and driving long-term economic growth. According to a news release issued by the prime minister's office, the action plan, totaling 8.7 billion Canadian dollars (about 6.18 billion U.S. dollars), focuses on safeguarding Ontario's steel, automotive, and critical mineral sectors. (Canada-U.S.-Tariff) ATHENS -- Students, teachers, civil servants and pensioners staged protests across Greece on Wednesday, calling for increased funding for public education and healthcare, higher wages and pensions, and measures to ease the rising cost of living. In Athens, approximately 10,000 people marched to the parliament, according to national broadcaster ERT. Demonstrators carried banners and chanted slogans including \"Bread, Education, Freedom.\" Students had set up tents in Syntagma Square, opposite the parliament on Tuesday ahead of Wednesday's main rally. (Greece-Protests) TRIPOLI -- Five people were killed and dozens injured on Wednesday in a road accident in the western Libyan city of Sabratha, according to preliminary figures released by Sabratha Teaching Hospital. The hospital's emergency department received the victims, with the injured suffering varying degrees of injuries, ranging from moderate to critical, the hospital's media center said in a statement. (Libya-Accident-Death) ■"
+   },
+   {
+    "title": "India News Today's Live Updates, 22 October 2026: Latest Breaking News From India, Delhi, Mumbai & Around the World",
+    "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-22-october-2026-cjp-leaders-saurav-das-ashutosh-ranka-ajinkya-shindecrime-branch-cec-india-bloc-gyanesh-kumar-10931618/",
+    "source": "indianexpress.com",
+    "published": "",
+    "excerpt": ": CJP leaders Saurav Das, Ashutosh Ranka, Ajinkya Shinde summoned by Delhi Crime Branch today ## Delhi Police Crime Branch summons CJP leaders Saurav Das, Ashutosh Ranka ... has summoned Cockroach Janta Party (CJP) leaders Saurav Das, Ashutosh"
+   },
+   {
+    "title": "Top Stories, World News, Breaking News and Headlines - 22 October 2026 | TAMRAH NEWS",
+    "url": "https://tamrahnews.com/daily-edition/top-stories-world-news-breaking-news-headlines-politics-war-updates-elections-business-sports-health-culture-crypto-technology-ai-22-october-2026/",
+    "source": "tamrahnews.com",
+    "published": "",
+    "excerpt": "### Trump Approval Falls to 36 Percent as Midterms Enter Final Stretch President Donald Trump’s approval rating has dropped to 36 percent with two weeks remaining before the midterm elections. New polling shows likely voters favoring Democratic candidates by an 11-point margin in congressional races. Read full story →"
+   },
+   {
+    "title": "News Archives for World - 2026-10-22 - Business Recorder",
+    "url": "https://www.brecorder.com/world/2026-10-22",
+    "source": "brecorder.com",
+    "published": "",
+    "excerpt": "## Putin agrees to resume 3-way peace talks with Ukraine and US - Wednesday’s encounter unfolded amid concerns in Kyiv and among its allies that the United States is backing ... RIYADH: The Saudi-led coalition fighting Yemen’s Houthis said on Wednesday"
+   },
+   {
+    "title": "HT Morning News Brief October 22: 10 arrests in Tiger Shroff case, CJP leaders' release and more | India News",
+    "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-october-22-10-arrests-in-tiger-shroff-case-cjp-leaders-release-france-unrest-india-vs-new-zeleand-daler-mehndi-row-101792636451383.html",
+    "source": "hindustantimes.com",
+    "published": "",
+    "excerpt": "more people from Haryana’s Sonipat district on Wednesday in connection with the October 18 firing at ... Shroff’s car, taking the total number of arrests to 10, even as investigators found that the alleged shooters had conducted reconnaissance at the"
+   },
+   {
+    "title": "International & World News - 22 October 2026 - Saachi Baat",
+    "url": "https://saachibaat.com/international-news/international-world-news-22-october-2026/",
+    "source": "saachibaat.com",
+    "published": "",
+    "excerpt": "✈️ INTERNATIONAL NEWS ———————————— 1. US Secretary of State Marco Rubio visited Reliance Industries’ Jamnagar refinery, the world’s largest single-site refinery, after meeting Gautam Adani and Tata Sons chairman N. Chandrasekaran in Mumbai. US Ambassador Sergio Gor said India’s imports of US LPG rose from under 10% to 67% in a year, making the US India’s largest LPG supplier. 2. The Embassy of India in Paris issued a safety advisory urging Indian nationals in France to stay vigilant, avoid protest sites and large gatherings, and follow instructions of local authorities amid ongoing unrest and localised curfews. The Embassy and the Consulate General in Marseille have shared helpline numbers, as PM Sébastien Lecornu promised a ‘massive’ police deployment ahead of fresh protests on 24 October. 3. Marco Rubio dismissed UN human rights experts who sought an independent probe into police action against protesters in India, calling them an ‘oxymoron’, and said the protests are a domestic political matter. “This is a democracy… I’m not going to opine on their domestic political matters,” he said in Mumbai. 4. Polish Prime Minister Donald Tusk arrived in New Delhi on the invitation of PM Narendra Modi and was received by MoS Raj Bhushan Chaudhary. The visit, which includes bilateral talks and an India-Poland Business Forum, is expected to give fresh impetus to the India-Poland Strategic Partnership. 5. India and New Zealand signed a Memorandum of Cooperation on Electronic Origin Data Exchange to help businesses claim tariff benefits under the India-New Zealand FTA, which came into force on 20 October. It was signed by CBIC Chairman Vivek Chaturvedi and New Zealand Customs chief Christine Stevenson. 6. At the UN General Assembly’s Third Committee, India, represented by MEA Deputy Secretary Barkha Tamrakar, opposed the use of human rights as a political tool to selectively target countries on unverified allegations, and called for engagement based on dialogue, cooperation, non-selectivity and transparency. 7. Commerce and Industry Minister Piyush Goyal will visit Germany from today till 24 October, attending the Berlin Global Dialogue, and the Netherlands from 24 to 27 October. About 100 businesses and start-ups will accompany him to boost trade, investment and technology cooperation. ———————————— 🌎 *WORLD NEWS* 🌍 ———————————— 1. Russian President Vladimir Putin has agreed in principle to resume trilateral negotiations with the US and Ukraine on ending the war after 10 November, Kremlin aide Yuri Ushakov said after Putin met US envoy Steve Witkoff in St Petersburg. Ukraine’s President Volodymyr Zelensky said Kyiv is ready to freeze the conflict along the current front line. 2. Nigeria confirmed its first Ebola case in Abuja, in a woman who had travelled from Uganda, caused by the Bundibugyo strain for which there is no approved vaccine or drug. The outbreak declared in Congo in mid-May has killed at least 4,600 of about 9,500 infected and spread to four other countries; WHO calls it the fastest-growing Ebola outbreak in history. 3. The UN Environment Programme warned that global temperatures could rise by 2.6°C above pre-industrial levels by 2100 even if countries meet their climate pledges, two-tenths of a degree higher than last year’s estimate, partly due to the US withdrawal from the Paris Agreement. 4. Romania’s Parliament approved the minority government of independent Prime Minister Luca Niculescu by 280 votes to 58, ending nearly six months of political deadlock since former PM Ilie Bolojan was ousted in a no-confidence vote in May. 5. Bangladesh is facing the world’s worst measles outbreak this year, with over 2.02 lakh suspected cases and 1,147 deaths since mid-March, according to WHO data; children under five account for 94% of the deaths."
+   },
+   {
+    "title": "Trends of October 22, 2026 | Newsylist",
+    "url": "https://www.newsylist.com/archive/2026-10-22",
+    "source": "newsylist.com",
+    "published": "",
+    "excerpt": "# Trends of October 22, 2026 | Newsylist Source: newsylist.com Language: en"
+   },
+   {
+    "title": "News Archives for Latest - 2026-10-22 - DAWN.COM",
+    "url": "https://www.dawn.com/latest-news/2026-10-22",
+    "source": "dawn.com",
+    "published": "",
+    "excerpt": "# Thursday, October 22, 2026 ## Mayor Murtaza Wahab says World Culture Festival will celebrate Karachi The third edition of the World Culture Festival will be held from Oct 29 to Nov 22. Published 22 Oct, 2026 10:00am"
+   }
+  ],
+  "text": "[1] Axios (axios.com)\n$25 billion in penalties Wednesday after a jury found in September that the social media giant misled users about their data privacy. ... : The penalties come nearly a decade after the Cambridge Analytica scandal first broke and signal that Big Tech can\n\n[2] The Hindu Morning Digest: October 22, 2026 - The Hindu (thehindu.com)\n# The Hindu Morning Digest: October 22, 2026 - The Hindu Author: The Hindu Bureau Published: 2026-10-22T00:40:27Z Source: thehindu.com Language: en\n\n[3] Xinhua world news summary at 0030 GMT, Oct. 22-Xinhua (english.news.cn)\n2026-10-22 08:30:15 RIYADH -- Saudi Arabia's General Authority of Civil Aviation said on Thursday that one resident was killed and eight others were injured in an attack targeting King Fahd International Airport in Dammam on Wednesday evening. The authority said in a statement that the injuries ranged from minor to critical, adding that the injured were immediately transported to hospital for medical care. (Saudi Airport-Attack-Death) WASHINGTON -- The U.S. State Department on Wednesday ordered non-emergency U.S. government staff and their family members to leave Saudi Arabia as Houthi …\n\n[4] India News Today's Live Updates, 22 October 2026: Latest Breaking News From India, Delhi, Mumbai & Around the World (indianexpress.com)\n: CJP leaders Saurav Das, Ashutosh Ranka, Ajinkya Shinde summoned by Delhi Crime Branch today ## Delhi Police Crime Branch summons CJP leaders Saurav Das, Ashutosh Ranka ... has summoned Cockroach Janta Party (CJP) leaders Saurav Das, Ashutosh\n\n[5] Top Stories, World News, Breaking News and Headlines - 22 October 2026 | TAMRAH NEWS (tamrahnews.com)\n### Trump Approval Falls to 36 Percent as Midterms Enter Final Stretch President Donald Trump’s approval rating has dropped to 36 percent with two weeks remaining before the midterm elections. New polling shows likely voters favoring Democratic candidates by an 11-point margin in congressional races. Read full story →\n\n[6] News Archives for World - 2026-10-22 - Business Recorder (brecorder.com)\n## Putin agrees to resume 3-way peace talks with Ukraine and US - Wednesday’s encounter unfolded amid concerns in Kyiv and among its allies that the United States is backing ... RIYADH: The Saudi-led coalition fighting Yemen’s Houthis said on Wednesday\n\n[7] HT Morning News Brief October 22: 10 arrests in Tiger Shroff case, CJP leaders' release and more | India News (hindustantimes.com)\nmore people from Haryana’s Sonipat district on Wednesday in connection with the October 18 firing at ... Shroff’s car, taking the total number of arrests to 10, even as investigators found that the alleged shooters had conducted reconnaissance at the\n\n[8] International & World News - 22 October 2026 - Saachi Baat (saachibaat.com)\n✈️ INTERNATIONAL NEWS ———————————— 1. US Secretary of State Marco Rubio visited Reliance Industries’ Jamnagar refinery, the world’s largest single-site refinery, after meeting Gautam Adani and Tata Sons chairman N. Chandrasekaran in Mumbai. US Ambassador Sergio Gor said India’s imports of US LPG rose from under 10% to 67% in a year, making the US India’s largest LPG supplier. 2. The Embassy of India in Paris issued a safety advisory urging Indian nationals in France to stay vigilant, avoid protest sites and large gatherings, and follow instructions of local authorities amid ongoing unrest and …\n\n[9] Trends of October 22, 2026 | Newsylist (newsylist.com)\n# Trends of October 22, 2026 | Newsylist Source: newsylist.com Language: en\n\n[10] News Archives for Latest - 2026-10-22 - DAWN.COM (dawn.com)\n# Thursday, October 22, 2026 ## Mayor Murtaza Wahab says World Culture Festival will celebrate Karachi The third edition of the World Culture Festival will be held from Oct 29 to Nov 22. Published 22 Oct, 2026 10:00am",
+  "hash": "96ee6b1e494c9ae5d1058fce9cc950ba0b993bec546eac15976e173758010992",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news October 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-22T05:42:23+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Economy - Axios",
+    "url": "https://www.axios.com/economy/2026/10/22",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "Data: FactSet; Chart: Courtenay Brown/Axios Traders are betting that oil prices will remain elevated for longer than they anticipated just weeks ago, threatening to prolong the inflationary pressures that businesses and consumers have weathered for months"
+   },
+   {
+    "title": "Federal Reserve Policymakers Signal Lingering Inflation Risks Following Weak Data - CNNBC",
+    "url": "https://cnnbc.com/federal-reserve-policymakers-signal-lingering-inflation-risks-following-weak-data",
+    "source": "cnnbc.com",
+    "published": "",
+    "excerpt": "# Federal Reserve Policymakers Signal Lingering Inflation Risks Following Weak Data Federal Reserve Bank of Chicago President Austan Goolsbee warned that recent consumer and wholesale price figures remain discouraging, clouding the outlook for interest rate cuts and unsettling global financial markets."
+   },
+   {
+    "title": "Oil prices today: WTI, Brent, Saudi Arabia",
+    "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "# Oil prices today: WTI, Brent, Saudi Arabia ... Oil prices today: WTI, Brent, Saudi Arabia # Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes Published Thu, Oct 22 2026 1:12 AM EDTUpdated Moments Ago Lee Ying Shan@in/ying-shan-lee@LeeYingshan Key Points * The U.S. and Israeli militaries have drawn up specific plans for renewed strikes on Iran after next month's midterm elections, The New York Times reported. * The U.S. has also ordered non-emergency government employees and their families to leave Saudi Arabia, as Houthi attacks against the country rise. Pumpjacks operating in Kern County, which has a long history of oil production, in California’s 22nd Congressional District on Oct. 16, 2026 near Bakersfield, California. Mario Tama | Getty Images Oil prices climbed Thursday on worries over a possible escalation in the Middle East conflict as the U.S. reportedly plans to resume strikes against Iran. Brent crude Add To Watchlist futures rose 1.71% to $110.67 a barrel, while U.S. West Texas Intermediate Add To Watchlist crude gained 1.42% to $98.53. The U.S. and Israeli militaries have drawn up specific plans for renewed strikes on Iran after next month's midterm elections, The New York Times reported, citing unnamed U.S. officials. Planning for a \"short but intensive\" operation is progressing, The Times said. The U.S. has also ordered non-emergency government employees and their families to leave Saudi Arabia. State Department spokesman Tommy Pigott in a post on X said the order applies only to Saudi Arabia, citing increasing attacks by Iran-aligned Houthis on civilian targets, after reports said that the U.S. had directed some staff in the wider Gulf region to leave. The economic fallout from elevated oil prices, however, may be less severe than in previous decades, as consumers have become less vulnerable to energy shocks, according to David Wagner, head of equity and portfolio manager at Aptus Capital Advisors. \"$100 oil today is very different than $100 oil, you know, 20, 30 years ago,\" Wagner said, noting that crude prices remain well below their inflation-adjusted historical highs. He pointed to U.S. government data showing that gasoline accounted for roughly 5% of the average American's disposable income a decade ago, compared with about half that today, suggesting households may be better positioned to withstand elevated energy costs. \"I think we can hold that umbrella over our head ... from the rainstorm of oil,\" he said. *— CNBC's Anniek Bao contributed to this report.*"
+   },
+   {
+    "title": "Inflation jumps to 3.7% as gas, diesel prices squeeze consumers",
+    "url": "https://www.nbcnews.com/business/economy/inflation-jumped-september-gas-diesel-prices-squeezed-consumers-ahead-rcna603202",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "Categories including housing, clothing, and restaurant and takeout food all saw price increases ... Only three major categories saw price declines: groceries, medical care commodities and utility gas service"
+   },
+   {
+    "title": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook",
+    "url": "https://www.cnbc.com/2026/10/22/gold-drops-over-1percent-as-oil-rally-reinforces-higher-for-longer-rate-outlook.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "# Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook Author: Reuters Published: 2026-10-22T05:27:46Z Source: cnbc.com Language: en"
+   },
+   {
+    "title": "Americans are spending in the face of inflation and they are not happy about it | AP News",
+    "url": "https://apnews.com/article/us-economy-consumers-elections-inflation-28ffc9c856377d468a2fb231712806b1",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — High gas prices are intensifying inflation and vacuuming up more of Americans’ dollars, yet consumers are still digging deep to spend, powering the economy, at least for now. ... A slew of economic data Thursday showed that inflation accelerated last month as more expensive oil and gas began to lift prices in other parts of the economy, including shipping and warehousing, before the increases reach most Americans. ... Wholesale food prices jumped, which could make groceries more expensive in the months ahead. ... At the same time, consumers also ramped up their spending, according to data released Thursday. Though much of"
+   },
+   {
+    "title": "Inflation worsened last month to 3.7% as midterm elections ...",
+    "url": "https://www.pbs.org/newshour/economy/inflation-worsened-last-month-to-3-7-as-midterm-elections-near",
+    "source": "pbs.org",
+    "published": "",
+    "excerpt": "index rose 3.7% in September compared with a year ago, the Labor Department said Wednesday, up from 3.4% in ... . On a monthly basis, costs jumped 0.6% from August to September, the biggest gain in five months, up from a 0.4% increase the previous month."
+   },
+   {
+    "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine By Reuters",
+    "url": "https://www.investing.com/news/economy-news/fed-sees-ai-boom-adding-to-inflation-headache-but-others-may-pay-for-the-medicine-4956834",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "CLEVELAND, Oct 19 (Reuters) - The artificial intelligence boom, increasingly acknowledged at the Federal Reserve as helping drive inflation, has left central bankers faced with cooling the rest of the economy to lower price pressures amplified by an industry of marquee names like Amazon, Apple and Anthropic considered immune to rate hikes. Fed officials know their blunt tool of raising ... The Fed meets October 27-28 and is expected to keep rates steady at 3.75%-4.00%. Fed officials say further hikes are likely needed and are now debating the pace and extent."
+   },
+   {
+    "title": "Inflation Overshot Expectations in September | Fifth Third Bank",
+    "url": "https://www.53.com/content/fifth-third/en/financial-insights/business/fifth-third-economic-weekly-with-bill-adams/economic-weekly-oct-20-2026.html",
+    "source": "53.com",
+    "published": "",
+    "excerpt": "Headline CPI matched expectations for the month, accelerating to 0.6% from 0.4% on a 9.1% jump in gasoline prices ... The negative surprise was in core prices, which rose a faster-than-expected 0.3 ... a range of durable goods, nondurables, and"
+   },
+   {
+    "title": "CNBC Daily Open: War worries meet AI anxiety",
+    "url": "https://www.cnbc.com/2026/10/22/trump-iran-musk-tesla-spacex-merger-.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "# CNBC Daily Open: War worries meet AI anxiety Author: Anniek Bao Published: 2026-10-22T01:49:18Z Source: cnbc.com Language: en"
+   }
+  ],
+  "text": "[1] Economy - Axios (axios.com)\nData: FactSet; Chart: Courtenay Brown/Axios Traders are betting that oil prices will remain elevated for longer than they anticipated just weeks ago, threatening to prolong the inflationary pressures that businesses and consumers have weathered for months\n\n[2] Federal Reserve Policymakers Signal Lingering Inflation Risks Following Weak Data - CNNBC (cnnbc.com)\n# Federal Reserve Policymakers Signal Lingering Inflation Risks Following Weak Data Federal Reserve Bank of Chicago President Austan Goolsbee warned that recent consumer and wholesale price figures remain discouraging, clouding the outlook for interest rate cuts and unsettling global financial markets.\n\n[3] Oil prices today: WTI, Brent, Saudi Arabia (cnbc.com)\n# Oil prices today: WTI, Brent, Saudi Arabia ... Oil prices today: WTI, Brent, Saudi Arabia # Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes Published Thu, Oct 22 2026 1:12 AM EDTUpdated Moments Ago Lee Ying Shan@in/ying-shan-lee@LeeYingshan Key Points * The U.S. and Israeli militaries have drawn up specific plans for renewed strikes on Iran after next month's midterm elections, The New York Times reported. * The U.S. has also ordered non-emergency government employees and their families to leave Saudi Arabia, as Houthi attacks against the country …\n\n[4] Inflation jumps to 3.7% as gas, diesel prices squeeze consumers (nbcnews.com)\nCategories including housing, clothing, and restaurant and takeout food all saw price increases ... Only three major categories saw price declines: groceries, medical care commodities and utility gas service\n\n[5] Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook (cnbc.com)\n# Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook Author: Reuters Published: 2026-10-22T05:27:46Z Source: cnbc.com Language: en\n\n[6] Americans are spending in the face of inflation and they are not happy about it | AP News (apnews.com)\nWASHINGTON (AP) — High gas prices are intensifying inflation and vacuuming up more of Americans’ dollars, yet consumers are still digging deep to spend, powering the economy, at least for now. ... A slew of economic data Thursday showed that inflation accelerated last month as more expensive oil and gas began to lift prices in other parts of the economy, including shipping and warehousing, before the increases reach most Americans. ... Wholesale food prices jumped, which could make groceries more expensive in the months ahead. ... At the same time, consumers also ramped up their spending, …\n\n[7] Inflation worsened last month to 3.7% as midterm elections ... (pbs.org)\nindex rose 3.7% in September compared with a year ago, the Labor Department said Wednesday, up from 3.4% in ... . On a monthly basis, costs jumped 0.6% from August to September, the biggest gain in five months, up from a 0.4% increase the previous month.\n\n[8] Fed sees AI boom adding to inflation headache, but others may pay for the medicine By Reuters (investing.com)\nCLEVELAND, Oct 19 (Reuters) - The artificial intelligence boom, increasingly acknowledged at the Federal Reserve as helping drive inflation, has left central bankers faced with cooling the rest of the economy to lower price pressures amplified by an industry of marquee names like Amazon, Apple and Anthropic considered immune to rate hikes. Fed officials know their blunt tool of raising ... The Fed meets October 27-28 and is expected to keep rates steady at 3.75%-4.00%. Fed officials say further hikes are likely needed and are now debating the pace and extent.\n\n[9] Inflation Overshot Expectations in September | Fifth Third Bank (53.com)\nHeadline CPI matched expectations for the month, accelerating to 0.6% from 0.4% on a 9.1% jump in gasoline prices ... The negative surprise was in core prices, which rose a faster-than-expected 0.3 ... a range of durable goods, nondurables, and\n\n[10] CNBC Daily Open: War worries meet AI anxiety (cnbc.com)\n# CNBC Daily Open: War worries meet AI anxiety Author: Anniek Bao Published: 2026-10-22T01:49:18Z Source: cnbc.com Language: en",
+  "hash": "4039b4b9637143f946ee08f9088bfdae70b817df0f8dfd2f6f453366cb9b6f04",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news October 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-22T05:42:39+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Reuters US Domestic News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3996047-reuters-us-domestic-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "fight are shaping the November 3 midterm elections, which will determine whether Republicans keep control of Congress or Democrats gain the power to challenge his administration. Republicans hold ... majorities in the House of Representatives and Senate."
+   },
+   {
+    "title": "Judge rules against DHS's policy of knocking on doors to track down possible noncitizen voters - CBS News",
+    "url": "https://www.cbsnews.com/news/judge-dhs-noncitizen-voters-ruling/",
+    "source": "cbsnews.com",
+    "published": "",
+    "excerpt": "A federal judge ruled late Wednesday that the U.S. Department of Homeland Security's practice of knocking on doors and asking people about their immigration status — and whether they have voted in recent elections — likely violates the Voting Rights Act. The ruling took aim at an operation that was documented by a CBS News investigation earlier Wednesday. Homeland Security Investigations has posted photos and videos of agents approaching homes in multiple states. The Trump administration says the practice is part of an effort to crack down on voting by noncitizens, but critics say it could intimidate legal voters. In her ruling, U.S. District Judge Araceli Martinez-Olguin ordered federal immigration authorities to stop carrying out \"elections-related field operations and field interviews\" in nine states, including California and New York, if the operations are likely to involve people who government officials \"know, suspect, or should reasonably know or suspect are U.S. citizens.\" Her order will remain in effect until polls close on Election Day. She stayed the ruling until 5 p.m. on Friday, which will give the government a chance to seek appeal. Martinez-Olguin sided with groups that sued over the noncitizen voting investigation surge, including the California Nurses Association and National Nurses United. She found the policy likely ran afoul of a section of the Voting Rights Act that makes it illegal to \"intimidate, threaten, or coerce\" those who assist people with voting or engage in voter mobilization efforts. \"Plaintiffs do not claim, nor does the Court find, that it is unlawful for federal officials to undertake investigations into unlawful voting in federal elections,\" the judge wrote. \"Rather, Plaintiffs seek to stop DHS from continuing to investigate U.S. citizens, who have a legal right to vote, in a way that intimidates and threatens the participation of CNA/NNU members from urging or aiding others to vote.\""
+   },
+   {
+    "title": "Trump administration seeks Supreme Court approval to build Big Bend wall | Courts News | Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall",
+    "source": "aljazeera.com",
+    "published": "",
+    "excerpt": "Published On 22 Oct 2026 22 Oct 2026 The Trump administration has asked the Supreme Court to allow it to resume plans to build a border wall through the Big Bend region of West Texas, as part of its anti-immigration policy to strengthen security on the border with Mexico. The Justice Department filed an emergency request on Wednesday asking the court to lift a federal judge’s injunction in a lower court that has halted construction while a lawsuit against the project, brought by an environmental group and other challengers, plays out. The Department of Homeland Security plans include vehicle barriers, patrol roads, lighting and detection technology in and around Big Bend National Park. Big Bend has about 805km (500 miles) of border, and, according to opponents of the project who have sued the administration, accounts for about 1 percent of migrant arrests."
+   },
+   {
+    "title": "CNBC Daily Open: War worries meet AI anxiety",
+    "url": "https://www.cnbc.com/2026/10/22/trump-iran-musk-tesla-spacex-merger-.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "- The U.S. and Israel have reportedly drawn up plans for renewed Iran strikes after the ... . 3 midterms. - Ukrainian drones damaged key Russian oil infrastructure this week, Kyiv and Moscow dropped out of Trump’s energy ceasefire. - Musk reportedly"
+   },
+   {
+    "title": "AP News in Brief at 12:04 a.m. EDT | wusa9.com",
+    "url": "https://www.wusa9.com/article/syndication/associatedpress/ap-news-in-brief-at-1204-am-edt/616-00e700da-26de-4113-aa63-7e41b5ffce4f",
+    "source": "wusa9.com",
+    "published": "",
+    "excerpt": "Many states deciding control of the Senate are seeing a big boost in early voting, AP analysis shows WASHINGTON (AP) — Voter turnout is soaring compared with the last midterm election in many of the states that are expected to decide control of the U.S. Senate, according to an Associated Press analysis of early voting two weeks before Election Day. In Texas, early voting is up 74% compared with 2022. In Kansas it’s more than doubled. Maine, North Carolina and Ohio also have seen increases of more than 30% in early in-person and mail voting compared with the same point in 2022. Democrats are trying to flip Republican-held Senate seats in each of those states. In most of them, Republicans are accounting for a smaller share of advance voters than they did four years ago. The AP’s data, which runs through Tuesday, gives a snapshot of potential voter enthusiasm — and where it might be lacking — after early voting has opened in most states during a midterm cycle that has shifted in often unpredictable ways. Dissatisfaction with President Donald Trump’s tariffs, the persistently high cost of living, and high gas and diesel prices caused by the Iran war have generated political blowback against Republicans in places the party didn’t anticipate having to defend this year. Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says Russia agreed Wednesday to resume three-way negotiations next month with Washington and Kyiv aimed at ending the war in Ukraine, a Kremlin official said, potentially setting up the first such talks since February. ... Trump administration asks Supreme Court to lift halt on Big Bend border wall WASHINGTON (AP) — The Trump administration asked the Supreme Court on Wednesday to let it resume building a border wall project through the Big Bend region of Texas. The government filed an emergency appeal asking the justices to lift a lower court decision halting construction. That ruling marked a setback to one of President Donald Trump's signature projects."
+   },
+   {
+    "title": "Politics & Policy - Axios",
+    "url": "https://www.axios.com/politics-policy/2026/10/22",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "# Politics & Policy - Axios Source: axios.com Language: en"
+   },
+   {
+    "title": "In New Mexico governor's race, Deb Haaland's historic bid ...",
+    "url": "https://www.clickondetroit.com/news/politics/2026/10/22/in-new-mexico-governors-race-deb-haalands-historic-bid-tests-democrats-political-hold/",
+    "source": "clickondetroit.com",
+    "published": "",
+    "excerpt": "ALBUQUERQUE, N.M. – If Deb Haaland wins New Mexico’s race for governor this year, she’ll make history as the first Native American woman to lead a state. But first she has to convince New Mexicans that they should keep Democrats in charge. The state persistently ranks near the bottom nationally on poverty, crime and public education, and disenchanted voters are pleading for change. A loss would be embarrassing for Democrats, who hold all the top state offices and have controlled the Legislature nearly continuously for almost a century. Haaland blames President Donald Trump for compounding the state's problems by cutting social programs that New Mexicans disproportionately rely on and increasing the cost of living by waging war against Iran. She proposes expanding existing tax credits and spending more on safety net programs to help families make ends meet. Haaland, a citizen of Laguna Pueblo in west-central New Mexico, once relied on government assistance as a single mother. She rose through the ranks, serving in Congress for two years before being tapped as President Joe Biden’s interior secretary."
+   },
+   {
+    "title": "Moore demands Question 3 opponents halt lookalike ad",
+    "url": "https://marylandmatters.org/2026/10/22/seeing-double-seeing-red-moore-demands-question-3-opponents-halt-lookalike-ad/",
+    "source": "marylandmatters.org",
+    "published": "",
+    "excerpt": "A new ad that urges residents to vote against a constitutional amendment that would loosen standards for congressional redistricting has drawn the attention of ... . The ad asks voters to oppose ballot Question 3 — which the governor supports"
+   },
+   {
+    "title": "Bay Area judge blocks Trump voter fraud operation in California, 8 other states",
+    "url": "https://www.sfchronicle.com/politics/article/california-voter-fraud-ruling-22488286.php",
+    "source": "sfchronicle.com",
+    "published": "",
+    "excerpt": "An Oakland federal judge ordered the Department of Homeland Security to stop interrogating people they have identified as potentially fraudulent voters using databases that have been proven unreliable and could ensnare U.S. citizens. The order by U.S. District Judge Araceli Martínez-Olguín on Wednesday blocks from “conducting elections-related field operations and field interviews in California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington, and Wisconsin.” It also blocks federal agents from conducting operations in those states based on certain records generated as part of a massive effort to generate lists of potential fraudulent voters. The ruling stems from a lawsuit arguing that DHS’s so-called Unlawful Voter Initiative — an operation launched amid the ongoing midterm election — included aggressive and illegal efforts like “deploying armed and often militarized agents to homes to interrogate residents about whether they are eligible to vote.” ... Martínez-Olguín wrote in Wednesday’s order that the plaintiffs “demonstrate that they are likely to succeed in their claim that Defendants have run afoul of the Voting Rights Act’s prohibition of intimidating voter assistance and mobilization.” The order is scheduled to stay in effect until the polls close on Election Day, Nov. 3."
+   },
+   {
+    "title": "US and Israel said to draft plans for resumed strikes on Iran ...",
+    "url": "https://www.timesofisrael.com/liveblog-october-22-2026/",
+    "source": "timesofisrael.com",
+    "published": "",
+    "excerpt": "something” will happen “very soon” in the conflict with the Islamic Republic. ... We are not negotiating with” Iran, Trump tells a reporter before boarding Air Force One at Joint Base Andrews. “Something one way or another will happen, fairly soon,” he"
+   }
+  ],
+  "text": "[1] Reuters US Domestic News Summary | International (devdiscourse.com)\nfight are shaping the November 3 midterm elections, which will determine whether Republicans keep control of Congress or Democrats gain the power to challenge his administration. Republicans hold ... majorities in the House of Representatives and Senate.\n\n[2] Judge rules against DHS's policy of knocking on doors to track down possible noncitizen voters - CBS News (cbsnews.com)\nA federal judge ruled late Wednesday that the U.S. Department of Homeland Security's practice of knocking on doors and asking people about their immigration status — and whether they have voted in recent elections — likely violates the Voting Rights Act. The ruling took aim at an operation that was documented by a CBS News investigation earlier Wednesday. Homeland Security Investigations has posted photos and videos of agents approaching homes in multiple states. The Trump administration says the practice is part of an effort to crack down on voting by noncitizens, but critics say it could …\n\n[3] Trump administration seeks Supreme Court approval to build Big Bend wall | Courts News | Al Jazeera (aljazeera.com)\nPublished On 22 Oct 2026 22 Oct 2026 The Trump administration has asked the Supreme Court to allow it to resume plans to build a border wall through the Big Bend region of West Texas, as part of its anti-immigration policy to strengthen security on the border with Mexico. The Justice Department filed an emergency request on Wednesday asking the court to lift a federal judge’s injunction in a lower court that has halted construction while a lawsuit against the project, brought by an environmental group and other challengers, plays out. The Department of Homeland Security plans include vehicle …\n\n[4] CNBC Daily Open: War worries meet AI anxiety (cnbc.com)\n- The U.S. and Israel have reportedly drawn up plans for renewed Iran strikes after the ... . 3 midterms. - Ukrainian drones damaged key Russian oil infrastructure this week, Kyiv and Moscow dropped out of Trump’s energy ceasefire. - Musk reportedly\n\n[5] AP News in Brief at 12:04 a.m. EDT | wusa9.com (wusa9.com)\nMany states deciding control of the Senate are seeing a big boost in early voting, AP analysis shows WASHINGTON (AP) — Voter turnout is soaring compared with the last midterm election in many of the states that are expected to decide control of the U.S. Senate, according to an Associated Press analysis of early voting two weeks before Election Day. In Texas, early voting is up 74% compared with 2022. In Kansas it’s more than doubled. Maine, North Carolina and Ohio also have seen increases of more than 30% in early in-person and mail voting compared with the same point in 2022. Democrats are …\n\n[6] Politics & Policy - Axios (axios.com)\n# Politics & Policy - Axios Source: axios.com Language: en\n\n[7] In New Mexico governor's race, Deb Haaland's historic bid ... (clickondetroit.com)\nALBUQUERQUE, N.M. – If Deb Haaland wins New Mexico’s race for governor this year, she’ll make history as the first Native American woman to lead a state. But first she has to convince New Mexicans that they should keep Democrats in charge. The state persistently ranks near the bottom nationally on poverty, crime and public education, and disenchanted voters are pleading for change. A loss would be embarrassing for Democrats, who hold all the top state offices and have controlled the Legislature nearly continuously for almost a century. Haaland blames President Donald Trump for compounding the …\n\n[8] Moore demands Question 3 opponents halt lookalike ad (marylandmatters.org)\nA new ad that urges residents to vote against a constitutional amendment that would loosen standards for congressional redistricting has drawn the attention of ... . The ad asks voters to oppose ballot Question 3 — which the governor supports\n\n[9] Bay Area judge blocks Trump voter fraud operation in California, 8 other states (sfchronicle.com)\nAn Oakland federal judge ordered the Department of Homeland Security to stop interrogating people they have identified as potentially fraudulent voters using databases that have been proven unreliable and could ensnare U.S. citizens. The order by U.S. District Judge Araceli Martínez-Olguín on Wednesday blocks from “conducting elections-related field operations and field interviews in California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington, and Wisconsin.” It also blocks federal agents from conducting operations in those states based on certain records generated …\n\n[10] US and Israel said to draft plans for resumed strikes on Iran ... (timesofisrael.com)\nsomething” will happen “very soon” in the conflict with the Islamic Republic. ... We are not negotiating with” Iran, Trump tells a reporter before boarding Air Force One at Joint Base Andrews. “Something one way or another will happen, fairly soon,” he",
+  "hash": "1ddf2fcfeb6e96fbbc0b723538d45c62e780c6c0c5bc33e4f683f8d75fbf6bf7",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities October 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-22T05:42:52+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Chris Pratt Confirms Star-Lord Will Return to the MCU",
+    "url": "https://variety.com/2026/film/news/chris-pratt-star-lord-mcu-1236919455/",
+    "source": "variety.com",
+    "published": "",
+    "excerpt": "Chris Pratt Confirms Star-Lord Will Return to the MCU ... # Chris Pratt Confirms Star-Lord Will Return to the MCU, Says ‘Hard Action’ Has Been Taken to Make It Happen ... Good news, “ Guardians of the Galaxy” fans. Chris Pratt, who has played superhero Star-Lord across six films, recently confirmed that his character will return to the MCU and that the studio has already taken “hard action” to make it happen. ... “I have a great relationship with Kevin [Feige] and Lou [D’Esposito], and there have been both ongoing conversations about how we make good on that promise and also hard action taken to make sure that we make good on that promise,” said Pratt on The Playlist’s “Bingeworthy” podcast while discussing Star-Lord’s comeback. He continued: “So yeah, you’ll see Star-Lord again, which is very exciting, but I’m not at liberty to say when that’s going to be, but he’s not going anywhere.” ... The news comes months after Pratt admitted he pitched Marvel an idea for bringing Star-Lord back into the MCU. “I’m happy to do anything they want me to do and will,” Pratt said about Marvel when on the “Happy Sad Confused” podcast. “And also, I personally have a really strong vision of what I would want him to do. And I think it’s fucking great.” ... The next installment in the MCU, “Avengers: Doomsday,” hits theaters on Dec. 18."
+   },
+   {
+    "title": "Entertainment Live Updates Today (October 22, 2026): Salman Khan Residence Under Heavy Security After Tiger Shroff Firing Incident | Rajinikanth Starrer Jailer 2 Crosses Rs 300 Crore Mark | Daler Mehndi Drunk Video Controversy New Update - Filmibeat",
+    "url": "https://www.filmibeat.com/bollywood/news/2026/entertainment-live-updates-october-22-salman-khan-residence-security-rajinikanth-jailer-2-300-crore-535519.html",
+    "source": "filmibeat.com",
+    "published": "",
+    "excerpt": "Entertainment Live Updates Today (October 22, 2026): Salman Khan Residence Under Heavy Security After Tiger Shroff Firing Incident | Rajinikanth Starrer Jailer 2 Crosses Rs 300 Crore Mark | Daler Mehndi Drunk Video Controversy New Update - Filmibeat ... # Entertainment Live Updates (Oct 22): Salman Khan’s Residence Under Heavy Security; Jailer 2 Crosses Rs 300 Cr ... Published: Thursday, October 22, 2026, 9:36 [IST] ... Entertainment News Live Updates Today: Thursday (October 22) brings fresh updates from the world of Bollywood, television and OTT, with several developments catching viewers' attention. From the latest film buzz and box office news to TV show twists and streaming updates, there's plenty for entertainment fans to follow. Among the stories making headlines is Jailer 2, featuring Rajinikanth and directed by Nelson Dilipkumar. The action-comedy has crossed the Rs 300 crore mark in the first week itself. Also, Bollywood superstar Salman Khan's Bandra residence is under heavy security. ... Here's a look at the latest entertainment news you need to know today, covering films, television and OTT. ... ## Jailer 2 Box Office Collection Day 7: Film Crosses Rs 300 Crore Mark ... Rajinikanth and Nelson Dilipkumar’s Jailer 2 has crossed the Rs 300 crore mark at the Indian box office within its first week. Released on October 15, the sequel has emerged as the highest-grossing Tamil film of 2026 so far, surpassing several major releases from the past two years. According to Sacnilk, the film collected Rs 28.15 crore net in India on Wednesday, taking its total domestic net collection to Rs 317.20 crore in seven days. Despite the festive season coming to an end, Jailer 2 recorded an overall occupancy of 33.7% across 14,438 shows. With its box office run continuing, the Rajinikanth-starrer is now moving closer to surpassing the lifetime domestic collection of its predecessor, Jailer (2023)."
+   },
+   {
+    "title": "October 2026 – Deadline",
+    "url": "https://deadline.com/2026/10/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "### ‘You Can See Everything’ Winning Wednesday With $2.3M; Can Elizabeth Holmes Melt ‘Clayface’ In U.S.? DC Villain Eyes $45M+ WW WEDNESDAY PM UPDATE: Nathan Fielder and Theranos founder Elizabeth Holmes are banking an estimated $2.3 million Wednesday (that’s real box office money by the way, not a false-positive blood test result) with A24’s three-hour documentary You Can See Everything winning the day. However, the…"
+   },
+   {
+    "title": "Pop Culture & Entertainment in October 2026: 546 stories | BBN",
+    "url": "https://bbn.live/pop-culture/archive/2026-10",
+    "source": "bbn.live",
+    "published": "",
+    "excerpt": "## Pop Culture on Wednesday, October 21, 2026 ... tribute Reported by E! News · with a Short 2. 5:51 AM ET WEIRD NEWS ### Taylor Swift eyes first Oscar for Toy Story 5 ballad after gala Reported by New York Post"
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3996154-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-22T05:00:05Z Source: devdiscourse.com Language: en"
+   },
+   {
+    "title": "Pop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News",
+    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "Pop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News ... ## A ‘Glee’ reboot is actually happening - Eric McCandless / Disney ... ## Tyler Cameron reveals he’s having a baby with fiancée during ‘DWTS’ dedication night routine - NBCU; WireImage via Getty ... ## Heath Ledger and James Avery honored by former co-stars on ‘Dancing with the Stars’ - Robyn Beck / AFP via Getty ... ### Val Chmerkovskiy gets one-week suspension on ‘Dancing with the Stars’ ... ## Richard Riehle, character actor best known for ‘Office Space,’ dies at 78 He racked up more than 400 film and television credits in a screen career spanning more than 40 years. ... ## Christina Applegate says she was misdiagnosed with multiple sclerosis ... ## After years of backlash, Apu returns to 'The Simpsons' with a South Asian voice ... ## Billy Joel says he doesn’t know if he can perform on stage again due to brain disorder ... ## ‘Godfather’ star Al Pacino to receive life achievement award from actors’ guild ... ## RJ Mitte’s mother urges parents to watch for warning signs after ‘Breaking Bad’ star’s death"
+   },
+   {
+    "title": "Telemundo Gears Up for Latin Music's Biggest Night: The 2026 Billboard Latin Music Awards to Air Live Thursday, October 22 - NBCUniversal Telemundo Enterprises Press Releases",
+    "url": "https://nbcuniversalnewsgroup.com/telemundo/2026/07/21/telemundo-gears-up-for-latin-musics-biggest-night-the-2026-billboard-latin-music-awards-to-air-live-thursday-october-22/",
+    "source": "nbcuniversalnewsgroup.com",
+    "published": "",
+    "excerpt": "Telemundo Gears Up for Latin Music's Biggest Night: The 2026 Billboard Latin Music Awards to Air Live Thursday, October 22 - NBCUniversal Telemundo Enterprises Press Releases ... # Telemundo Gears Up for Latin Music’s Biggest Night: The 2026 Billboard Latin Music Awards to Air Live Thursday, October 22 ... WHAT: Telemundo and Billboard announced the date for the 2026 Billboard Latin Music Awards, the longest-running and most prestigious awards show in Latin music. The live music special will bring fans together for an unforgettable celebration of Latin music’s biggest stars, honoring the year’s top artists, albums, and songs, while featuring exciting live performances from today’s top music talent. The Billboard Latin Music Awards is the only awards show to honor the most popular albums, songs, and performers in Latin music, as determined by the actual sales, streaming, radio airplay and social data that informs Billboard’s weekly charts during a one-year period. WHEN: Thursday, October 22 ... WHERE: The award show will take place at the James L. Knight Center in Miami, Florida, and will be available LIVE on Telemundo and Peacock. The awards will coincide with Billboard Latin Music Week, which returns to Miami October 19-22, celebrating Latin music, culture, and entertainment all week long with exclusive performances, one-of-a-kind conversations, workshops, showcases and exclusive fan experiences. Learn more about Billboard Latin Music Week at billboardlatinmusicweek.com."
+   },
+   {
+    "title": "Doja Cat - Tour Ma Vie World Tour at Kia Forum on Thu, Oct 22, 2026, 7:30 PM - Live Nation",
+    "url": "https://www.livenation.com/event/vv170ZbSGkIhFzEy/doja-cat-tour-ma-vie-world-tour",
+    "source": "livenation.com",
+    "published": "",
+    "excerpt": "## Lineup - Doja Cat - Latto Thu, Oct 22 ▪︎ 7:30 PM # Doja Cat - Tour Ma Vie World Tour Kia Forum Inglewood, CA"
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3996016-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-21T21:00:29Z Source: devdiscourse.com Language: en"
+   },
+   {
+    "title": "2026年10月22日の映画ニュース - 映画.com",
+    "url": "https://eiga.com/news/20261022/",
+    "source": "eiga.com",
+    "published": "",
+    "excerpt": "# 2026年10月22日の映画ニュース - 映画.com Source: eiga.com Language: ja"
+   }
+  ],
+  "text": "[1] Chris Pratt Confirms Star-Lord Will Return to the MCU (variety.com)\nChris Pratt Confirms Star-Lord Will Return to the MCU ... # Chris Pratt Confirms Star-Lord Will Return to the MCU, Says ‘Hard Action’ Has Been Taken to Make It Happen ... Good news, “ Guardians of the Galaxy” fans. Chris Pratt, who has played superhero Star-Lord across six films, recently confirmed that his character will return to the MCU and that the studio has already taken “hard action” to make it happen. ... “I have a great relationship with Kevin [Feige] and Lou [D’Esposito], and there have been both ongoing conversations about how we make good on that promise and also hard action taken …\n\n[2] Entertainment Live Updates Today (October 22, 2026): Salman Khan Residence Under Heavy Security After Tiger Shroff Firing Incident | Rajinikanth Starrer Jailer 2 Crosses Rs 300 Crore Mark | Daler Mehndi Drunk Video Controversy New Update - Filmibeat (filmibeat.com)\nEntertainment Live Updates Today (October 22, 2026): Salman Khan Residence Under Heavy Security After Tiger Shroff Firing Incident | Rajinikanth Starrer Jailer 2 Crosses Rs 300 Crore Mark | Daler Mehndi Drunk Video Controversy New Update - Filmibeat ... # Entertainment Live Updates (Oct 22): Salman Khan’s Residence Under Heavy Security; Jailer 2 Crosses Rs 300 Cr ... Published: Thursday, October 22, 2026, 9:36 [IST] ... Entertainment News Live Updates Today: Thursday (October 22) brings fresh updates from the world of Bollywood, television and OTT, with several developments catching viewers' …\n\n[3] October 2026 – Deadline (deadline.com)\n### ‘You Can See Everything’ Winning Wednesday With $2.3M; Can Elizabeth Holmes Melt ‘Clayface’ In U.S.? DC Villain Eyes $45M+ WW WEDNESDAY PM UPDATE: Nathan Fielder and Theranos founder Elizabeth Holmes are banking an estimated $2.3 million Wednesday (that’s real box office money by the way, not a false-positive blood test result) with A24’s three-hour documentary You Can See Everything winning the day. However, the…\n\n[4] Pop Culture & Entertainment in October 2026: 546 stories | BBN (bbn.live)\n## Pop Culture on Wednesday, October 21, 2026 ... tribute Reported by E! News · with a Short 2. 5:51 AM ET WEIRD NEWS ### Taylor Swift eyes first Oscar for Toy Story 5 ballad after gala Reported by New York Post\n\n[5] Reuters Entertainment News Summary | International (devdiscourse.com)\n# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-22T05:00:05Z Source: devdiscourse.com Language: en\n\n[6] Pop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News (nbcnews.com)\nPop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News ... ## A ‘Glee’ reboot is actually happening - Eric McCandless / Disney ... ## Tyler Cameron reveals he’s having a baby with fiancée during ‘DWTS’ dedication night routine - NBCU; WireImage via Getty ... ## Heath Ledger and James Avery honored by former co-stars on ‘Dancing with the Stars’ - Robyn Beck / AFP via Getty ... ### Val Chmerkovskiy gets one-week suspension on ‘Dancing with the Stars’ ... ## Richard Riehle, character actor best known for ‘Office Space,’ dies at 78 He racked up more than 400 film and television …\n\n[7] Telemundo Gears Up for Latin Music's Biggest Night: The 2026 Billboard Latin Music Awards to Air Live Thursday, October 22 - NBCUniversal Telemundo Enterprises Press Releases (nbcuniversalnewsgroup.com)\nTelemundo Gears Up for Latin Music's Biggest Night: The 2026 Billboard Latin Music Awards to Air Live Thursday, October 22 - NBCUniversal Telemundo Enterprises Press Releases ... # Telemundo Gears Up for Latin Music’s Biggest Night: The 2026 Billboard Latin Music Awards to Air Live Thursday, October 22 ... WHAT: Telemundo and Billboard announced the date for the 2026 Billboard Latin Music Awards, the longest-running and most prestigious awards show in Latin music. The live music special will bring fans together for an unforgettable celebration of Latin music’s biggest stars, honoring the …\n\n[8] Doja Cat - Tour Ma Vie World Tour at Kia Forum on Thu, Oct 22, 2026, 7:30 PM - Live Nation (livenation.com)\n## Lineup - Doja Cat - Latto Thu, Oct 22 ▪︎ 7:30 PM # Doja Cat - Tour Ma Vie World Tour Kia Forum Inglewood, CA\n\n[9] Reuters Entertainment News Summary | International (devdiscourse.com)\n# Reuters Entertainment News Summary | International Author: Reuters Published: 2026-10-21T21:00:29Z Source: devdiscourse.com Language: en\n\n[10] 2026年10月22日の映画ニュース - 映画.com (eiga.com)\n# 2026年10月22日の映画ニュース - 映画.com Source: eiga.com Language: ja",
+  "hash": "6f56b7fb15773d9e4ad7d75c2a47781ab963d3dc3f6e05de1e8ca018a04c9a54",
+  "notes": []
+ }
+}
