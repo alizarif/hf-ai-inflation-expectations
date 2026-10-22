@@ -43,6 +43,8 @@ jobs:
       MODE: ${{ inputs.mode || (github.event_name == 'push' && 'dry-run') || 'production' }}
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: main   # latest tip, not the trigger-time commit: a queued run must see a wave that finished meanwhile
 
       - name: Is this slot already done?
         id: gate
