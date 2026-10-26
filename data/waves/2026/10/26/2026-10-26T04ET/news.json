@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-10-26T09:51:24+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories October 26, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-26T09:51:24+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Morning news brief : NPR",
+    "url": "https://www.npr.org/2026/10/26/nx-s1-6012093/morning-news-brief",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": ", 2026 4:42 AM ET Heard on Morning Edition By Steve Inskeep ... Listen · 11:22 11:22 Republicans' gerrymandering efforts have led to expensive and competitive races, Brazil's President Lula elected for fourth term, protests sweep parts of Europe."
+   },
+   {
+    "title": "Morning Briefing: Oct. 26, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-26-2026/4100631",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "ISTANBUL (AA) - Here’s a rundown of all the news you need to start your Monday, including Brazilian President Lula da Silva securing a historic fourth-term victory in a presidential runoff election, Serbia’s former President Aleksandar Vucic conceding that his electoral list had lost in snap parliamentary elections, US President Donald Trump reaffirming his strong support for Israeli Prime Minister Benjamin Netanyahu, and Saudi Arabia reporting injuries and damage from debris after intercepting Houthi missiles. Brazilian President Luiz Inacio Lula da Silva was declared the winner of a presidential runoff by the Superior Electoral Court (TSE), securing a fourth nonconsecutive term after defeating Flavio Bolsonaro in a closely contested race. With nearly all polling stations tallied, the TSE reported that Lula had secured 51.76% of valid votes against Bolsonaro's 48.24%, a margin of more than 4 million votes. Meanwhile, Brazilian Senator Flavio Bolsonaro announced that his legal team will formally petition to annul the country’s presidential runoff election following his narrow defeat to incumbent President Luiz Inacio Lula da Silva. In the initial vote on Oct. 4, Bolsonaro finished ahead with 47.03% of valid votes compared with Lula's 45.16%, setting the stage for three weeks of intense campaigning across Latin America's largest country. - Serbia’s Vucic concedes election defeat as student-backed opposition leads parliamentary vote Serbia’s former President Aleksandar Vucic conceded defeat in snap parliamentary elections as preliminary projections showed a student-backed opposition list winning the most seats. Speaking at the headquarters of his Serbian Progressive Party (SNS) in Belgrade, Vucic conceded that his electoral list had lost, according to preliminary projections. “We don’t have the results yet. Many will be surprised, and you will realize how much some people have lied,” he said. ... - Bulgaria’s presidential election will proceed to a runoff as no candidate ticket secured more than 50% of the"
+   },
+   {
+    "title": "AP Top Stories October 26",
+    "url": "https://apnews.com/video/ap-top-stories-october-26-917a7813b8f846e3873647a5e916cb0b",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "28 The story behind Messi’s iconic photo with baby ... 1:10 Satellites show Earth lost more than 12 trillion tons of ice from Greenland, Antarctica in 47"
+   },
+   {
+    "title": "Daily World Briefing, Oct. 26-Xinhua",
+    "url": "https://english.news.cn/20261026/fd4a116fa78247a0b0a62e88f4e04c02/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "conceded defeat in Sunday's snap parliamentary election, as independent projections and leaders of a student-backed movement born out of ... corruption protests confirmed an outright parliamentary majority that ends the Serbian Progressive Party's (SNS)"
+   },
+   {
+    "title": "World news digest for October 26, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-10-26",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": ", warned that any new act of militarism would meet an 'unimaginable' response and said Tehran would not back down if attacked ... Abbas Araghchi said a potential resumption of war with Israel and the United States would not change Iran's"
+   },
+   {
+    "title": "10 Things Global News - 26th October 2026",
+    "url": "https://www.10things.news/p/10-things-global-news-26th-october",
+    "source": "10things.news",
+    "published": "",
+    "excerpt": "1. Lula Wins Brazil Vote As Bolsonaro Rejects Result (Politics) 2. Hebron Lockdown Widens Ahead Of Israeli Election (Middle East) 3. France Sees More Arrests As Protests Continue (Europe) 4. Le Pen Launches Campaign Amid French Unrest (Politics) 5. Serbia’s Student Movement Ends Vucic’s Rule (Politics) 6. France Expands Nuclear Deterrence Across Europe (Europe) 7. Riyadh Airport Reopens Amid Continued Houthi Attacks (Conflict) 8. Ukraine Faces Missile Shortage After Russian Barrage (Conflict) 9. US Considers Orban for UN Leadership (World) 10. Black Sea Shipping Becomes Deadliest in the World (Conflict) Brazilian President Luiz Inácio Lula da Silva won Sunday’s presidential runoff with 51.8% of the vote, securing a fourth non-consecutive term after overturning a first-round defeat. Electoral authorities confirmed a lead of nearly 4.4 million votes over Senator Flávio Bolsonaro, who refused to concede and called for the result to be annulled. ... More than 1,300 people were arrested during another weekend of protests across France as demonstrations over living costs and school conditions again ended in clashes. The Interior Ministry reported 1,314 arrests, 53 injured police officers, 75 fires and 24 looted shops. It estimated Saturday’s turnout at 410,000, while unions put participation at about 800,000. ... The continuing unrest comes six months before presidential elections to replace President Emmanuel Macron. Both the hard-right National Rally and radical-left La France Insoumise have blamed his government for the disorder. Protests over similar grievances have spread to other European cities. Marine Le Pen launched her campaign for France’s 2027 presidential election on Sunday, promising to restore law and order after weeks of protests and unrest. Addressing 8,500 supporters in Orléans, the far-right National Rally candidate accused President Emmanuel Macron’s government of lacking authority and pledged tougher immigration rules, stronger border controls and protection of French identity. ... Serbia’s leader Aleksandar Vucic conceded defeat in Sunday’s parliamentary election to a student-led movement that emerged from two years of protests against his government. Vucic said the Students’ List had won at least 135 seats in the 250-member parliament, against around 105 for his Serbian Progressive Party. Crowds celebrated in Belgrade following his concession. ... France is working with 10 European countries on a nuclear deterrence initiative designed to complicate Russia’s military calculations as doubts grow about US security guarantees. Announced in March by French President Emmanuel Macron, the plan envisages deployments of nuclear-capable Rafale aircraft alongside new communications, early-warning and intelligence sharing arrangements. Nuclear capable Dassault Rafale jet - Photo ... Saudi Arabia partially reopened Riyadh’s King Khalid International Airport despite Houthi threats and missile interceptions. Domestic flights resumed from Terminal 1 and international services by national carriers from Terminal 2, with little traffic reported. The airport had closed on 10 October after a Houthi attack killed 13 people and injured more than 300. ... The renewed fighting has shattered a truce that largely held since 2022. The airport attacks also challenge Crown Prince Mohammed bin Salman’s ambitions to make Saudi Arabia a global business and tourism hub, with a major investment summit postponed until 2027. Ukrainian President Volodymyr Zelenskyy has urged the release of agreed Patriot interceptor deliveries after Russian strikes killed four people and injured 22 in Dnipropetrovsk. Ukraine’s air force reported 153 drones overnight, with 119 intercepted or suppressed. Zelenskyy said Russia launched about 1,600 guided bombs, 48 missiles and nearly 2,300 attack drones over the past week. ... US officials are exploring former Hungarian prime minister Viktor Orban as the next United Nations secretary-general, believing Russia and China might support a joint candidacy. Officials reportedly approached Orban, who expressed interest but has not decided whether to run. A State Department official estimated he could secure eight to ten votes on the 15-member Security Council, although no countries have publicly committed support. ... The Black Sea has become the deadliest shipping region for merchant sailors this year as attacks linked to Russia’s war in Ukraine intensify. More than 570 vessels have been struck, killing at least 40 sailors, compared with 24 confirmed deaths around the Strait of Hormuz. Maritime security company Ambrey recorded 387 ships hit between July and September, more than five times the previous quarter. ... Russia was responsible for about 90 per cent of shipping strikes over the past 45 days, according to Ambrey, although both sides have attacked vessels. Ukraine’s Greater Odesa ports handled fewer than 10 ships last month, down from roughly 400 in July. War-risk insurance could reach 15 per cent of vessel value, nearly twice Gulf rates."
+   },
+   {
+    "title": "News on 26 October 2026 | Daily Digest",
+    "url": "https://dailydigest.com/archive/2026/10/26/",
+    "source": "dailydigest.com",
+    "published": "",
+    "excerpt": "### Governor reports two men killed in drone strike in Russia's Voronezh region 4 sources ... T The Times of India 04:56 ### Yasuo Fukuda, Japan's former prime minister, dies at the age of 90 6 sources"
+   },
+   {
+    "title": "World News, Monday, October 26, 2026: 14 stories | BBN",
+    "url": "https://bbn.live/world/archive/2026-10-26",
+    "source": "bbn.live",
+    "published": "",
+    "excerpt": "### Saudi Arabia to store oil in Singapore to bolster Asia supply security Saudi Aramco is set to sign a memorandum with Singapore's Energy Market Authority and JTC Corp within months; the oil goes into a very deep storage unit."
+   },
+   {
+    "title": "Kyodo News Digest: Oct. 26, 2026",
+    "url": "https://english.kyodonews.net/articles/-/89394",
+    "source": "english.kyodonews.net",
+    "published": "",
+    "excerpt": "TOKYO - Former Japanese Prime Minister Yasuo Fukuda, known for ... and China but who struggled to manage affairs in a divided Diet during his one-year stint through September ... , has died, the ruling Liberal Democratic Party said Monday. He was 90."
+   },
+   {
+    "title": "Trends of October 26, 2026 | Newsylist",
+    "url": "https://www.newsylist.com/archive/2026-10-26",
+    "source": "newsylist.com",
+    "published": "",
+    "excerpt": "### Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates 10 sources 13 articles v ... ### Jaxon Smith-Njigba, stifling defense help Seahawks hand Chiefs first loss"
+   }
+  ],
+  "text": "[1] Morning news brief : NPR (npr.org)\n, 2026 4:42 AM ET Heard on Morning Edition By Steve Inskeep ... Listen · 11:22 11:22 Republicans' gerrymandering efforts have led to expensive and competitive races, Brazil's President Lula elected for fourth term, protests sweep parts of Europe.\n\n[2] Morning Briefing: Oct. 26, 2026 (aa.com.tr)\nISTANBUL (AA) - Here’s a rundown of all the news you need to start your Monday, including Brazilian President Lula da Silva securing a historic fourth-term victory in a presidential runoff election, Serbia’s former President Aleksandar Vucic conceding that his electoral list had lost in snap parliamentary elections, US President Donald Trump reaffirming his strong support for Israeli Prime Minister Benjamin Netanyahu, and Saudi Arabia reporting injuries and damage from debris after intercepting Houthi missiles. Brazilian President Luiz Inacio Lula da Silva was declared the winner of a …\n\n[3] AP Top Stories October 26 (apnews.com)\n28 The story behind Messi’s iconic photo with baby ... 1:10 Satellites show Earth lost more than 12 trillion tons of ice from Greenland, Antarctica in 47\n\n[4] Daily World Briefing, Oct. 26-Xinhua (english.news.cn)\nconceded defeat in Sunday's snap parliamentary election, as independent projections and leaders of a student-backed movement born out of ... corruption protests confirmed an outright parliamentary majority that ends the Serbian Progressive Party's (SNS)\n\n[5] World news digest for October 26, 2026 | World Watch (worldwatch.media)\n, warned that any new act of militarism would meet an 'unimaginable' response and said Tehran would not back down if attacked ... Abbas Araghchi said a potential resumption of war with Israel and the United States would not change Iran's\n\n[6] 10 Things Global News - 26th October 2026 (10things.news)\n1. Lula Wins Brazil Vote As Bolsonaro Rejects Result (Politics) 2. Hebron Lockdown Widens Ahead Of Israeli Election (Middle East) 3. France Sees More Arrests As Protests Continue (Europe) 4. Le Pen Launches Campaign Amid French Unrest (Politics) 5. Serbia’s Student Movement Ends Vucic’s Rule (Politics) 6. France Expands Nuclear Deterrence Across Europe (Europe) 7. Riyadh Airport Reopens Amid Continued Houthi Attacks (Conflict) 8. Ukraine Faces Missile Shortage After Russian Barrage (Conflict) 9. US Considers Orban for UN Leadership (World) 10. Black Sea Shipping Becomes Deadliest in the World …\n\n[7] News on 26 October 2026 | Daily Digest (dailydigest.com)\n### Governor reports two men killed in drone strike in Russia's Voronezh region 4 sources ... T The Times of India 04:56 ### Yasuo Fukuda, Japan's former prime minister, dies at the age of 90 6 sources\n\n[8] World News, Monday, October 26, 2026: 14 stories | BBN (bbn.live)\n### Saudi Arabia to store oil in Singapore to bolster Asia supply security Saudi Aramco is set to sign a memorandum with Singapore's Energy Market Authority and JTC Corp within months; the oil goes into a very deep storage unit.\n\n[9] Kyodo News Digest: Oct. 26, 2026 (english.kyodonews.net)\nTOKYO - Former Japanese Prime Minister Yasuo Fukuda, known for ... and China but who struggled to manage affairs in a divided Diet during his one-year stint through September ... , has died, the ruling Liberal Democratic Party said Monday. He was 90.\n\n[10] Trends of October 26, 2026 | Newsylist (newsylist.com)\n### Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates 10 sources 13 articles v ... ### Jaxon Smith-Njigba, stifling defense help Seahawks hand Chiefs first loss",
+  "hash": "ba173791da20f552ac98e5b266823612011308c043df1f76631091286f6fa480",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news October 26, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-26T09:51:34+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "U.S. Treasury yields: investors look ahead to the Fed's rate decision",
+    "url": "https://www.cnbc.com/2026/10/26/us-treasury-yields-investors-feds-interest-rate-decision-.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "U.S. Treasury yields inched lower Monday as investors look ahead to the central bank's interest rate decision and await a flurry of economic data this week. The benchmark 10-year Treasury Add To Watchlist yield was down less than 1 basis point to 4.98%, and the 30-year Treasury Add To Watchlist bond yield declined 1 basis point to 5.302%. The 2-year Treasury Add To Watchlist note yield was barely changed at 4.6752%. One basis point is equal to 0.01%, and yields and prices move in opposite directions. ... Investors are keenly anticipating the main event of the week, which will be the Federal Reserve's interest rate decision on Wednesday. Traders are pricing in an over 90% chance that policymakers will hold interest rates steady at the current target range of 3.75% to 4%, per the CME FedWatch Tool. Deutsche Bank analysts said they expect there to be more interest in Chairman Kevin Warsh's comments following the decision, with focus on how the Fed \"balances still-elevated inflation and solid growth against the recent tightening in financial conditions.\" \"The broader message is still likely to be hawkish: our economists think recent inflation data support the case for further tightening over time, even if the Fed chooses to pause this week,\" the analysts said in a Monday note. They added that Warsh is expected to clarify that tight financial conditions are not a substitute for higher policy rates. ... Investors will also closely monitor the personal consumption expenditures index, the Fed's preferred inflation gauge, which will be released on Thursday. ... Other economic data to be published this week includes the weekly ADP Employment Change and durable goods Orders for September on Tuesday; weekly initial jobless claims on Thursday; and further employment data on Friday."
+   },
+   {
+    "title": "Economic Week Ahead: Fed Decision, US Inflation and Big Tech Earnings in Focus | Investing.com",
+    "url": "https://www.investing.com/analysis/economic-week-ahead-fed-decision-us-inflation-and-big-tech-earnings-in-focus-200690212",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Economic Week Ahead: Fed Decision, US Inflation and Big Tech Earnings in Focus | Investing ... The FOMC meeting (Wed) is the focus this week, alongside the release of Q3 GDP and September’s PCED inflation report (Thu). San Francisco Fed President Mary Daly and St. Louis Fed President Alberto Musalem speak on Friday. A heavy week of Q3 earnings reports rounds out a packed calendar. Here’s more: ... The FOMC’s two-day meeting concludes Wednesday, followed by Fed Chair Kevin Warsh’s press conference. The CME FedWatch Tool puts the odds of a hike this week at 9% and the odds of one in December at 84%. Federal funds futures imply 2.7 rate hikes over the next 12 months and 1.4 over the next six (chart). We believe the committee should hike on Wednesday but won’t because the midterm elections are so close. ... The first estimate of Q3 GDP (Thu) follows Q2’s third estimate of 2.2% saar, with the GDP price index up 6.1%. The Atlanta Fed’s GDPNow model estimates Q3 growth at 3.5% as of October 20, led by a 17.8% jump in business equipment spending (chart). ... September’s core PCED (Thu) follows August’s 3.0% y/y. That was well below September’s 4.6% pace of core PPI final demand for personal consumption and above the core CPI’s 2.6% (chart). The Cleveland Fed’s Inflation Nowcasting model projects September’s core and headline PCED at 3.1% and 3.6% y/y, up from August’s 3.0% and 3.4%. (The model’s m/m rates are 0.28% and 0.47%.) CPI computer software and accessories rose 28.4% y/y in September and PPI electronic components 26.8%, while PCED computers and peripheral equipment rose just 8.4% in August. September’s PCED will show whether that gap starts to close."
+   },
+   {
+    "title": "US business activity cools in October; strong demand fueling price pressures By Reuters",
+    "url": "https://www.investing.com/news/economy-news/us-business-activity-cools-in-october-strong-demand-fueling-price-pressures-4969791",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Oct 23 (Reuters) - US business activity slowed modestly in October, though robust demand allowed companies to raise prices for goods and services, a sign that inflation could increase further and remain persistently high in the coming months. S&P Global said on Friday its flash US Composite PMI Output Index, which tracks the manufacturing and services sectors, slipped to 57.6 this month from a five-year high reading of 58.4 in September. A reading above 50 indicates expansion in the private sector. Strength in manufacturing was offset by a slight pullback in the vast services sector. The PMI suggested the economy started the fourth quarter on solid footing following what is expected to have been a strong performance in the July-September quarter. Economists expect the government’s advance gross domestic product report next week to show the economy growing at around a 3.0% annualized rate last quarter, mainly driven by consumer spending and business investment in AI. ... The economy has so far not shown any signs of buckling under the weight of the oil price shock stemming from the US-Israeli war with Iran, with savings, generous tax returns in the spring, tariff refunds, a strong stock market performance and corporate profits providing a cushion. Economists warned that the inflation fallout from the drawn-out Middle East conflict was likely to slow consumer spending this quarter. ... Its gauge of prices for output rose to 59.8, the highest reading since August 2022, from 58.4 in September. Businesses across manufacturing and services sectors raised prices. Delivery performance by suppliers to manufacturers deteriorated further. The survey’s measure of suppliers’ delivery times dropped to a more than four-year low of 38.1 from 40.9 in September. ... \"Cost pressures remain a key concern,\" said Chris Williamson, chief business economist at S&P Global Market Intelligence. \"Supply chain bottlenecks have meanwhile intensified, and order book backlogs are growing, making it easier for companies to pass higher costs on to customers.\" ... Consumer and producer prices increased strongly in September, the government reported this month, raising concerns that inflation was fanning out across the economy. The Federal Reserve in September raised its overnight benchmark interest rate by 25 basis points to the 3.75%-4.00% range."
+   },
+   {
+    "title": "Americans expect higher inflation, days before the Fed decides | How the World Works",
+    "url": "https://howtheworldworks.news/news/us-inflation-expectations-five-month-high",
+    "source": "howtheworldworks.news",
+    "published": "",
+    "excerpt": "American households expect prices to rise 4.7% over the next 12 months, up from 4.6% in September. Asked about the next five to ten years, they expect inflation of 3.5% a year, up from 3.4%. Both are the highest readings since May, and both rose for a second month in a row. The University of Michigan published the final October results of its monthly consumer survey on 23 October."
+   },
+   {
+    "title": "Fed Flies Blind: No October Inflation Data for Key Interest Rate Meeting (2026)",
+    "url": "https://kravi.org/article/fed-flies-blind-no-october-inflation-data-for-key-interest-rate-meeting",
+    "source": "kravi.org",
+    "published": "",
+    "excerpt": "inflation reports track how prices for everyday goods like groceries and gas are changing, helping the Fed gauge if the economy is heating up or cooling down. Instead of a separate October update, the agency plans to weave in partial consumer price data '"
+   },
+   {
+    "title": "Inflation jumps to 3.7% as gas, diesel prices squeeze consumers",
+    "url": "https://www.nbcnews.com/business/economy/inflation-jumped-september-gas-diesel-prices-squeezed-consumers-ahead-rcna603202",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "rose 3.7% from a year ago and 0.6% from August. Categories including housing, clothing, and restaurant and takeout food all saw price increases. Only three major categories saw price declines: groceries, medical care commodities and utility gas service."
+   },
+   {
+    "title": "Economist breaks down new inflation report and what's driving prices higher | PBS News",
+    "url": "https://www.pbs.org/newshour/show/economist-breaks-down-new-inflation-report-and-whats-driving-prices-higher",
+    "source": "pbs.org",
+    "published": "",
+    "excerpt": "Prices climbed 3.7 percent over the past year and by more than half-a-percent in just the last month. It's the largest monthly increase in five months. The price increase was driven by gasoline, up 9 percent in September."
+   },
+   {
+    "title": "Food Price Outlook - Summary Findings",
+    "url": "http://www.ers.usda.gov/data-products/food-price-outlook/summary-findings",
+    "source": "ers.usda.gov",
+    "published": "",
+    "excerpt": "Price Index (CPI), a measure of economy-wide inflation, was unchanged from June 2026 to July 2026. It was up ... The CPI for all food increased 0.1 percent from June 2026 to July 2026. Food prices in July 2026 were 3.0 percent higher than in July 2025."
+   },
+   {
+    "title": "US inflation rose slightly last month after 2 years of steady cooling but remained low",
+    "url": "https://www.wbrz.com/videos/us-inflation-rose-slightly-last-month-after-2-years-of-steady-cooling-but-remained-low/",
+    "source": "wbrz.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — Inflation in the United States ticked up in October, driven by costlier rents, used cars and air fares, a sign that price increases might be leveling off after having slowed in September to their lowest pace since 2021. ... Consumer prices rose 2.6% from a year earlier, the Labor Department said Wednesday, up from 2.4% in September. It was the first rise in annual inflation in seven months. From September to October, prices edged up 0.2%, the same as the previous month. Excluding volatile food and energy costs, “core” prices rose 3.3% from a year earlier, the same as in September. From September to October, core prices rose 0.3% for a third straight month. Over the long run, core inflation at that pace would exceed the Fed’s 2% target. ... An uptick in prices, if sustained, could stir concerns in financial markets that progress in taming inflation may be slowing. It might also make the Federal Reserve less inclined to cut its key interest rate in the coming months, as its officials have previously indicated they likely would. ... At a news conference last week, Fed Chair Jerome Powell expressed confidence that inflation is still heading down to the central bank’s 2% target, though perhaps slowly and unevenly. Powell ... A survey released Tuesday by the Federal Reserve Bank of New York found that consumers expect prices to rise just 2.9% in the next 12 months, which would be the lowest such measure in nearly four years. Lower inflation expectations are important because when consumers expect milder price increases, they’re less likely to act in ways that raise inflation, such as accelerating their purchases or demanding higher pay to offset higher prices. ... Another potential source of relief for Americans’ budgets is in apartment rents. They are now barely rising on average nationwide, according to the real estate brokerage Redfin. Its measure of median rent was just 0.2% higher than it was a year ago in October, at $1,619, though that figure reflects rents only for new leases."
+   },
+   {
+    "title": "Schedule of Selected Releases for October 2026",
+    "url": "https://blsmon1.bls.gov/schedule/2026/10_sched.htm",
+    "source": "blsmon1.bls.gov",
+    "published": "",
+    "excerpt": "28 | 29 | 30 | 1 | 2 Employment Situation September ... Holiday | 13 | 14 Consumer Price Index September ... 08:30 AM Real Earnings September 2026 ... :30 AM | 15 Producer Price Index September 2026 08:30 AM | 16 U.S. Import and Export Price"
+   }
+  ],
+  "text": "[1] U.S. Treasury yields: investors look ahead to the Fed's rate decision (cnbc.com)\nU.S. Treasury yields inched lower Monday as investors look ahead to the central bank's interest rate decision and await a flurry of economic data this week. The benchmark 10-year Treasury Add To Watchlist yield was down less than 1 basis point to 4.98%, and the 30-year Treasury Add To Watchlist bond yield declined 1 basis point to 5.302%. The 2-year Treasury Add To Watchlist note yield was barely changed at 4.6752%. One basis point is equal to 0.01%, and yields and prices move in opposite directions. ... Investors are keenly anticipating the main event of the week, which will be the Federal …\n\n[2] Economic Week Ahead: Fed Decision, US Inflation and Big Tech Earnings in Focus | Investing.com (investing.com)\nEconomic Week Ahead: Fed Decision, US Inflation and Big Tech Earnings in Focus | Investing ... The FOMC meeting (Wed) is the focus this week, alongside the release of Q3 GDP and September’s PCED inflation report (Thu). San Francisco Fed President Mary Daly and St. Louis Fed President Alberto Musalem speak on Friday. A heavy week of Q3 earnings reports rounds out a packed calendar. Here’s more: ... The FOMC’s two-day meeting concludes Wednesday, followed by Fed Chair Kevin Warsh’s press conference. The CME FedWatch Tool puts the odds of a hike this week at 9% and the odds of one in December at …\n\n[3] US business activity cools in October; strong demand fueling price pressures By Reuters (investing.com)\nWASHINGTON, Oct 23 (Reuters) - US business activity slowed modestly in October, though robust demand allowed companies to raise prices for goods and services, a sign that inflation could increase further and remain persistently high in the coming months. S&P Global said on Friday its flash US Composite PMI Output Index, which tracks the manufacturing and services sectors, slipped to 57.6 this month from a five-year high reading of 58.4 in September. A reading above 50 indicates expansion in the private sector. Strength in manufacturing was offset by a slight pullback in the vast services …\n\n[4] Americans expect higher inflation, days before the Fed decides | How the World Works (howtheworldworks.news)\nAmerican households expect prices to rise 4.7% over the next 12 months, up from 4.6% in September. Asked about the next five to ten years, they expect inflation of 3.5% a year, up from 3.4%. Both are the highest readings since May, and both rose for a second month in a row. The University of Michigan published the final October results of its monthly consumer survey on 23 October.\n\n[5] Fed Flies Blind: No October Inflation Data for Key Interest Rate Meeting (2026) (kravi.org)\ninflation reports track how prices for everyday goods like groceries and gas are changing, helping the Fed gauge if the economy is heating up or cooling down. Instead of a separate October update, the agency plans to weave in partial consumer price data '\n\n[6] Inflation jumps to 3.7% as gas, diesel prices squeeze consumers (nbcnews.com)\nrose 3.7% from a year ago and 0.6% from August. Categories including housing, clothing, and restaurant and takeout food all saw price increases. Only three major categories saw price declines: groceries, medical care commodities and utility gas service.\n\n[7] Economist breaks down new inflation report and what's driving prices higher | PBS News (pbs.org)\nPrices climbed 3.7 percent over the past year and by more than half-a-percent in just the last month. It's the largest monthly increase in five months. The price increase was driven by gasoline, up 9 percent in September.\n\n[8] Food Price Outlook - Summary Findings (ers.usda.gov)\nPrice Index (CPI), a measure of economy-wide inflation, was unchanged from June 2026 to July 2026. It was up ... The CPI for all food increased 0.1 percent from June 2026 to July 2026. Food prices in July 2026 were 3.0 percent higher than in July 2025.\n\n[9] US inflation rose slightly last month after 2 years of steady cooling but remained low (wbrz.com)\nWASHINGTON (AP) — Inflation in the United States ticked up in October, driven by costlier rents, used cars and air fares, a sign that price increases might be leveling off after having slowed in September to their lowest pace since 2021. ... Consumer prices rose 2.6% from a year earlier, the Labor Department said Wednesday, up from 2.4% in September. It was the first rise in annual inflation in seven months. From September to October, prices edged up 0.2%, the same as the previous month. Excluding volatile food and energy costs, “core” prices rose 3.3% from a year earlier, the same as in …\n\n[10] Schedule of Selected Releases for October 2026 (blsmon1.bls.gov)\n28 | 29 | 30 | 1 | 2 Employment Situation September ... Holiday | 13 | 14 Consumer Price Index September ... 08:30 AM Real Earnings September 2026 ... :30 AM | 15 Producer Price Index September 2026 08:30 AM | 16 U.S. Import and Export Price",
+  "hash": "8e72fe0ad5676dd22c5ac59c670292ee3cfdd34d87c48ae9d7259fdf361d1de5",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news October 26, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-26T09:51:46+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Politics & Policy - Axios",
+    "url": "https://www.axios.com/politics-policy/2026/10/26",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "deals a setback to Brazil's right-wing populist movement and preserves a major counterweight to President Trump's influence in Latin America, with tensions over trade and tariffs threatening to persist"
+   },
+   {
+    "title": "Morning news brief : NPR",
+    "url": "https://www.npr.org/2026/10/26/nx-s1-6012093/morning-news-brief",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "26, 2026 4:42 AM ET Heard on Morning Edition By Steve ... Listen · 11:22 11:22 Republicans' gerrymandering efforts have led to expensive and competitive races, Brazil's President Lula elected for fourth term, protests sweep parts of Europe."
+   },
+   {
+    "title": "Trump administration faces record vacancies in Senate-confirmed posts - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/10/26/trump-administration-has-more-vacancies-than-any-decades/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "By Katherine Doyle The Trump administration has a historically large number of vacancies in Senate-confirmed positions, even as Republicans face the prospect of losing control of the chamber in the midterm elections, prompting frustration among current and former officials who say the White House personnel office has not kept pace. Unfilled Senate-confirmed positions have reached their highest number since President Ronald Reagan was in office, according to an analysis by the Partnership for Public Service, a government watchdog that tracks presidential appointments, threatening to stall President Donald Trump’s agenda."
+   },
+   {
+    "title": "Catching Our Eye News Roundup, Oct. 26, 2026",
+    "url": "https://ohiocapitaljournal.com/2026/10/26/catching-our-eye-news-roundup-oct-26-2026/",
+    "source": "ohiocapitaljournal.com",
+    "published": "",
+    "excerpt": "A mysterious group that has spent at least $2 million boosting a little-known socialist candidate in Ohio’s highly competitive Senate race is being funded by Republicans, according to a new campaign finance filing."
+   },
+   {
+    "title": "AP News Summary at 2:57 a.m. EDT | National | guardonline.com",
+    "url": "https://www.guardonline.com/news/national/ap-news-summary-at-2-57-a-m-edt/article_826d4ba0-50bb-5792-a220-fe86ba6d8625.html",
+    "source": "guardonline.com",
+    "published": "",
+    "excerpt": "following a chaotic delay in poll closing times ordered by a Supreme Court justice. Both Bolsonaro and Lula asked that polls remain open ... . Bolsonaro called the move to extend voting hours unprecedented and asked for the election results to be annulled"
+   },
+   {
+    "title": "Trump's Election Attacks Enter New Pre-emptive Phase",
+    "url": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
+    "source": "nytimes.com",
+    "published": "",
+    "excerpt": "Rather than simply push false claims at his rallies or target voters his administration claims should not be on the rolls, Mr. Trump moved to pre-emptively challenge the certification of Alaska’s Senate election if the Republican candidate narrowly loses."
+   },
+   {
+    "title": "AP News in Brief at 12:04 a.m. EDT | 10tv.com",
+    "url": "https://www.10tv.com/article/syndication/associatedpress/ap-news-in-brief-at-1204-am-edt/616-2993359e-8665-48fb-9854-3f9dc573306e",
+    "source": "10tv.com",
+    "published": "",
+    "excerpt": "Lula is declared winner of Brazil's election as Bolsonaro rejects results RIO DE JANEIRO (AP) — Brazil’s President Luiz Inácio Lula da Silva, a vocal critic of U.S. President Donald Trump, was reelected Sunday in a result that provides relief to critics of widening U.S. influence in Latin America. With 100% of the vote counted, Brazil’s electoral court announced that the soon to be 81-year-old Lula had a lead of nearly 4.4 million votes over opponent Flávio Bolsonaro, giving him 51.8% of the total vote. Bolsonaro quickly refused to concede defeat and asked for the election results to be annulled after an evening of chaos at some polling places that followed a last-minute decision to extend voting by two hours. Bolsonaro is the son of former President Jair Bolsonaro, whom Lula defeated to take the presidency in 2022. Lula's triumph bucks a regional trend of victories for right-of-center presidential candidates allied with Trump. It also means Latin America’s largest economy, with a GDP of $2.6 trillion per year, will likely continue defying Trump’s demands, despite the pressure of increased tariffs. ... Blanche says Trump isn't trying to meddle with Alaska election results by suing over Senate race WASHINGTON (AP) — Attorney General Todd Blanche on Sunday defended the Trump administration's lawsuit to block certification of Alaska's Senate results if Republican incumbent Dan Sullivan loses the race and argued that the legal challenge was a necessary step to avoid confusing voters in the closely watched midterm race. President Donald Trump, who said Friday that he was \"the one that said do it,” is not trying to overturn"
+   },
+   {
+    "title": "Trump says Canada trade deal coming 'soon'",
+    "url": "https://www.afp.com/en/trump-says-canada-trade-deal-coming-soon",
+    "source": "afp.com",
+    "published": "",
+    "excerpt": "A trade agreement between the United States and Canada would be reached \"pretty soon,\" President Donald Trump told a campaign rally on Sunday, nine days ahead of crucial US midterm elections. Tensions between the North American neighbors have been high since trade talks broke down in August, with Trump imposing a slew of new tariffs in response. \"We'll have that settled pretty soon. They're willing to give us anything at this moment,\" the president said of an agreement during the rally in Port Huron, a Michigan town on the US-Canada border hit hard by his tariff war. Trump once again defended his levies on Canada and accused it of \"ripping off the United States for years.\" The tariffs enforced after the August talks broke down impacted around US$20 billion worth of goods, ranging from hockey sticks to cement. In response, Canada imposed tolls on an equivalent amount of American products, leading Trump to retaliate with another round of levies of as much as 50 percent on certain goods. The White House removed some of them on Friday, in response to a request from Senator Susan Collins who represents the border state of Maine, which has been disproportionately impacted by the trade war. Democrats are targeting Collins's seat in their attempt to win control of the Senate from the Republicans in next Tuesday's midterms. Since the start of his second term, Trump has upended the global trade order by imposing wide-ranging tariffs on friend and foe, saying they had been taking advantage of the United States. He has also explicitly tied some threatened tariffs to political or foreign policy objectives."
+   },
+   {
+    "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed",
+    "source": "aljazeera.com",
+    "published": "",
+    "excerpt": "With the US midterms just over a week away US President Donald Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed. El-Sayed’s race against Republican Mike Rogers could help determine control of the US Senate."
+   },
+   {
+    "title": "Minnesota candidates try to avoid the cloud of outside ...",
+    "url": "https://www.mprnews.org/story/2026/10/26/dfl-gop-candidates-look-to-distance-themselves-from-divisive-figures-like-trump-walz",
+    "source": "mprnews.org",
+    "published": "",
+    "excerpt": "In Minnesota, several races are being colored by people not on the ballot. Republicans are trying to move out of President Donald Trump ... the-road Democrats are recoiling as further left candidates bring in divisive figures like internet streamer Hasan"
+   }
+  ],
+  "text": "[1] Politics & Policy - Axios (axios.com)\ndeals a setback to Brazil's right-wing populist movement and preserves a major counterweight to President Trump's influence in Latin America, with tensions over trade and tariffs threatening to persist\n\n[2] Morning news brief : NPR (npr.org)\n26, 2026 4:42 AM ET Heard on Morning Edition By Steve ... Listen · 11:22 11:22 Republicans' gerrymandering efforts have led to expensive and competitive races, Brazil's President Lula elected for fourth term, protests sweep parts of Europe.\n\n[3] Trump administration faces record vacancies in Senate-confirmed posts - The Washington Post (washingtonpost.com)\nBy Katherine Doyle The Trump administration has a historically large number of vacancies in Senate-confirmed positions, even as Republicans face the prospect of losing control of the chamber in the midterm elections, prompting frustration among current and former officials who say the White House personnel office has not kept pace. Unfilled Senate-confirmed positions have reached their highest number since President Ronald Reagan was in office, according to an analysis by the Partnership for Public Service, a government watchdog that tracks presidential appointments, threatening to stall …\n\n[4] Catching Our Eye News Roundup, Oct. 26, 2026 (ohiocapitaljournal.com)\nA mysterious group that has spent at least $2 million boosting a little-known socialist candidate in Ohio’s highly competitive Senate race is being funded by Republicans, according to a new campaign finance filing.\n\n[5] AP News Summary at 2:57 a.m. EDT | National | guardonline.com (guardonline.com)\nfollowing a chaotic delay in poll closing times ordered by a Supreme Court justice. Both Bolsonaro and Lula asked that polls remain open ... . Bolsonaro called the move to extend voting hours unprecedented and asked for the election results to be annulled\n\n[6] Trump's Election Attacks Enter New Pre-emptive Phase (nytimes.com)\nRather than simply push false claims at his rallies or target voters his administration claims should not be on the rolls, Mr. Trump moved to pre-emptively challenge the certification of Alaska’s Senate election if the Republican candidate narrowly loses.\n\n[7] AP News in Brief at 12:04 a.m. EDT | 10tv.com (10tv.com)\nLula is declared winner of Brazil's election as Bolsonaro rejects results RIO DE JANEIRO (AP) — Brazil’s President Luiz Inácio Lula da Silva, a vocal critic of U.S. President Donald Trump, was reelected Sunday in a result that provides relief to critics of widening U.S. influence in Latin America. With 100% of the vote counted, Brazil’s electoral court announced that the soon to be 81-year-old Lula had a lead of nearly 4.4 million votes over opponent Flávio Bolsonaro, giving him 51.8% of the total vote. Bolsonaro quickly refused to concede defeat and asked for the election results to be …\n\n[8] Trump says Canada trade deal coming 'soon' (afp.com)\nA trade agreement between the United States and Canada would be reached \"pretty soon,\" President Donald Trump told a campaign rally on Sunday, nine days ahead of crucial US midterm elections. Tensions between the North American neighbors have been high since trade talks broke down in August, with Trump imposing a slew of new tariffs in response. \"We'll have that settled pretty soon. They're willing to give us anything at this moment,\" the president said of an agreement during the rally in Port Huron, a Michigan town on the US-Canada border hit hard by his tariff war. Trump once again defended …\n\n[9] Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed (aljazeera.com)\nWith the US midterms just over a week away US President Donald Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed. El-Sayed’s race against Republican Mike Rogers could help determine control of the US Senate.\n\n[10] Minnesota candidates try to avoid the cloud of outside ... (mprnews.org)\nIn Minnesota, several races are being colored by people not on the ballot. Republicans are trying to move out of President Donald Trump ... the-road Democrats are recoiling as further left candidates bring in divisive figures like internet streamer Hasan",
+  "hash": "3750771456a20c0c51e7e4e67a6ccc35173dd579ef0a0d46052beda4d3ca0b99",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities October 26, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-26T09:51:55+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Pop Culture & Entertainment in October 2026: 358 stories | BBN",
+    "url": "https://bbn.live/pop-culture/archive/2026-10",
+    "source": "bbn.live",
+    "published": "",
+    "excerpt": "### Netflix lays off 6% of workforce amidst slowing growth Reported by NPR 2. 3:50 AM ET BREAKING: MILDLY IMPORTANT ### Weird Al to screen cult film UHF with a live orchestra Reported by Los Angeles Downtown News · with a Short 3. 2:54 AM ET"
+   },
+   {
+    "title": "Streaming in October: 'Minions & Monsters,' Matthew Perry and 'The Mob' | AP News",
+    "url": "https://apnews.com/article/october-2026-streaming-releases-movies-tv-music-386a371d5be49be209b4253b52881454",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "A docuseries about Matthew Perry and the latest “Minions” movie are some of the new television, films, music and games headed to a device near you. Also among the streaming offerings worth your time this week, as selected by The Associated Press’ entertainment journalists: Daddy Yankee’s new album, the fourth season of “The Gilded Age” and the video game “Phantom Blade Zero.” ... ## New music to stream from Oct. 26-Nov. 1 ... — Back in 2022, the reggaeton icon Daddy Yankee announced his retirement. It was short-lived. Songs — written and released after revealing he had converted to Christianity — followed. And on Friday, he"
+   },
+   {
+    "title": "October 2026 – Rolling Stone",
+    "url": "https://www.rollingstone.com/2026/10/",
+    "source": "rollingstone.com",
+    "published": "",
+    "excerpt": "### Elon Musk's Grok Finally Delivers First Installment of 'Historically Accurate' 'The Odyssey' X boss shares first seven minutes of response to Christopher Nolan's box office-dominating, critically acclaimed epic"
+   },
+   {
+    "title": "October 2026 – Deadline",
+    "url": "https://deadline.com/2026/10/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "‘Wentworth: Halfway Home’: Grace Chow & Nadine Garner Among 9 Joining Cast; Watch Trailer EXCLUSIVE: Nine more cast have joined Binge drama Wentworth: Halfway ... Chow, Nadine Garner (High Country: What Lies Beneath), Elaine Crombie (Invisible"
+   },
+   {
+    "title": "AP Entertainment SummaryBrief at 12:12 a.m. EDT | Entertainment | wvnews.com",
+    "url": "https://www.wvnews.com/newsfeed/entertainment/ap-entertainment-summarybrief-at-12-12-a-m-edt/article_9b757c13-5627-5a3a-8dc8-7bbc86b92269.html",
+    "source": "wvnews.com",
+    "published": "",
+    "excerpt": "NEW YORK (AP) — DC Studios scored a modest, R-rated win with “Clayface,” landing a $24 million opening weekend, according to studio estimates Sunday. But the biggest success story in theaters remained A24’s Elizabeth Holmes documentary “You Can See Everything,” which pulled in $19.5 million in its first weekend of wide release. The Nathan Fielder, Lance Oppenheim-directed “You Can See Everything” increased from 855 locations to 2,655. In expansion, it continued to blow away expectations. With $45.1 million in two weeks, it already ranks among the highest grossing documentaries ever. Ticket sales were also good for the stop motion animation “Wildwood” and the comic fable “Wicker.” But “Ali G: Who Iz I?” was a nonevent in cinemas. NEW YORK (AP) — The iconic musical \"Rent\" is celebrating its 30th anniversary with a special benefit performance. Original cast members, including Idina Menzel and Anthony Rapp, are returning to the stage Monday. The event will be livestreamed, with proceeds going to Broadway Cares/Equity Fights AIDS. \"Rent,\" inspired by Puccini’s “La Boheme,” explores themes of poverty, drug use, and AIDS in New York's East Village. It won multiple Tony Awards and a Pulitzer Prize. Rapp says the show has inspired many modern musicals and continues to resonate with audiences. Jonathan Larson, the creator, died in 1996 before seeing its success. NEW YORK (AP) — Harry Styles' residency at Madison Square Garden has drawn tens of thousands of fans eager for an exclusive experience. His run is the latest in a trend. Residencies are growing among pop stars, with artists like Bad Bunny, Usher and Carín León embracing the style of performance. Residency pioneer Celine Dion has also returned to the format. Industry insiders say residencies offer benefits like reduced travel stress and elaborate stage productions. However, some fans argue that costs are shifted to them, with high ticket prices and travel expenses to see the shows. While residencies provide artists a break from touring, experts emphasize the importance of traditional tours to reach fans who can't travel. ... Eleanor Coppola shot 80 hours of behind-the-scenes footage during the making of “Marie Antoinette” in 2005. Her daughter, Sofia Coppola, directed the film. During COVID lockdowns, she revisited the footage and saw the potential to make a feature documentary. Although Eleanor passed away in April 2024, Sofia finished the project. “Making Marie Antoinette” is now playing in select theaters. It will be streaming on Mubi on Nov. 6. The film offers an intimate look at filmmaking and highlights Eleanor's artistic vision. Sofia hopes it showcases her mother's talent and dedication to capturing real moments. NEW YORK (AP) — An Emmy-winning actor known for roles in “Top Gun” and “Picket Fences,” Tom Skerritt has died at 93. His family said in a statement he died Wednesday of natural causes. Skerritt won an Emmy for “Picket Fences” in 1993 and was known for roles in “Turning Point,” “Steel Magnolias,” and “Contact.” He was once described as a character actor in a leading man’s body. Skerritt also performed onstage, including in “Our Town” and “A Time to Kill.” His family highlighted his passion for storytelling and helping others. ... LOS ANGELES (AP) — Jay-Z once called John Legend “our voice,” but Pharrell Williams had a different idea for Legend's baritone. On his new album, “Muse,” Legend dials back his powerhouse vocals, opting for a more conversational delivery at Williams’ urging. The album, out Friday, marks Legend’s first full collaboration with Williams after more than 20 years of friendship. Recorded mostly at Williams’ studio in Paris, it grew from Legend’s appearance on Clipse’s “The Birds Don’t Sing.” In an interview, Legend discussed Williams’ influence, Jay-Z’s compliment and composing his first original stage score for a new musical."
+   },
+   {
+    "title": "Entertainment Lives News Updates Today India (October 26): Subodh Uniyal Apologizes To Daler Mehndi; Virat Kohli-Anushka Sharma Attend Krishna Das Concert In Mumbai | Daler Mehndi Drunk Concert Controversy | Entertainment News Live Updates Bollywood, South, OTT, TV | Virat Kohli Anushka Sharma New Video - Filmibeat",
+    "url": "https://www.filmibeat.com/bollywood/news/2026/entertainment-lives-news-oct-26-subodh-uniyal-apologizes-to-daler-mehndi-virat-anushka-kirtan-535895.html",
+    "source": "filmibeat.com",
+    "published": "",
+    "excerpt": "To kick things off, Uttarakhand minister Subodh Uniyal has finally issued an apology to Daler Mehndi, days after an incident at the singer's concert sparked controversy. Uniyal had walked onto the stage and interrupted Mehndi's performance, alleging that the singer was under the influence of alcohol. Virat Kohli and Anushka Sharma, our beloved 'Virushka', made a rare public appearance on Sunday. The couple was spotted attending Krishna Das' live kirtan event in Mumbai. ## Ahaan"
+   },
+   {
+    "title": "AP Entertainment SummaryBrief at 4:10 a.m. EDT | Features | rutlandherald.com",
+    "url": "https://www.rutlandherald.com/features/ap-entertainment/ap-entertainment-summarybrief-at-4-10-a-m-edt/article_0194ff99-8666-5279-9ac3-54e778791b23.html",
+    "source": "rutlandherald.com",
+    "published": "",
+    "excerpt": "NEW YORK (AP) — DC Studios scored a modest, R-rated win with “Clayface,” landing a $24 million opening weekend, according to studio estimates Sunday. But the biggest success story in theaters remained A24’s Elizabeth"
+   },
+   {
+    "title": "2026年10月26日の映画ニュース - 映画.com",
+    "url": "https://eiga.com/news/20261026/",
+    "source": "eiga.com",
+    "published": "",
+    "excerpt": "## 2026年10月26日の映画ニュース ## 「死して生きるSSS級ハンター」増田俊樹、潘めぐみら出演 ED主題歌はTHE SPELLBOUND × BOOM BOOM SATELLITES 2026年10月26日 18:00 ## Netflix、映画部門の統括者も退任 2026年10月26日 17:00 ... ## 映画「タコピーの原罪」新ビジュアル、新規カット収録の本予告公開 主題歌はTeleが担当 2026年10月26日 15:00"
+   },
+   {
+    "title": "Pop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News",
+    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "## John Anderson, country artist known for ‘Seminole Wind,’ dies at 71 In a music career spanning nearly 50 years, the “Swingin’” singer released more than 20 studio albums and earned three Grammy nominations."
+   },
+   {
+    "title": "Entertainment News | Showbiz News | Celebrity Gossip News",
+    "url": "https://www.newsnow.co.uk/h/Entertainment+&+Arts",
+    "source": "newsnow.co.uk",
+    "published": "",
+    "excerpt": "Emmy-winning voice actor for Bugs Bunny and Daffy Duck dies 'suddenly' at 46 Daily Star 08:07 Looney Tunes Film Stars Celeb News Looney Tunes star Erica Bauza dies suddenly aged 46 Metro.co.uk 08:22 Looney Tunes Film Stars Celeb News"
+   }
+  ],
+  "text": "[1] Pop Culture & Entertainment in October 2026: 358 stories | BBN (bbn.live)\n### Netflix lays off 6% of workforce amidst slowing growth Reported by NPR 2. 3:50 AM ET BREAKING: MILDLY IMPORTANT ### Weird Al to screen cult film UHF with a live orchestra Reported by Los Angeles Downtown News · with a Short 3. 2:54 AM ET\n\n[2] Streaming in October: 'Minions & Monsters,' Matthew Perry and 'The Mob' | AP News (apnews.com)\nA docuseries about Matthew Perry and the latest “Minions” movie are some of the new television, films, music and games headed to a device near you. Also among the streaming offerings worth your time this week, as selected by The Associated Press’ entertainment journalists: Daddy Yankee’s new album, the fourth season of “The Gilded Age” and the video game “Phantom Blade Zero.” ... ## New music to stream from Oct. 26-Nov. 1 ... — Back in 2022, the reggaeton icon Daddy Yankee announced his retirement. It was short-lived. Songs — written and released after revealing he had converted to …\n\n[3] October 2026 – Rolling Stone (rollingstone.com)\n### Elon Musk's Grok Finally Delivers First Installment of 'Historically Accurate' 'The Odyssey' X boss shares first seven minutes of response to Christopher Nolan's box office-dominating, critically acclaimed epic\n\n[4] October 2026 – Deadline (deadline.com)\n‘Wentworth: Halfway Home’: Grace Chow & Nadine Garner Among 9 Joining Cast; Watch Trailer EXCLUSIVE: Nine more cast have joined Binge drama Wentworth: Halfway ... Chow, Nadine Garner (High Country: What Lies Beneath), Elaine Crombie (Invisible\n\n[5] AP Entertainment SummaryBrief at 12:12 a.m. EDT | Entertainment | wvnews.com (wvnews.com)\nNEW YORK (AP) — DC Studios scored a modest, R-rated win with “Clayface,” landing a $24 million opening weekend, according to studio estimates Sunday. But the biggest success story in theaters remained A24’s Elizabeth Holmes documentary “You Can See Everything,” which pulled in $19.5 million in its first weekend of wide release. The Nathan Fielder, Lance Oppenheim-directed “You Can See Everything” increased from 855 locations to 2,655. In expansion, it continued to blow away expectations. With $45.1 million in two weeks, it already ranks among the highest grossing documentaries ever. Ticket …\n\n[6] Entertainment Lives News Updates Today India (October 26): Subodh Uniyal Apologizes To Daler Mehndi; Virat Kohli-Anushka Sharma Attend Krishna Das Concert In Mumbai | Daler Mehndi Drunk Concert Controversy | Entertainment News Live Updates Bollywood, South, OTT, TV | Virat Kohli Anushka Sharma New Video - Filmibeat (filmibeat.com)\nTo kick things off, Uttarakhand minister Subodh Uniyal has finally issued an apology to Daler Mehndi, days after an incident at the singer's concert sparked controversy. Uniyal had walked onto the stage and interrupted Mehndi's performance, alleging that the singer was under the influence of alcohol. Virat Kohli and Anushka Sharma, our beloved 'Virushka', made a rare public appearance on Sunday. The couple was spotted attending Krishna Das' live kirtan event in Mumbai. ## Ahaan\n\n[7] AP Entertainment SummaryBrief at 4:10 a.m. EDT | Features | rutlandherald.com (rutlandherald.com)\nNEW YORK (AP) — DC Studios scored a modest, R-rated win with “Clayface,” landing a $24 million opening weekend, according to studio estimates Sunday. But the biggest success story in theaters remained A24’s Elizabeth\n\n[8] 2026年10月26日の映画ニュース - 映画.com (eiga.com)\n## 2026年10月26日の映画ニュース ## 「死して生きるSSS級ハンター」増田俊樹、潘めぐみら出演 ED主題歌はTHE SPELLBOUND × BOOM BOOM SATELLITES 2026年10月26日 18:00 ## Netflix、映画部門の統括者も退任 2026年10月26日 17:00 ... ## 映画「タコピーの原罪」新ビジュアル、新規カット収録の本予告公開 主題歌はTeleが担当 2026年10月26日 15:00\n\n[9] Pop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News (nbcnews.com)\n## John Anderson, country artist known for ‘Seminole Wind,’ dies at 71 In a music career spanning nearly 50 years, the “Swingin’” singer released more than 20 studio albums and earned three Grammy nominations.\n\n[10] Entertainment News | Showbiz News | Celebrity Gossip News (newsnow.co.uk)\nEmmy-winning voice actor for Bugs Bunny and Daffy Duck dies 'suddenly' at 46 Daily Star 08:07 Looney Tunes Film Stars Celeb News Looney Tunes star Erica Bauza dies suddenly aged 46 Metro.co.uk 08:22 Looney Tunes Film Stars Celeb News",
+  "hash": "2d70050102f1813e5e6899e6d2abf0e48fa25608f00276116e105165fef142d1",
+  "notes": []
+ }
+}
