@@ -1,0 +1,76 @@
+{
+ "wave_id": "2026-10-28T12ET",
+ "mode": "production",
+ "slot_et": "2026-10-28T12:00:00-04:00",
+ "slot_utc": "2026-10-28T16:00:00+00:00",
+ "started_utc": "2026-10-28T19:23:05+00:00",
+ "finished_utc": "2026-10-28T19:31:44+00:00",
+ "lateness_minutes": 203.1,
+ "design_hash": "71332ee5914e527b",
+ "design_version": "2026-10-18-v2",
+ "models": [
+  "openai/gpt-6-luna",
+  "openai/gpt-4o-mini",
+  "deepseek/deepseek-v4.1-flash-1017",
+  "qwen/qwen3.8-flash",
+  "meta-llama/llama-4-scout",
+  "google/gemini-3.5-flash-lite",
+  "anthropic/claude-haiku-5.5"
+ ],
+ "personas": [
+  "generic",
+  "household",
+  "firm",
+  "forecaster"
+ ],
+ "arms_run": [
+  "none",
+  "general",
+  "economy",
+  "politics",
+  "entertainment"
+ ],
+ "arms_dropped": [],
+ "trials": 3,
+ "n_trials": 420,
+ "status_counts": {
+  "ok": 419,
+  "partial": 1
+ },
+ "n_rescaled": 36,
+ "news": {
+  "none": {
+   "provider": null,
+   "n_items": 0,
+   "hash": "e3b0c44298fc1c14",
+   "notes": []
+  },
+  "general": {
+   "provider": "openrouter_exa",
+   "n_items": 10,
+   "hash": "ad99487bca81f1e3",
+   "notes": []
+  },
+  "economy": {
+   "provider": "openrouter_exa",
+   "n_items": 10,
+   "hash": "b2c6daf7c723d897",
+   "notes": []
+  },
+  "politics": {
+   "provider": "openrouter_exa",
+   "n_items": 10,
+   "hash": "e0676389d35689ea",
+   "notes": []
+  },
+  "entertainment": {
+   "provider": "openrouter_exa",
+   "n_items": 10,
+   "hash": "072b144c2e5c62ce",
+   "notes": []
+  }
+ },
+ "cost_usd": 0.4181,
+ "budget_cap_usd": 5.0,
+ "github_run": "40753714105"
+}
