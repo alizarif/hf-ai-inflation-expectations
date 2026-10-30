@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-10-30T20:29:51+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories October 30, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-30T20:29:51+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "The News Roundup For October 30, 2026 : 1A : NPR",
+    "url": "https://www.npr.org/2026/10/30/nx-s1-6023370/the-news-roundup-for-october-30-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "The president is swinging big as seats in traditionally red states seem to be up for grabs. One high-quality poll this week, The New York Times/Siena poll. showed the race in South Carolina between appointed Republican Sen. Darline Graham, the late Lindsey Graham’s sister, tied with her Democratic opponent, Dr. Annie Andrews. The Federal Reserve held interest rates steady at its October meeting. However, two members of the Federal Open Market Committee dissented, and were in favor of raising rates by a quarter of a percent to try to bring down inflation. And, in global news, on Sunday night, 81-year old incumbent Brazilian President Luiz Inácio Lula da Silva defied the polls — and historical precedent — by convincing more than 51 percent of Brazil’s electorate to vote for him and deliver an unprecedented fourth term. His opponent, Flávio Bolsonaro, fled the country following his loss amid an ongoing corruption investigation. All the ballots from Tuesday’s Israeli election have been counted, and there’s still no clear winning coalition. On Thursday, Israel’s Central Election Committee said Benjamin Netanyahu’s bloc holds 53 seats in the 120-member Knesset, while opposition parties have 67. And Vice President J.D. Vance reportedly sent a letter to a senior Iranian official in Tehran aimed at reviving peace talks to end the Iran war. But when Donald Trump was asked if he directed Vance to revive peace talks, he claimed the letter was about medical supplies."
+   },
+   {
+    "title": "Netanyahu’s bloc loses parliamentary majority, Justice Department subpoenas California officials | AP News",
+    "url": "https://apnews.com/newsletter/morning-wire/october-30-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "## Difficult negotiations lie ahead in Israel after Netanyahu’s bloc loses its parliamentary majority The results released early Friday showed Prime Minister Benjamin Netanyahu’s bloc won 53 seats in Tuesday’s elections. The main opposition bloc won 48. Arab-led parties secured the other 19, a historic showing. Now parties must seek a way to team up for at least 61 seats in the 120-seat Knesset. Read more. What to know: - Netanyahu, Israel’s longest serving prime minister, remains in charge. In the hours before final results were announced, Netanyahu and his Likud party amplified unsubstantiated allegations that Arab-led parties had “stolen” the election,"
+   },
+   {
+    "title": "Morning Briefing: Oct. 30, 2026",
+    "url": "https://aa.com.tr/en/world/morning-briefing-oct-30-2026/4105611",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "Israeli Prime Minister Benjamin Netanyahu’s bloc securing ... seats following completion of vote counting in parliamentary elections, Saudi-led coalition in Yemen intercepting and destroying Houthi drone launched toward Saudi Arabia's Mecca region"
+   },
+   {
+    "title": "News 30 October 2026 - Archive Euronews",
+    "url": "https://www.euronews.com/2026/10/30",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "15:29 - Economy Germany, France, Italy and Spain: Where was inflation highest in October? Inflation rose in Italy and France, held in Spain and fell in Germany in October ... economies and will the European Central Bank hike again in December? 15:19"
+   },
+   {
+    "title": "Morning Edition for October 30, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5972584/morning-edition-for-october-30-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Candidates make final appeals to voters ahead of Election Day by Saige Miller, A Martínez #### Candidates make final appeals to voters ahead of Election Day Listen · 3:30 3 ... 30 ### How campaigns are spending the last weekend before Election"
+   },
+   {
+    "title": "The Christian Science Monitor Daily for October 30, 2026",
+    "url": "https://www.csmonitor.com/Daily/2026/20261030",
+    "source": "csmonitor.com",
+    "published": "",
+    "excerpt": "product increased at an annual rate of 3.4% according to a report released on Thursday by the U.S. Bureau of Economic Analysis. That’s the fastest pace this year, and ahead of analysts’ expectations of 3.1%. The increase was largely driven by"
+   },
+   {
+    "title": "Reuters World News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3999616-reuters-world-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Oleshky aid mission and ‌evacuations begin as local Russia-Ukraine truce holds Starving residents of a Russian-held town in southern Ukraine began evacuating on Friday as part of a joint relief operation by the opposing sides, the first of its kind in four years and eight months of war. Under a local ceasefire brokered by US first lady Melania Trump, an aid convoy arrived in the town of Oleshky and people were given the opportunity to leave."
+   },
+   {
+    "title": "Headlines for October 30, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/10/30/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "With just days to go before historic midterm elections, the Trump administration has issued grand jury subpoenas to local election officials in California, seeking unredacted voter records as part of a criminal investigation into the state’s voter rolls."
+   },
+   {
+    "title": "Iran says 3 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
+    "url": "https://apnews.com/article/mideast-news-october-30-2026-7f7f34ceb62f294a450e48ace0bd56e0",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "## Iran says supertanker struck mine and caught fire in the Strait of Hormuz Iran’s Revolutionary Guard said Friday that a supertanker carrying more than 2 million barrels of oil struck a naval mine, exploded and caught fire while using an unauthorized route in the Strait of Hormuz, Iranian state media reported. The Guard said it was the third oil tanker to explode Friday after attempting to use unauthorized routes through the strait. Iran has repeatedly warned vessels against passing through the strait without Tehran’s permission. It has claimed responsibility for attacks on ships and said last month that vessels attempting"
+   },
+   {
+    "title": "Video. Latest news bulletin | October 30th, 2026 – Morning | Euronews",
+    "url": "https://www.euronews.com/video/2026/10/30/latest-news-bulletin-october-30th-2026-morning",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "## The new time lord: Wei Koh on his first year as GPHG jury president ... ## EU and Canada to seal broader, deeper alliance in Trump's long shadow ... ## Largest bank heist in history: Binance hack rocks crypto industry"
+   }
+  ],
+  "text": "[1] The News Roundup For October 30, 2026 : 1A : NPR (npr.org)\nThe president is swinging big as seats in traditionally red states seem to be up for grabs. One high-quality poll this week, The New York Times/Siena poll. showed the race in South Carolina between appointed Republican Sen. Darline Graham, the late Lindsey Graham’s sister, tied with her Democratic opponent, Dr. Annie Andrews. The Federal Reserve held interest rates steady at its October meeting. However, two members of the Federal Open Market Committee dissented, and were in favor of raising rates by a quarter of a percent to try to bring down inflation. And, in global news, on Sunday night, …\n\n[2] Netanyahu’s bloc loses parliamentary majority, Justice Department subpoenas California officials | AP News (apnews.com)\n## Difficult negotiations lie ahead in Israel after Netanyahu’s bloc loses its parliamentary majority The results released early Friday showed Prime Minister Benjamin Netanyahu’s bloc won 53 seats in Tuesday’s elections. The main opposition bloc won 48. Arab-led parties secured the other 19, a historic showing. Now parties must seek a way to team up for at least 61 seats in the 120-seat Knesset. Read more. What to know: - Netanyahu, Israel’s longest serving prime minister, remains in charge. In the hours before final results were announced, Netanyahu and his Likud party amplified …\n\n[3] Morning Briefing: Oct. 30, 2026 (aa.com.tr)\nIsraeli Prime Minister Benjamin Netanyahu’s bloc securing ... seats following completion of vote counting in parliamentary elections, Saudi-led coalition in Yemen intercepting and destroying Houthi drone launched toward Saudi Arabia's Mecca region\n\n[4] News 30 October 2026 - Archive Euronews (euronews.com)\n15:29 - Economy Germany, France, Italy and Spain: Where was inflation highest in October? Inflation rose in Italy and France, held in Spain and fell in Germany in October ... economies and will the European Central Bank hike again in December? 15:19\n\n[5] Morning Edition for October 30, 2026 : NPR (npr.org)\n### Candidates make final appeals to voters ahead of Election Day by Saige Miller, A Martínez #### Candidates make final appeals to voters ahead of Election Day Listen · 3:30 3 ... 30 ### How campaigns are spending the last weekend before Election\n\n[6] The Christian Science Monitor Daily for October 30, 2026 (csmonitor.com)\nproduct increased at an annual rate of 3.4% according to a report released on Thursday by the U.S. Bureau of Economic Analysis. That’s the fastest pace this year, and ahead of analysts’ expectations of 3.1%. The increase was largely driven by\n\n[7] Reuters World News Summary | International (devdiscourse.com)\nOleshky aid mission and ‌evacuations begin as local Russia-Ukraine truce holds Starving residents of a Russian-held town in southern Ukraine began evacuating on Friday as part of a joint relief operation by the opposing sides, the first of its kind in four years and eight months of war. Under a local ceasefire brokered by US first lady Melania Trump, an aid convoy arrived in the town of Oleshky and people were given the opportunity to leave.\n\n[8] Headlines for October 30, 2026 | Democracy Now! (democracynow.org)\nWith just days to go before historic midterm elections, the Trump administration has issued grand jury subpoenas to local election officials in California, seeking unredacted voter records as part of a criminal investigation into the state’s voter rolls.\n\n[9] Iran says 3 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news (apnews.com)\n## Iran says supertanker struck mine and caught fire in the Strait of Hormuz Iran’s Revolutionary Guard said Friday that a supertanker carrying more than 2 million barrels of oil struck a naval mine, exploded and caught fire while using an unauthorized route in the Strait of Hormuz, Iranian state media reported. The Guard said it was the third oil tanker to explode Friday after attempting to use unauthorized routes through the strait. Iran has repeatedly warned vessels against passing through the strait without Tehran’s permission. It has claimed responsibility for attacks on ships and said …\n\n[10] Video. Latest news bulletin | October 30th, 2026 – Morning | Euronews (euronews.com)\n## The new time lord: Wei Koh on his first year as GPHG jury president ... ## EU and Canada to seal broader, deeper alliance in Trump's long shadow ... ## Largest bank heist in history: Binance hack rocks crypto industry",
+  "hash": "20fc4cdee0af1f996ee4f087e9572ff707bd43bb6d2d9dccffb9f3464be2e4ae",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news October 30, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-30T20:30:05+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Inflation accelerated again last month with rising costs a central theme in US elections | AP News",
+    "url": "https://apnews.com/article/consumer-prices-inflation-gasoline-energy-trump-c32cfa8b85ae53ceb7b1cc557d3b7400",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "economic growth was notably strong from July to September, yet inflation accelerated at the same time, new data showed Thursday, painting a mixed picture about the country’s economy less than a week before midterm elections in which the uncomfortably high cost of living looms larger than perhaps any other issue. ... The economy grew at a strong 3.4% annual rate in the July-September quarter, the Commerce Department said Thursday, much faster than the 2.2% growth in the April-June quarter. Consumer spending climbed 3.8% at an annual rate, marking the second straight quarter of strong growth and far exceeding the 0.7% increase"
+   },
+   {
+    "title": "What to know about the US economy as midterm elections near - ABC News",
+    "url": "https://abcnews.com/Business/us-economy-midterm-elections/story?id=137478975",
+    "source": "abcnews.com",
+    "published": "",
+    "excerpt": "Prices rose at an annual rate of 3.7% in September, the most recent month on record, federal government data showed. Inflation runs more than a percentage point higher than the Federal Reserve's target rate of 2%."
+   },
+   {
+    "title": "New economic data challenges Fed chief’s not-too-hot perspective By Reuters",
+    "url": "https://www.investing.com/news/economy-news/new-economic-data-challenges-fed-chiefs-nottoohot-perspective-4986500",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Oct 30 (Reuters) - New data may challenge Federal Reserve Chairman Kevin Warsh’s sense that the US economy can handle a robust expansion without stoking inflation, as a key measure of price pressures jumped and strong consumer spending and business investment pushed growth further beyond the level most central bank officials see as sustainable. ... The jump in third-quarter gross domestic product, announced on Thursday by the US Commerce Department, however, was even faster than anticipated, with output growing at a 3.4% annualized rate in the July-September period, consumer spending rising by a robust 3.8%, and investment in business equipment up a massive 20.9%. The pace may not continue. Consumer spending, for example, grew faster than income in the recent GDP report, a situation some economists said was unlikely to last, and Warsh said on Wednesday that a recent tightening in credit markets showed investors had become \"more discerning in ... But the data in hand still show an economy that so far has not slowed despite the outlook for tighter monetary policy, with strong demand now coinciding with broad-based inflation. Different measures of inflation’s breadth show anywhere from roughly 50% to nearly 60% of the items in the Personal Consumption Expenditures Price Index, the gauge the Fed uses for its 2% inflation target, posting annual price increases of more than 3% in September — far above pre-COVID-19 norms for a measure Warsh said he sees as a good indicator of underlying inflation trends. Though the number of items above that 3% level fell slightly last month, Diane Swonk, chief economist at KPMG, said the details of the PCE report showed inflation was broadly persistent across the economy, particularly in service industries where Fed rate hikes may have less of an impact."
+   },
+   {
+    "title": "PCE inflation report September 2026:",
+    "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "The pace of price increases stepped up in September, keeping inflation well above the Federal Reserve's target, while the economy grew faster than expected in the third quarter, according to Commerce Department reports Thursday. The personal consumption expenditures price index increased a seasonally adjusted 0.5% for the month, putting the annual inflation rate at 3.6%. The monthly increase was the largest since March but in line with the Dow Jones consensus, while the annual rate was 0.1 percentage point below. Excluding food and energy, the core PCE posted respective readings of 0.3% and 3.1%, in line with the consensus. While the Fed follows both measures closely, officials generally see the core reading as more indicative of longer-term inflation trends. While inflation continued to run ahead of the Fed's 2% target, the Commerce Department also reported that gross domestic product was strong in the third quarter. GDP increased at a seasonally adjusted annualized pace of 3.4%, better than the 3.1% estimate and well ahead of the 2.2% in the second quarter. Also, in September consumer spending proved resilient, climbing 0.5%, a bit below the forecast for a 0.6% gain, while personal income rose 0.2%, compared with the estimate for 0.3%. ... There was some good inflation news for the period: On a quarterly basis, PCE prices rose 2.1% on the headline number and 2.5% for core, down respectively from 5% and 3.3% in the second quarter. September's price increases were driven largely by a surge in energy costs that economists fear could be spreading to other parts of the economy. Gasoline and other energy goods saw a 9.2% rise for the month while energy goods and services broadly jumped 5.4%. At the same time, services prices excluding energy and housing rose 0.4%, and housing costs increased 0.3%."
+   },
+   {
+    "title": "St. Louis Fed's Musalem: Another rate hike needed 'soon'",
+    "url": "https://www.cnbc.com/amp/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "St. Louis Federal Reserve President Alberto Musalem said Friday that higher interest rates will be needed in the near future to rein in inflation. \"I judge that additional firming of monetary policy will be necessary, and soon,\" Musalem said in prepared remarks for the Shadow Open Market Committee, a gathering of economists focused on the central bank. Musalem's comments offer the first morsels of insight into what leaders at the Fed see next following Wednesday's decision to hold interest rates steady. It will also bolster the view among investors that the Fed will return to hiking rates at its next meeting in December. Fed funds futures traders are pricing in a roughly 76% likelihood of the Fed lifting rates by a quarter percentage point at that gathering, according to CME's FedWatch tool. \"Incremental adjustments made earlier are usually less disruptive than larger and abrupt actions taken later,\" Musalem said. \"Moving sooner in smaller steps while inflation expectations are anchored has a better chance of succeeding without adverse impact on the labor market or economic growth.\" ... But Musalem warned that inflation is \"too high,\" citing the personal consumption expenditures price index released Thursday that showed annual inflation above 3%. Fed officials have been closely monitoring inflation expectations among consumers and investors to ensure they don't get too far above the central bank's long-term target of 2%. He said there's a likely scenario where inflation remains above 2% into the future unless the Fed adjusts monetary policy. \"The best that monetary policy can do now for employment and economic growth is to restore price stability in a timely manner,\" Musalem said."
+   },
+   {
+    "title": "Gold slips as higher oil, U.S. inflation data bolster Fed hike bets",
+    "url": "https://www.cnbc.com/2026/10/30/gold-slips-as-higher-oil-us-inflation-data-bolster-fed-hike-bets.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "US inflation accelerated in September as consumers paid more for gasoline and other goods, supporting economists' expectations of an interest rate increase from the Fed in December. ... of holding non-yielding bullion, reducing its appeal to investors."
+   },
+   {
+    "title": "U.S. Inflation Accelerates to 3.7% as Gasoline Prices Jump | EconoTimes",
+    "url": "https://econotimes.com/U-S-Inflation-Accelerates-to-3-7-as-Gasoline-Prices-Jump-1766784",
+    "source": "econotimes.com",
+    "published": "",
+    "excerpt": "U.S. inflation accelerated in September as gasoline prices climbed, while research from the Federal Reserve Bank of New York points to a separate tariff-related pressure on consumer-goods costs. The Consumer Price Index (CPI), reported by the Bureau of Labor Statistics (BLS), rose 0.6% from August on a seasonally adjusted basis and 3.7% over 12 months, up from 3.4% in August. Gasoline prices increased 9.1% during the month, and the gasoline index was 34.2% higher than a year earlier. Food at home fell 0.1% for the month and rose 1.8% over the year. The Bureau of Economic Analysis (BEA) reported that its personal consumption expenditures (PCE) price index advanced 0.5% in September and 3.6% from a year earlier. Excluding food and energy, the index rose 0.3% for the month and 3.1% over 12 months. Neither release calculated tariffs’ contribution to overall inflation; the BLS said gasoline contributed more than half of September’s monthly CPI increase. In the New York Fed researchers’ model, a one-point rise in the average tariff rate corresponds to an estimated 0.25% increase in consumer-goods prices after 12 months. The researchers found that most tariff costs passed through to U.S. import prices. The researchers said higher costs for imported inputs can feed into retail prices through U.S. producers."
+   },
+   {
+    "title": "Strong third quarter growth and firm labor conditions keep inflation-fighting pressure on the Fed | Our Insights | Plante Moran",
+    "url": "https://www.plantemoran.com/explore-our-thinking/insight/2026/10/strong-third-quarter-growth-and-firm-labor",
+    "source": "plantemoran.com",
+    "published": "",
+    "excerpt": "- Headline PCE inflation accelerated to 3.6% year over year, lifted in part by rising fuel prices, although that’s not the full story. - Core PCE inflation was 3.1% year over year, as already elevated service sector inflation now risks being exacerbated"
+   },
+   {
+    "title": "Fed’s Barkin Reportedly Backs Gradual Rate Hikes, Flags AI Investment Boom As Inflation Risk",
+    "url": "https://finance.yahoo.com/economy/policy/articles/fed-barkin-reportedly-backs-gradual-162304300.html",
+    "source": "finance.yahoo.com",
+    "published": "",
+    "excerpt": "also said the Fed had signaled a gradual approach at its September ... Policymakers might need to respond if a surge in AI-driven investment continues to fuel demand ... That kind of demand-side inflation, that's not a supply-side shortage issue"
+   },
+   {
+    "title": "The Fed Wanted More Data. It Got More Inflation. | The Daily Economy",
+    "url": "https://thedailyeconomy.org/article/the-fed-wanted-more-data-it-got-more-inflation/",
+    "source": "thedailyeconomy.org",
+    "published": "",
+    "excerpt": "BEA) reported on Thursday that the Personal Consumption Expenditures Price Index (PCEPI), the Fed’s preferred measure of inflation, rose 0.5 percent in September, up from 0.3 percent in August. Prices are now 3.6 percent higher than a year ago, up from 3.4"
+   }
+  ],
+  "text": "[1] Inflation accelerated again last month with rising costs a central theme in US elections | AP News (apnews.com)\neconomic growth was notably strong from July to September, yet inflation accelerated at the same time, new data showed Thursday, painting a mixed picture about the country’s economy less than a week before midterm elections in which the uncomfortably high cost of living looms larger than perhaps any other issue. ... The economy grew at a strong 3.4% annual rate in the July-September quarter, the Commerce Department said Thursday, much faster than the 2.2% growth in the April-June quarter. Consumer spending climbed 3.8% at an annual rate, marking the second straight quarter of strong growth …\n\n[2] What to know about the US economy as midterm elections near - ABC News (abcnews.com)\nPrices rose at an annual rate of 3.7% in September, the most recent month on record, federal government data showed. Inflation runs more than a percentage point higher than the Federal Reserve's target rate of 2%.\n\n[3] New economic data challenges Fed chief’s not-too-hot perspective By Reuters (investing.com)\nWASHINGTON, Oct 30 (Reuters) - New data may challenge Federal Reserve Chairman Kevin Warsh’s sense that the US economy can handle a robust expansion without stoking inflation, as a key measure of price pressures jumped and strong consumer spending and business investment pushed growth further beyond the level most central bank officials see as sustainable. ... The jump in third-quarter gross domestic product, announced on Thursday by the US Commerce Department, however, was even faster than anticipated, with output growing at a 3.4% annualized rate in the July-September period, consumer …\n\n[4] PCE inflation report September 2026: (cnbc.com)\nThe pace of price increases stepped up in September, keeping inflation well above the Federal Reserve's target, while the economy grew faster than expected in the third quarter, according to Commerce Department reports Thursday. The personal consumption expenditures price index increased a seasonally adjusted 0.5% for the month, putting the annual inflation rate at 3.6%. The monthly increase was the largest since March but in line with the Dow Jones consensus, while the annual rate was 0.1 percentage point below. Excluding food and energy, the core PCE posted respective readings of 0.3% and …\n\n[5] St. Louis Fed's Musalem: Another rate hike needed 'soon' (cnbc.com)\nSt. Louis Federal Reserve President Alberto Musalem said Friday that higher interest rates will be needed in the near future to rein in inflation. \"I judge that additional firming of monetary policy will be necessary, and soon,\" Musalem said in prepared remarks for the Shadow Open Market Committee, a gathering of economists focused on the central bank. Musalem's comments offer the first morsels of insight into what leaders at the Fed see next following Wednesday's decision to hold interest rates steady. It will also bolster the view among investors that the Fed will return to hiking rates at …\n\n[6] Gold slips as higher oil, U.S. inflation data bolster Fed hike bets (cnbc.com)\nUS inflation accelerated in September as consumers paid more for gasoline and other goods, supporting economists' expectations of an interest rate increase from the Fed in December. ... of holding non-yielding bullion, reducing its appeal to investors.\n\n[7] U.S. Inflation Accelerates to 3.7% as Gasoline Prices Jump | EconoTimes (econotimes.com)\nU.S. inflation accelerated in September as gasoline prices climbed, while research from the Federal Reserve Bank of New York points to a separate tariff-related pressure on consumer-goods costs. The Consumer Price Index (CPI), reported by the Bureau of Labor Statistics (BLS), rose 0.6% from August on a seasonally adjusted basis and 3.7% over 12 months, up from 3.4% in August. Gasoline prices increased 9.1% during the month, and the gasoline index was 34.2% higher than a year earlier. Food at home fell 0.1% for the month and rose 1.8% over the year. The Bureau of Economic Analysis (BEA) …\n\n[8] Strong third quarter growth and firm labor conditions keep inflation-fighting pressure on the Fed | Our Insights | Plante Moran (plantemoran.com)\n- Headline PCE inflation accelerated to 3.6% year over year, lifted in part by rising fuel prices, although that’s not the full story. - Core PCE inflation was 3.1% year over year, as already elevated service sector inflation now risks being exacerbated\n\n[9] Fed’s Barkin Reportedly Backs Gradual Rate Hikes, Flags AI Investment Boom As Inflation Risk (finance.yahoo.com)\nalso said the Fed had signaled a gradual approach at its September ... Policymakers might need to respond if a surge in AI-driven investment continues to fuel demand ... That kind of demand-side inflation, that's not a supply-side shortage issue\n\n[10] The Fed Wanted More Data. It Got More Inflation. | The Daily Economy (thedailyeconomy.org)\nBEA) reported on Thursday that the Personal Consumption Expenditures Price Index (PCEPI), the Fed’s preferred measure of inflation, rose 0.5 percent in September, up from 0.3 percent in August. Prices are now 3.6 percent higher than a year ago, up from 3.4",
+  "hash": "af94acaf549f68f2032cd0418b3fc9f77cca97509a6f9f90a4622cc2f1bba5db",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news October 30, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-30T20:30:19+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Live Midterm Election Updates: Peltola denies \"tricking voters,\" Trump visits South Carolina and more from the trail",
+    "url": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
+    "source": "cbsnews.com",
+    "published": "",
+    "excerpt": "'s Senate campaign was rocked by allegations that Democrat Mary Peltola's campaign was involved in recruiting another candidate with the same name as incumbent Sen. Dan Sullivan, leading to state and federal probes. Peltola denied the allegations, telling"
+   },
+   {
+    "title": "Trump pushes to intensify Alaska Senate probes and Israel’s final election results released: Morning Rundown",
+    "url": "https://www.nbcnews.com/news/us-news/trump-alaska-senate-probe-israel-election-results-morning-rundown-rcna606499",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "The Justice Department has issued at least three dozen new subpoenas and document preservation ... Sullivan, a retired teacher with no previous political experience, to also run for the seat held by Republican Sen. Dan S. ... The neck-and-neck race, along with a handful of others, will decide whether Republicans retain control of the Senate. The subpoenas were sent to Peltola’s Senate campaign offices and those of Dan J. Sullivan. Alaska Gov."
+   },
+   {
+    "title": "Live updates: Trump to hold rallies in Kansas and Iowa after initially canceling | AP News",
+    "url": "https://apnews.com/live/trump-midterm-elections-news-updates-10-30-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Updated 12:10 PM PDT, October 30, 2026 Here’s what we’re following: - President Donald Trump has rescheduled campaign rallies in a pair of critical Midwestern states that he had previously canceled, according to a person familiar with the plans. The person said Friday that the Republican president will now visit Iowa and Kansas for back-to-back campaign rallies on Sunday. The person insisted on anonymity to discuss Trump’s schedule. - Early voting continues to significantly outpace the last midterm election, with millions more Americans voting early and sharp increases in states hosting competitive Senate races, according to an Associated Press analysis of voting"
+   },
+   {
+    "title": "The News Roundup For October 30, 2026 : 1A : NPR",
+    "url": "https://www.npr.org/2026/10/30/nx-s1-6023370/the-news-roundup-for-october-30-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": ". The Federal Reserve held interest rates steady at its October meeting. However, two members of the Federal Open Market Committee dissented ... of a percent to try to bring down inflation. And, in global news, on Sunday night,"
+   },
+   {
+    "title": "Trump escalates legal challenges, scrambles schedule as US midterm elections near By Reuters",
+    "url": "https://www.investing.com/news/politics-news/trump-escalates-legal-challenges-against-states-as-election-day-nears-4986495",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Published Oct 30, 2026, 06:11 AM Updated Oct 30, 2026, 02:49 PM ... By Andrew Goudsward and Jarrett Renshaw WASHINGTON, Oct 30 (Reuters) - President Donald Trump on Friday intensified his effort to save Republicans’ congressional majorities ahead of Tuesday’s US midterm election, restoring planned 11th-hour rallies he had canceled a day earlier while stepping up legal interventions that could pave the way for court challenges to the results. The November 3 contest has already drawn 48 million early ballots, more than any other midterm election in US history, according to the University of Florida’s Election Lab, with even the American-born Pope Leo casting a ballot by mail. Trump’s fellow Republicans are likely to lose their slim majority in the US House of Representatives, according to nonpartisan analysts, with control of the Senate expected to be hard fought. The Trump administration pushed forward in legal cases in Alaska, home to a Senate contest that may play a pivotal role in determining the majority, and California, which historically takes more time than most other states in counting ballots. The Justice Department filed an amended lawsuit in Alaska on Thursday seeking to block the certification of results in the event of a narrow Republican loss, citing a New York Times report that Democratic operatives recruited a spoiler candidate with the same name as the Republican incumbent. The FBI was expected to hold a press conference on Friday at the US Attorney’s office in Anchorage, an agency spokesperson confirmed. In California, meanwhile, the Justice Department is escalating its pressure campaign against state election officials, issuing subpoenas as part of a criminal probe into alleged voting by non-citizens, according to copies of documents seen by Reuters. Taken together, the moves are an extraordinary federal intervention in state-run elections, which are administered locally under the US Constitution. Election officials around the country have told ⁠Reuters they are bracing for further legal challenges from Washington. Trump has long sought to sow distrust of election results, falsely claiming for years that his 2020 election loss to Democrat Joe Biden was the result of widespread fraud. Voter fraud in the US is extremely rare, studies and investigations have found. ... TRUMP’S CANCELED RALLIES BACK ON The dispute in Alaska, home to one of about 10 highly competitive Senate races, could leave control of the chamber unclear for weeks. Democrats need a net gain of four seats to win back the majority from Republicans. If Democrats take one or both chambers of Congress, they intend to launch investigations into Trump’s administration and increase pressure on the president to end the war against Iran. On Friday, Trump will campaign in Florida, the latest in a series of rallies he has headlined in states he won handily in 2024 but where Democrats are unexpectedly competitive. Earlier this week, Trump campaigned in deep-red Mississippi and South Carolina, and the White House said on Friday that the president would hold weekend rallies in Kansas and Iowa, less than 24 hours after they had been called off. Trump won all four states by anywhere from 13 to 22 percentage points two years ago. Former Vice President Kamala Harris, whom Trump defeated in the 2024 election, will rally for Democrats in Atlanta on Friday. ALASKA SENATE DISPUTE In its revised lawsuit in Alaska on Thursday, the Justice Department wrote that operatives for Democratic candidate Mary Peltola orchestrated a \"sham campaign for the purpose of misleading Alaskan voters.\" The New York Times reported on Wednesday that the operatives convinced a retired teacher living in a remote fishing village named Daniel J. Sullivan Jr. to appear on the ballot alongside the Republican incumbent, Dan S. Sullivan. Peltola’s campaign asked a judge to dismiss the Justice Department’s updated lawsuit, arguing it has no legal basis. The campaign has previously said it had \"no involvement with either Sullivan campaign.\" The Democratic Senatorial Campaign Committee has denied involvement and accused Republicans of propping up third-party candidates of their own in other races. Daniel J. Sullivan, listed on the ballot as unaffiliated with any party, has previously denied that his aim was to cause confusion or divert votes from Dan S. Sullivan. In California, meanwhile, the Los Angeles County Registrar-Recorder’s office received grand jury subpoenas last week in the Justice Department’s investigation into alleged non-citizen voting. \"At every step, the US Department ​of Justice has taken a confrontational, adversarial approach,\" Los Angeles County Registrar-Recorder Dean Logan said in a statement ​on Thursday."
+   },
+   {
+    "title": "Morning news brief : NPR",
+    "url": "https://www.npr.org/2026/10/30/nx-s1-6009834/morning-news-brief",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "October 30, 2026 4:47 AM ET Heard on Morning Edition ... Candidates make their final push to voters, Alaska roiled by allegations that Democrats tried to prop up a spoiler candidate, U.S. could resume conflict in Iran after monthslong pause."
+   },
+   {
+    "title": "Up First briefing: Midterm elections; Iran war plans; Veteran Affairs : NPR",
+    "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "York Times report on the state's toss-up U.S. Senate race. The article revealed that Democratic campaign operatives were attempting to recruit a candidate, whom Republicans ... GOP incumbent Dan Sullivan. The candidate also shares the name Dan Sullivan."
+   },
+   {
+    "title": "First Thing: Alaska Senate race descends into legal acrimony over second Dan Sullivan | US news | The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/oct/30/first-thing-alaska-senate-race-doj-subpoenas-lawsuit-second-dan-sullivan",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "morning. The US justice department is said to have issued subpoenas after a report that the Alaska Democrat Mary Peltola’s campaign collaborated with party operatives to get a challenger with the same name as the Republican senator Dan Sullivan on to the"
+   },
+   {
+    "title": "2026 midterms live updates: Battle for control of Congress heats up",
+    "url": "https://www.foxnews.com/live-news/4-days-to-go-battle-for-control-of-congress-intensifies-as-midterms-reach-their-final-stretch-october-30",
+    "source": "foxnews.com",
+    "published": "",
+    "excerpt": "- Control of the Senate remains a toss-up, according to Fox News Power Rankings ... with Fox News Power Rankings moving Ohio to Lean D and South Carolina to Toss-up ... out across battleground states in the final days before Election Day, with Sen."
+   },
+   {
+    "title": "Netanyahu’s bloc loses parliamentary majority, Justice Department subpoenas California officials | AP News",
+    "url": "https://apnews.com/newsletter/morning-wire/october-30-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Prime Minister Benjamin Netanyahu’s bloc won 53 seats in Tuesday’s elections. The main opposition bloc won 48. Arab-led parties secured the other 19, a historic showing. Now parties must seek a way to team up for at least 61 seats in the 120-seat Knesset."
+   }
+  ],
+  "text": "[1] Live Midterm Election Updates: Peltola denies \"tricking voters,\" Trump visits South Carolina and more from the trail (cbsnews.com)\n's Senate campaign was rocked by allegations that Democrat Mary Peltola's campaign was involved in recruiting another candidate with the same name as incumbent Sen. Dan Sullivan, leading to state and federal probes. Peltola denied the allegations, telling\n\n[2] Trump pushes to intensify Alaska Senate probes and Israel’s final election results released: Morning Rundown (nbcnews.com)\nThe Justice Department has issued at least three dozen new subpoenas and document preservation ... Sullivan, a retired teacher with no previous political experience, to also run for the seat held by Republican Sen. Dan S. ... The neck-and-neck race, along with a handful of others, will decide whether Republicans retain control of the Senate. The subpoenas were sent to Peltola’s Senate campaign offices and those of Dan J. Sullivan. Alaska Gov.\n\n[3] Live updates: Trump to hold rallies in Kansas and Iowa after initially canceling | AP News (apnews.com)\nUpdated 12:10 PM PDT, October 30, 2026 Here’s what we’re following: - President Donald Trump has rescheduled campaign rallies in a pair of critical Midwestern states that he had previously canceled, according to a person familiar with the plans. The person said Friday that the Republican president will now visit Iowa and Kansas for back-to-back campaign rallies on Sunday. The person insisted on anonymity to discuss Trump’s schedule. - Early voting continues to significantly outpace the last midterm election, with millions more Americans voting early and sharp increases in states hosting …\n\n[4] The News Roundup For October 30, 2026 : 1A : NPR (npr.org)\n. The Federal Reserve held interest rates steady at its October meeting. However, two members of the Federal Open Market Committee dissented ... of a percent to try to bring down inflation. And, in global news, on Sunday night,\n\n[5] Trump escalates legal challenges, scrambles schedule as US midterm elections near By Reuters (investing.com)\nPublished Oct 30, 2026, 06:11 AM Updated Oct 30, 2026, 02:49 PM ... By Andrew Goudsward and Jarrett Renshaw WASHINGTON, Oct 30 (Reuters) - President Donald Trump on Friday intensified his effort to save Republicans’ congressional majorities ahead of Tuesday’s US midterm election, restoring planned 11th-hour rallies he had canceled a day earlier while stepping up legal interventions that could pave the way for court challenges to the results. The November 3 contest has already drawn 48 million early ballots, more than any other midterm election in US history, according to the University of …\n\n[6] Morning news brief : NPR (npr.org)\nOctober 30, 2026 4:47 AM ET Heard on Morning Edition ... Candidates make their final push to voters, Alaska roiled by allegations that Democrats tried to prop up a spoiler candidate, U.S. could resume conflict in Iran after monthslong pause.\n\n[7] Up First briefing: Midterm elections; Iran war plans; Veteran Affairs : NPR (npr.org)\nYork Times report on the state's toss-up U.S. Senate race. The article revealed that Democratic campaign operatives were attempting to recruit a candidate, whom Republicans ... GOP incumbent Dan Sullivan. The candidate also shares the name Dan Sullivan.\n\n[8] First Thing: Alaska Senate race descends into legal acrimony over second Dan Sullivan | US news | The Guardian (theguardian.com)\nmorning. The US justice department is said to have issued subpoenas after a report that the Alaska Democrat Mary Peltola’s campaign collaborated with party operatives to get a challenger with the same name as the Republican senator Dan Sullivan on to the\n\n[9] 2026 midterms live updates: Battle for control of Congress heats up (foxnews.com)\n- Control of the Senate remains a toss-up, according to Fox News Power Rankings ... with Fox News Power Rankings moving Ohio to Lean D and South Carolina to Toss-up ... out across battleground states in the final days before Election Day, with Sen.\n\n[10] Netanyahu’s bloc loses parliamentary majority, Justice Department subpoenas California officials | AP News (apnews.com)\nPrime Minister Benjamin Netanyahu’s bloc won 53 seats in Tuesday’s elections. The main opposition bloc won 48. Arab-led parties secured the other 19, a historic showing. Now parties must seek a way to team up for at least 61 seats in the 120-seat Knesset.",
+  "hash": "833abac6635b3bc874adf67d77f0b960458acfd17868a6702bb4fd27e5fe2bb3",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities October 30, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-30T20:30:34+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "New Music Friday October 30: Mariah Carey, Gracie Abrams, Nickelback, JISOO, Dead Man's Bones, ILLIT and More | Entertainment Tonight",
+    "url": "https://www.etonline.com/new-music-friday-october-30-mariah-carey-gracie-abrams-nickelback-jisoo-dead-mans-bones-illit-and",
+    "source": "etonline.com",
+    "published": "",
+    "excerpt": "Published: 7:20 AM PDT, October 30, 2026 ... BTS kicked off their Brazilian run of BTS WORLD TOUR ARIRANG with an opening show at Estádio do MorumBIS in Sãn Paulo, marking another milestone in their sold-out Latin American tour leg. BTS arrived in Brazil following sold out stadium shows across Columbia, Peru, Chile and Argentina. More than 1.9 million people accessed the ticketing system for the group's three Sãn Paulo performances. ... LL COOL J is bringing the sound, story and legacy of hip-hop to Las Vegas with ROCK THE BELLS: THE RESIDENCY. His 11-show residency will kick off May 15, 2027 at Dolby Live at Park MGM and will include immersive storytelling, his iconic hits and special guest performances. Tickets will go on sale to the general public on November 2 at ticketmaster.com. Gracie Abrams performed an intimate show for SiriusXM's Small Stage Series at Irving Plaza in New York City last weekend. She performed songs from her latest album, Daughter from Hell, and she just announced she will be releasing the deluxe version of her album on November 20. The deluxe version will include five additional songs, including new single \"Here You Come, There You Go\" out now. ... BET announced that Durand Bernarr will receive the Soul Personified Honor and perform at Soul Train Awards 2026. He will be celebrated for his fearless creativity, vocal mastery and contributions to contemporary music. Durand will also host The 2026 Soul Train Awards Red Carpet Show: Back on Track. BET also announced that Elmiene will receive the New Soul Honor and perform. The New Soul Honor celebrates a rising artist whose distinctive voice and artistry are helping shape the future of R&B. The awards will air November 27 on BET and CBS. After 16 years, Kesha has finally released her long-lost music video for her fan-favorite song \"Backstabber.\" Originally filmed in 2009, the video was never officially released and now the video is out. Kesha shared, \"In 2009, I knew I wanted \"Backstabber\" to be a single, so I took it upon myself to make this video to convince everyone that it deserved its moment. Finally...in 2026...it's OUT! This video will always have a special place in my heart.\" ... The Latin Recording Academy announced additional performers for the 27th Annual Latin GRAMMY Awards. The lineup includes Cristian Castro, Camila Fernández, Feid, Luis Figueroa, Fonseca, Grupo Frontera, Milo J, Niña Pastori, Reik, Sofía Reyes, Yami Safdie and The Warning. The telecast will also feature a tribute celebrating the legacy of José Alfredo Jiménez in honor of the 100th anniversary of his birth. Dead Man's Bones, the musical partnership of Ryan Gosling and Zach Shields, return with a new song, \"Lost In The Night,\" which is their first new music since 2009. After trying several Los Angeles studios without finding the sound they wanted, the duo took two guitars, two drum machines, and two synthesizers to a farm outside the city and recorded the song in a day. The music video stars Noah Jupe and Rain Spencer as they leave a cemetery and venture into the streets of the city."
+   },
+   {
+    "title": "This Week In Entertainment News 30 October 2026 - MADCAP Global Entertainment",
+    "url": "https://madcapglobalentertainment.com/this-week-in-entertainment-news-30-october-2026/",
+    "source": "madcapglobalentertainment.com",
+    "published": "",
+    "excerpt": ". Navigator of the Starship Enterprise from season two in 1967 ... . Also beaming out one last time was Sir Patrick Stewart, 86, best known as Captain Jean-Luc Picard in ‘Star Trek: The Next Generation’ and Professor Charles Xavier in the ‘X-Men’ films"
+   },
+   {
+    "title": "Entertainment News Nuggets - 10-30-2026 - Entertainment News Nuggets - Omny.fm",
+    "url": "https://omny.fm/shows/the-daily-dish/entertainment-news-nuggets-10-30-2026",
+    "source": "omny.fm",
+    "published": "",
+    "excerpt": "Actor Patrick Stewart Dead At 86, Janelle James To Host 32nd Annual Critics Choice Awards, Hulk Hogan's Daughter Blasts Sale Of Home, Prince William Details Failed DJ Dreams \"Didn't Go Very Well\", Post Malone Teases New Song \"Bad Mood\"..."
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3999619-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Hello Kitty maker Sanrio cuts ties with TV spy show after China backlash Hello Kitty maker Sanrio has cancelled a collaboration with a Japanese TV spy show after a backlash ‌in China, the second incident in days to highlight the tightrope foreign firms and celebrities must walk in the lucrative market. The Wednesday announcement by Sanrio's Chinese ‌subsidiary came just after French soccer star Kylian Mbappe apologised for remarks about late Chinese leader Mao Zedong that saw several Chinese sponsors cut ties with him. Empathy and purpose drive Los Javis' Oscar hopeful 'La Bola Negra' Spanish filmmakers Javier Calvo and Javier Ambrossi said their sophomore feature \"La Bola Negra\", which has emerged as an Oscar contender, took them on the journey of their lives and left ⁠them with ​many more ideas they cannot wait to ⁠tackle. Industry buzz over a possible Oscar has built for the film since its launch at the Cannes Film Festival in May where the duo, nicknamed \"Los Javis\", won a best directing prize. ... Patrick Stewart, Shakespearean actor turned 'Star Trek' and 'X-Men' star, dies at 86 Patrick Stewart, who rose from poverty ⁠in England to become an accomplished Shakespearean ⁠stage actor and then achieved global stardom as the erudite Captain Jean-Luc Picard in TV's \"Star Trek: The Next Generation\" and the telepathic Professor Charles Xavier in the \"X-Men\" movies, has died at the age of 86. Stewart, knighted in 2010 ‌by Queen Elizabeth II ‌for his contributions to drama, died at his home in Los Angeles, according to ​a statement on his X account."
+   },
+   {
+    "title": "Film News Today — October 30, 2026 — FilmNews.net",
+    "url": "https://filmnews.net/news/daily-signal-20261030",
+    "source": "filmnews.net",
+    "published": "",
+    "excerpt": "world of film is abuzz with exciting news and announcements. The international film community is coming together to support exiled filmmakers, with Cate ... . Meanwhile, deals are being made and projects are moving forward, as seen with the Annecy-winning"
+   },
+   {
+    "title": "Music News for Friday, October 30, 2026 — Headlines & New Albums as Drum Beats | RockBlocks",
+    "url": "https://rockblocks.app/news/2026-10-30",
+    "source": "rockblocks.app",
+    "published": "",
+    "excerpt": "# Music News for Friday, October 30, 2026 42 music news headlines from Friday, October 30, 2026 and 5 albums released that day, each one a drum beat. See today's news → ... The Machine & BTS Reportedly Turn Down Coachella; Dua Lipa, SZA, & Tame Impala"
+   },
+   {
+    "title": "ENTERTAINMENT NEWS LIVE Updates Today (Oct 30, 2026): Jailer 2 Crossed 500cr Gross In India; Patrick Stewart Passes Away | Entertainment Live News Updates Bollywood Today | Latest Bollywood News | Trending Bollywood News Live | Jailer 2 Box Office Collection India | Patrick Stewart Death Latest News - Filmibeat",
+    "url": "https://www.filmibeat.com/bollywood/news/2026/ent-news-live-updates-today-oct-30-2026-jailer-2-crossed-500cr-gross-in-india-patrick-stewart-dies-536407.html",
+    "source": "filmibeat.com",
+    "published": "",
+    "excerpt": "## Trailer Of Eetha Starring Shraddha Kapoor Is Out Maddock Films and Kathputli Creations have unveiled the grand trailer of EETHA, starring Shraddha Kapoor in and as Eetha Bai. An epic musical drama inspired by the life of a Lavani legend, the film brings to life the extraordinary journey of a woman who defied conventions, challenged the odds and rose above every obstacle to carve an unforgettable place in history. EETHA releases in cinemas on December 4, 2026. ... ## Priyanka Chopra Jonas Joins Oscar-Qualified Indian Short Film 'We Were Here' Actor-producer Priyanka Chopra Jonas has joined Indian short film \"We Were Here\", directed by Pranav Bhasin, as an executive producer, lending her support to the project as it gears up for its Academy Awards campaign. The Oscar-qualified film, which has won more than 20 awards across the international festival circuit, has also brought on board actor Andrew Scott and Tony Award-winning playwright and activist V (formerly Eve Ensler) as executive producers."
+   },
+   {
+    "title": "Pop Culture & Entertainment, Friday, October 30, 2026: 12 stories | BBN",
+    "url": "https://bbn.live/pop-culture/archive/2026-10-30",
+    "source": "bbn.live",
+    "published": "",
+    "excerpt": "### 'A Few Good Men' Returns To Broadway To Mixed Reviews Michael Arden directs the first Broadway revival of Sorkin's play since 1989, with Bradley Whitford and Tom Blyth in his Broadway debut; critics are not unanimous."
+   },
+   {
+    "title": "Africa Entertainment News Archive: October 30, 2026 | AfricaFrontPage",
+    "url": "https://www.africafrontpage.com/archive/2026-10-30/entertainment",
+    "source": "africafrontpage.com",
+    "published": "",
+    "excerpt": "The Nation · 16:28 - Singer Faith Evans Ordered To Pay $12.5m To Notorious B. ... .G.’s Mother’s Estate Leadership · 16:21 ... TGM : Lorsque l’art esquisse les contours de l’identité ... décroche le 3e Prix national d'excellence 2026 en Côte d'"
+   },
+   {
+    "title": "October 2026 – Deadline",
+    "url": "https://deadline.com/2026/10/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "EXCLUSIVE: Grammy-winning global superstar Raye is coming on to Benny Safdie’s next film Lizard Music to not only voice one of the characters but to also compose original music for the United Artists live-action/CGI hybrid film"
+   }
+  ],
+  "text": "[1] New Music Friday October 30: Mariah Carey, Gracie Abrams, Nickelback, JISOO, Dead Man's Bones, ILLIT and More | Entertainment Tonight (etonline.com)\nPublished: 7:20 AM PDT, October 30, 2026 ... BTS kicked off their Brazilian run of BTS WORLD TOUR ARIRANG with an opening show at Estádio do MorumBIS in Sãn Paulo, marking another milestone in their sold-out Latin American tour leg. BTS arrived in Brazil following sold out stadium shows across Columbia, Peru, Chile and Argentina. More than 1.9 million people accessed the ticketing system for the group's three Sãn Paulo performances. ... LL COOL J is bringing the sound, story and legacy of hip-hop to Las Vegas with ROCK THE BELLS: THE RESIDENCY. His 11-show residency will kick off May 15, 2027 …\n\n[2] This Week In Entertainment News 30 October 2026 - MADCAP Global Entertainment (madcapglobalentertainment.com)\n. Navigator of the Starship Enterprise from season two in 1967 ... . Also beaming out one last time was Sir Patrick Stewart, 86, best known as Captain Jean-Luc Picard in ‘Star Trek: The Next Generation’ and Professor Charles Xavier in the ‘X-Men’ films\n\n[3] Entertainment News Nuggets - 10-30-2026 - Entertainment News Nuggets - Omny.fm (omny.fm)\nActor Patrick Stewart Dead At 86, Janelle James To Host 32nd Annual Critics Choice Awards, Hulk Hogan's Daughter Blasts Sale Of Home, Prince William Details Failed DJ Dreams \"Didn't Go Very Well\", Post Malone Teases New Song \"Bad Mood\"...\n\n[4] Reuters Entertainment News Summary | International (devdiscourse.com)\nHello Kitty maker Sanrio cuts ties with TV spy show after China backlash Hello Kitty maker Sanrio has cancelled a collaboration with a Japanese TV spy show after a backlash ‌in China, the second incident in days to highlight the tightrope foreign firms and celebrities must walk in the lucrative market. The Wednesday announcement by Sanrio's Chinese ‌subsidiary came just after French soccer star Kylian Mbappe apologised for remarks about late Chinese leader Mao Zedong that saw several Chinese sponsors cut ties with him. Empathy and purpose drive Los Javis' Oscar hopeful 'La Bola Negra' Spanish …\n\n[5] Film News Today — October 30, 2026 — FilmNews.net (filmnews.net)\nworld of film is abuzz with exciting news and announcements. The international film community is coming together to support exiled filmmakers, with Cate ... . Meanwhile, deals are being made and projects are moving forward, as seen with the Annecy-winning\n\n[6] Music News for Friday, October 30, 2026 — Headlines & New Albums as Drum Beats | RockBlocks (rockblocks.app)\n# Music News for Friday, October 30, 2026 42 music news headlines from Friday, October 30, 2026 and 5 albums released that day, each one a drum beat. See today's news → ... The Machine & BTS Reportedly Turn Down Coachella; Dua Lipa, SZA, & Tame Impala\n\n[7] ENTERTAINMENT NEWS LIVE Updates Today (Oct 30, 2026): Jailer 2 Crossed 500cr Gross In India; Patrick Stewart Passes Away | Entertainment Live News Updates Bollywood Today | Latest Bollywood News | Trending Bollywood News Live | Jailer 2 Box Office Collection India | Patrick Stewart Death Latest News - Filmibeat (filmibeat.com)\n## Trailer Of Eetha Starring Shraddha Kapoor Is Out Maddock Films and Kathputli Creations have unveiled the grand trailer of EETHA, starring Shraddha Kapoor in and as Eetha Bai. An epic musical drama inspired by the life of a Lavani legend, the film brings to life the extraordinary journey of a woman who defied conventions, challenged the odds and rose above every obstacle to carve an unforgettable place in history. EETHA releases in cinemas on December 4, 2026. ... ## Priyanka Chopra Jonas Joins Oscar-Qualified Indian Short Film 'We Were Here' Actor-producer Priyanka Chopra Jonas has joined …\n\n[8] Pop Culture & Entertainment, Friday, October 30, 2026: 12 stories | BBN (bbn.live)\n### 'A Few Good Men' Returns To Broadway To Mixed Reviews Michael Arden directs the first Broadway revival of Sorkin's play since 1989, with Bradley Whitford and Tom Blyth in his Broadway debut; critics are not unanimous.\n\n[9] Africa Entertainment News Archive: October 30, 2026 | AfricaFrontPage (africafrontpage.com)\nThe Nation · 16:28 - Singer Faith Evans Ordered To Pay $12.5m To Notorious B. ... .G.’s Mother’s Estate Leadership · 16:21 ... TGM : Lorsque l’art esquisse les contours de l’identité ... décroche le 3e Prix national d'excellence 2026 en Côte d'\n\n[10] October 2026 – Deadline (deadline.com)\nEXCLUSIVE: Grammy-winning global superstar Raye is coming on to Benny Safdie’s next film Lizard Music to not only voice one of the characters but to also compose original music for the United Artists live-action/CGI hybrid film",
+  "hash": "8f33de69396c58384f687d872699681295203e3a162c1f981c4af819cad73e28",
+  "notes": []
+ }
+}
