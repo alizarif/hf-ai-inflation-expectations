@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-10-31T02:12:46+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories October 30, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-31T02:12:46+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "The News Roundup For October 30, 2026 : 1A : NPR",
+    "url": "https://www.npr.org/2026/10/30/nx-s1-6023370/the-news-roundup-for-october-30-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "President Donald Trump hit the campaign trail in the final stretch of midterm season. And he’s made a number of promises to Republican voters this cycle, looking to shore up support in the communities he’s visiting. This week, in Texas, he promised to undo Biden-era methane regulations and to produce 210 million barrels of oil. The president is swinging big as seats in traditionally red states seem to be up for grabs. One high-quality poll this week, The New York Times/Siena poll. showed the race in South Carolina between appointed Republican Sen. Darline Graham, the late Lindsey Graham’s sister, tied with her Democratic opponent, Dr. Annie Andrews. The Federal Reserve held interest rates steady at its October meeting. However, two members of the Federal Open Market Committee dissented, and were in favor of raising rates by a quarter of a percent to try to bring down inflation. And, in global news, on Sunday night, 81-year old incumbent Brazilian President Luiz Inácio Lula da Silva defied the polls — and historical precedent — by convincing more than 51 percent of Brazil’s electorate to vote for him and deliver an unprecedented fourth term. His opponent, Flávio Bolsonaro, fled the country following his loss amid an ongoing corruption investigation. All the ballots from Tuesday’s Israeli election have been counted, and there’s still no clear winning coalition. On Thursday, Israel’s Central Election Committee said Benjamin Netanyahu’s bloc holds 53 seats in the 120-member Knesset, while opposition parties have 67. And Vice President J.D. Vance reportedly sent a letter to a senior Iranian official in Tehran aimed at reviving peace talks to end the Iran war. But when Donald Trump was asked if he directed Vance to revive peace talks, he claimed the letter was about medical supplies."
+   },
+   {
+    "title": "World news | World | The Guardian",
+    "url": "https://www.theguardian.com/world/2026/oct/30/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "### Canada and EU announce new alliance open to like-minded countries Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ ... - ### 'Nothing will change for us': Palestinians react"
+   },
+   {
+    "title": "Morning Briefing: Oct. 30, 2026",
+    "url": "https://aa.com.tr/en/world/morning-briefing-oct-30-2026/4105611",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "’s bloc securing 53 seats following completion of vote counting in parliamentary elections, Saudi-led coalition in Yemen intercepting and destroying Houthi drone launched toward Saudi Arabia's Mecca region"
+   },
+   {
+    "title": "BBC.com Content Index for October 30, 2026",
+    "url": "https://www.bbc.com/pages/content-index/2026/10/30",
+    "source": "bbc.com",
+    "published": "",
+    "excerpt": "Watch highlights as England bounce back from defeats to Canada with a 55-12 win over USA in the WXV Global Series ... Fallon Sherrock defeats reigning world champion Luke Littler in one leg of darts to win £501,000."
+   },
+   {
+    "title": "October 30, 2026 - PBS News Hour full episode | PBS News",
+    "url": "https://www.pbs.org/newshour/show/october-30-2026-pbs-news-hour-full-episode",
+    "source": "pbs.org",
+    "published": "",
+    "excerpt": "Friday on the News Hour, Republicans continue to cry foul in Alaska's Senate race while early voting surges across the country. ... exchange puts investors on edge. Plus, we visit a Ukrainian village hit by a Russian drone attack, in part because of"
+   },
+   {
+    "title": "Morning Edition for October 30, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5972584/morning-edition-for-october-30-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Candidates make final appeals to voters ahead of Election Day by Saige Miller, A Martínez #### Candidates make final appeals to voters ahead of Election Day Listen · 3:30 3:30 ### How campaigns are spending the last weekend before Election Day"
+   },
+   {
+    "title": "Headlines for October 30, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/10/30/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "## DOJ Opens Criminal Probe of California Mail-In Ballots Despite Judge’s Order Oct 30, 2026 With just days to go before historic midterm elections, the Trump administration has issued grand jury subpoenas to local election officials in California, seeking unredacted voter records as part of a criminal investigation into the state’s voter rolls. At least one of the subpoenas was delivered after a federal judge rejected the Justice Department’s effort to force California to immediately set aside 20,000 ballots from people it claims are “likely noncitizens.” Such voter fraud is exceedingly rare. The court determined the move would wreak havoc with an election that is already underway, create a chilling effect on election workers and voters, and discount the votes of citizens. The subpoenas order the election officials to testify before a grand jury in a criminal investigation on November 4, the day after the election. ... ## Famine Declared in Yemeni City of Taiz Amid Houthi Siege In Yemen, the governor of Taiz says the city of roughly 1 million people has entered into famine due to a weekslong siege by fighters with the Ansar Allah movement, known as the Houthis. Human Rights Watch said Thursday the siege could amount to the war crime of using starvation as a method of warfare. The famine declaration came as a Saudi airstrike on Taiz killed 13 people. That followed a Houthi attack on Aden’s airport that injured passengers and halted flights. Meanwhile, the Houthis are rejecting claims by the Saudi-led coalition that Saudi air defenses intercepted missiles fired toward Mecca."
+   },
+   {
+    "title": "News 30 October 2026 - Archive Euronews",
+    "url": "https://www.euronews.com/2026/10/30",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "15:31 - Tech News Nvidia CEO sees Kazakhstan as potential AI hub for ... , Italy and Spain: Where was inflation highest in October? Inflation rose in Italy and France, ... and will the European Central Bank hike again in December? 15:19 - USA Christa"
+   },
+   {
+    "title": "The Christian Science Monitor Daily for October 30, 2026",
+    "url": "https://www.csmonitor.com/Daily/2026/20261030",
+    "source": "csmonitor.com",
+    "published": "",
+    "excerpt": "to a report released on Thursday by the U.S. Bureau of Economic Analysis. That’s the fastest pace this year, and ahead of analysts’ expectations of 3.1%. The ... spending and inflation could lead the Federal Reserve to raise interest rates in December."
+   },
+   {
+    "title": "Iran says 3 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
+    "url": "https://apnews.com/article/mideast-news-october-30-2026-7f7f34ceb62f294a450e48ace0bd56e0",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Iran’s Revolutionary Guard said Friday that four oil tankers, including one carrying more than 2 million barrels of oil, hit mines and caught fire while traveling through the Strait of Hormuz. Meanwhile, Yemeni authorities said Houthi rebels struck Aden, without causing any casualties, and Qatari mediators have returned to Tehran for talks with Iranian officials. ... ## Iran says supertanker struck mine and caught fire in the Strait of Hormuz Iran’s Revolutionary Guard said Friday that a supertanker carrying more than 2 million barrels of oil struck a naval mine and caught fire while using an unauthorized route in the Strait of"
+   }
+  ],
+  "text": "[1] The News Roundup For October 30, 2026 : 1A : NPR (npr.org)\nPresident Donald Trump hit the campaign trail in the final stretch of midterm season. And he’s made a number of promises to Republican voters this cycle, looking to shore up support in the communities he’s visiting. This week, in Texas, he promised to undo Biden-era methane regulations and to produce 210 million barrels of oil. The president is swinging big as seats in traditionally red states seem to be up for grabs. One high-quality poll this week, The New York Times/Siena poll. showed the race in South Carolina between appointed Republican Sen. Darline Graham, the late Lindsey Graham’s …\n\n[2] World news | World | The Guardian (theguardian.com)\n### Canada and EU announce new alliance open to like-minded countries Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ ... - ### 'Nothing will change for us': Palestinians react\n\n[3] Morning Briefing: Oct. 30, 2026 (aa.com.tr)\n’s bloc securing 53 seats following completion of vote counting in parliamentary elections, Saudi-led coalition in Yemen intercepting and destroying Houthi drone launched toward Saudi Arabia's Mecca region\n\n[4] BBC.com Content Index for October 30, 2026 (bbc.com)\nWatch highlights as England bounce back from defeats to Canada with a 55-12 win over USA in the WXV Global Series ... Fallon Sherrock defeats reigning world champion Luke Littler in one leg of darts to win £501,000.\n\n[5] October 30, 2026 - PBS News Hour full episode | PBS News (pbs.org)\nFriday on the News Hour, Republicans continue to cry foul in Alaska's Senate race while early voting surges across the country. ... exchange puts investors on edge. Plus, we visit a Ukrainian village hit by a Russian drone attack, in part because of\n\n[6] Morning Edition for October 30, 2026 : NPR (npr.org)\n### Candidates make final appeals to voters ahead of Election Day by Saige Miller, A Martínez #### Candidates make final appeals to voters ahead of Election Day Listen · 3:30 3:30 ### How campaigns are spending the last weekend before Election Day\n\n[7] Headlines for October 30, 2026 | Democracy Now! (democracynow.org)\n## DOJ Opens Criminal Probe of California Mail-In Ballots Despite Judge’s Order Oct 30, 2026 With just days to go before historic midterm elections, the Trump administration has issued grand jury subpoenas to local election officials in California, seeking unredacted voter records as part of a criminal investigation into the state’s voter rolls. At least one of the subpoenas was delivered after a federal judge rejected the Justice Department’s effort to force California to immediately set aside 20,000 ballots from people it claims are “likely noncitizens.” Such voter fraud is exceedingly …\n\n[8] News 30 October 2026 - Archive Euronews (euronews.com)\n15:31 - Tech News Nvidia CEO sees Kazakhstan as potential AI hub for ... , Italy and Spain: Where was inflation highest in October? Inflation rose in Italy and France, ... and will the European Central Bank hike again in December? 15:19 - USA Christa\n\n[9] The Christian Science Monitor Daily for October 30, 2026 (csmonitor.com)\nto a report released on Thursday by the U.S. Bureau of Economic Analysis. That’s the fastest pace this year, and ahead of analysts’ expectations of 3.1%. The ... spending and inflation could lead the Federal Reserve to raise interest rates in December.\n\n[10] Iran says 3 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news (apnews.com)\nIran’s Revolutionary Guard said Friday that four oil tankers, including one carrying more than 2 million barrels of oil, hit mines and caught fire while traveling through the Strait of Hormuz. Meanwhile, Yemeni authorities said Houthi rebels struck Aden, without causing any casualties, and Qatari mediators have returned to Tehran for talks with Iranian officials. ... ## Iran says supertanker struck mine and caught fire in the Strait of Hormuz Iran’s Revolutionary Guard said Friday that a supertanker carrying more than 2 million barrels of oil struck a naval mine and caught fire while using an …",
+  "hash": "28d203a51b5bb2c9e7d632615216310930e3eace3d8f61c25df3de9f63dda961",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news October 30, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-31T02:12:55+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "PCE inflation report September 2026:",
+    "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "The pace of price increases stepped up in September, keeping inflation well above the Federal Reserve's target, while the economy grew faster than expected in the third quarter, according to Commerce Department reports Thursday. The personal consumption expenditures price index increased a seasonally adjusted 0.5% for the month, putting the annual inflation rate at 3.6%. The monthly increase was the largest since March but in line with the Dow Jones consensus, while the annual rate was 0.1 percentage point below. Excluding food and energy, the core PCE posted respective readings of 0.3% and 3.1%, in line with the consensus. While the Fed follows both measures closely, officials generally see the core reading as more indicative of longer-term inflation trends. While inflation continued to run ahead of the Fed's 2% target, the Commerce Department also reported that gross domestic product was strong in the third quarter. GDP increased at a seasonally adjusted annualized pace of 3.4%, better than the 3.1% estimate and well ahead of the 2.2% in the second quarter. Also, in September consumer spending proved resilient, climbing 0.5%, a bit below the forecast for a 0.6% gain, while personal income rose 0.2%, compared with the estimate for 0.3%. The reports come the day after the Fed voted to hold its benchmark interest rate in a range between 3.75%-4%. Despite elevated inflation readings, central bank officials insist they can afford to evaluate incoming data before deciding on their next move. ... There was some good inflation news for the period: On a quarterly basis, PCE prices rose 2.1% on the headline number and 2.5% for core, down respectively from 5% and 3.3% in the second quarter. September's price increases were driven largely by a surge in energy costs that economists fear could be spreading to other parts of the economy. Gasoline and other energy goods saw a 9.2% rise for the month while energy goods and services broadly jumped 5.4%. At the same time, services prices excluding energy and housing rose 0.4%, and housing costs increased 0.3%."
+   },
+   {
+    "title": "Inflation accelerated again last month with rising costs a central theme in US elections | AP News",
+    "url": "https://apnews.com/article/consumer-prices-inflation-gasoline-energy-trump-c32cfa8b85ae53ceb7b1cc557d3b7400",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "The economy grew at a strong 3.4% annual rate in the July-September quarter, the Commerce Department said Thursday, much faster than the 2.2% growth in the April-June quarter. Consumer spending climbed 3.8% at an annual rate, marking the second straight quarter of strong growth and far exceeding the 0.7% increase in the first three months of the year. Business investment, driven by spending on AI infrastructure, jumped 12.7%, the most in six years. ## How long can this economic growth continue? Yet economists worry that persistently high prices are eroding Americans’ ability to keep up. Thursday’s data suggest consumers are increasingly"
+   },
+   {
+    "title": "Slower Wage Growth Curbs US Labor Costs in Third Quarter",
+    "url": "https://money.usnews.com/investing/news/articles/2026-10-30/us-labor-costs-rise-moderately-in-third-quarter",
+    "source": "money.usnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Oct 30 (Reuters) - US labor costs increased moderately in the third quarter amid ⁠a ⁠slowdown in wage growth, suggesting that the labor ⁠market was unlikely to be an inflation risk. The economy is struggling with rising price pressures, mostly stemming from the ​ongoing US-Israeli war with Iran, which has raised the cost of energy goods and fertilizers, as well as an AI investment boom. The Federal Reserve on Wednesday left its ‌benchmark overnight interest rate in the 3.75%-4.00% range ‌while acknowledging that inflation \"remains elevated.\" Economists expect the US central bank to raise borrowing costs in December. \"Labor-cost inflation continues to move in the right direction,\" said Priscilla ⁠Thiagamoorthy, a senior ⁠economist at BMO Capital Markets. \"While consumer inflation remains elevated, the Fed will take some comfort from the ​fact that the labor market is no longer a significant source of price pressures.\" The Employment Cost Index (ECI), the broadest"
+   },
+   {
+    "title": "St. Louis Fed's Musalem: Another rate hike needed 'soon'",
+    "url": "https://www.cnbc.com/amp/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "\"I judge that additional firming of monetary policy will be necessary, and soon,\" Musalem said in prepared remarks for the Shadow Open Market Committee, a gathering of economists focused on the central bank. ... Fed officials have been closely monitoring inflation expectations among consumers and investors to ensure they don't get too far above the"
+   },
+   {
+    "title": "Strong growth and inflation paints mixed picture of economy days before midterms",
+    "url": "https://www.scrippsnews.com/politics/economy/strong-growth-and-inflation-paints-mixed-picture-of-economy-days-before-midterms",
+    "source": "scrippsnews.com",
+    "published": "",
+    "excerpt": "Consumer prices rose 3.6% in September from a year earlier, the Commerce Department said Thursday, up from 3.4% in August. On a monthly basis, prices climbed 0.5%, up from 0.3% in August and the highest figure since May."
+   },
+   {
+    "title": "Fed’s Barkin says US central bank’s direction ’straightforward,’ the question is pace, SiriusXM reports By Reuters",
+    "url": "https://www.investing.com/news/economy-news/feds-barkin-says-us-central-banks-direction-straightforward-the-question-is-pace-siriusxm-reports-4988174",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Oct 30 (Reuters) - Richmond Federal Reserve President Tom Barkin said on Friday that with high inflation and the economy solid, the path of US monetary policy was \"straightforward,\" but with an open question about the pace of any future rate increases. \"Inflation’s high, demand is solid, unemployment is relatively low. So I think the direction of travel is pretty straightforward,\" Barkin said on SiriusXM’s Business Briefing when asked if the Fed would need to raise rates again. \"The question, though, is pace ... We signaled a gradual approach. Gradual makes sense when you’re not much behind the curve, where you want time to learn.\" At this point, however, Barkin said that businesses in his mid-Atlantic and southeastern district report both rising cost pressures and a willingness to pass those costs along, with booming investment in artificial intelligence boosting demand and an array of prices. \"There are a lot of cost pressures that are hitting American businesses,\" from diesel fuel to computer chips or the wages for skilled labor, Barkin said. \"In the context of four or five years of elevated inflation I think it is just easier to make the argument... We are going to have to\" raise prices."
+   },
+   {
+    "title": "New Economic Data Challenges Fed Chief's Not-Too-Hot Perspective",
+    "url": "https://money.usnews.com/investing/news/articles/2026-10-30/new-economic-data-challenges-fed-chiefs-not-too-hot-perspective",
+    "source": "money.usnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Oct 30 (Reuters) - New data may challenge Federal Reserve Chairman Kevin Warsh's sense that the US economy can handle ⁠a ⁠robust expansion without stoking inflation, as a key measure of price pressures ⁠jumped and strong consumer spending and business investment pushed growth further beyond the level most central bank officials see as sustainable. ... The ⁠pace may not continue. ... But the data in hand still show an economy that so far has not slowed despite the outlook for tighter monetary policy, with strong demand now coinciding with broad-based inflation. Different measures of inflation's breadth show anywhere from roughly 50% to nearly 60% of the items in the Personal Consumption Expenditures Price Index, the gauge the Fed uses for its 2% inflation target, posting annual price increases of more than 3% ​in September — far above pre-COVID-19 norms for a measure Warsh said he sees as a good indicator of underlying inflation trends. Though the number of items"
+   },
+   {
+    "title": "Chartstopper: October 30, 2026 | Nasdaq",
+    "url": "https://www.nasdaq.com/economic-institute/chartstopper-103026",
+    "source": "nasdaq.com",
+    "published": "",
+    "excerpt": "due to energy inflation. - U.S. oil prices are up a dollar per barrel and remain above $100, even with Qatar and Vice President Vance making efforts at diplomacy, amid talks of renewed attacks on Iran after the midterm elections"
+   },
+   {
+    "title": "Fed’s Barkin Reportedly Backs Gradual Rate Hikes, Flags AI Investment Boom As Inflation Risk",
+    "url": "https://finance.yahoo.com/economy/policy/articles/fed-barkin-reportedly-backs-gradual-162304300.html",
+    "source": "finance.yahoo.com",
+    "published": "",
+    "excerpt": "Policymakers might need to respond if a surge in AI-driven investment continues to fuel demand ... of demand-side inflation, that's not a supply-side shortage issue ... advice. For more, see our editorial policy. This article was originally published on"
+   },
+   {
+    "title": "The Fed Wanted More Data. It Got More Inflation. | The Daily Economy",
+    "url": "https://thedailyeconomy.org/article/the-fed-wanted-more-data-it-got-more-inflation/",
+    "source": "thedailyeconomy.org",
+    "published": "",
+    "excerpt": "on Thursday that the Personal Consumption Expenditures Price Index (PCEPI), the Fed’s preferred measure of inflation, rose 0.5 percent in September, up from 0.3 percent in August. Prices are now 3.6 percent higher than a year ago, up from 3.4 percent in"
+   }
+  ],
+  "text": "[1] PCE inflation report September 2026: (cnbc.com)\nThe pace of price increases stepped up in September, keeping inflation well above the Federal Reserve's target, while the economy grew faster than expected in the third quarter, according to Commerce Department reports Thursday. The personal consumption expenditures price index increased a seasonally adjusted 0.5% for the month, putting the annual inflation rate at 3.6%. The monthly increase was the largest since March but in line with the Dow Jones consensus, while the annual rate was 0.1 percentage point below. Excluding food and energy, the core PCE posted respective readings of 0.3% and …\n\n[2] Inflation accelerated again last month with rising costs a central theme in US elections | AP News (apnews.com)\nThe economy grew at a strong 3.4% annual rate in the July-September quarter, the Commerce Department said Thursday, much faster than the 2.2% growth in the April-June quarter. Consumer spending climbed 3.8% at an annual rate, marking the second straight quarter of strong growth and far exceeding the 0.7% increase in the first three months of the year. Business investment, driven by spending on AI infrastructure, jumped 12.7%, the most in six years. ## How long can this economic growth continue? Yet economists worry that persistently high prices are eroding Americans’ ability to keep up. …\n\n[3] Slower Wage Growth Curbs US Labor Costs in Third Quarter (money.usnews.com)\nWASHINGTON, Oct 30 (Reuters) - US labor costs increased moderately in the third quarter amid ⁠a ⁠slowdown in wage growth, suggesting that the labor ⁠market was unlikely to be an inflation risk. The economy is struggling with rising price pressures, mostly stemming from the ​ongoing US-Israeli war with Iran, which has raised the cost of energy goods and fertilizers, as well as an AI investment boom. The Federal Reserve on Wednesday left its ‌benchmark overnight interest rate in the 3.75%-4.00% range ‌while acknowledging that inflation \"remains elevated.\" Economists expect the US central bank …\n\n[4] St. Louis Fed's Musalem: Another rate hike needed 'soon' (cnbc.com)\n\"I judge that additional firming of monetary policy will be necessary, and soon,\" Musalem said in prepared remarks for the Shadow Open Market Committee, a gathering of economists focused on the central bank. ... Fed officials have been closely monitoring inflation expectations among consumers and investors to ensure they don't get too far above the\n\n[5] Strong growth and inflation paints mixed picture of economy days before midterms (scrippsnews.com)\nConsumer prices rose 3.6% in September from a year earlier, the Commerce Department said Thursday, up from 3.4% in August. On a monthly basis, prices climbed 0.5%, up from 0.3% in August and the highest figure since May.\n\n[6] Fed’s Barkin says US central bank’s direction ’straightforward,’ the question is pace, SiriusXM reports By Reuters (investing.com)\nWASHINGTON, Oct 30 (Reuters) - Richmond Federal Reserve President Tom Barkin said on Friday that with high inflation and the economy solid, the path of US monetary policy was \"straightforward,\" but with an open question about the pace of any future rate increases. \"Inflation’s high, demand is solid, unemployment is relatively low. So I think the direction of travel is pretty straightforward,\" Barkin said on SiriusXM’s Business Briefing when asked if the Fed would need to raise rates again. \"The question, though, is pace ... We signaled a gradual approach. Gradual makes sense when you’re not …\n\n[7] New Economic Data Challenges Fed Chief's Not-Too-Hot Perspective (money.usnews.com)\nWASHINGTON, Oct 30 (Reuters) - New data may challenge Federal Reserve Chairman Kevin Warsh's sense that the US economy can handle ⁠a ⁠robust expansion without stoking inflation, as a key measure of price pressures ⁠jumped and strong consumer spending and business investment pushed growth further beyond the level most central bank officials see as sustainable. ... The ⁠pace may not continue. ... But the data in hand still show an economy that so far has not slowed despite the outlook for tighter monetary policy, with strong demand now coinciding with broad-based inflation. Different measures …\n\n[8] Chartstopper: October 30, 2026 | Nasdaq (nasdaq.com)\ndue to energy inflation. - U.S. oil prices are up a dollar per barrel and remain above $100, even with Qatar and Vice President Vance making efforts at diplomacy, amid talks of renewed attacks on Iran after the midterm elections\n\n[9] Fed’s Barkin Reportedly Backs Gradual Rate Hikes, Flags AI Investment Boom As Inflation Risk (finance.yahoo.com)\nPolicymakers might need to respond if a surge in AI-driven investment continues to fuel demand ... of demand-side inflation, that's not a supply-side shortage issue ... advice. For more, see our editorial policy. This article was originally published on\n\n[10] The Fed Wanted More Data. It Got More Inflation. | The Daily Economy (thedailyeconomy.org)\non Thursday that the Personal Consumption Expenditures Price Index (PCEPI), the Fed’s preferred measure of inflation, rose 0.5 percent in September, up from 0.3 percent in August. Prices are now 3.6 percent higher than a year ago, up from 3.4 percent in",
+  "hash": "d4834583dd55eaa50b152e89094410958d4ec86386c70df81a1c72bf22cfb219",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news October 30, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-31T02:13:02+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Live updates: Judge bars federal government from trying to separate ballots | AP News",
+    "url": "https://apnews.com/live/trump-midterm-elections-news-updates-10-30-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Updated 9:23 PM EDT, October 30, 2026 ... - The top federal prosecutor in Alaska confirmed on Friday the existence of a criminal investigation related to an alleged scheme to confuse voters by putting a Senate candidate on the ballot with the same name as the Republican incumbent, Sen. Dan Sullivan. The department also confirmed in court documents that it is seeking to isolate ballots ranking Dan J. Sullivan to probe “confusion.” - Revelations came earlier this week from The New York Times that Democratic Senate candidate Mary Peltola’s campaign appeared to be involved in recruiting Dan J. Sullivan. It’s highly unusual for"
+   },
+   {
+    "title": "Live Midterm Election Updates: Peltola denies \"tricking voters,\" Trump visits South Carolina and more from the trail",
+    "url": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
+    "source": "cbsnews.com",
+    "published": "",
+    "excerpt": "Alaska's Senate campaign was rocked by allegations that Democrat Mary Peltola's campaign was ... candidate with the same name as incumbent Sen. Dan Sullivan, leading to state and federal probes. Peltola denied the allegations, telling supporters she \""
+   },
+   {
+    "title": "The Latest: Justice Department looks to separate Alaska ballots that rank Dan J. Sullivan | AP News",
+    "url": "https://apnews.com/article/trump-election-democrats-senate-alaska-735089be466c4d0e57ff40789c28bb94",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "on Friday the existence of a criminal investigation related to an alleged scheme to confuse voters by putting a Senate candidate on the ballot with the same name as ... that it is seeking to isolate ballots ranking Dan J. Sullivan to probe “confusion.”"
+   },
+   {
+    "title": "Trump pushes to intensify Alaska Senate probes and Israel’s final election results released: Morning Rundown",
+    "url": "https://www.nbcnews.com/news/us-news/trump-alaska-senate-probe-israel-election-results-morning-rundown-rcna606499",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "The Justice Department has issued at least three dozen new subpoenas and document preservation requests as part of its investigation into the Alaska Senate race, with President Donald Trump pushing his administration to intensify its investigations."
+   },
+   {
+    "title": "Trump escalates legal challenges, scrambles schedule as US midterm elections near By Reuters",
+    "url": "https://www.investing.com/news/politics-news/trump-escalates-legal-challenges-against-states-as-election-day-nears-4986495",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "WASHINGTON/ANCHORAGE, Oct 30 (Reuters) - President Donald Trump’s administration stepped up criminal and civil investigations into allegations that Democrats conspired to recruit a spoiler candidate in a critical Senate race in Alaska, US officials said on Friday, injecting fresh uncertainty into Tuesday’s congressional midterm election. The Justice Department’s top prosecutor in Alaska, US Attorney Michael Heyman, said at a press conference that a Wednesday New York Times article about the effort had driven a \"surge\" of FBI resources, adding that he had assigned several prosecutors to the case and that investigative steps were taking place \"intensely and swiftly.\" \"Every Alaskan deserves a fair election, and they’re going to get one,\" he said. \"Anyone who tries to illegally deceive voters and interfere with the election, they’ll answer for it.\" Separately, the department on Friday asked a federal judge to block Alaska from certifying the election results if the Republican incumbent, Dan Sullivan, loses due to the presence of a third candidate, also named Daniel Sullivan. The contest between Sullivan and Democratic challenger Mary Peltola is widely seen as one of the few Senate races that could sway control of the chamber on November 3. A record 48 million people have cast early ballots, more than any other midterm election in US history, according to the University of Florida’s Election Lab, with even the American-born Pope Leo casting a ballot by mail. If Democrats take one or both chambers of Congress, they intend to launch investigations into Trump’s administration and increase pressure on the president to end the war against Iran. KEY PATH FOR DEMOCRATS If Democrats cannot flip the seat, their path to a majority narrows considerably, with the party needing to win at least two other races in mostly Republican states such as Ohio, Texas, Iowa and Kansas. Trump’s fellow Republicans are likely to lose their slim majority in the US House of Representatives, according to nonpartisan analysts. The New York Times this week reported that staffers from the Peltola campaign and the Democratic Party’s Senate campaign arm helped recruit a retired teacher living in a remote fishing village who is named Daniel J. Sullivan Jr to appear on the ballot. Reuters has not been able to independently confirm the Times’ reporting. Peltola has denied knowing about any effort to recruit the second Dan Sullivan, and the Democratic Senatorial Campaign Committee has also denied involvement. Sullivan, the retired teacher, has denied coordinating with Peltola’s campaign. It is not clear what, if any, laws may have been broken; both parties have engaged in \"ballot stacking\" by propping up lesser-known candidates to siphon votes from their opponents. Trump has called for Peltola to be prosecuted. Heyman declined to offer specifics when asked what possible crimes were being examined, saying he would let the investigation proceed. He also said the probe had been ongoing for months and that the Times report had added urgency to the investigation, but did not explain how. Peltola’s campaign has asked a judge to dismiss the Justice Department’s lawsuit, arguing it has no legal basis. CALIFORNIA PROBE The Justice Department has also pushed forward a legal case in California, issuing subpoenas to election officials as part of a criminal probe into alleged voting by noncitizens, according to copies of documents seen by Reuters. A US appeals court on Friday rejected the department’s request to temporarily block California from counting any mail ballots from more than 20,000 registered voters who the Trump administration alleges are likely noncitizens, the second time the court has done so this week. A lower court judge had already denied the administration’s request, finding it would potentially disenfranchise thousands of legal voters. California officials have said the Justice Department’s assertions relied on suspect data. The administration’s legal moves represent an extraordinary federal intervention in state-run elections, which are administered locally under the US Constitution. Election officials around the country have told Reuters they are bracing for further legal challenges from Washington. Trump has long sought to sow distrust of election results, falsely claiming for years that his 2020 election loss to Democrat Joe Biden was the result of widespread fraud. Voter fraud in the US is extremely rare, studies and investigations have found."
+   },
+   {
+    "title": "The News Roundup For October 30, 2026 : 1A : NPR",
+    "url": "https://www.npr.org/2026/10/30/nx-s1-6023370/the-news-roundup-for-october-30-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "’s made a number of promises to Republican voters this cycle, looking to shore up support in the communities he ... were in favor of raising rates by a quarter of a percent to try to bring down inflation"
+   },
+   {
+    "title": "These are midterm polls that got our attention this week - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/10/30/these-are-midterm-polls-that-got-our-attention-this-week/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "’s chief federal prosecutor confirmed Friday that his office has opened a criminal investigation into an alleged Democratic scheme to recruit a candidate into the state’s Senate race with the same name as the Republican incumbent in an effort to confuse"
+   },
+   {
+    "title": "Morning Edition for October 30, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5972584/morning-edition-for-october-30-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Candidates make final appeals to voters ahead of Election Day by Saige Miller, A Martínez #### Candidates make final appeals to voters ahead of Election Day Listen · 3:30 3:30 ### How campaigns are spending the last weekend before Election Day"
+   },
+   {
+    "title": "Up First briefing: Midterm elections; Iran war plans; Veteran Affairs : NPR",
+    "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "York Times report on the state's toss-up U.S. Senate race. The article revealed that Democratic campaign operatives were attempting to recruit a candidate, whom Republicans ... could confuse voters and siphon support from GOP incumbent Dan Sullivan. The"
+   },
+   {
+    "title": "October 30, 2026 - PBS News Hour full episode | PBS News",
+    "url": "https://www.pbs.org/newshour/show/october-30-2026-pbs-news-hour-full-episode",
+    "source": "pbs.org",
+    "published": "",
+    "excerpt": "Friday on the News Hour, Republicans continue to cry foul in Alaska's Senate race while early voting surges across the country. Six ... s biggest cryptocurrency exchange puts investors on edge. Plus, we visit a Ukrainian village hit by a Russian drone"
+   }
+  ],
+  "text": "[1] Live updates: Judge bars federal government from trying to separate ballots | AP News (apnews.com)\nUpdated 9:23 PM EDT, October 30, 2026 ... - The top federal prosecutor in Alaska confirmed on Friday the existence of a criminal investigation related to an alleged scheme to confuse voters by putting a Senate candidate on the ballot with the same name as the Republican incumbent, Sen. Dan Sullivan. The department also confirmed in court documents that it is seeking to isolate ballots ranking Dan J. Sullivan to probe “confusion.” - Revelations came earlier this week from The New York Times that Democratic Senate candidate Mary Peltola’s campaign appeared to be involved in recruiting Dan J. …\n\n[2] Live Midterm Election Updates: Peltola denies \"tricking voters,\" Trump visits South Carolina and more from the trail (cbsnews.com)\nAlaska's Senate campaign was rocked by allegations that Democrat Mary Peltola's campaign was ... candidate with the same name as incumbent Sen. Dan Sullivan, leading to state and federal probes. Peltola denied the allegations, telling supporters she \"\n\n[3] The Latest: Justice Department looks to separate Alaska ballots that rank Dan J. Sullivan | AP News (apnews.com)\non Friday the existence of a criminal investigation related to an alleged scheme to confuse voters by putting a Senate candidate on the ballot with the same name as ... that it is seeking to isolate ballots ranking Dan J. Sullivan to probe “confusion.”\n\n[4] Trump pushes to intensify Alaska Senate probes and Israel’s final election results released: Morning Rundown (nbcnews.com)\nThe Justice Department has issued at least three dozen new subpoenas and document preservation requests as part of its investigation into the Alaska Senate race, with President Donald Trump pushing his administration to intensify its investigations.\n\n[5] Trump escalates legal challenges, scrambles schedule as US midterm elections near By Reuters (investing.com)\nWASHINGTON/ANCHORAGE, Oct 30 (Reuters) - President Donald Trump’s administration stepped up criminal and civil investigations into allegations that Democrats conspired to recruit a spoiler candidate in a critical Senate race in Alaska, US officials said on Friday, injecting fresh uncertainty into Tuesday’s congressional midterm election. The Justice Department’s top prosecutor in Alaska, US Attorney Michael Heyman, said at a press conference that a Wednesday New York Times article about the effort had driven a \"surge\" of FBI resources, adding that he had assigned several prosecutors to the …\n\n[6] The News Roundup For October 30, 2026 : 1A : NPR (npr.org)\n’s made a number of promises to Republican voters this cycle, looking to shore up support in the communities he ... were in favor of raising rates by a quarter of a percent to try to bring down inflation\n\n[7] These are midterm polls that got our attention this week - The Washington Post (washingtonpost.com)\n’s chief federal prosecutor confirmed Friday that his office has opened a criminal investigation into an alleged Democratic scheme to recruit a candidate into the state’s Senate race with the same name as the Republican incumbent in an effort to confuse\n\n[8] Morning Edition for October 30, 2026 : NPR (npr.org)\n### Candidates make final appeals to voters ahead of Election Day by Saige Miller, A Martínez #### Candidates make final appeals to voters ahead of Election Day Listen · 3:30 3:30 ### How campaigns are spending the last weekend before Election Day\n\n[9] Up First briefing: Midterm elections; Iran war plans; Veteran Affairs : NPR (npr.org)\nYork Times report on the state's toss-up U.S. Senate race. The article revealed that Democratic campaign operatives were attempting to recruit a candidate, whom Republicans ... could confuse voters and siphon support from GOP incumbent Dan Sullivan. The\n\n[10] October 30, 2026 - PBS News Hour full episode | PBS News (pbs.org)\nFriday on the News Hour, Republicans continue to cry foul in Alaska's Senate race while early voting surges across the country. Six ... s biggest cryptocurrency exchange puts investors on edge. Plus, we visit a Ukrainian village hit by a Russian drone",
+  "hash": "9d1dcafa20c5d450c618a7f320db4fee3ff5a18d2244f3a01e985310799c952f",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities October 30, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-10-31T02:13:13+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Pop Culture & Entertainment, Friday, October 30, 2026: 12 stories | BBN",
+    "url": "https://bbn.live/pop-culture/archive/2026-10-30",
+    "source": "bbn.live",
+    "published": "",
+    "excerpt": "### Five new movies and shows to stream this Halloween weekend The picks span Netflix, HBO Max, Paramount Plus and Peacock, including Nocturne's six-episode run and Dexter: Resurrection's second season; the couch has no comment."
+   },
+   {
+    "title": "New Music Friday October 30: Mariah Carey, Gracie Abrams, Nickelback, JISOO, Dead Man's Bones, ILLIT and More | Entertainment Tonight",
+    "url": "https://www.etonline.com/new-music-friday-october-30-mariah-carey-gracie-abrams-nickelback-jisoo-dead-mans-bones-illit-and",
+    "source": "etonline.com",
+    "published": "",
+    "excerpt": "BTS kicked off their Brazilian run of BTS WORLD TOUR ARIRANG with an opening show at Estádio do MorumBIS in Sãn Paulo, marking another milestone in their sold-out Latin American tour leg. BTS arrived in Brazil following sold out stadium shows across Columbia, Peru, Chile and Argentina. More than 1.9 million people accessed the ticketing system for the group's three Sãn Paulo performances. ... LL COOL J is bringing the sound, story and legacy of hip-hop to Las Vegas with ROCK THE BELLS: THE RESIDENCY. His 11-show residency will kick off May 15, 2027 at Dolby Live at Park MGM and will include immersive storytelling, his iconic hits and special guest performances. Tickets will go on sale to the general public on November 2 at ticketmaster.com. Gracie Abrams performed an intimate show for SiriusXM's Small Stage Series at Irving Plaza in New York City last weekend. She performed songs from her latest album, Daughter from Hell, and she just announced she will be releasing the deluxe version of her album on November 20. The deluxe version will include five additional songs, including new single \"Here You Come, There You Go\" out now. ... BET announced that Durand Bernarr will receive the Soul Personified Honor and perform at Soul Train Awards 2026. He will be celebrated for his fearless creativity, vocal mastery and contributions to contemporary music. ... BET also announced that Elmiene will receive the New Soul Honor and perform. The New Soul Honor celebrates a rising artist whose distinctive voice and artistry are helping shape the future of R&B. ... After 16 years, Kesha has finally released her long-lost music video for her fan-favorite song \"Backstabber.\" Originally filmed in 2009, the video was never officially released and now the video is out. Kesha shared, \"In 2009, I knew I wanted \"Backstabber\" to be a single, so I took it upon myself to make this video to convince everyone that it deserved its moment. Finally...in 2026...it's OUT! This video will always have a special place in my heart.\" ... Dead Man's Bones, the musical partnership of Ryan Gosling and Zach Shields, return with a new song, \"Lost In The Night,\" which is their first new music since 2009. After trying several Los Angeles studios without finding the sound they wanted, the duo took two guitars, two drum machines, and two synthesizers to a farm outside the city and recorded the song in a day. The music video stars Noah Jupe and Rain Spencer as they leave a cemetery and venture into the streets of the city."
+   },
+   {
+    "title": "This Week In Entertainment News 30 October 2026 - MADCAP Global Entertainment",
+    "url": "https://madcapglobalentertainment.com/this-week-in-entertainment-news-30-october-2026/",
+    "source": "madcapglobalentertainment.com",
+    "published": "",
+    "excerpt": "90. Navigator of the Starship Enterprise from season two in 1967 ... Also beaming out one last time was Sir Patrick Stewart, 86, best known as Captain Jean-Luc Picard in ‘Star Trek: The Next Generation’ and Professor Charles Xavier in the ‘X-Men’ films"
+   },
+   {
+    "title": "AP Entertainment SummaryBrief at 7:31 p.m. EDT | Entertainment | santamariatimes.com",
+    "url": "https://santamariatimes.com/ap/entertainment/ap-entertainment-summarybrief-at-7-31-p-m-edt/article_23f05c35-7b13-5cbf-bfd2-7aae63e94cf9.html",
+    "source": "santamariatimes.com",
+    "published": "",
+    "excerpt": "Margaret Qualley, Jack Antonoff file for divorce after 3 years of marriage NEW YORK (AP) — Actor Margaret Qualley and Grammy winner Jack Antonoff have filed for divorce after three years of marriage. Court records show the case was filed Friday in Kings County Supreme Court in New York as an uncontested matrimonial action. Qualley is listed as the plaintiff, and Antonoff as the defendant. The couple separated in July. Qualley, 32, is known for films like “The Substance” and “Once Upon a Time in Hollywood.” Antonoff, 42, is a 14-time Grammy-winning songwriter and producer. The couple began dating in 2021 and married in August 2023. NEW YORK (AP) — Kirk Franklin is back with his new album, \"I Am What I Am,\" out Friday. His 14th studio project and first double album, 14 tracks are divided between contemporary music and traditional, live-recorded gospel songs. Features include gospel royalty Karen Clark Sheard and star mainstream artists like Jelly Roll, Davido and GloRilla. “This Time,\" featuring GloRilla, hit No. 1 on Billboard’s hot gospel songs, extending Franklin's record to ten No. 1s on the chart. Known for his crossover hits, the 20-time Grammy winner has frequently faced criticism for working with secular artists, but remains unapologetic in the name of spreading his Christian faith. ... New York (AP) — The reggaeton icon Daddy Yankee has released a new album, “La Postal,” marking another chapter in his evolving career. This 15-track concept album, which translates to “The Postcard” in English, is a love letter to various forms of adoration, including romantic, familial and self-love, focusing on themes of affection and unity. Collaborations with newer generation artists like Myke Towers, Bizarrap, and Cardi B highlight his role as a trailblazer in Latin music. The album closes with “Pokito,” a cross-cultural collaboration with Indian American superstar Diljit Dosanjh. Associated Press Music Writer Maria Sherman writes that the single is yet another example of Yankee bringing regional music to the global stage."
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/3999619-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Spanish filmmakers Javier Calvo and Javier Ambrossi said their sophomore feature \"La Bola Negra\", which has emerged as an Oscar contender ... tackle. Industry buzz over a possible Oscar has built for the film since its launch at the Cannes Film Festival in"
+   },
+   {
+    "title": "Weekly Film Music Roundup (October 30, 2026) – Film Music Reporter",
+    "url": "https://filmmusicreporter.com/2026/10/30/weekly-film-music-roundup-october-30-2026/",
+    "source": "filmmusicreporter.com",
+    "published": "",
+    "excerpt": "Opening in theaters nationwide this weekend is the horror comedy Christmas at the Kringles directed by Kevin Lewis and starring Ron Livingston, Rachel Bilson, Rob Riggle, Arden Myrin, Donald Faison and Thomas Lennon. The film’s original music is composed by Émoi (Willy’s Wonderland, The Accursed, Pig Hill). No word on a soundtrack release. The movie, which follows a family starting fresh in a quiet suburb who must fight for survival when they discover their Christmas-obsessed neighbors are a brainwashing cult, forcing the father to team up with a rogue Santa on a high-stakes rescue mission, is being distributed by Briarcliff Entertainment. Opening semi-wide in several hundred theaters is the war drama The Mosquito Bowl directed by Peter Berg and starring Nicholas Galitzine, Bill Skarsgård, Ray Nicholson, Tom Francis, Dominic Bogart and Brent Comer. Explosions in the Sky (Friday Night Lights, Lone Survivor, American Primeval, Manglehorn, Prince Avalanche) have composed the film’s original music. Netflix Music has released a soundtrack album featuring the post-rock band’s score today. Check out our previous news article for the full album details and to learn more about the movie. Already playing in around 800 theaters since this past Wednesday is the horror thriller Breeder written and directed by Alex Goyotte and starring Daniel Doheny, Dot Marie Jones, Maddie Phillips and Tanaya Beatty. The film’s original music is composed by Hannah Parrott (Harlan Coben’s Shelter, The Croods: Family Tree, Head Count, U.S. Against the World, Last Three Days, When Jeff Tried to Save the World, Golden Arm). No soundtrack album has been announced yet. The movie, which follows an eccentric poodle breeder who lures a broke college student to her remote ranch with a promise of research funding, but soon learns that there’s a catch, premiered at this year’s Tribeca Film Festival and is being distributed by the Independent Film Company and Shudder. Opening in a few hundred theaters (including numerous IMAX screens) is the documentary Everest: The Other Side directed by Elizabeth Chai Vasarhelyi & Jimmy Chin about elite ski mountaineers Jim Morrison & Hilaree Nelson who were bound by love and the pursuit of the impossible. Caroline Ho (Mother of the Bride, La Dolce Vita, Rap Sh!t) has composed the film’s original music. Hollywood Records will release a soundtrack album featuring the composer’s score on November 13. ... Also opening semi-wide in a couple of hundred theaters is the action thriller The Mongoose directed by Mark Vanselow and starring Liam Neeson, Marisa Tomei, Ving Rhames, Michael Chiklis, Maurice Marvel Meredith and Marcus Thomas. ... Opening in select U.S. theaters today before premiering on November 30 on Netflix is the Austrian/German/French drama Gentle Monster written and directed by Marie Kreutzer and starring Léa Seydoux, Laurence Rupp, Catherine Deneuve and Jella Haase. Singer/songwriter and composer Camille (aka Camille Dalmais) (Emilia"
+   },
+   {
+    "title": "Movie News, 30 October 2026 | 15 Minute News - Know the Movie News",
+    "url": "https://www.15minutenews.com/entertainment/movies/2026/10/30/",
+    "source": "15minutenews.com",
+    "published": "",
+    "excerpt": "Holt McCallany Returns to the World of Serial Killers in First Look at Paradise Disturbed Bloody Disgusting - 30 Oct 2026 21:45 ... 90s that could be considered the heyday of the genre. The decade started off with The Silence of the Lambs,"
+   },
+   {
+    "title": "Tony Gilroy on the Pedro Pascal Lunch That Saved 'Behemoth!'",
+    "url": "https://variety.com/2026/film/awards/behemoth-tony-gilroy-pedro-pascal-loneliness-oscars-1236935214/",
+    "source": "variety.com",
+    "published": "",
+    "excerpt": "The result is Gilroy’s first feature as a director since 2012′ “The Bourne Legacy” and his first anything since Disney+’s “Andor,” the two-season series that consumed most of his last six years. Pascal plays Alex Serian, a cellist from a family of studio musicians who comes home to Los Angeles after two decades on the road and starts recording film scores, including a giant studio production with the secret title “Behemoth!” The film is among the Oscar contenders this year including best actor for Pascal, and with the strong reviews, perhaps even best picture. The cast also includes Olivia Wilde, Will Arnett, Eva Victor, Alexa Swinton and Hank Azaria. ... Searchlight Pictures will open “Behemoth!” in theaters on Dec. 4."
+   },
+   {
+    "title": "Raye to Voice Character, Make Music for Benny Safdie's ‘Lizard Music’",
+    "url": "https://www.rollingstone.com/music/music-news/raye-benny-safdie-film-lizard-music-novel-1235650792/",
+    "source": "rollingstone.com",
+    "published": "",
+    "excerpt": "Raye has joined Benny Safdie‘s upcoming film Lizard Music. The Grammy winner will create original music for the movie, which will blend live action with CGI, according to Deadline. Star and producer Dwayne Johnson, Theo Leber, Alicia Silverstone, Tim Heidecker, Arya Parvathi, Regina Hall, Colman Domingo, Jeff Goldblum, Rachel McAdams, David Krumholtz, and Andrew Dice Clay have also signed on to the project. The film is based on the 1976 novel of the same name by Daniel Pinkwater, a wildly prolific author of children’s and young adults’ novels. Safdie wrote the film’s script based on Pinkwater’s work and Lizard Music is set to roll out in theaters on Dec. 25, 2027. Per Deadline, the film will chronicle the madcap adventures of a boy named Leber who discovers a late-night broadcast of lizards playing unearthly music. He joins up with an eccentric old man nicknamed the Chicken Man and his confidante, an octogenarian chicken named Claudia, as they nose around the universe for answers."
+   },
+   {
+    "title": "Africa Entertainment News Archive: October 30, 2026 | AfricaFrontPage",
+    "url": "https://www.africafrontpage.com/archive/2026-10-30/entertainment",
+    "source": "africafrontpage.com",
+    "published": "",
+    "excerpt": "86: Star Trek and X-Men star remembered 3News · 17: ... 2026: Ouagadougou, une terre de rencontres, de découvertes ... d’opportunités Wakat Séra (FR) · 17:11 - ‘I performed money ritual ... before losing my leg’ – Nigerian pastor Adom Online · 17:06"
+   }
+  ],
+  "text": "[1] Pop Culture & Entertainment, Friday, October 30, 2026: 12 stories | BBN (bbn.live)\n### Five new movies and shows to stream this Halloween weekend The picks span Netflix, HBO Max, Paramount Plus and Peacock, including Nocturne's six-episode run and Dexter: Resurrection's second season; the couch has no comment.\n\n[2] New Music Friday October 30: Mariah Carey, Gracie Abrams, Nickelback, JISOO, Dead Man's Bones, ILLIT and More | Entertainment Tonight (etonline.com)\nBTS kicked off their Brazilian run of BTS WORLD TOUR ARIRANG with an opening show at Estádio do MorumBIS in Sãn Paulo, marking another milestone in their sold-out Latin American tour leg. BTS arrived in Brazil following sold out stadium shows across Columbia, Peru, Chile and Argentina. More than 1.9 million people accessed the ticketing system for the group's three Sãn Paulo performances. ... LL COOL J is bringing the sound, story and legacy of hip-hop to Las Vegas with ROCK THE BELLS: THE RESIDENCY. His 11-show residency will kick off May 15, 2027 at Dolby Live at Park MGM and will include …\n\n[3] This Week In Entertainment News 30 October 2026 - MADCAP Global Entertainment (madcapglobalentertainment.com)\n90. Navigator of the Starship Enterprise from season two in 1967 ... Also beaming out one last time was Sir Patrick Stewart, 86, best known as Captain Jean-Luc Picard in ‘Star Trek: The Next Generation’ and Professor Charles Xavier in the ‘X-Men’ films\n\n[4] AP Entertainment SummaryBrief at 7:31 p.m. EDT | Entertainment | santamariatimes.com (santamariatimes.com)\nMargaret Qualley, Jack Antonoff file for divorce after 3 years of marriage NEW YORK (AP) — Actor Margaret Qualley and Grammy winner Jack Antonoff have filed for divorce after three years of marriage. Court records show the case was filed Friday in Kings County Supreme Court in New York as an uncontested matrimonial action. Qualley is listed as the plaintiff, and Antonoff as the defendant. The couple separated in July. Qualley, 32, is known for films like “The Substance” and “Once Upon a Time in Hollywood.” Antonoff, 42, is a 14-time Grammy-winning songwriter and producer. The couple began …\n\n[5] Reuters Entertainment News Summary | International (devdiscourse.com)\nSpanish filmmakers Javier Calvo and Javier Ambrossi said their sophomore feature \"La Bola Negra\", which has emerged as an Oscar contender ... tackle. Industry buzz over a possible Oscar has built for the film since its launch at the Cannes Film Festival in\n\n[6] Weekly Film Music Roundup (October 30, 2026) – Film Music Reporter (filmmusicreporter.com)\nOpening in theaters nationwide this weekend is the horror comedy Christmas at the Kringles directed by Kevin Lewis and starring Ron Livingston, Rachel Bilson, Rob Riggle, Arden Myrin, Donald Faison and Thomas Lennon. The film’s original music is composed by Émoi (Willy’s Wonderland, The Accursed, Pig Hill). No word on a soundtrack release. The movie, which follows a family starting fresh in a quiet suburb who must fight for survival when they discover their Christmas-obsessed neighbors are a brainwashing cult, forcing the father to team up with a rogue Santa on a high-stakes rescue mission, …\n\n[7] Movie News, 30 October 2026 | 15 Minute News - Know the Movie News (15minutenews.com)\nHolt McCallany Returns to the World of Serial Killers in First Look at Paradise Disturbed Bloody Disgusting - 30 Oct 2026 21:45 ... 90s that could be considered the heyday of the genre. The decade started off with The Silence of the Lambs,\n\n[8] Tony Gilroy on the Pedro Pascal Lunch That Saved 'Behemoth!' (variety.com)\nThe result is Gilroy’s first feature as a director since 2012′ “The Bourne Legacy” and his first anything since Disney+’s “Andor,” the two-season series that consumed most of his last six years. Pascal plays Alex Serian, a cellist from a family of studio musicians who comes home to Los Angeles after two decades on the road and starts recording film scores, including a giant studio production with the secret title “Behemoth!” The film is among the Oscar contenders this year including best actor for Pascal, and with the strong reviews, perhaps even best picture. The cast also includes Olivia …\n\n[9] Raye to Voice Character, Make Music for Benny Safdie's ‘Lizard Music’ (rollingstone.com)\nRaye has joined Benny Safdie‘s upcoming film Lizard Music. The Grammy winner will create original music for the movie, which will blend live action with CGI, according to Deadline. Star and producer Dwayne Johnson, Theo Leber, Alicia Silverstone, Tim Heidecker, Arya Parvathi, Regina Hall, Colman Domingo, Jeff Goldblum, Rachel McAdams, David Krumholtz, and Andrew Dice Clay have also signed on to the project. The film is based on the 1976 novel of the same name by Daniel Pinkwater, a wildly prolific author of children’s and young adults’ novels. Safdie wrote the film’s script based on …\n\n[10] Africa Entertainment News Archive: October 30, 2026 | AfricaFrontPage (africafrontpage.com)\n86: Star Trek and X-Men star remembered 3News · 17: ... 2026: Ouagadougou, une terre de rencontres, de découvertes ... d’opportunités Wakat Séra (FR) · 17:11 - ‘I performed money ritual ... before losing my leg’ – Nigerian pastor Adom Online · 17:06",
+  "hash": "bee17cc48a8f33ce26c60460bfca9a15486418d957e1e74ce67d0a1fe41a1a0e",
+  "notes": []
+ }
+}
