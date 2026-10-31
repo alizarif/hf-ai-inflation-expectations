@@ -3,14 +3,15 @@
 ## Run calendar
 
 <!-- CALENDAR:START -->
-**Next scheduled wave:** **Sat Oct 31, 00:00 New York** (EDT) = **Sat Oct 31, 07:30 Tehran**  
-**Completed waves:** 73 · calendar updated Oct 30, 22:20 New York / 05:50 Tehran (it refreshes after every wave)
+**Next scheduled wave:** **Sat Oct 31, 04:00 New York** (EDT) = **Sat Oct 31, 11:30 Tehran**  
+**Completed waves:** 74 · calendar updated Oct 31, 00:41 New York / 08:11 Tehran (it refreshes after every wave)
 
 Times in the cells are **Tehran time** for each New York slot. 🟢 completed · 🔴 missed · 🟡 due now · ⏳ next · ⚪ scheduled
 
 | New York date | 00:00 ET | 04:00 ET | 08:00 ET | 12:00 ET | 16:00 ET | 20:00 ET |
 |---|---|---|---|---|---|---|
-| Sat Oct 31 | ⏳ 07:30 | ⚪ 11:30 | ⚪ 15:30 | ⚪ 19:30 | ⚪ 23:30 | ⚪ 03:30 (+1d) |
+| Sun Nov 1 | ⚪ 07:30 | ⚪ 12:30 | ⚪ 16:30 | ⚪ 20:30 | ⚪ 00:30 (+1d) | ⚪ 04:30 (+1d) |
+| Sat Oct 31 | 🟢 07:30 | ⏳ 11:30 | ⚪ 15:30 | ⚪ 19:30 | ⚪ 23:30 | ⚪ 03:30 (+1d) |
 | Fri Oct 30 | 🟢 07:30 | 🔴 11:30 | 🟢 15:30 | 🟢 19:30 | 🟢 23:30 | 🟢 03:30 (+1d) |
 | Thu Oct 29 | 🟢 07:30 | 🟢 11:30 | 🟢 15:30 | 🟢 19:30 | 🟢 23:30 | 🟢 03:30 (+1d) |
 | Wed Oct 28 | 🟢 07:30 | 🔴 11:30 | 🟢 15:30 | 🟢 19:30 | 🟢 23:30 | 🟢 03:30 (+1d) |
@@ -23,7 +24,6 @@ Times in the cells are **Tehran time** for each New York slot. 🟢 completed ·
 | Wed Oct 21 | 🟢 07:30 | 🟢 11:30 | 🟢 15:30 | 🟢 19:30 | 🟢 23:30 | 🟢 03:30 (+1d) |
 | Tue Oct 20 | 🟢 07:30 | 🟢 11:30 | 🟢 15:30 | 🟢 19:30 | 🟢 23:30 | 🟢 03:30 (+1d) |
 | Mon Oct 19 | 🟢 07:30 | 🟢 11:30 | 🟢 15:30 | 🟢 19:30 | 🟢 23:30 | 🟢 03:30 (+1d) |
-| Sun Oct 18 | · | · | 🟢 15:30 | 🟢 19:30 | 🟢 23:30 | 🟢 03:30 (+1d) |
 
 Older days: see [`data/waves_index.csv`](data/waves_index.csv).
 <!-- CALENDAR:END -->
@@ -36,8 +36,8 @@ were shown, every prompt, every raw reply, and the parsed answers.
 **Live website:** https://alizarif.github.io/hf-ai-inflation-expectations/ (all waves over time, each wave in detail, and the method; rebuilt after every wave)
 
 <!-- STATUS:START -->
-**Latest wave:** `2026-10-30T20ET` · 420 trials · 420 fully valid · 33 had a probability list rescaled to 100 · cost $0.393  
-**Waves so far:** 73 · **rows in panel:** 30660 · **total cost:** $30.47
+**Latest wave:** `2026-10-31T00ET` · 420 trials · 419 fully valid · 27 had a probability list rescaled to 100 · cost $0.401  
+**Waves so far:** 74 · **rows in panel:** 31080 · **total cost:** $30.87
 <!-- STATUS:END -->
 
 ## Design
