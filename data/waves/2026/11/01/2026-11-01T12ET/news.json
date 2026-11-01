@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-01T19:11:37+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 1, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-01T19:11:37+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Reuters World News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4000309-reuters-world-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "US midterm campaign enters final weekend as Alaska, California ballot fights heat up President Donald Trump's administration pressed a criminal investigation into Alaska’s pivotal US Senate race and said on Saturday it would likely take its fight over thousands of California mail-in ballots to the Supreme Court, as the midterm campaign for control of Congress entered its final weekend. In Alaska, federal prosecutors are investigating whether aides to Democratic ​challenger Mary Peltola helped to recruit a retired schoolteacher, Daniel J. Sullivan Jr., to run because his name is similar to the Republican incumbent, Senator Dan S. Sullivan. The closely contested race is seen as crucial to Democrats’ hopes of taking the Senate in Tuesday’s vote. Isolated clashes in France ​after peaceful marches, as police brace for Halloween night violence Scuffles broke out in Paris and other French cities on Saturday evening at the end of nationwide demonstrations driven by anger over living costs and ‌strained public services, while authorities ​warned of possible further violence overnight with Halloween celebrations under way. The protests, which were largely peaceful through the afternoon, continued for a third weekend after riots and looting on October 17 that caught security forces off guard, leaving a trail of damage to shops, public buildings and businesses across the country."
+   },
+   {
+    "title": "Morning Briefing: Nov. 1, 2026",
+    "url": "https://aa.com.tr/en/world/morning-briefing-nov-1-2026/4107709",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "'s a rundown of all the news you need to start Sunday, including G20 foreign ministers concluding their Atlanta meeting with a focus on energy security, supply chains and geopolitical tensions; clashes during"
+   },
+   {
+    "title": "Daily World Briefing, Nov. 1-Xinhua",
+    "url": "https://english.news.cn/20261101/c44843d14a2a41a4bbb81fc1d0943cff/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "A two-day meeting of Group of 20 (G20) foreign ministers ended here Saturday without a joint communique, as participants failed to reach consensus on major global geopolitical and economic security issues amid the Ukraine crisis and the U.S.-Iran conflict."
+   },
+   {
+    "title": "Video. Latest news bulletin | November 1st, 2026 – Morning | Euronews",
+    "url": "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-morning",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "## Protesters clash with police near Colosseum as Italy stages nationwide strike ... ## Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue ... ## From derelict food market to futuristic Centre of Excellence:"
+   },
+   {
+    "title": "The Wall Street Journal's News Archive for November 1, ...",
+    "url": "https://www.wsj.com/news/archive/2026/11/01",
+    "source": "wsj.com",
+    "published": "",
+    "excerpt": "A Marathon First-Timer From Sweden Just Won New York The ‘Paper Son’ Gambit My Family Used to Defy American Exclusion Darline Graham Fights to Keep Her Brother’s Seat ... : Iowa Rep. Miller-Meeks Fights to Hold Vulnerable House Seat The 1894 Midterm"
+   },
+   {
+    "title": "Israeli strike kills 8 including boy in Gaza, and other Mideast news | AP News",
+    "url": "https://apnews.com/article/mideast-news-november-1-2026-b918f44d8f212d7daf7f2f9a98c91a0b",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "rationality” on the U.S. side as diplomatic efforts seek to avert a return to ... Meanwhile, Israeli strikes on Gaza killed eight people, including a young boy. And Qatar’s national gas company said one of its vessels was struck in the Persian Gulf."
+   },
+   {
+    "title": "Top news of the day: November 1 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/the-hindu-top-news-of-the-day-november-1-2026/article71652822.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "Rahul Gandhi assures ‘legal action against PM Modi’ Addressing the INDIA bloc’s mega rally at Ramlila Maidan in New Delhi on Sunday (November 1, 2026), Rahul Gandhi accused Prime Minister Narendra Modi of “stealing votes” and said legal action would be taken against him. He asserted that the Opposition would continue its fight to ensure accountability and justice. Earlier, senior INDIA bloc leaders, including Sonia Gandhi, Rahul Gandhi, Akhilesh Yadav and Mamata Banerjee, marched in an open bus from Congress president Mallikarjun Kharge’s residence to the venue for the rally, which demanded the removal of Chief Election Commissioner (CEC) Gyanesh Kumar over alleged electoral irregularities. Cyclone ‘Murasu’ forms over Bay of Bengal, southern Odisha on high alert The deep depression over the Bay of Bengal on Sunday (November 1, 2026) intensified into cyclonic storm ‘Murasu’, prompting the Odisha government to step up preparedness in the southern region of the State, officials said. In its latest bulletin, the IMD said cyclone ‘Murasu’ has formed over the Bay of Bengal and is likely to make landfall on the Andhra Pradesh coast on November 3."
+   },
+   {
+    "title": "November 1, 2026 | News Headlines | New York Post",
+    "url": "https://nypost.com/2026/11/01/",
+    "source": "nypost.com",
+    "published": "",
+    "excerpt": "### Trump pledges $15B for farmers struggling with costs ahead of midterm elections November 1, 2026 | 1:58pm ... output targets steady ahead of tougher call for ... Over 60,000 NYC marathon runners gathered bright and early in an epic show of"
+   },
+   {
+    "title": "World News in Brief: November 1",
+    "url": "https://en.nhandan.vn/world-news-in-brief-november-1-post168565.html",
+    "source": "en.nhandan.vn",
+    "published": "",
+    "excerpt": "to form the broadest possible government, citing what he called a parliamentary majority from Tuesday's election. Eisenkot's opposition bloc won just 48 seats in ... -member parliament, compared with 53 seats for the coalition bloc led by Prime Minister"
+   },
+   {
+    "title": "World Brief: November 1, 2026 -- Journal Of Occurrences",
+    "url": "https://journalofoccurrences.com/world-brief-november-1-2026/",
+    "source": "journalofoccurrences.com",
+    "published": "",
+    "excerpt": "Qatar’s mediators are still working a two-day plan to reopen the Strait of Hormuz, while Washington and Tehran keep talking tough. Russia knocks out power in four Ukrainian regions on the last day of the Oleshky truce. Two days before the US midterms, more than 53 million Americans have already voted. Europe’s youth protests turn violent in Frankfurt. Plus Israel’s coalition clock, King Charles and the slavery speech in Antigua, a huge opposition rally in New Delhi, the Youth Olympics under way in Dakar, Bolivia’s El Niño emergency and Australia’s fastest house-price slide in 40 years. Ten stories as of Sunday morning, November 1. 1. Doha / Qatar; Tehran / Iran. After Qatari-mediated talks in Tehran on Friday and in Doha on Saturday, Foreign Minister Abbas Araghchi says Iran could reopen the Strait of Hormuz within two days, down from the seven it offered before, if Washington meets its conditions, Al Jazeera reports. The list: lifting the latest US sanctions, restoring June’s oil waivers, a smaller US military presence, recognition of the new Iran–Oman shipping routes, and an end to fighting on all fronts, Lebanon included. Both sides are hedging. “We are prepared for all scenarios,” Araghchi said. President Trump called the talks “fine” but said the US still has “one or two sites” to “take care of,” and “we can do that in 10 minutes.” The US has reportedly told Gulf allies to be ready for a short, intense round of strikes after Tuesday’s midterms. Secretary of State Marco Rubio says talks “have actually never stopped” (Al Jazeera). 2. Kyiv / Ukraine; Oleshky; Istanbul / Türkiye. Russia hit power infrastructure in the Dnipro, Vinnytsia, Zhytomyr and Khmelnytskyi regions overnight. President Zelensky says hundreds of thousands of households lost electricity and Moscow is trying to “maximally exploit” Ukraine’s shortage of ballistic-missile interceptors, NBC News reports. Ukraine says it hit the Kamensky plant in Russia’s Rostov region, which it says makes missiles. Nizhny Novgorod’s governor reported “significant damage” to an industrial site after drones came over. The local ceasefire around Oleshky, brokered with First Lady Melania Trump’s help, ends Sunday evening, and nobody has announced an extension (DW). On the diplomacy side, Zelensky met President Erdoğan in Istanbul on Saturday about preparations for a three-way summit with Russia and the US. Kremlin aide Yury Ushakov says the first rounds should be just those three, and Zelensky is “welcome” to come to Moscow (Anadolu). ... 3. Washington / United States; Alaska. Early voting is at a record. As of Sunday morning, 53.14 million Americans had voted early, about 29 million in person and 23 million by mail, according to a University of Florida count, Al Jazeera reports. That beats the roughly 46 million early votes in the 2022 midterms, and Texas alone is past 7 million. All 435 House seats and 35 Senate seats are on the ballot Tuesday. The fights over the count go on. Trump attacked Judge Trina Thompson’s order barring the Justice Department from threatening California election officials. “Why would they reject fixing Election Fraud?” he wrote (BBC). In Alaska, Republican Senator Dan Sullivan told CNN he will accept the result of his race, but accused Democrat Mary Peltola’s side of “disdain” for Alaskans over the alleged plot to put a second Dan Sullivan on the ballot. A ruling on a Justice Department suit that could hold up certification may come as soon as Sunday (CNN). 4. Frankfurt / Germany; Paris / France; Lisbon / Portugal. Youth-led cost-of-living protests turned violent in Germany late Saturday. Rioters looted shops in central Frankfurt, and police used water cannon in Berlin, Cologne and Hamburg against people throwing fireworks, stones and bottles, the BBC reports. Organisers Gen Z regelt (“Gen Z takes charge”) are protesting school underfunding, spending cuts and compulsory military service. Interior Minister Alexander Dobrindt wants “harsh punishments.” In France, about 320,000 marched by the government’s count. Paris prosecutors opened an attempted-murder investigation after a Molotov cocktail was thrown at gendarmes at Porte de Charenton, and 779 people were arrested nationwide over the protests and Halloween night, down from 1,314 a week earlier (DW). Before dawn Sunday, Portuguese police cleared housing-protest tent camps in Lisbon and Porto and arrested 13 people (DW). 5. Jerusalem / Israel; Gaza. Now the coalition clock. Final results are due to President Isaac Herzog by Wednesday, the new Knesset is sworn in November 10, and Herzog has to pick someone to try to form a government by November 11, Al Jazeera reports. Netanyahu’s bloc has 53 seats and the anti-Netanyahu Jewish bloc has 48, both short of 61. Whoever gets the nod has 28 days, plus a possible 14-day extension. Herzog has pushed for “creative solutions” to avoid another election. In Gaza, hospital sources say at least eight Palestinians were killed on Sunday. Five were police officers hit by a drone in al-Mawasi near Khan Younis, and a four-year-old boy died in a strike on Gaza City’s Rimal neighbourhood (Al Jazeera). Israel’s military says it was targeting “a terrorist” in the south. ... Buckingham Palace says King Charles will speak with ... 7. New Delhi / India. Thousands marched in the capital on Sunday behind Congress leader Rahul Gandhi to demand that Chief Election Commissioner Gyanesh Kumar resign, Al Jazeera reports. The opposition says a voter-roll revision that removed more than 130 million names hit Muslims and other minorities hardest. The Election Commission denies taking sides and says anyone wrongly removed can register again. Hundreds of police with batons and shields lined the route to Ramlila Maidan, and Health Minister J.P. Nadda called it “carefully orchestrated drama” (BBC). 8. Dakar / Senegal. The Youth Olympic Games are open. Saturday’s ceremony launched the first Olympic event ever held in Africa, with almost 3,000 athletes. Among them is the first Refugee Olympic Team to compete at a Youth Games, six athletes led by Yiech Pur Biel, who ran for the first refugee team in Rio in 2016, the BBC reports. One of them is 15-year-old judoka Arno Yafunga Botay, who fled DR Congo as a child. Judo runs November 1–3 (BBC Sport), and the Games close November 13. 9. La Paz / Bolivia. President Rodrigo Paz signed a nationwide state of emergency on Saturday to free up resources and send more rescue teams to deal with El Niño. He warned of “very severe impacts in terms of drought and floods,” Al Jazeera reports. Drought already affects 78,000 families in six of Bolivia’s nine departments and has killed more than 75,000 cattle. The neighbours are feeling it too. Santiago, Chile had its rainiest October on record, and wildfires in Peru killed at least 12 people last month. 10. Sydney / Australia. Australian home values fell for a seventh straight month. Cotality’s index dropped 1.2% in October and is now 6.7% below the March peak, about A$63,400 off the median dwelling. Head of research Gerard Burg says this is the fastest decline of any downturn in 40 years, ABC News reports. Capital-city values are down 8.1% in seven months. The causes are higher interest rates, which make loans hard to get, and budget changes to property tax breaks that have cooled investors. Values have dropped in nearly every suburb of Brisbane, Perth and Adelaide."
+   }
+  ],
+  "text": "[1] Reuters World News Summary | International (devdiscourse.com)\nUS midterm campaign enters final weekend as Alaska, California ballot fights heat up President Donald Trump's administration pressed a criminal investigation into Alaska’s pivotal US Senate race and said on Saturday it would likely take its fight over thousands of California mail-in ballots to the Supreme Court, as the midterm campaign for control of Congress entered its final weekend. In Alaska, federal prosecutors are investigating whether aides to Democratic ​challenger Mary Peltola helped to recruit a retired schoolteacher, Daniel J. Sullivan Jr., to run because his name is similar to the …\n\n[2] Morning Briefing: Nov. 1, 2026 (aa.com.tr)\n's a rundown of all the news you need to start Sunday, including G20 foreign ministers concluding their Atlanta meeting with a focus on energy security, supply chains and geopolitical tensions; clashes during\n\n[3] Daily World Briefing, Nov. 1-Xinhua (english.news.cn)\nA two-day meeting of Group of 20 (G20) foreign ministers ended here Saturday without a joint communique, as participants failed to reach consensus on major global geopolitical and economic security issues amid the Ukraine crisis and the U.S.-Iran conflict.\n\n[4] Video. Latest news bulletin | November 1st, 2026 – Morning | Euronews (euronews.com)\n## Protesters clash with police near Colosseum as Italy stages nationwide strike ... ## Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue ... ## From derelict food market to futuristic Centre of Excellence:\n\n[5] The Wall Street Journal's News Archive for November 1, ... (wsj.com)\nA Marathon First-Timer From Sweden Just Won New York The ‘Paper Son’ Gambit My Family Used to Defy American Exclusion Darline Graham Fights to Keep Her Brother’s Seat ... : Iowa Rep. Miller-Meeks Fights to Hold Vulnerable House Seat The 1894 Midterm\n\n[6] Israeli strike kills 8 including boy in Gaza, and other Mideast news | AP News (apnews.com)\nrationality” on the U.S. side as diplomatic efforts seek to avert a return to ... Meanwhile, Israeli strikes on Gaza killed eight people, including a young boy. And Qatar’s national gas company said one of its vessels was struck in the Persian Gulf.\n\n[7] Top news of the day: November 1 2026 - The Hindu (thehindu.com)\nRahul Gandhi assures ‘legal action against PM Modi’ Addressing the INDIA bloc’s mega rally at Ramlila Maidan in New Delhi on Sunday (November 1, 2026), Rahul Gandhi accused Prime Minister Narendra Modi of “stealing votes” and said legal action would be taken against him. He asserted that the Opposition would continue its fight to ensure accountability and justice. Earlier, senior INDIA bloc leaders, including Sonia Gandhi, Rahul Gandhi, Akhilesh Yadav and Mamata Banerjee, marched in an open bus from Congress president Mallikarjun Kharge’s residence to the venue for the rally, which demanded …\n\n[8] November 1, 2026 | News Headlines | New York Post (nypost.com)\n### Trump pledges $15B for farmers struggling with costs ahead of midterm elections November 1, 2026 | 1:58pm ... output targets steady ahead of tougher call for ... Over 60,000 NYC marathon runners gathered bright and early in an epic show of\n\n[9] World News in Brief: November 1 (en.nhandan.vn)\nto form the broadest possible government, citing what he called a parliamentary majority from Tuesday's election. Eisenkot's opposition bloc won just 48 seats in ... -member parliament, compared with 53 seats for the coalition bloc led by Prime Minister\n\n[10] World Brief: November 1, 2026 -- Journal Of Occurrences (journalofoccurrences.com)\nQatar’s mediators are still working a two-day plan to reopen the Strait of Hormuz, while Washington and Tehran keep talking tough. Russia knocks out power in four Ukrainian regions on the last day of the Oleshky truce. Two days before the US midterms, more than 53 million Americans have already voted. Europe’s youth protests turn violent in Frankfurt. Plus Israel’s coalition clock, King Charles and the slavery speech in Antigua, a huge opposition rally in New Delhi, the Youth Olympics under way in Dakar, Bolivia’s El Niño emergency and Australia’s fastest house-price slide in 40 years. Ten …",
+  "hash": "3ad2195b57f2fcc705c5e1bff4480c655982631e216c8108c0c3e9c1fcf64a5b",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 1, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-01T19:11:46+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Strong growth and inflation paints mixed picture of economy days before midterm elections | | midfloridanewspapers.com",
+    "url": "https://www.midfloridanewspapers.com/strong-growth-and-inflation-paints-mixed-picture-of-economy-days-before-midterm-elections/article_2d42aa6b-4915-441f-9647-1b5e7ba5d22a.html",
+    "source": "midfloridanewspapers.com",
+    "published": "",
+    "excerpt": "- By CHRISTOPHER RUGABER AP Economics Writer ... - Author email (cindy.marshall@highlandsnewssun.com) - Nov 1, 2026 - 7 hrs ago WASHINGTON — U.S. economic growth was notably strong from July to September, yet inflation accelerated at the same time, new data showed Thursday, painting a mixed picture about the country’s economy less than a week before midterm elections in which the uncomfortably high cost of living looms larger than perhaps any other issue. Strong consumer spending and soaring investment in artificial intelligence infrastructure were key drivers of growth in the third quarter. When unemployment is as low as it is right now, consumers often spend at a healthy clip and they are doing so, particularly wealthier Americans who are riding a wave of record stock market gains. Consumer spending climbed 3.8% at an annual rate, marking the second straight quarter of strong growth and far exceeding the 0.7% increase in the first three months of the year. Business investment, driven by spending on AI infrastructure, jumped 12.7%, the most in six years. How long can this economic growth continue? Yet economists worry that persistently high prices are eroding Americans’ ability to keep up. Thursday’s data suggest consumers are increasingly dipping into savings to cover their costs. After-tax incomes, adjusted for inflation, slipped from August to September and were up just 1% from a year earlier. At the same time, inflation-adjusted spending rose 2.5% from a year earlier. “High energy prices are chipping away at purchasing power,” Ksenia Bushmeneva, an economist at TD, a bank, wrote. “Real income failed to grow for a second consecutive month, while the saving rate continued to decline. Together with higher borrowing costs, these headwinds are likely to weigh on consumer demand in the coming quarters.” Inflation worsens Consumer prices rose 3.6% in September from a year earlier, the Commerce Department said Thursday, up from 3.4% in August. On a monthly basis, prices climbed 0.5%, up from 0.3% in August and the highest figure since May. Rising gas prices drove much of the inflation increase as renewed violence in the Middle East kept oil prices above $100 a barrel, up from below $70 before the Iran war. But prices also rose outside of the energy sector. The cost of services such as shipping, hotel rooms, and utilities increased rapidly from August to September, a sign that inflation is spreading and growing more entrenched. The average price of a gallon of gas in the U.S. was $4.23 on Thursday, 39% more than it cost a year ago. Diesel prices have risen much faster. While most consumers don’t buy diesel, it has an outsized impact on inflation because it is used in industrial sectors and shipping. “The inflation outlook has become more concerning,” Bushmeneva said. “Price pressures are showing signs of heating up. Elevated gasoline prices are keeping headline inflation hot, but underlying pressures are also broadening.” Polls show that rising inflation has soured most voters on the economy, leading them to give President Donald Trump poor marks for his handling of rising prices. Trump campaigned in 2024 on lowering the cost of living, including bringing the cost of gas below $2 a gallon. Excluding the volatile energy and food categories, core inflation also picked up last month. It increased 3.1% from a year ago in September, up from 3% in August, the Commerce Department said. From August to September, core prices rose 0.3%, the same as the previous month. Will rising inflation raise borrowing costs? The new economic growth and inflation numbers arrive a day after the Federal Reserve, the agency tasked with combating inflation, left its key interest rate unchanged. Yet strong economic growth and persistently higher prices could mean more pain for Americans when the Fed meets in December. The Fed is now much more likely to raise its key interest rate, which could lift borrowing costs across the economy. “If the Federal Reserve is looking for more information on why they should act to restore price stability they can find it inside a slate of robust spending, historically low jobless claims, stratospheric private non-residential investment, and sizzling inflation data,” Joe Brusuelas, chief economist at RSM, a tax advisory firm, wrote. Thursday’s inflation data come from the personal consumption expenditures price index, which typically echoes the better-known consumer price index published earlier this month. The Fed more closely monitors the PCE index because it puts less weight on housing prices and allows for changes in consumers’ shopping habits."
+   },
+   {
+    "title": "Fed’s preferred inflation gauge rose in September as third-quarter GDP beats expectations | The New York Ledger",
+    "url": "https://thenyledger.com/news/feds-preferred-inflation-gauge-rose-in-september-as-third-quarter-gdp-beats-expectations/",
+    "source": "thenyledger.com",
+    "published": "",
+    "excerpt": "November 1, 2026 in News The Federal Reserve’s preferred inflation gauge rose further away from the central bank’s target in September as consumers face price pressures. The Commerce Department on Thursday reported that the personal consumption expenditures (PCE) index rose 0.5% on a monthly basis in September and was up 3.6% from a year ago. Both figures were in line with the expectations of economists polled by LSEG. Core PCE, which excludes volatile measurements of food and energy prices, was up 0.3% on a monthly basis and 3.1% year over year. Those figures were both in line with economists’ expectations. FEDERAL RESERVE MAKES INTEREST RATE DECISION AHEAD OF MIDTERMS Federal Reserve policymakers are focused on the PCE headline figure as they try to bring inflation back to their long-run target of 2%, though they view core data as a better indicator of inflation. Compared with August’s readings, headline PCE ticked up from 3.4% to 3.6%, while core PCE rose from 3% to 3.1%. Goods prices were up 3.9% year over year, while services prices increased 3.5% from a year ago in September. The personal savings rate as a percentage of disposable personal income was 3.8%, down from 4% in August. Over the last two years, the savings rate has declined from a peak of 6.2% in April 2025 and from 5.6% in January 2026. While inflation moved further away from the Fed’s 2% target, the Commerce Department also released the advance estimate for third-quarter gross domestic product (GDP), which grew more than expected. The Bureau of Economic Analysis estimated that third-quarter GDP was 3.4%, above the 3.2% estimate of economists polled by LSEG. The BEA will release two subsequent revisions of the third-quarter GDP data. ... investment analyst at etoro, said that “today’s in-line PCE report offered little in the way of surprise. But the lack of a shock does not mean the lack of a problem: Both headline and core PCE rose to their highest levels since May, underscoring that inflation remains a stubborn issue.” ... ### What does it mean for the Fed and interest rates? The market continues to expect the Fed to hike interest rates by 25 basis points in December, which would bring the federal funds rate to a range of 4% to 4.25% once implemented. The CME FedWatch tool shows a 79.6% probability the Fed will hike by 25 basis points in December, down slightly from 84.2% yesterday but higher than the 73.3% probability a week ago."
+   },
+   {
+    "title": "Why the U.S. can’t get inflation under control, explained in seven charts - The Globe and Mail",
+    "url": "https://www.theglobeandmail.com/business/article-why-the-us-cant-get-inflation-under-control-charts/",
+    "source": "theglobeandmail.com",
+    "published": "",
+    "excerpt": "## Inflation is (once again) outpacing wages For six consecutive months, growth in average hourly wages has not kept up with rising prices. Americans’ purchasing power is on the decline, much like during the inflationary wave of a few years ago. In September, the average hourly wage grew 3 per cent year over year, below the rate of inflation at 3.7 per cent. ... However, the sudden spike in inflation in March after the start of the U.S.-Iran war has quickly flipped the switch. Crude oil benchmarks remain at, or in excess of, US$100 a barrel, putting upward pressure on inflation. Meanwhile, wage growth has cooled from rates above 4 per cent."
+   },
+   {
+    "title": "GDP Grew at a 3.4% Annual Rate While Consumer Prices Rose 3.6% Year Over Year: What It Means for Your Wallet - JBizNews",
+    "url": "https://jbiznews.com/gdp-grew-at-a-3-4-annual-rate-while-consumer-prices-rose-3-6-year-over-year-what-it-means-for-your-wallet/",
+    "source": "jbiznews.com",
+    "published": "",
+    "excerpt": "% from a year earlier. Disposable personal income, after taxes and inflation, fell 0. ... reported. Families spent more anyway: spending rose 0.5%, outpacing income, and the saving rate sat at a modest"
+   },
+   {
+    "title": "Inflation Stopped Falling, Now It’s Rising | The Daily Spark",
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/inflation-stopped-falling-now-its-rising",
+    "source": "apollo.com",
+    "published": "",
+    "excerpt": "Torsten Slok Partner, Chief Economist Core PCE inflation is supposed to be 2%. Unfortunately, it has been 3% for three years, and it is now moving higher, see chart below. This is the reason why the market is pricing that more Fed hikes are coming."
+   },
+   {
+    "title": "Schedule of Selected Releases for November 2026",
+    "url": "https://www.bls.gov/schedule/2026/11_sched.htm",
+    "source": "bls.gov",
+    "published": "",
+    "excerpt": "| Monday | Tuesday | Wednesday | Thursday | Friday | | --- | --- | --- | --- | --- | | 2 | 3 Job Openings and Labor Turnover Survey September ... :00 AM | 4 | 5 Productivity and Costs (P) Third Quarter"
+   },
+   {
+    "title": "Food Price Outlook - Summary Findings",
+    "url": "http://www.ers.usda.gov/data-products/food-price-outlook/summary-findings",
+    "source": "ers.usda.gov",
+    "published": "",
+    "excerpt": "of economy-wide inflation, was unchanged from June ... to July 2026. It was up 3.4 percent from July ... The CPI for all food increased 0.1 percent from June 2026 to July 2026. Food prices in July 2026 were 3.0 percent higher than in July 2025."
+   },
+   {
+    "title": "Neel Kashkari says inflation remains too high after August data",
+    "url": "https://thehill.com/business/6123503-us-economy-remains-resilient/",
+    "source": "thehill.com",
+    "published": "",
+    "excerpt": "Annual inflation, as measured by the personal consumption expenditures (PCE) price index, was 3.4 percent in August, according to data from the BEA. Core prices, which outstrip more volatile food and energy costs, were up 3 percent year-over-year."
+   },
+   {
+    "title": "Monthly inflation rate in the U.S. 2026",
+    "url": "https://www.statista.com/statistics/273418/unadjusted-monthly-inflation-rate-in-the-us/",
+    "source": "statista.com",
+    "published": "",
+    "excerpt": ", the 12-month inflation rate in the United States was 3.7 percent. The ... basket of goods and services changes over a 12-month period. Looking ahead, inflation is expected to ease, with the annual rate projected to fall to around 2.1 percent in 2028."
+   },
+   {
+    "title": "US Economy 'Is Running Hot,' Lots Of Consumer Spending Growth, Lots Of Inflation | Seeking Alpha",
+    "url": "https://seekingalpha.com/article/4951271-us-economy-is-running-hot-lots-of-consumer-spending-growth-lots-of-inflation-bond-market-sees-it-too",
+    "source": "seekingalpha.com",
+    "published": "",
+    "excerpt": "- Adjusted for inflation, consumer spending in August rose by 0. ... % month-to-month and by 2.6% year-over-year, according to the Bureau of Economic ... - Spending on food and beverages at stores accounted for 7.0% of total consumer spending. Gasoline"
+   }
+  ],
+  "text": "[1] Strong growth and inflation paints mixed picture of economy days before midterm elections | | midfloridanewspapers.com (midfloridanewspapers.com)\n- By CHRISTOPHER RUGABER AP Economics Writer ... - Author email (cindy.marshall@highlandsnewssun.com) - Nov 1, 2026 - 7 hrs ago WASHINGTON — U.S. economic growth was notably strong from July to September, yet inflation accelerated at the same time, new data showed Thursday, painting a mixed picture about the country’s economy less than a week before midterm elections in which the uncomfortably high cost of living looms larger than perhaps any other issue. Strong consumer spending and soaring investment in artificial intelligence infrastructure were key drivers of growth in the third quarter. …\n\n[2] Fed’s preferred inflation gauge rose in September as third-quarter GDP beats expectations | The New York Ledger (thenyledger.com)\nNovember 1, 2026 in News The Federal Reserve’s preferred inflation gauge rose further away from the central bank’s target in September as consumers face price pressures. The Commerce Department on Thursday reported that the personal consumption expenditures (PCE) index rose 0.5% on a monthly basis in September and was up 3.6% from a year ago. Both figures were in line with the expectations of economists polled by LSEG. Core PCE, which excludes volatile measurements of food and energy prices, was up 0.3% on a monthly basis and 3.1% year over year. Those figures were both in line with …\n\n[3] Why the U.S. can’t get inflation under control, explained in seven charts - The Globe and Mail (theglobeandmail.com)\n## Inflation is (once again) outpacing wages For six consecutive months, growth in average hourly wages has not kept up with rising prices. Americans’ purchasing power is on the decline, much like during the inflationary wave of a few years ago. In September, the average hourly wage grew 3 per cent year over year, below the rate of inflation at 3.7 per cent. ... However, the sudden spike in inflation in March after the start of the U.S.-Iran war has quickly flipped the switch. Crude oil benchmarks remain at, or in excess of, US$100 a barrel, putting upward pressure on inflation. Meanwhile, …\n\n[4] GDP Grew at a 3.4% Annual Rate While Consumer Prices Rose 3.6% Year Over Year: What It Means for Your Wallet - JBizNews (jbiznews.com)\n% from a year earlier. Disposable personal income, after taxes and inflation, fell 0. ... reported. Families spent more anyway: spending rose 0.5%, outpacing income, and the saving rate sat at a modest\n\n[5] Inflation Stopped Falling, Now It’s Rising | The Daily Spark (apollo.com)\nTorsten Slok Partner, Chief Economist Core PCE inflation is supposed to be 2%. Unfortunately, it has been 3% for three years, and it is now moving higher, see chart below. This is the reason why the market is pricing that more Fed hikes are coming.\n\n[6] Schedule of Selected Releases for November 2026 (bls.gov)\n| Monday | Tuesday | Wednesday | Thursday | Friday | | --- | --- | --- | --- | --- | | 2 | 3 Job Openings and Labor Turnover Survey September ... :00 AM | 4 | 5 Productivity and Costs (P) Third Quarter\n\n[7] Food Price Outlook - Summary Findings (ers.usda.gov)\nof economy-wide inflation, was unchanged from June ... to July 2026. It was up 3.4 percent from July ... The CPI for all food increased 0.1 percent from June 2026 to July 2026. Food prices in July 2026 were 3.0 percent higher than in July 2025.\n\n[8] Neel Kashkari says inflation remains too high after August data (thehill.com)\nAnnual inflation, as measured by the personal consumption expenditures (PCE) price index, was 3.4 percent in August, according to data from the BEA. Core prices, which outstrip more volatile food and energy costs, were up 3 percent year-over-year.\n\n[9] Monthly inflation rate in the U.S. 2026 (statista.com)\n, the 12-month inflation rate in the United States was 3.7 percent. The ... basket of goods and services changes over a 12-month period. Looking ahead, inflation is expected to ease, with the annual rate projected to fall to around 2.1 percent in 2028.\n\n[10] US Economy 'Is Running Hot,' Lots Of Consumer Spending Growth, Lots Of Inflation | Seeking Alpha (seekingalpha.com)\n- Adjusted for inflation, consumer spending in August rose by 0. ... % month-to-month and by 2.6% year-over-year, according to the Bureau of Economic ... - Spending on food and beverages at stores accounted for 7.0% of total consumer spending. Gasoline",
+  "hash": "8c3f8f6245a26f188f9e8248a994263391ddcd81456ed07f302ed5bc1fbdb6a7",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 1, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-01T19:11:59+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Judge bars federal government from trying to separate ballots | AP News",
+    "url": "https://apnews.com/live/midterm-elections-trump-news-updates-11-01-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Abdul El-Sayed’s former opponent in the U.S. Senate primary, Haley Stevens, stunned party ... before the election that could determine the balance of power on Capitol Hill. The move came after Stevens was uninvited to a joint event the same day with El-"
+   },
+   {
+    "title": "Midterm Elections Live Updates: Stevens Endorses Rogers ...",
+    "url": "https://www.nytimes.com/live/2026/11/01/us/midterms-elections-trump",
+    "source": "nytimes.com",
+    "published": "",
+    "excerpt": "The Democratic representative who lost a primary fight against Dr. Abdul El-Sayed, the progressive Democratic Senate nominee in Michigan, endorsed his Republican opponent on Sunday, deepening an intraparty rift two days before the midterm elections. The Republican nominee, Mike Rogers, received the endorsement from Representative Haley Stevens, a Democrat who represents suburban areas around Detroit, after she appeared alongside him at a church service. The endorsement was a startling turn in a race for a seat that Democrats hope to hold on to as they seek to flip control of the Senate on Tuesday. “I am endorsing Mike Rogers for the United States Senate today,” Ms. Stevens said in a video she posted on social media, not long after she arrived with Mr. Rogers at Perfecting Church, a Black church in Detroit. “I don’t belong in Abdul’s campaign.” The Michigan race has become a source of discomfort for Democrats in the final days of a campaign season that has otherwise put Republicans"
+   },
+   {
+    "title": "Elections live updates: Latest midterm polls, last day to vote",
+    "url": "https://www.usatoday.com/story/news/politics/elections/2026/11/01/midterm-elections-news-updates-polls--live/92383820007/",
+    "source": "usatoday.com",
+    "published": "",
+    "excerpt": "Michigan Senate nominee Abdul El-Sayed's former Democratic primary foe endorsed Republican nominee Mike Rogers Sunday, heightening tensions in the tight battleground race days ahead of midterm elections."
+   },
+   {
+    "title": "Live updates: Democrats hold 'unity rally' in Michigan amid internal divisions; Trump campaigns in Kansas, Iowa",
+    "url": "https://thehill.com/homenews/administration/6186601-live-updates-trump-kansas-iowa-democrats-unity-rally/",
+    "source": "thehill.com",
+    "published": "",
+    "excerpt": "Democratic Rep. Haley Stevens on Sunday issued a last-minute endorsement of Republican Mike Rogers in the battleground Michigan Senate race amid her feud with Democrat Abdul El-Sayed. ... , tossing the Justice Department’s lawsuit over the marquee Senate"
+   },
+   {
+    "title": "Closing messages from Democrats, Republicans as midterms near - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/11/01/closing-messages-democrats-republicans-midterms-near/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "Democrats are sprinting with themes of affordability and corruption right up until the finish line this weekend, sensing a tantalizing chance to take full control of Congress if the rosy polls are accurate."
+   },
+   {
+    "title": "Meet the Press – November 1, 2026",
+    "url": "https://www.nbcnews.com/meet-the-press/transcripts/meet-press-november-1-2026-rcna606822",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "of Illinois. Plus: spoiler alert. A new report reveals Democrats allegedly recruited a candidate with the same name as Alaska’s Republican Sen. Dan Sullivan. Now President Trump ... for Sullivan’s Democratic challenger, Mary Peltola, to be prosecuted."
+   },
+   {
+    "title": "Democrat Haley Stevens breaks with her party to endorse ...",
+    "url": "https://www.cnn.com/2026/11/01/politics/live-news/midterm-election-congress",
+    "source": "cnn.com",
+    "published": "",
+    "excerpt": "Michigan Senate race shock: Democratic Rep. Haley Stevens has broken with her party to endorse GOP nominee Mike Rogers following days of public tensions with her former primary rival, Abdul El-Sayed ... state Democratic Party swiftly rebuked the lawmaker"
+   },
+   {
+    "title": "U.S. News, Sunday, November 1, 2026: 34 stories | BBN",
+    "url": "https://bbn.live/us/archive/2026-11-01",
+    "source": "bbn.live",
+    "published": "",
+    "excerpt": "### L.A. mayoral runoff pits Karen Bass against Nithya Raman Bass led the primary with thirty-four percent to Raman's twenty-nine, and Raman filed hours before the deadline; the runoff is Tuesday, with a third of voters undecided."
+   },
+   {
+    "title": "'This Week' Transcript 11-1-26: Vote 2026, a Special Edition of “This Week with George Stephanopoulos” - ABC News",
+    "url": "https://abcnews.com/Politics/week-transcript-11-1-26-vote-2026-special/story?id=137733494",
+    "source": "abcnews.com",
+    "published": "",
+    "excerpt": "’s approval rating at an all-time low and Election Day gas prices approaching all-time highs, the Democrats appear to be on track for control of the House and the ... , is now in play with seats in red states like Texas, North Carolina, even Kansas at"
+   },
+   {
+    "title": "Three key takeaways from early voting in midterm elections",
+    "url": "https://www.theguardian.com/us-news/2026/nov/01/key-takeaways-midterm-elections-early-voting",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "## 1. People are voting early in record numbers In North Carolina, residents broke the record for most ballots cast during early voting for a midterm election, according to WRAL. And turnout was particularly strong among Democrats. More than 1 million Democrats have already voted, compared with 679,000 Republicans. In Texas 7.6 million citizens voted early, a record number for a midterm election. And in South Carolina, almost 1 million people voted early, also a record number for a midterm. Same goes for Georgia, where more than 2.8 million people voted early, a 13% increase over the 2022 midterms, which saw a record number of early voters, according to the Atlanta Journal-Constitution. In Maine, Kansas, Michigan early voter turnout was also up more than 30% over the 2022 midterms, according to the Associated Press. 2. --- ## 2. Democrats flexing their early voting strength Across the United States, far more Democrats voted early than Republicans. Democrats cast 43% of the"
+   }
+  ],
+  "text": "[1] Judge bars federal government from trying to separate ballots | AP News (apnews.com)\nAbdul El-Sayed’s former opponent in the U.S. Senate primary, Haley Stevens, stunned party ... before the election that could determine the balance of power on Capitol Hill. The move came after Stevens was uninvited to a joint event the same day with El-\n\n[2] Midterm Elections Live Updates: Stevens Endorses Rogers ... (nytimes.com)\nThe Democratic representative who lost a primary fight against Dr. Abdul El-Sayed, the progressive Democratic Senate nominee in Michigan, endorsed his Republican opponent on Sunday, deepening an intraparty rift two days before the midterm elections. The Republican nominee, Mike Rogers, received the endorsement from Representative Haley Stevens, a Democrat who represents suburban areas around Detroit, after she appeared alongside him at a church service. The endorsement was a startling turn in a race for a seat that Democrats hope to hold on to as they seek to flip control of the Senate on …\n\n[3] Elections live updates: Latest midterm polls, last day to vote (usatoday.com)\nMichigan Senate nominee Abdul El-Sayed's former Democratic primary foe endorsed Republican nominee Mike Rogers Sunday, heightening tensions in the tight battleground race days ahead of midterm elections.\n\n[4] Live updates: Democrats hold 'unity rally' in Michigan amid internal divisions; Trump campaigns in Kansas, Iowa (thehill.com)\nDemocratic Rep. Haley Stevens on Sunday issued a last-minute endorsement of Republican Mike Rogers in the battleground Michigan Senate race amid her feud with Democrat Abdul El-Sayed. ... , tossing the Justice Department’s lawsuit over the marquee Senate\n\n[5] Closing messages from Democrats, Republicans as midterms near - The Washington Post (washingtonpost.com)\nDemocrats are sprinting with themes of affordability and corruption right up until the finish line this weekend, sensing a tantalizing chance to take full control of Congress if the rosy polls are accurate.\n\n[6] Meet the Press – November 1, 2026 (nbcnews.com)\nof Illinois. Plus: spoiler alert. A new report reveals Democrats allegedly recruited a candidate with the same name as Alaska’s Republican Sen. Dan Sullivan. Now President Trump ... for Sullivan’s Democratic challenger, Mary Peltola, to be prosecuted.\n\n[7] Democrat Haley Stevens breaks with her party to endorse ... (cnn.com)\nMichigan Senate race shock: Democratic Rep. Haley Stevens has broken with her party to endorse GOP nominee Mike Rogers following days of public tensions with her former primary rival, Abdul El-Sayed ... state Democratic Party swiftly rebuked the lawmaker\n\n[8] U.S. News, Sunday, November 1, 2026: 34 stories | BBN (bbn.live)\n### L.A. mayoral runoff pits Karen Bass against Nithya Raman Bass led the primary with thirty-four percent to Raman's twenty-nine, and Raman filed hours before the deadline; the runoff is Tuesday, with a third of voters undecided.\n\n[9] 'This Week' Transcript 11-1-26: Vote 2026, a Special Edition of “This Week with George Stephanopoulos” - ABC News (abcnews.com)\n’s approval rating at an all-time low and Election Day gas prices approaching all-time highs, the Democrats appear to be on track for control of the House and the ... , is now in play with seats in red states like Texas, North Carolina, even Kansas at\n\n[10] Three key takeaways from early voting in midterm elections (theguardian.com)\n## 1. People are voting early in record numbers In North Carolina, residents broke the record for most ballots cast during early voting for a midterm election, according to WRAL. And turnout was particularly strong among Democrats. More than 1 million Democrats have already voted, compared with 679,000 Republicans. In Texas 7.6 million citizens voted early, a record number for a midterm election. And in South Carolina, almost 1 million people voted early, also a record number for a midterm. Same goes for Georgia, where more than 2.8 million people voted early, a 13% increase over the 2022 …",
+  "hash": "ce2afd4ce46b934cf79178ba925c3b8d3f79f77da0e18048164bb2e85f63dd41",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 1, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-01T19:12:09+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Phoebe Bridgers and Billie Eilish steal the weekend | Entertainment Roundup · 1 Nov",
+    "url": "https://feedbagel.com/roundup/entertainment/2026-11-01",
+    "source": "feedbagel.com",
+    "published": "",
+    "excerpt": "# Phoebe Bridgers and Billie Eilish steal the weekend Halloween weekend brought a mix of heartfelt performances, costume controversies, and industry tributes. Phoebe Bridgers' intimate L.A. show with Billie Eilish leads the entertainment conversation, while a personal essay on disfigurement costumes adds a sobering counterpoint. In today's edition: Weekend shows and Halloween takes, plus quick bites. 19 stories, picked this morning ## Weekend shows The biggest live event of the weekend was Phoebe Bridgers' no-phones concert, but a stunt for an Everest documentary also turned heads. variety.com · 14 min Phoebe Bridgers Joined by Billie Eilish at L.A. Show: Concert Review Phoebe Bridgers opened her three-night Intuit Dome stand with a no-phones policy, emotional monologues about her father's death, and surprise appearances by Billie Eilish and Muna. It's the kind of show that makes people talk for days. Steep Height? No Sweat: ‘Everest: The Other Side’s Jim Morrison And Jimmy Chin Repel Down Side Of West Hollywood Building [Video]"
+   },
+   {
+    "title": "Pop Culture & Entertainment, Sunday, November 1, 2026: 18 stories | BBN",
+    "url": "https://bbn.live/pop-culture/archive/2026-11-01",
+    "source": "bbn.live",
+    "published": "",
+    "excerpt": "### Macklemore concludes 'Free Palestine' tour with solidarity message The final show raised funds for twelve organisations supporting Palestinians, and Paloma Faith gave a tearful address; a rare tour where the opening act wanted more. Reported by Al Jazeera · with a Short ... ### Netflix November lineup, Beat Luke Littler and Week 9 Netflix is adding close to thirty Christmas movies this month, plus Whiplash and Bridesmaids; Rob Lowe's documentary arrives November twenty-fourth."
+   },
+   {
+    "title": "Movie News: 1st November 2026",
+    "url": "https://onemannsmovies.com/movie-news/movie-news-1st-november-2026/",
+    "source": "onemannsmovies.com",
+    "published": "",
+    "excerpt": "November 1, 2026 by bobwp ### Patrick Stewart’s final role, Cate Blanchett in Tokyo, Jailer 2 closes in on ₹800 crore & Nollywood’s ₦400 million October. Morning, all. A new month, and Sunday means our weekly lap of the world’s other film industries, but first, more on the loss of Sir Patrick Stewart. I’ll cover the confirmed weekend box office numbers in tomorrow’s post. Patrick Stewart’s farewell performance: Marvel Studios has confirmed that Avengers: Doomsday, which opens on 18 December, will be Sir Patrick Stewart’s final onscreen performance, which ends a 26-year run as Professor Xavier. It means he won’t appear in the already-filmed content for Avengers: Secret Wars. He appears opposite Sir Ian McKellen’s Magneto, and the pair have already appeared together in the trailers. McKellen’s tribute, in which he said Stewart wore his heart on his sleeve and was a man to rely on, to admire and, in his case, to love, ended by noting that Stewart’s farewell performance in Avengers: Doomsday is yet to be seen. McKellen recalled that when Stewart first told him about a Star Trek offer, he urged him to think of his stage career, which is advice that Stewart, happily for the rest of us, ignored. McKellen also officiated at Stewart’s 2013 wedding. Hugh Jackman, who played Wolverine opposite Stewart’s Professor X, called him one of the greats of stage and screen, and Rebecca Romijn thanked him as a fellow mutant and a fellow member of Starfleet. The Far East: Cate Blanchett in Tokyo: At the Tokyo International Film Festival on Friday, the first five short films made through Cate Blanchett’s Displacement Film Fund were screened, with Blanchett joined for a Q&A by the fund’s directors Shahrbanoo Sadat and Mohammad Rasoulof, and with help from Perfect Days actor Kōji Yakusho. Sadat’s feature No Good Men was also at the London Film Festival this month. The festival runs until 4 November. Tamil cinema: Jailer 2 closes in on ₹800 crore: Rajinikanth’s Jailer 2 stands at ₹776.95 crore (about $81 million) worldwide and ₹435.4 crore net (about $45 million) in India after 16 days, according to Sacnilk, and it’s closing in on the ₹800 crore milestone. Its ₹509.45 crore gross in India is within ₹10 crore of the all-time Tamil record in India, held by 2.0. I’ll bring you the full third-weekend numbers tomorrow. Nollywood’s ₦400 million October: In Nigeria, faith-based hit Agbara Nla: The Return topped the chart for a fourth weekend with ₦32.8 million (about $25,000) from 5,477 admissions over 23–25 October, taking it to ₦408.3 million (about $307,000), which makes it the first October release ever to pass ₦400 million. By Thursday its total had reached ₦422.7 million (about $318,000). Among the new releases, the campus drama Tele x Zikora, directed by Adenike Adebayo-Esho, had the biggest opening with ₦26.9 million (about $20,000), while Clayface opened fourth with ₦16.8 million (about $13,000). Fusion Intelligence expects 2026 to pass the whole of 2025’s Nigerian box office total early this month, helped by higher ticket prices. Birthdays: Toni Collette, star of The Sixth Sense and Hereditary, turns 54 today, and Aishwarya Rai Bachchan of Devdas turns 53. Also celebrating is Rob Riggle (56), who stars in Christmas at the Kringles, which opened in US cinemas on Friday."
+   },
+   {
+    "title": "November 1, 2026 | News Headlines | Page Six",
+    "url": "https://pagesix.com/2026/11/01/",
+    "source": "pagesix.com",
+    "published": "",
+    "excerpt": "### Inde Navarrette takes savage swipe at Shane Gillis during ‘SNL’ monologue November 1, 2026 | 9:31am Navarrette's remark was a clear reference to Gillis’ own “SNL” monologue on Oct. 10, during which he sparked backlash for making crude comments about women’s revealing workout clothes."
+   },
+   {
+    "title": "Music News Today — November 1, 2026 — MusicNewsletter.com",
+    "url": "https://musicnewsletter.com/news/daily-signal-20261101",
+    "source": "musicnewsletter.com",
+    "published": "",
+    "excerpt": "night's Saturday Night Live, singer Gracie Abrams took the stage to perform her songs 'Hit the Wall' and 'Here You Come, There You Go', showcasing her talent to a wider audience. The show also featured other notable moments, including a"
+   },
+   {
+    "title": "Weekly TV Music Roundup (November 1, 2026) – Film Music Reporter",
+    "url": "https://filmmusicreporter.com/2026/11/01/weekly-tv-music-roundup-november-1-2026/",
+    "source": "filmmusicreporter.com",
+    "published": "",
+    "excerpt": "Premiering on Tuesday, November 3, is the Netflix original animated series Bass X Machina created by LeSean Thomas and starring Brian Tyree Henry, Janelle Monáe, Tati Gabrielle, Cree Summer, Currie Graham, Starletta DuPois, Chaske Spencer, Nick Thurston, André Sogliuzzo, Lynette Willis and Anoli Scott. The show’s original score is composed by Roman GianArthur (Antebellum, Stamped from the Beginning) who also co-wrote the theme song Honor Killing (performed by Monáe) with Nate Wonder at Wondaland. The Studio Mir production is set in lawless Steampunk West overrun by brutal outlaws, machines, and supernatural terrors and follows a father is forced to become judge, jury, and executioner, will be available to stream exclusively on Netflix. Also premiering in the U.S."
+   },
+   {
+    "title": "Domestic Release Schedule - Box Office Mojo",
+    "url": "https://www.boxofficemojo.com/calendar/2026-11-01/",
+    "source": "boxofficemojo.com",
+    "published": "",
+    "excerpt": "· Romance · War With: Joel David Smallbone, Lucas Leach, India Brown, ... min Cast, Crew, and Company Info | Apple Original Films | Limited | ... | Soul Patrol Documentary · History · War With: Barbara Branch, Emerson Branch, Teresa"
+   },
+   {
+    "title": "AP Entertainment SummaryBrief at 1:20 a.m. EDT | Ap | timesargus.com",
+    "url": "https://www.timesargus.com/ap/entertainment/ap-entertainment-summarybrief-at-1-20-a-m-edt/article_fe2f09c6-415e-5843-b339-e45a02f2fd9f.html",
+    "source": "timesargus.com",
+    "published": "",
+    "excerpt": ". It's Clifton's second career trophy in the lead category. ... made her return to the soap opera genre after 17 years away. “General ... in a row. Roger Howarth and Beth Maitland of “The Young and the Restless” swept the supporting acting categories"
+   },
+   {
+    "title": "AP Entertainment SummaryBrief at 9:02 a.m. EST | Ap | timesargus.com",
+    "url": "https://www.timesargus.com/ap/entertainment/ap-entertainment-summarybrief-at-9-02-a-m-est/article_fe2f09c6-415e-5843-b339-e45a02f2fd9f.html",
+    "source": "timesargus.com",
+    "published": "",
+    "excerpt": "- AP - Nov 1, 2026 - Nov 1, 2026 Updated 1 hr ago Director calls Broadway revival of ‘In the Heights’ at NY City Center a ‘balm for these times’ NEW YORK (AP) — David Mendizábal is directing a revival of Lin-Manuel Miranda’s \"In the Heights,\" a musical that was Mendizábal's introduction to theater. The show, running for three weeks at New York City Center, features a new cast of Latino artists. Mendizábal emphasizes the importance of showcasing Latino communities, especially now. Miranda, who starred in the original production, reflects on the musical's enduring relevance. The revival comes amid immigration tensions, highlighting themes of gentrification and community. New and old cast members say the musical remains a celebration of the Latino immigrant experience, with its messages resonating strongly today. Heidi Klum reveals Halloween costume as her iconic party marks 25 years Heidi Klum underwent a bloody transformation to become a giant, gruesome severed hand for Halloween. Klum unveiled her costume Saturday as her iconic costume party marked 25 years in New York. Klum was unrecognizable with only her eyes and mouth showing, blood dripping from her mouth as she stuck her tongue out. The top of the hand ended in a gory assortment of dangling ligaments and tendons. She had an ensemble of helpers in blood-stained hazmat suits. The supermodel-turned-TV personality went viral in 2022 when she arrived at the party on the end of a fishing line, encased in a slithering worm costume. ... A rare essay by the escape artist has been published, shedding light on his early influences. ... Centennial events this weekend include a \"Grand Houdini Centenarium\" in Budapest, an auction in Hollywood, and seances in Chicago and Maryland. Despite the intrigue, experts say his legacy endures through his remarkable life. Scott Clifton and Tamara Tunie earn lead acting Daytime Emmys. 'General Hospital' wins again LOS ANGELES (AP) — Scott Clifton of “The Bold and the Beautiful” and Tamara Tunie of “Beyond the Gates” have won lead acting honors at the Daytime Emmy Awards. It's Clifton's second career trophy in the lead category. Tunie made her return to the soap opera genre after 17 years away. “General Hospital” won its record 19th trophy overall as outstanding drama and sixth in a row. Roger Howarth and Beth Maitland of “The Young and the Restless” swept the supporting acting categories. Meghan, Duchess of Sussex, lost in the lifestyle program category for her former Netflix show “With Love, Meghan.” Margaret Qualley, Jack Antonoff file for divorce after 3 years of marriage NEW YORK (AP) — Actor Margaret Qualley and Grammy winner Jack Antonoff have filed for divorce after three years of marriage. Court records show the case was filed Friday in Kings County Supreme Court in New York as an uncontested matrimonial action. Qualley is listed as the plaintiff, and Antonoff as the defendant. The couple separated in July. Qualley, 32, is known for films like “The Substance” and “Once Upon a Time in Hollywood.” Antonoff, 42, ... An introspective Kirk Franklin is no longer apologizing with 'I Am What I Am' album NEW YORK (AP) — Kirk Franklin is back with his new album, \"I Am What I Am,\" out Friday. His 14th studio project and first double album, 14 tracks are divided between contemporary music and traditional, live-recorded gospel songs. Features include gospel royalty Karen Clark Sheard and star mainstream artists like Jelly Roll, Davido and GloRilla. “This Time,\" featuring GloRilla, hit No. 1 on Billboard’s hot gospel songs, extending Franklin's record to ten No. 1s on the chart. Known for his crossover hits, the 20-time Grammy winner has frequently faced criticism for working with secular artists, but remains unapologetic in the name of spreading his Christian faith."
+   },
+   {
+    "title": "Africa Entertainment News Archive: November 1, 2026 | AfricaFrontPage",
+    "url": "https://www.africafrontpage.com/archive/2026-11-01/entertainment",
+    "source": "africafrontpage.com",
+    "published": "",
+    "excerpt": "184 headlines from Africa Entertainment on November 1, 2026, each linking to the original publisher. Times are GMT. Africa Entertainment News Archive ... - Is Asake on Rema's new album? Here is what we know Notjustok · 18:50 - Kai Havertz sets new Premier"
+   }
+  ],
+  "text": "[1] Phoebe Bridgers and Billie Eilish steal the weekend | Entertainment Roundup · 1 Nov (feedbagel.com)\n# Phoebe Bridgers and Billie Eilish steal the weekend Halloween weekend brought a mix of heartfelt performances, costume controversies, and industry tributes. Phoebe Bridgers' intimate L.A. show with Billie Eilish leads the entertainment conversation, while a personal essay on disfigurement costumes adds a sobering counterpoint. In today's edition: Weekend shows and Halloween takes, plus quick bites. 19 stories, picked this morning ## Weekend shows The biggest live event of the weekend was Phoebe Bridgers' no-phones concert, but a stunt for an Everest documentary also turned heads. …\n\n[2] Pop Culture & Entertainment, Sunday, November 1, 2026: 18 stories | BBN (bbn.live)\n### Macklemore concludes 'Free Palestine' tour with solidarity message The final show raised funds for twelve organisations supporting Palestinians, and Paloma Faith gave a tearful address; a rare tour where the opening act wanted more. Reported by Al Jazeera · with a Short ... ### Netflix November lineup, Beat Luke Littler and Week 9 Netflix is adding close to thirty Christmas movies this month, plus Whiplash and Bridesmaids; Rob Lowe's documentary arrives November twenty-fourth.\n\n[3] Movie News: 1st November 2026 (onemannsmovies.com)\nNovember 1, 2026 by bobwp ### Patrick Stewart’s final role, Cate Blanchett in Tokyo, Jailer 2 closes in on ₹800 crore & Nollywood’s ₦400 million October. Morning, all. A new month, and Sunday means our weekly lap of the world’s other film industries, but first, more on the loss of Sir Patrick Stewart. I’ll cover the confirmed weekend box office numbers in tomorrow’s post. Patrick Stewart’s farewell performance: Marvel Studios has confirmed that Avengers: Doomsday, which opens on 18 December, will be Sir Patrick Stewart’s final onscreen performance, which ends a 26-year run as Professor …\n\n[4] November 1, 2026 | News Headlines | Page Six (pagesix.com)\n### Inde Navarrette takes savage swipe at Shane Gillis during ‘SNL’ monologue November 1, 2026 | 9:31am Navarrette's remark was a clear reference to Gillis’ own “SNL” monologue on Oct. 10, during which he sparked backlash for making crude comments about women’s revealing workout clothes.\n\n[5] Music News Today — November 1, 2026 — MusicNewsletter.com (musicnewsletter.com)\nnight's Saturday Night Live, singer Gracie Abrams took the stage to perform her songs 'Hit the Wall' and 'Here You Come, There You Go', showcasing her talent to a wider audience. The show also featured other notable moments, including a\n\n[6] Weekly TV Music Roundup (November 1, 2026) – Film Music Reporter (filmmusicreporter.com)\nPremiering on Tuesday, November 3, is the Netflix original animated series Bass X Machina created by LeSean Thomas and starring Brian Tyree Henry, Janelle Monáe, Tati Gabrielle, Cree Summer, Currie Graham, Starletta DuPois, Chaske Spencer, Nick Thurston, André Sogliuzzo, Lynette Willis and Anoli Scott. The show’s original score is composed by Roman GianArthur (Antebellum, Stamped from the Beginning) who also co-wrote the theme song Honor Killing (performed by Monáe) with Nate Wonder at Wondaland. The Studio Mir production is set in lawless Steampunk West overrun by brutal outlaws, machines, …\n\n[7] Domestic Release Schedule - Box Office Mojo (boxofficemojo.com)\n· Romance · War With: Joel David Smallbone, Lucas Leach, India Brown, ... min Cast, Crew, and Company Info | Apple Original Films | Limited | ... | Soul Patrol Documentary · History · War With: Barbara Branch, Emerson Branch, Teresa\n\n[8] AP Entertainment SummaryBrief at 1:20 a.m. EDT | Ap | timesargus.com (timesargus.com)\n. It's Clifton's second career trophy in the lead category. ... made her return to the soap opera genre after 17 years away. “General ... in a row. Roger Howarth and Beth Maitland of “The Young and the Restless” swept the supporting acting categories\n\n[9] AP Entertainment SummaryBrief at 9:02 a.m. EST | Ap | timesargus.com (timesargus.com)\n- AP - Nov 1, 2026 - Nov 1, 2026 Updated 1 hr ago Director calls Broadway revival of ‘In the Heights’ at NY City Center a ‘balm for these times’ NEW YORK (AP) — David Mendizábal is directing a revival of Lin-Manuel Miranda’s \"In the Heights,\" a musical that was Mendizábal's introduction to theater. The show, running for three weeks at New York City Center, features a new cast of Latino artists. Mendizábal emphasizes the importance of showcasing Latino communities, especially now. Miranda, who starred in the original production, reflects on the musical's enduring relevance. The revival comes …\n\n[10] Africa Entertainment News Archive: November 1, 2026 | AfricaFrontPage (africafrontpage.com)\n184 headlines from Africa Entertainment on November 1, 2026, each linking to the original publisher. Times are GMT. Africa Entertainment News Archive ... - Is Asake on Rema's new album? Here is what we know Notjustok · 18:50 - Kai Havertz sets new Premier",
+  "hash": "0c9bcead989b1c6b824dfc00269cf6587ba3519f039fa6876ec044d2f07e6b7f",
+  "notes": []
+ }
+}
