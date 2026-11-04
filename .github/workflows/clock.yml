@@ -1,0 +1,60 @@
+name: Wave clock
+
+# Why this exists: GitHub throttles scheduled runs. survey.yml asks for ~150 cron
+# triggers a day but gets about 8-10, sometimes with 6-8 hour gaps, so whole 4-hour
+# slots are lost (9 of the last 24 slots before this fix).
+#
+# This workflow is the clock instead. One run: dispatches the survey (catch-up for
+# the current slot; a no-op if it is already done), sleeps until the next New York
+# slot plus a few minutes, dispatches the survey again, then dispatches itself, so
+# the chain keeps going. workflow_dispatch via GITHUB_TOKEN is allowed to start new runs.
+# The hourly cron only restarts the chain if it ever breaks; the concurrency group
+# keeps at most one clock running and one waiting, so extra triggers collapse.
+on:
+  schedule:
+    - cron: "17 * * * *"   # restarter only; the chain normally keeps time by itself
+  workflow_dispatch:
+
+permissions:
+  actions: write           # to dispatch survey.yml and this workflow
+  contents: read
+
+concurrency:
+  group: wave-clock
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - name: Catch up the current slot
+        run: gh workflow run survey.yml --ref main -f mode=production
+
+      - name: Sleep until the next slot
+        run: |
+          secs=$(python3 - <<'PY'
+          import datetime, zoneinfo
+          tz = zoneinfo.ZoneInfo("America/New_York")
+          HOURS = (0, 4, 8, 12, 16, 20)   # keep in sync with config.yaml schedule.slot_hours
+          now = datetime.datetime.now(tz)
+          day = now.replace(hour=0, minute=0, second=0, microsecond=0)
+          slots = [(day + datetime.timedelta(days=d)).replace(hour=h) for d in (0, 1) for h in HOURS]
+          # replace(hour=) keeps wall-clock time, so DST days still land on the NY hour
+          nxt = min(s for s in slots if s > now)
+          utc = datetime.timezone.utc   # same-tz subtraction ignores DST, so compare in UTC
+          print(int((nxt.astimezone(utc) - now.astimezone(utc)).total_seconds()) + 120)   # 2 min after the slot
+          PY
+          )
+          echo "sleeping ${secs}s"
+          sleep "$secs"
+
+      - name: Start this slot's wave
+        run: gh workflow run survey.yml --ref main -f mode=production
+
+      - name: Keep the chain going
+        if: always()
+        run: gh workflow run clock.yml --ref main

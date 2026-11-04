@@ -5,6 +5,8 @@ name: Survey wave
 # its New York slot and exits immediately if that slot already has a wave.
 # GitHub often delays or drops scheduled runs, so a backup trigger also fires every
 # 10 minutes; it finishes in seconds when the current slot is already done.
+# The main clock is now clock.yml, which dispatches this workflow at each slot;
+# the crons here are a fallback.
 on:
   schedule:
     - cron: "3 0,4,8,12,16,20 * * *"    # New York slots while on EDT (UTC-4)
@@ -48,7 +50,7 @@ jobs:
 
       - name: Is this slot already done?
         id: gate
-        if: github.event_name == 'schedule'
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.mode == 'production' && !inputs.force)
         run: |
           python3 - <<'PY'
           import os, pathlib, datetime, zoneinfo
