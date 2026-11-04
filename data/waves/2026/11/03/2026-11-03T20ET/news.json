@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-04T01:00:21+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 3, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-04T01:00:21+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian",
+    "url": "https://www.theguardian.com/theguardian/2026/nov/03",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "immigration plans in face of cabinet backlash Exception for care workers will allow an estimated 280,000 people and their dependants to apply for indefinite leave to remain after five years Shabana Mahmood softens immigration plans in face of cabinet"
+   },
+   {
+    "title": "Headlines for November 03, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/11/3/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "## WSJ: U.S. Carries Out Strikes Around Strait of Hormuz on Eve of Midterm Elections Nov 03, 2026 In Iran, several explosions were reported overnight on Qeshm Island and in the port city of Bandar Lengeh, as The Wall Street Journal reported the U.S. had carried out strikes around the Strait of Hormuz. The attacks came on the eve of today’s midterm elections, which will determine the balance of power in the House and Senate, and just hours after President Trump declared that the U.S. is not at war with Iran. Trump spoke by phone with Fox News’s Sean Hannity. > President Donald Trump: “We’re not fighting a war. You know, everyone says, ’You’re at war!’ Well, when was the last time we fired anything? This isn’t a war. This is a very soft war.” The latest U.S. attacks on Iran came amid reports that Israeli Prime Minister Benjamin Netanyahu is pushing for a massive wave of new strikes after today’s U.S. midterm elections. That could help Netanyahu form an emergency government, following his far-right coalition’s losses in last week’s elections in Israel. This comes as Iran’s Foreign Ministry said Monday it is prepared to reopen the Strait of Hormuz in two days if the U.S. agrees to a set of demands. ## SCOTUS Rejects Trump Admin’s Attempt to Force California to Set Aside 20,000 Mail-In Ballots Nov 03, 2026 The Supreme Court has rejected the Trump administration’s attempt to force California to set aside 20,000 mail-in ballots it claims may have come from noncitizens. On Monday, justices issued a short, unexplained order just hours after the Justice Department filed its emergency request. An analysis by UCLA researchers found the Trump administration flagged thousands of U.S. citizens as ineligible to vote, while more than 40% of the names provided could not even be found in California’s voter rolls. In a statement, California’s Attorney General Rob Bonta said, “This latest decision should put an end to the administration’s attempt to disrupt California’s elections through emergency court orders. But our work is not over. We will remain vigilant and keep fighting back against federal efforts to undermine our democracy.” ... ## Houthis Advance on Aden as Fighting Worsens Yemen’s Hunger Crisis In Yemen, fighters with the Ansar Allah movement known as the Houthis have advanced to within 50 miles of Aden, the temporary capital and main stronghold of the Saudi-backed, internationally recognized government. Saudi Arabia’s military responded with strikes on several Houthi-controlled regions that Ansar Allah says killed 10 people and injured dozens of others. Two of the airstrikes reportedly struck the University of Hodeidah’s medical school. Elsewhere, the Saudi-led coalition said it had intercepted ballistic missiles and a drone fired by Ansar Allah toward southern Saudi Arabia. The fighting has exacerbated the hunger crisis in Yemen, where about three-quarters of households are unable to meet their basic daily food needs, according to the U.N. This is a resident of the besieged city of Taiz, whose governor last week declared a famine. ... In the occupied West Bank, Palestinian families are returning to homes, businesses and schools in Hebron, after Israel’s army ended a 10-day siege. ... ## Russian Strike on Humanitarian Aid Center in Ukraine Leaves Dozens Injured or Dead Ukraine’s government says at least 31 people were killed and dozens of others remain missing after Russia bombed a humanitarian aid site in a village in Ukraine’s southern Zaporizhzhia region. Survivors called it a “double-tap” strike, with Russia first bombing a school building used to distribute aid, before a second wave of attacks on people at a nearby shelter. It’s one of the deadliest Russian strikes on civilians since the start of Russia’s full-scale invasion of Ukraine nearly five years ago. It came as Russia attacked nine regions of Ukraine overnight, triggering blackouts and injuring scores of people, including dozens of patients at a hospital in Kharkiv."
+   },
+   {
+    "title": "Morning Edition for November 3, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-6008190/morning-edition-for-november-3-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Federal authorities investigate cause of deadly plane crash in Florida by Joel Rose #### Federal authorities investigate cause of deadly plane crash in Florida ### Four Corners flooding complicates voting for some residents"
+   },
+   {
+    "title": "After latest strikes, Iran says US must act to prevent more war | AP News",
+    "url": "https://apnews.com/article/mideast-news-november-3-2026-9ae5cec3d1f9cde02652f52f7f80fbce",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Updated 5:44 PM EST, November 3, 2026 Iran’s chief negotiator says it’s up to the United States to prevent renewed war after what he described as a “firm and rational response” to Washington. Mohammad Bagher Qalibaf did not elaborate. His comments came after the U.S. conducted defensive strikes on some Iranian targets in the Strait of Hormuz. Meanwhile, U.S. President Donald Trump says his administration will stop providing $4 billion in aid each year to Israel but still sell arms to its ally. India reports that an attack on a commercial vessel off Oman killed an Indian national while 13"
+   },
+   {
+    "title": "Morning news brief : NPR",
+    "url": "https://www.npr.org/2026/11/03/nx-s1-6023115/morning-news-brief",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": ", Iran prepares for potential renewed attacks after U.S. ... Control of Congress is at stake as voters head to the polls, President Trump touts his own record in final message to voters, Iran prepares for potential renewed attacks after U.S. midterms."
+   },
+   {
+    "title": "World news | World | The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/03/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": ", the king did not give explicit support for reparations but said he ... Óscar Puente also announces his withdrawal from upcoming election following disaster that killed 69 people ... - ### Two Australians confirmed dead in Spain’s high-speed train crash"
+   },
+   {
+    "title": "Top news of the day: November 3, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/top-news-of-the-day-november-3-2026/article71660683.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "#### Demonstrations generate ‘protest economy’, Supreme Court tells Delhi traders The Supreme Court on Tuesday (November 3, 2026) remarked to Delhi traders that protests are not entirely hostile to business, pointing out that there is also “protest economy” that generates brisk earnings for enterprising hawkers and vendors at demonstration sites. A Bench headed by Chief Justice of India Surya Kant expressed sympathy for the right to livelihood of the small traders, hawkers, push cart vendors, noting that their right competed with the right to expression of the protestors. The court said there was a need for balance. “Right to protest is constitutionally recognised. Right to trade is also. By ‘trade’ we do not mean commercial establishments, but those who do it as the sole source of livelihood, like the daily wagers, the subjiwala, etc. Where can they go?” Chief Justice Kant observed. #### Indian Navy rescues hijacked fishing vessel off Somalia, frees all 20 crew members The Indian Navy has successfully rescued a hijacked fishing vessel, Azini, from armed pirates off the northeastern coast of Somalia in an operation lasting over 48 hours, ensuring the safe release of all 20 crew members without any casualties or injuries. According to Indian Navy, the fishing vessel was hijacked by an armed pirate group earlier last month and was suspected to be used as a ‘mother ship’ to launch further attacks on merchant vessels operating in the region, posing a significant threat to maritime security. Responding to the incident, the Navy deployed a mission-ready warship, supported by a maritime reconnaissance aircraft, to locate and track the hijacked vessel. After sustained surveillance, the naval platforms employed calibrated non-kinetic measures to contain the vessel and prevent it from escaping."
+   },
+   {
+    "title": "AP News Summary at 7:49 a.m. EST | National & World | dailyadvance.com",
+    "url": "https://www.dailyadvance.com/news/national/ap-news-summary-at-7-49-a-m-est/article_f9b18e31-7d15-5b4a-8d35-37b3a4858fd8.html",
+    "source": "dailyadvance.com",
+    "published": "",
+    "excerpt": "KYIV, Ukraine (AP) — The death toll from a Russian attack in southern Ukraine has risen to 31, with dozens still missing. People had gathered to ... aid when the attack occurred. President Volodymyr Zelenskyy said Tuesday that Russia launched 289 attack"
+   },
+   {
+    "title": "News 3 November 2026 - Archive Euronews",
+    "url": "https://www.euronews.com/2026/11/03",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "writer, a leading figure in the short story and ... literature, becomes the seventh woman to receive the top Spanish-language literary award ... s transport minister Óscar Puente resigns over Urda train crash that killed 69 Óscar Puente revealed that a"
+   },
+   {
+    "title": "AP News Summary at 3:44 p.m. EST | National | guardonline.com",
+    "url": "https://www.guardonline.com/news/national/ap-news-summary-at-3-44-p-m-est/article_0a43e33d-43c5-5caa-b172-89c65f28165a.html",
+    "source": "guardonline.com",
+    "published": "",
+    "excerpt": "The Latest: Voters cast their ballots as Republicans hope to hold control of Congress Election Day is here. Voters nationwide will decide control of the U.S. House and Senate. Democrats must flip four Senate seats and three House seats to wrest control of the chambers from Republicans. Control of Congress would give Democrats a way to push back against President Donald Trump’s agenda during the final two years of his term. The battle for control is playing out mostly in states and districts Trump previously won by wide margins. Democrats have homed in on Trump’s poor approval rating, public dissatisfaction with the war in Iran and affordability concerns. Republicans have focused on social issues, while Trump has made himself the central character of the midterms. WASHINGTON (AP) — President Donald Trump says “everything’s going good” as midterm elections that will serve as a referendum on his second term come to a close. Polling sites opened Tuesday with few disruptions. ... Democrats are cautiously optimistic about their prospects, betting discontent over Trump’s failure to deliver on his promise to tackle rising costs will depress Republican turnout. Trump declared on Fox News Channel that \"inflation is solved” — even though his Commerce Department says consumer prices rose 3.6% in September from a year earlier. An Associated Press analysis shows more"
+   }
+  ],
+  "text": "[1] Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian (theguardian.com)\nimmigration plans in face of cabinet backlash Exception for care workers will allow an estimated 280,000 people and their dependants to apply for indefinite leave to remain after five years Shabana Mahmood softens immigration plans in face of cabinet\n\n[2] Headlines for November 03, 2026 | Democracy Now! (democracynow.org)\n## WSJ: U.S. Carries Out Strikes Around Strait of Hormuz on Eve of Midterm Elections Nov 03, 2026 In Iran, several explosions were reported overnight on Qeshm Island and in the port city of Bandar Lengeh, as The Wall Street Journal reported the U.S. had carried out strikes around the Strait of Hormuz. The attacks came on the eve of today’s midterm elections, which will determine the balance of power in the House and Senate, and just hours after President Trump declared that the U.S. is not at war with Iran. Trump spoke by phone with Fox News’s Sean Hannity. > President Donald Trump: “We’re …\n\n[3] Morning Edition for November 3, 2026 : NPR (npr.org)\n### Federal authorities investigate cause of deadly plane crash in Florida by Joel Rose #### Federal authorities investigate cause of deadly plane crash in Florida ### Four Corners flooding complicates voting for some residents\n\n[4] After latest strikes, Iran says US must act to prevent more war | AP News (apnews.com)\nUpdated 5:44 PM EST, November 3, 2026 Iran’s chief negotiator says it’s up to the United States to prevent renewed war after what he described as a “firm and rational response” to Washington. Mohammad Bagher Qalibaf did not elaborate. His comments came after the U.S. conducted defensive strikes on some Iranian targets in the Strait of Hormuz. Meanwhile, U.S. President Donald Trump says his administration will stop providing $4 billion in aid each year to Israel but still sell arms to its ally. India reports that an attack on a commercial vessel off Oman killed an Indian national while 13\n\n[5] Morning news brief : NPR (npr.org)\n, Iran prepares for potential renewed attacks after U.S. ... Control of Congress is at stake as voters head to the polls, President Trump touts his own record in final message to voters, Iran prepares for potential renewed attacks after U.S. midterms.\n\n[6] World news | World | The Guardian (theguardian.com)\n, the king did not give explicit support for reparations but said he ... Óscar Puente also announces his withdrawal from upcoming election following disaster that killed 69 people ... - ### Two Australians confirmed dead in Spain’s high-speed train crash\n\n[7] Top news of the day: November 3, 2026 - The Hindu (thehindu.com)\n#### Demonstrations generate ‘protest economy’, Supreme Court tells Delhi traders The Supreme Court on Tuesday (November 3, 2026) remarked to Delhi traders that protests are not entirely hostile to business, pointing out that there is also “protest economy” that generates brisk earnings for enterprising hawkers and vendors at demonstration sites. A Bench headed by Chief Justice of India Surya Kant expressed sympathy for the right to livelihood of the small traders, hawkers, push cart vendors, noting that their right competed with the right to expression of the protestors. The court said there …\n\n[8] AP News Summary at 7:49 a.m. EST | National & World | dailyadvance.com (dailyadvance.com)\nKYIV, Ukraine (AP) — The death toll from a Russian attack in southern Ukraine has risen to 31, with dozens still missing. People had gathered to ... aid when the attack occurred. President Volodymyr Zelenskyy said Tuesday that Russia launched 289 attack\n\n[9] News 3 November 2026 - Archive Euronews (euronews.com)\nwriter, a leading figure in the short story and ... literature, becomes the seventh woman to receive the top Spanish-language literary award ... s transport minister Óscar Puente resigns over Urda train crash that killed 69 Óscar Puente revealed that a\n\n[10] AP News Summary at 3:44 p.m. EST | National | guardonline.com (guardonline.com)\nThe Latest: Voters cast their ballots as Republicans hope to hold control of Congress Election Day is here. Voters nationwide will decide control of the U.S. House and Senate. Democrats must flip four Senate seats and three House seats to wrest control of the chambers from Republicans. Control of Congress would give Democrats a way to push back against President Donald Trump’s agenda during the final two years of his term. The battle for control is playing out mostly in states and districts Trump previously won by wide margins. Democrats have homed in on Trump’s poor approval rating, public …",
+  "hash": "c839032cd17b10731a3b9fae4dca354b731100c46903371a4027f1d0d487b58c",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 3, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-04T01:00:34+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "US Consumer Prices Rose 3.7% Year Over Year in… - SquawkNews",
+    "url": "https://squawknews.com/news/799655-us-consumer-prices-rose-3-7-year-over-year-in-september",
+    "source": "squawknews.com",
+    "published": "",
+    "excerpt": "The Labor Department reported consumer prices were up 3.7% from a year earlier in September. President Trump said in a Tuesday interview that inflation was solved. ... Marianne LeVinePresident Trump claimed during an interview on Fox & Friends on Tuesday"
+   },
+   {
+    "title": "In top Senate race states, gas, grocery and housing costs are up",
+    "url": "https://www.nbcnews.com/business/economy/senate-gas-grocery-housing-costs-trump-rcna607097",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "Nov. 3, 2026, 7:44 AM EST By Alexandra Meier From gas and groceries to housing and wage growth, midterm voters who are being squeezed by inflation tell NBC News the economy is their top issue this Election Day. In 2024, President Donald Trump’s promise to bring down prices and make daily life more affordable helped him win back the White House. But nearly two years into his second term, Trump’s tariffs and his war with Iran have driven costs higher across the country, fueling deep discontent among voters. ... ## Pain at the pump In several of the states with close Senate races, voters face gas prices that have climbed higher, and more sharply, than the mean nationwide prices over the same period. Across the country, the average cost of a gallon of gas has risen 40% since Feb. 28, the day Trump and Israeli Prime Minister Benjamin Netanyahu launched attacks on Iran that sent crude oil prices through the roof. Right before the war, the average price of unleaded was $2.98 per gallon, according to NBC News’ gas price tracker. On Monday, it was $4.16. In Iowa, however, the average price has climbed by significantly more, nearly 55% since late February. The same figure applies in Nebraska. In Kansas, gas prices are up by 53%. All three states broke for Trump in 2024. ... Drivers in Michigan are also experiencing an outsized jump, with gas up 51% from $2.99 in February to $4.52 Monday. There, Democrat Abdul El Sayed is facing off against Republican Mike Rogers. In Ohio, where Democratic former Sen. Sherrod Brown is challenging incumbent Republican Jon Husted, the price of a gallon of gas has climbed by 48%. ... In Maine, the price of a gallon of gas is 46% higher than it was before the war, creating a drag on Republican incumbent Sen. Susan Collins and an opportunity for Democrat Troy Jackson. Even when national average gas prices pivot lower, as they did throughout October, that doesn’t always extend to parts of the country where refinery activity influences fuel costs, particularly in the Great Lakes region. Far from the coasts, refineries that service Michigan, Ohio and Iowa cannot easily restore supply lost to weather events or refinery capacity. “When you’re isolated in the interior of the country, these problems can linger as long as the refinery is experiencing issues,” said Patrick De Haan, chief petroleum analyst at GasBuddy. ... Beyond the gas pump, voters are also feeling the sting of higher oil prices overseas in the form of increased transportation costs for groceries and retail goods. In several of the states with tight Senate races, average households are spending a lot more of their monthly income on groceries than shoppers elsewhere in the country, according to a WalletHub study. ... ## Your money buys you less While Americans are technically earning more in dollar terms on average, paychecks are not keeping up with the pace of inflation. Wages in September grew by 3.0% year over year. But the annual inflation rate hit 3.7%. Adjusting for inflation, this means average hourly earnings nationwide fell by about 0.7%. This disparity is another source of economic pressure on voters going into Election Day. But the gap between wage growth and inflation is significantly wider in some of the states that will be most closely watched Tuesday night. In Nebraska, purchasing power fell by 3.5% over the three months ending in August, relative to regional inflation. Iowa saw a drop of 2.6%. And in Alaska, real pay fell by 2.0% compared to the same period last year."
+   },
+   {
+    "title": "What Millions of Data Points Reveal About US Inflation",
+    "url": "https://www.bloomberg.com/graphics/2026-inflation-price-index/",
+    "source": "bloomberg.com",
+    "published": "",
+    "excerpt": "Bloomberg Economics has compiled an alternative view on price trends based on millions of data points. It doesn’t suggest inflation has been tamed. ... The Bloomberg Price Project (BPP) compiles prices scraped from the web, government records and alternative data providers like Second Measure’s card transactions. It uses a methodology that mimics the Bureau of Labor Statistics’ CPI calculation — but with a more real-time read. In aggregate, the data confirms familiar trends – inflation is too high and the war in Iran is the main reason. Through late October, motor fuel is up 39.9% from a year earlier. ... The BPP’s topline metric shows why Americans are feeling squeezed, with a headline reading of 4.4% in September, above the official Consumer Price Index print of 3.7%. But a closer look into the data shows price pressures more localized than in past inflation waves, and with disinflationary forces in play, too. Economists often focus on the “trimmed mean,” which excludes the"
+   },
+   {
+    "title": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+    "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Crude oil prices fell Tuesday for a second consecutive session, as the market hopes the U.S. and Iran will reach a diplomatic settlement to the conflict that has disrupted global energy supplies for eight months. U.S. West Texas Intermediate Add To Watchlist futures lost 37 cents to close at $96.09 a barrel after dipping below $95 earlier in the session. Brent crude Add To Watchlist, the international benchmark, shed $1.17 to settle at $103.60. The move lower came after rumors circulated the U.S. and Iran were making progress toward a deal. Oil sold off more than 7% on Monday after Washington and Tehran signaled they were both open to discussions to reach a settlement. President Donald Trump told reporters Tehran wants \"to make a deal and that could happen.\" ... High oil prices have contributed substantially to inflation and high gasoline prices in the U.S., which have become a cause of concern for Trump ahead of the midterm elections. Last week, two Federal Reserve presidents said interest rates will need to move higher to rein in inflation."
+   },
+   {
+    "title": "Treasury yields rise ahead of midterm vote and jobs data",
+    "url": "https://www.cnbc.com/2026/11/03/us-treasury-yields-bonds.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "The 10-year U.S. Treasury Add To Watchlist yield — the main benchmark for mortgages, auto loans and credit card debt — rose more than 6 basis points to 4.96%. The yield on longer-dated 30-year U.S. Treasury Add To Watchlist"
+   },
+   {
+    "title": "Treasury Flags 3.7% Inflation in Quarterly Economy Statement - thefederalnewswire.com",
+    "url": "https://thefederalnewswire.com/treasury-flags-3-7-inflation-in-quarterly-economy-statement/",
+    "source": "thefederalnewswire.com",
+    "published": "",
+    "excerpt": "Treasury Department released its quarterly economy statement to the Treasury Borrowing Advisory Committee on Nov. 2, confirming that the Consumer Price Index rose 3.7 percent year-over-year through September"
+   },
+   {
+    "title": "U.S. Economy Grows 3.4% as 3.7% Inflation Keeps Costs in Focus | EconoTimes",
+    "url": "https://econotimes.com/U-S-Economy-Grows-3-4-as-3-7-Inflation-Keeps-Costs-in-Focus-1768403",
+    "source": "econotimes.com",
+    "published": "",
+    "excerpt": "The U.S. economy expanded at a 3.4% annual rate in the third quarter, while inflation reached 3.7% over the year through September as voters prepared to weigh economic conditions in Tuesday’s midterm elections. Gallup found that 50% of registered voters surveyed Oct. 1-19 viewed the economy as extremely important to their congressional vote; 42% said the same of gas ... The Bureau of Economic Analysis (BEA) estimated real gross domestic product (GDP) grew at a 3.4% annual rate from July through September, compared with 2.2% in the second quarter. Investment, consumer spending and government spending contributed to the gain; lower exports partly offset it as imports increased. BEA data show real personal consumption expenditures grew at a 3.8% annual rate. The Bureau of Labor Statistics (BLS) reported the Consumer Price Index (CPI) rose 0.6% in September from August and 3.7% over the 12 months through September. Core CPI, which excludes food and energy, increased 0.3% for the month and 2.6% over the year. The CPI gasoline index climbed 9.1% in September, accounting for more than half of that month’s increase in the overall index. Annual inflation had fallen from 9.1% in June 2022 to 2.3% in April 2025 before rising again; the lower rate meant prices were rising more slowly, not falling overall. The Conference Board’s Consumer Confidence Index rose 7.5 points to 91.7 in October, from 84.2 in September. The board said confidence remained on a long-term downward trend and consumers planned to reduce spending on services and durable goods over the next six months. Its six-month moving average rose only among consumers younger than 35 and households with incomes of $100,000 or more. Fergus McCormick, a senior economist for Global Indicators at The Conference Board, said consumers “continued to express frustration with rising costs.” AAA’s national averages on Nov. 1 were $4.1732 per gallon for regular gasoline and $6.3039 for diesel, compared with $3.0380 and $3.6862 a year earlier."
+   },
+   {
+    "title": "The Fed can't fix this inflation. It's a mechanical weight, not a demand problem",
+    "url": "https://www.fxstreet.com/analysis/the-fed-cant-fix-this-inflation-its-a-mechanical-weight-not-a-demand-problem-202611021628",
+    "source": "fxstreet.com",
+    "published": "",
+    "excerpt": "Producer prices are rising 2.6 points faster than consumer prices, the widest gap since 2022, because most of the Iran war's costs haven't reached shoppers yet. The part that has is fuel, and rate hikes can't make fuel cheaper. The Producer Price Index (PPI), which tracks what US businesses get for the goods and services they sell, rose 6.3% through September. The Consumer Price Index (CPI) rose 3.7%. In February, the last full month before the Iran war, the gap between them was about a point. It's now 2.6 points, the widest since April 2022. Most of the war's costs still fall on businesses, and shoppers pay at the pump. The Federal Reserve (Fed) raised its rate to 3.75-4.00% in September and held it in October, with two members voting for another hike. The number that matters most for inflation is the price of Brent, the main global Oil price, and no one at the Fed sets it. ## Seven months of war, a tenth of a point outside energy Energy prices, which cover gasoline and the power and fuel used in homes, rose 20.4% through September, and gasoline alone rose 34.2%. Energy makes up about 7% of the CPI, so it added about 1.3 percentage points to the 3.7% total. In February it added almost nothing. Everything else barely changed. Prices outside food and energy, often called underlying inflation, were up 2.6%, a tenth of a point faster than in February. Food prices are rising more slowly than they were before the war. So almost all of the 1.3-point rise in inflation since February is the fuel bill, and with Brent trading near its highest since mid-2022, that bill hasn't gone away."
+   },
+   {
+    "title": "Trump Calls Inflation Solved as U.S. Consumer Prices Rise 3.7% | TokenPost",
+    "url": "https://www.tokenpost.com/news/regulation/48016",
+    "source": "tokenpost.com",
+    "published": "",
+    "excerpt": "President Donald Trump described inflation as solved in an interview, while the all-items Consumer Price Index rose 3.7% over the 12 months ending in September 2026. Energy prices increased 20.4% over the year, adding pressure on consumers."
+   },
+   {
+    "title": "Stock market news for Nov. 3, 2026",
+    "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": ",372.01, recouping some of its latest losses. The Nasdaq- ... Add To Watchlist rose 0.7% to 28,180.26, remaining in correction territory and down about ... %, to 51,786.72. The 30-stock index was weighed down by Apple Add To Watchlist shares"
+   }
+  ],
+  "text": "[1] US Consumer Prices Rose 3.7% Year Over Year in… - SquawkNews (squawknews.com)\nThe Labor Department reported consumer prices were up 3.7% from a year earlier in September. President Trump said in a Tuesday interview that inflation was solved. ... Marianne LeVinePresident Trump claimed during an interview on Fox & Friends on Tuesday\n\n[2] In top Senate race states, gas, grocery and housing costs are up (nbcnews.com)\nNov. 3, 2026, 7:44 AM EST By Alexandra Meier From gas and groceries to housing and wage growth, midterm voters who are being squeezed by inflation tell NBC News the economy is their top issue this Election Day. In 2024, President Donald Trump’s promise to bring down prices and make daily life more affordable helped him win back the White House. But nearly two years into his second term, Trump’s tariffs and his war with Iran have driven costs higher across the country, fueling deep discontent among voters. ... ## Pain at the pump In several of the states with close Senate races, voters face …\n\n[3] What Millions of Data Points Reveal About US Inflation (bloomberg.com)\nBloomberg Economics has compiled an alternative view on price trends based on millions of data points. It doesn’t suggest inflation has been tamed. ... The Bloomberg Price Project (BPP) compiles prices scraped from the web, government records and alternative data providers like Second Measure’s card transactions. It uses a methodology that mimics the Bureau of Labor Statistics’ CPI calculation — but with a more real-time read. In aggregate, the data confirms familiar trends – inflation is too high and the war in Iran is the main reason. Through late October, motor fuel is up 39.9% from a year …\n\n[4] Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war (cnbc.com)\nCrude oil prices fell Tuesday for a second consecutive session, as the market hopes the U.S. and Iran will reach a diplomatic settlement to the conflict that has disrupted global energy supplies for eight months. U.S. West Texas Intermediate Add To Watchlist futures lost 37 cents to close at $96.09 a barrel after dipping below $95 earlier in the session. Brent crude Add To Watchlist, the international benchmark, shed $1.17 to settle at $103.60. The move lower came after rumors circulated the U.S. and Iran were making progress toward a deal. Oil sold off more than 7% on Monday after Washington …\n\n[5] Treasury yields rise ahead of midterm vote and jobs data (cnbc.com)\nThe 10-year U.S. Treasury Add To Watchlist yield — the main benchmark for mortgages, auto loans and credit card debt — rose more than 6 basis points to 4.96%. The yield on longer-dated 30-year U.S. Treasury Add To Watchlist\n\n[6] Treasury Flags 3.7% Inflation in Quarterly Economy Statement - thefederalnewswire.com (thefederalnewswire.com)\nTreasury Department released its quarterly economy statement to the Treasury Borrowing Advisory Committee on Nov. 2, confirming that the Consumer Price Index rose 3.7 percent year-over-year through September\n\n[7] U.S. Economy Grows 3.4% as 3.7% Inflation Keeps Costs in Focus | EconoTimes (econotimes.com)\nThe U.S. economy expanded at a 3.4% annual rate in the third quarter, while inflation reached 3.7% over the year through September as voters prepared to weigh economic conditions in Tuesday’s midterm elections. Gallup found that 50% of registered voters surveyed Oct. 1-19 viewed the economy as extremely important to their congressional vote; 42% said the same of gas ... The Bureau of Economic Analysis (BEA) estimated real gross domestic product (GDP) grew at a 3.4% annual rate from July through September, compared with 2.2% in the second quarter. Investment, consumer spending and government …\n\n[8] The Fed can't fix this inflation. It's a mechanical weight, not a demand problem (fxstreet.com)\nProducer prices are rising 2.6 points faster than consumer prices, the widest gap since 2022, because most of the Iran war's costs haven't reached shoppers yet. The part that has is fuel, and rate hikes can't make fuel cheaper. The Producer Price Index (PPI), which tracks what US businesses get for the goods and services they sell, rose 6.3% through September. The Consumer Price Index (CPI) rose 3.7%. In February, the last full month before the Iran war, the gap between them was about a point. It's now 2.6 points, the widest since April 2022. Most of the war's costs still fall on businesses, …\n\n[9] Trump Calls Inflation Solved as U.S. Consumer Prices Rise 3.7% | TokenPost (tokenpost.com)\nPresident Donald Trump described inflation as solved in an interview, while the all-items Consumer Price Index rose 3.7% over the 12 months ending in September 2026. Energy prices increased 20.4% over the year, adding pressure on consumers.\n\n[10] Stock market news for Nov. 3, 2026 (cnbc.com)\n,372.01, recouping some of its latest losses. The Nasdaq- ... Add To Watchlist rose 0.7% to 28,180.26, remaining in correction territory and down about ... %, to 51,786.72. The 30-stock index was weighed down by Apple Add To Watchlist shares",
+  "hash": "7c7c7ad0ae451103430d698f31cab0f5bc0f6df15ca4a56875c7819b9e15b99e",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 3, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-04T01:00:43+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "What to watch in Tuesday’s midterm election, US strikes Iranian targets US official says | AP News",
+    "url": "https://apnews.com/newsletter/morning-wire/november-3-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "The United States launched strikes on Iranian targets, a U.S. official said, in what appeared to be a limited operation. Iranian state media reported explosions being heard on the islands of ... and Hengam in the strategic Strait of Hormuz, and in the"
+   },
+   {
+    "title": "The Latest: First Senate race call gives Democrats a win in Virginia",
+    "url": "https://apnews.com/article/midterm-elections-house-senate-congress-trump-ef6199e25927a9ac9f4c18eae0e497cd",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Election Day is here. Voters across the country are deciding control of the U.S. House and Senate. Democrats must flip four seats in the Senate and three seats in the House to wrest control of the ... to follow across the East Coast starting at 7 p.m."
+   },
+   {
+    "title": "First Thing: US goes to polls in vote that will define the last years of Trump’s presidency | US news | The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/03/first-thing-us-polls-vote-define-last-years-donald-trump-presidency",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "Good morning. Americans are heading to the polls today in US midterm elections widely seen as a referendum on Donald Trump’s second presidency and a chance for opponents to rein in his power. The party holding the"
+   },
+   {
+    "title": "Polls begin closing in US midterm elections to determine control of Congress | Reuters",
+    "url": "https://www.reuters.com/3fec1b0a85a0/world/us/trump-faces-midterm-verdict-with-control-congress-stake-2026-11-03/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": "DETROIT, Nov 3 (Reuters) - Polls closed in seven states on Tuesday as millions of Americans cast ballots to determine whether to strip control of Congress from President Donald Trump's Republicans, with Democrats favored to capture the ​House and both parties locked in an intense state-by-state battle for the Senate. The fate of each chamber may not be known for some time, as election workers tally ballots and polls ‌in dozens of states remain open later into the night. History is against Republicans: The sitting president's party has lost ground in Congress in all but two midterms since World War Two. Trump's approval rating is hovering near his career lows, with voters frustrated by war with Iran, higher fuel prices and wider affordability concerns. According to exit polls conducted by SSRS on behalf of a consortium of US media outlets including major television networks and the Associated Press, half of voters said they saw the 2026 midterm elections as an opportunity ​to rebuke"
+   },
+   {
+    "title": "Morning news brief : NPR",
+    "url": "https://www.npr.org/2026/11/03/nx-s1-6023115/morning-news-brief",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": ", Iran prepares for potential renewed attacks after U.S. ... Control of Congress is at stake as voters head to the polls, President Trump touts his own record in final message to voters, Iran prepares for potential renewed attacks after U.S. midterms."
+   },
+   {
+    "title": "Election Night 2026: Trump in battle mode as battle of Congress begins",
+    "url": "https://www.axios.com/2026/11/03/election-day-midterm-trump-democrats-republicans",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "The first polls have officially closed in Tuesday's midterm election, leaving Republicans and Democrats waiting to see what Washington will look like for the final two years of President Trump's tenure in the White House."
+   },
+   {
+    "title": "Headlines for November 03, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/11/3/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "Street Journal reported the U.S. had carried out strikes around the Strait of Hormuz. The attacks came on the eve of today’s midterm elections, ... hours after President Trump declared that the U.S. is not at war with Iran"
+   },
+   {
+    "title": "Election 2026 live updates: Preliminary Voter Poll shows Trump, economy disapproval - ABC News",
+    "url": "https://abcnews.com/Politics/live-updates/midterm-elections-live-updates/?id=137782085",
+    "source": "abcnews.com",
+    "published": "",
+    "excerpt": "There are several key House and Senate races that could determine the balance of power in Congress as well as significant ... Voter Poll data finds roughly 6 in 10 Maine Senate voters say incumbent Republican Sen. Susan Collins is too supportive of Trump."
+   },
+   {
+    "title": "Justice Dept. election monitors overwhelmingly deployed to Democratic locales - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/11/03/justice-dept-election-monitors-overwhelmingly-deployed-democratic-locales/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "has deployed roughly 1,000 election monitors to observe voting at polling sites Tuesday ... and nearly two-thirds of the jurisdictions chosen have consistently voted for Democrats in recent elections ... a record-setting effort to ensure election"
+   },
+   {
+    "title": "Trump’s agenda meets the ballot box as states vote on abortion, redistricting and voter ID mandates - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/11/03/ballot-issues-abortion-redistricting-transgender/d4f00ee8-d746-11f1-930a-e08f8086f5ac_story.html",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "WASHINGTON — A battle over abortion rights is playing out in several states Tuesday as voters decide 145 proposed laws and constitutional amendments, including some that could affect voting for future elections. The ballot measures provide a political undercard for a high-profile midterm election that will determine which party controls Congress, state legislatures and gubernatorial offices in many states. Some measures put President Donald Trump’s priorities to a public test by gauging support for his attempts to reshape congressional districts, limit transgender athletes in sports and strengthen voter identification requirements. ## Abortion ban faces an unusual redo in Missouri Two years ago, Missouri voters became the first in the nation to pass a ballot measure undoing an existing ban on most abortions. Now voters are deciding whether to repeal the 2024 abortion rights amendment and replace it with a new prohibition — this time allowing exceptions for medical emergencies and"
+   }
+  ],
+  "text": "[1] What to watch in Tuesday’s midterm election, US strikes Iranian targets US official says | AP News (apnews.com)\nThe United States launched strikes on Iranian targets, a U.S. official said, in what appeared to be a limited operation. Iranian state media reported explosions being heard on the islands of ... and Hengam in the strategic Strait of Hormuz, and in the\n\n[2] The Latest: First Senate race call gives Democrats a win in Virginia (apnews.com)\nElection Day is here. Voters across the country are deciding control of the U.S. House and Senate. Democrats must flip four seats in the Senate and three seats in the House to wrest control of the ... to follow across the East Coast starting at 7 p.m.\n\n[3] First Thing: US goes to polls in vote that will define the last years of Trump’s presidency | US news | The Guardian (theguardian.com)\nGood morning. Americans are heading to the polls today in US midterm elections widely seen as a referendum on Donald Trump’s second presidency and a chance for opponents to rein in his power. The party holding the\n\n[4] Polls begin closing in US midterm elections to determine control of Congress | Reuters (reuters.com)\nDETROIT, Nov 3 (Reuters) - Polls closed in seven states on Tuesday as millions of Americans cast ballots to determine whether to strip control of Congress from President Donald Trump's Republicans, with Democrats favored to capture the ​House and both parties locked in an intense state-by-state battle for the Senate. The fate of each chamber may not be known for some time, as election workers tally ballots and polls ‌in dozens of states remain open later into the night. History is against Republicans: The sitting president's party has lost ground in Congress in all but two midterms since …\n\n[5] Morning news brief : NPR (npr.org)\n, Iran prepares for potential renewed attacks after U.S. ... Control of Congress is at stake as voters head to the polls, President Trump touts his own record in final message to voters, Iran prepares for potential renewed attacks after U.S. midterms.\n\n[6] Election Night 2026: Trump in battle mode as battle of Congress begins (axios.com)\nThe first polls have officially closed in Tuesday's midterm election, leaving Republicans and Democrats waiting to see what Washington will look like for the final two years of President Trump's tenure in the White House.\n\n[7] Headlines for November 03, 2026 | Democracy Now! (democracynow.org)\nStreet Journal reported the U.S. had carried out strikes around the Strait of Hormuz. The attacks came on the eve of today’s midterm elections, ... hours after President Trump declared that the U.S. is not at war with Iran\n\n[8] Election 2026 live updates: Preliminary Voter Poll shows Trump, economy disapproval - ABC News (abcnews.com)\nThere are several key House and Senate races that could determine the balance of power in Congress as well as significant ... Voter Poll data finds roughly 6 in 10 Maine Senate voters say incumbent Republican Sen. Susan Collins is too supportive of Trump.\n\n[9] Justice Dept. election monitors overwhelmingly deployed to Democratic locales - The Washington Post (washingtonpost.com)\nhas deployed roughly 1,000 election monitors to observe voting at polling sites Tuesday ... and nearly two-thirds of the jurisdictions chosen have consistently voted for Democrats in recent elections ... a record-setting effort to ensure election\n\n[10] Trump’s agenda meets the ballot box as states vote on abortion, redistricting and voter ID mandates - The Washington Post (washingtonpost.com)\nWASHINGTON — A battle over abortion rights is playing out in several states Tuesday as voters decide 145 proposed laws and constitutional amendments, including some that could affect voting for future elections. The ballot measures provide a political undercard for a high-profile midterm election that will determine which party controls Congress, state legislatures and gubernatorial offices in many states. Some measures put President Donald Trump’s priorities to a public test by gauging support for his attempts to reshape congressional districts, limit transgender athletes in sports and …",
+  "hash": "594772187c6086e0eb231537ce36f32d80ab447b88fb49d86d4aabb02a3f3229",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 3, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-04T01:00:55+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Mckenna Grace Is a Ray of Sunshine as The Hunger Games Goes to Berlin, Plus King Charles, Keira Knightley and More",
+    "url": "https://people.com/star-tracks-tuesday-november-3-2026-new-celebrity-photos-updated-daily-12208469",
+    "source": "people.com",
+    "published": "",
+    "excerpt": "Mckenna Grace shows of her voluminous curls and perfect smile as she signs autographs for fans during a special screening of The Hunger Games: Sunrise on the Reaping in Berlin, Germany on Nov. 2. ... on the grid at the Formula 1 Grand Prix of Mexico"
+   },
+   {
+    "title": "Top Ent News Nov 3: Alia Bhatt, Neetu Kapoor Grace Ramayana Premiere; Armaan Malik Reacts To Mangal Rang Row | Bollywood News - News18",
+    "url": "https://www.news18.com/movies/bollywood/top-ent-news-nov-3-alia-bhatt-neetu-kapoor-grace-ramayana-premiere-armaan-malik-reacts-to-mangal-rang-row-ws-kl-10411452.html",
+    "source": "news18.com",
+    "published": "",
+    "excerpt": "With just two days left for its theatrical release, the excitement around Nitesh Tiwari’s Ramayana: Part One is building. The makers are hosting a special screening for the film’s cast, crew, and invited guests from the film industry in Mumbai today, November 3. The event is being held at an IMAX theatre in Lower Parel, ahead of the grand release on November 5. Alia Bhatt and Neetu Kapoor were seen arriving in style to cheer for Ranbir Kapoor, who will be seen playing Lord Rama’s role in the film. The track, Mangal Rang, from Ramayana: Rise Of A Legend has sparked a debate over its musical treatment. Critics have stated that the composition carries Sufi-qawwali influences and seems culturally misplaced in a film based on the Hindu epic. Many others have also compared it to AR Rahman’s earlier songs, particularly Kun Faya Kun from Rockstar and Enna Solla Pogirai, accusing him of recycling familiar musical patterns. Speaking exclusively to News18, Armaan Malik, who has lent his vocals to the Kannada version of Mangal Rang titled Mangala Sangama alongside Bela Shende, reacts to the debate."
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4001043-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Keira Knightley says returning spy thriller 'Black Doves' balances humour and moral complexity \"Black Doves\" may be packed with assassins and high-octane action sequences, but the joy of the Netflix spy thriller lies in its blend of humour and morally complex characters, Keira Knightley said at the London launch of the show's second season on Monday. Speaking against a ⁠backdrop of ​fireworks over the city skyline, actor ⁠Knightley, 41, told Reuters, \"It's meant to be fun, it's meant to be ridiculous, but it equally has these really interesting characters who are morally very complicated.\""
+   },
+   {
+    "title": "AP Entertainment SummaryBrief at 8:11 a.m. EST | Entertainment | wvnews.com",
+    "url": "https://www.wvnews.com/newsfeed/entertainment/ap-entertainment-summarybrief-at-8-11-a-m-est/article_f57beb34-d080-568e-9482-91edbda009dc.html",
+    "source": "wvnews.com",
+    "published": "",
+    "excerpt": "- Nov 3, 2026 ... Movie Review: In 'Godzilla Minus Zero,' human-scaled melodrama stomps out the kaiju fun Even Godzilla can be felled by an old hazard: the sophomore slump. Though Godzilla has been stomping around for more than half a century, “Godzilla Minus Zero” is a sequel. It follows the quite excellent, Oscar-winning “Godzilla Minus One,” a reset for the kaiju franchise that brought Godzilla back to its postwar Japan roots. Like its predecessor, the follow-up marries human-scaled drama with a flair for stompy-stomp spectacle. Yet AP Film Writer Jake Coyle says those calibrations are slightly off in “Godzilla Minus Zero.” In his review, Coyle writes that the melodrama on the ground overtakes the movie, sagging it with a bloated story that leaves you pining for the big guy to turn up again. NEW YORK (AP) — David Mendizábal is directing a revival of Lin-Manuel Miranda’s \"In the Heights,\" a musical that was Mendizábal's introduction to theater. The show, running for three weeks at New York City Center, features a new cast of Latino artists. Mendizábal emphasizes the importance of showcasing Latino communities, especially now. Miranda, who starred in the original production, reflects on the musical's enduring relevance. The revival comes amid immigration tensions, highlighting themes of gentrification and community. New and old cast members say the musical remains a celebration of the Latino immigrant experience, with its messages resonating strongly today. NEW YORK (AP) — My Chemical Romance has hit No. 1 on the Billboard 200 with “The Black Parade (20th Anniversary Deluxe Edition).” This reissue of their 2006 rock opera includes six bonus tracks. Back then, it debuted at No. 2 due to competition from Disney’s “Hannah Montana” soundtrack. The reissue's success is driven by 20 physical variants and a significant increase in album sales. The band’s reunion and anniversary tour have also fueled interest. Nostalgic fans and new listeners are connecting with the album's unique style and themes. This marks the longest wait for an album to reach No. 1. WASHINGTON (AP) — The Kennedy Center has announced that Paul Anka, David Foster, Andy Garcia, David Mamet and Barbara Mandrell will be honored at this year's Kennedy Center Honors. The event will take place away from the iconic venue for the first time due to President Donald Trump's legal battle over renovations and naming rights. The nominees have had substantial careers in their fields. Mamet is a renowned playwright, while Mandrell is a Country Music Hall of Fame member. Anka, a longtime friend of Trump, has rewritten “My Way” with MAGA-themed lyrics. The ceremony will be held on December 7 at Washington's Capital One Arena."
+   },
+   {
+    "title": "Music News for Tuesday, November 3, 2026 — Headlines & New Albums as Drum Beats | RockBlocks",
+    "url": "https://rockblocks.app/news/2026-11-03",
+    "source": "rockblocks.app",
+    "published": "",
+    "excerpt": "2026 34 music news headlines from Tuesday, November 3, 2026, each one a drum beat. See today's news → ... ### Bruce Springsteen Urges Officials to Protect the Vote on Election Day: ‘Our Vote Is Our Voice’"
+   },
+   {
+    "title": "November 3, 2026 | News Headlines | Page Six",
+    "url": "https://pagesix.com/2026/11/03/",
+    "source": "pagesix.com",
+    "published": "",
+    "excerpt": "### Taylor Swift was like a politican campaigning for an Oscar at New York ‘Toy Story 5’ screening November 3, 2026 | 6:18pm The \"Shake It Off\" singer was hugging babies and schmoozing journos as she hopes to nab her first Academy Award nomination —"
+   },
+   {
+    "title": "Movie News: 3rd November 2026",
+    "url": "https://onemannsmovies.com/movie-news/movie-news-3rd-november-2026/",
+    "source": "onemannsmovies.com",
+    "published": "",
+    "excerpt": "## World Movie News: The Last 24 Hours ### Wicker’s UK number one, Clayface’s quiet global win, Jailer 2 breaks ₹800 crore, Marrakech’s line-up, the AFM, Iceman casting & Carrie turns 50. ... UK and Ireland box office: Black Bear’s Wicker had the first number one film in its distributor’s history, opening to £1.7 million from 676 cinemas, a £2,515 average, which rises to £1.8 million including previews. A24’s Primetime, starring Robert Pattinson as To Catch a Predator‘s paedo-hunting host Chris Hansen, opened in third place with £1.3 million from 560 cinemas, a £2,321 average, and £1.7 million with previews. Clayface dropped 37% in its second weekend to £1.2 million, taking it to £4.7 million. It’s a Halloween weekend for the re-releases, too, with Pan’s Labyrinth in 384 cinemas, Donnie Darko in 202 and Ken Russell’s The Devils in 73 in a new 4K restoration from BFI Distribution. The weekend box office, worldwide: Clayface topped the worldwide chart for a second weekend with an estimated $22.8 million, which is dismally low for a chart-topping film, as a lack of significant new releases over Halloween weekend left the market becalmed. The UK and Ireland is its biggest international market, with $6.1 million to date. Laika’s astounding Wildwood moved up to second place after international expansion, and Wicker was seventh with a $7 million start, made up of $4.1 million from North America and $2.6 million from nine international markets. In the UK, Wicker‘s opening beat those of Poor Things and The Shape of Water, according to Deadline. Elsewhere, Resident Evil has now passed $400 million worldwide. In North America, yesterday’s estimates have been confirmed, and You Can See Everything came out on top with $11.4 million in its third weekend, a little higher than expected, ahead of Clayface with $11 million. Clayface now has $44.6 million in North America and $83 million worldwide, while the whole weekend came in at roughly $60 million, one of the slowest of the year. Tamil cinema: Jailer 2 breaks ₹800 crore: Rajinikanth’s Jailer 2 passed ₹800 crore worldwide on its 18th day, finishing its third weekend with a worldwide gross of ₹807.25 crore (about $84 million), according to Sacnilk. It’s the first Tamil film to pass both ₹700 crore and ₹800 crore, and it now stands as the highest-grossing Tamil film ever and reportedly the second-highest-grossing Indian film of 2026. It has earned ₹456.3 crore net in India (about $48 million) and ₹273.5 crore (about $28 million) overseas, and it added ₹26.4 crore net in India over its third weekend. The Far East: Resident Evil’s China hold: In mainland China, Resident Evil was number one for a fourth consecutive weekend with RMB 28.5 million ($4.3 million), taking it to $71.3 million since its 5 October opening. The crime drama Traces of Justice remains ahead overall with $98.5 million since 1 October. The wider market had a quiet weekend with $18.2 million, and the year-to-date total of $4.73 billion is down 29.0% on 2025. A 2014 re-release of John Wick opened in third place. Marrakech’s line-up: The 23rd Marrakech International Film Festival, which runs from 20 to 28 November, has unveiled a line-up of 76 films from 39 countries, including 10 world premieres. As I mentioned when it closed the London Film Festival, Jesse Eisenberg’s The Debut opens the festival, and Marion Cotillard presides over the competition jury. Gala screenings include Luca Guadagnino’s Artificial and James Gray’s Paper Tiger, and 14 films compete for the Étoile d’Or, including Yoon Dan-bi’s The World Before and Marie-Clémentine Dusabejambo’s Ben’imana. The American Film Market gets going: Hockey’s Hollywood moment, largely driven by the success of Heated Rivalry, has reached the AFM, with Liam Neeson set to play a legendary coach in Believe 13, about his bond with an injured high school star. Closer to home, Guy Pearce, Sabrina Impacciatore, Rachael Stirling and Selena Tan have joined Jeff Daniels in Trudie Styler’s The Reception, a chaotic wedding-party comedy that’s currently shooting on location in Scotland. Iceman casting: Ben Wang, the star of Karate Kid: Legends, who also plays District 12 tribute Wyatt Callow in The Hunger Games: Sunrise on the Reaping on 20 November, is in talks to play Iceman in Marvel’s X-Men reboot, which Jake Schreier is directing for 2028. The deal isn’t done, and Gabriel LaBelle, Jackson Kelly and Rhenzy Feliz all reportedly tested for the part. It would leave Beast as the only member of the original team without an actor, and the casting news arrives just days after Patrick Stewart’s farewell as Professor X was confirmed."
+   },
+   {
+    "title": "Wake Up With BroadwayWorld November 3, 2026- THE ROCKY HORROR SHOW Extends on Broadway and More",
+    "url": "https://www.broadwayworld.com/article/Wake-Up-With-BroadwayWorld-November-3-2026--THE-ROCKY-HORROR-SHOW-Extends-on-Broadway-and-More-20261103",
+    "source": "broadwayworld.com",
+    "published": "",
+    "excerpt": ", sharing how she embraced comedy while working alongside Bill Irwin. Aaron Sorkin's landmark courtroom drama A Few Good Men made its triumphant return ... Lincoln Center Theater, and Demi Moore stopped by backstage to visit the cast. Meanwhile, The Rocky"
+   },
+   {
+    "title": "Entertainment News (11/03/26) - BusinessWorld Online",
+    "url": "https://bworldonline.com/arts-and-leisure/2026/11/02/790831/entertainment-news-11-03-26/",
+    "source": "bworldonline.com",
+    "published": "",
+    "excerpt": "ONE of the greatest epics mankind has created will be on the big screen in Ramayana: Rise of a Legend. Produced by Namit Malhotra, directed by Nitesh Tiwari, and starring Ranbir Kapoor ... the Indian epic tells the story of Prince Rama and King Ravana,"
+   },
+   {
+    "title": "Music News Today — November 3, 2026 — MusicNewsletter.com",
+    "url": "https://musicnewsletter.com/news/daily-signal-20261103",
+    "source": "musicnewsletter.com",
+    "published": "",
+    "excerpt": "Beyond the music scene, the world of film and television is also making waves. Netflix's new steampunk western series 'Bass x Machina' is generating buzz for its unique blend of fantasy and reality. Meanwhile, Indian film star Emraan"
+   }
+  ],
+  "text": "[1] Mckenna Grace Is a Ray of Sunshine as The Hunger Games Goes to Berlin, Plus King Charles, Keira Knightley and More (people.com)\nMckenna Grace shows of her voluminous curls and perfect smile as she signs autographs for fans during a special screening of The Hunger Games: Sunrise on the Reaping in Berlin, Germany on Nov. 2. ... on the grid at the Formula 1 Grand Prix of Mexico\n\n[2] Top Ent News Nov 3: Alia Bhatt, Neetu Kapoor Grace Ramayana Premiere; Armaan Malik Reacts To Mangal Rang Row | Bollywood News - News18 (news18.com)\nWith just two days left for its theatrical release, the excitement around Nitesh Tiwari’s Ramayana: Part One is building. The makers are hosting a special screening for the film’s cast, crew, and invited guests from the film industry in Mumbai today, November 3. The event is being held at an IMAX theatre in Lower Parel, ahead of the grand release on November 5. Alia Bhatt and Neetu Kapoor were seen arriving in style to cheer for Ranbir Kapoor, who will be seen playing Lord Rama’s role in the film. The track, Mangal Rang, from Ramayana: Rise Of A Legend has sparked a debate over its musical …\n\n[3] Reuters Entertainment News Summary | International (devdiscourse.com)\nKeira Knightley says returning spy thriller 'Black Doves' balances humour and moral complexity \"Black Doves\" may be packed with assassins and high-octane action sequences, but the joy of the Netflix spy thriller lies in its blend of humour and morally complex characters, Keira Knightley said at the London launch of the show's second season on Monday. Speaking against a ⁠backdrop of ​fireworks over the city skyline, actor ⁠Knightley, 41, told Reuters, \"It's meant to be fun, it's meant to be ridiculous, but it equally has these really interesting characters who are morally very complicated.\"\n\n[4] AP Entertainment SummaryBrief at 8:11 a.m. EST | Entertainment | wvnews.com (wvnews.com)\n- Nov 3, 2026 ... Movie Review: In 'Godzilla Minus Zero,' human-scaled melodrama stomps out the kaiju fun Even Godzilla can be felled by an old hazard: the sophomore slump. Though Godzilla has been stomping around for more than half a century, “Godzilla Minus Zero” is a sequel. It follows the quite excellent, Oscar-winning “Godzilla Minus One,” a reset for the kaiju franchise that brought Godzilla back to its postwar Japan roots. Like its predecessor, the follow-up marries human-scaled drama with a flair for stompy-stomp spectacle. Yet AP Film Writer Jake Coyle says those calibrations are …\n\n[5] Music News for Tuesday, November 3, 2026 — Headlines & New Albums as Drum Beats | RockBlocks (rockblocks.app)\n2026 34 music news headlines from Tuesday, November 3, 2026, each one a drum beat. See today's news → ... ### Bruce Springsteen Urges Officials to Protect the Vote on Election Day: ‘Our Vote Is Our Voice’\n\n[6] November 3, 2026 | News Headlines | Page Six (pagesix.com)\n### Taylor Swift was like a politican campaigning for an Oscar at New York ‘Toy Story 5’ screening November 3, 2026 | 6:18pm The \"Shake It Off\" singer was hugging babies and schmoozing journos as she hopes to nab her first Academy Award nomination —\n\n[7] Movie News: 3rd November 2026 (onemannsmovies.com)\n## World Movie News: The Last 24 Hours ### Wicker’s UK number one, Clayface’s quiet global win, Jailer 2 breaks ₹800 crore, Marrakech’s line-up, the AFM, Iceman casting & Carrie turns 50. ... UK and Ireland box office: Black Bear’s Wicker had the first number one film in its distributor’s history, opening to £1.7 million from 676 cinemas, a £2,515 average, which rises to £1.8 million including previews. A24’s Primetime, starring Robert Pattinson as To Catch a Predator‘s paedo-hunting host Chris Hansen, opened in third place with £1.3 million from 560 cinemas, a £2,321 average, and £1.7 …\n\n[8] Wake Up With BroadwayWorld November 3, 2026- THE ROCKY HORROR SHOW Extends on Broadway and More (broadwayworld.com)\n, sharing how she embraced comedy while working alongside Bill Irwin. Aaron Sorkin's landmark courtroom drama A Few Good Men made its triumphant return ... Lincoln Center Theater, and Demi Moore stopped by backstage to visit the cast. Meanwhile, The Rocky\n\n[9] Entertainment News (11/03/26) - BusinessWorld Online (bworldonline.com)\nONE of the greatest epics mankind has created will be on the big screen in Ramayana: Rise of a Legend. Produced by Namit Malhotra, directed by Nitesh Tiwari, and starring Ranbir Kapoor ... the Indian epic tells the story of Prince Rama and King Ravana,\n\n[10] Music News Today — November 3, 2026 — MusicNewsletter.com (musicnewsletter.com)\nBeyond the music scene, the world of film and television is also making waves. Netflix's new steampunk western series 'Bass x Machina' is generating buzz for its unique blend of fantasy and reality. Meanwhile, Indian film star Emraan",
+  "hash": "7b0b336097f2110987fa2423375bf7e2a8716236c87824cef11f093ef66a62d2",
+  "notes": []
+ }
+}
