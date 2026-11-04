@@ -2,7 +2,7 @@ name: Wave clock
 
 # Why this exists: GitHub throttles scheduled runs. survey.yml asks for ~150 cron
 # triggers a day but gets about 8-10, sometimes with 6-8 hour gaps, so whole 4-hour
-# slots are lost (9 of the last 24 slots before this fix).
+# slots are lost (8 of 48 slots Oct 27-Nov 3, 4 of them on Nov 2-3).
 #
 # This workflow is the clock instead. One run: dispatches the survey (catch-up for
 # the current slot; a no-op if it is already done), sleeps until the next New York
