@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-05T03:17:09+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 4, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-05T03:17:09+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "The 7 things to know for Wednesday, November 4 - The Washington Post",
+    "url": "https://www.washingtonpost.com/the-seven/2026/11/04/7-things-know-wednesday-november-4/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "# Catch up quickly: Midterm results; Reflecting Pool; Legend of Zelda Today’s seven most important and interesting stories. ... Voters dealt President Donald Trump a historic rebuke in yesterday’s midterms."
+   },
+   {
+    "title": "Kyodo News Digest: Nov. 4, 2026",
+    "url": "https://english.kyodonews.net/articles/-/90209",
+    "source": "english.kyodonews.net",
+    "published": "",
+    "excerpt": "of Congress in Tuesday's midterm elections, according to projections by major U.S. media outlets, in a sharp voter rebuke of President Donald Trump and his Republican Party over their performance during his second term."
+   },
+   {
+    "title": "Headlines for November 04, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/11/4/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "## Voters Deliver Stunning Rebuke of Trump with Democrats Regaining Control of Congress Nov 04, 2026 In a stunning repudiation of President Trump and his MAGA movement, Democrats regained control of the House and the Senate in Tuesday’s midterm elections. Democrats have picked up at least seven Senate seats, winning races in Texas, Maine, Ohio, South Carolina, North Carolina, Iowa and Kansas, as well as winning in Michigan. The Senate races in Mississippi and Alaska remain too close to call. In the House, Democrats have won at least 231 seats, with more races still to be decided. Only twice in the last half-century has control of both chambers changed hands in the same election. Democrats also clinched a majority of governorships. ## Historic Night in Texas as Democrats Win Senate Seat and Governorship Nov 04, 2026 In Texas, Democrats have shattered more than three decades of Republican dominance, winning races for U.S. Senate, governor, lieutenant governor, attorney general and even railroad commissioner. And Democrats are poised to possibly take control of the Texas House of Representatives for the first time since 2003. James Talarico will be the first Democrat to represent Texas in the U.S. Senate since Lloyd Bentsen left in 1993. Talarico spoke at a victory rally Tuesday night after defeating Trump-backed MAGA Republican Ken Paxton. ... Meanwhile, Texas Republican Governor Greg Abbott has lost his bid for a fourth term. Democratic state Representative Gina Hinojosa defeated Abbott by nearly 700,000 votes. She becomes Texas’s first-ever Latina governor. ... ## Progressive Michigan Democrat Dr. Abdul El-Sayed Elected First Muslim Senator Nov 04, 2026 In Michigan, progressive Democrat Dr. Abdul El-Sayed has defeated Republican former Congressman Mike Rogers in the race for an open Senate seat. El-Sayed campaigned on a platform of Medicare for All, ending military aid to Israel, and getting money out of politics. He becomes the first Muslim elected to the U.S. Senate. Throughout the campaign, El-Sayed faced racist, Islamophobic and vitriolic attacks by top Republicans, led by President Trump, who mocked El-Sayed’s name and Muslim faith. Throughout his campaign, El-Sayed called for an end to U.S. military support for Israel, saying Michiganders’ tax dollars would be better spent at home. ... ## Democrat Annie Andrews Wins South Carolina Senate Seat in a Stunning Upset Nov 04, 2026 In South Carolina, Democrat Annie Andrews has defeated Republican Senator Darline Graham by about 50,000 votes, out of 2 million cast. It’s a stunning upset in a state that Trump won by 18 points two years ago. Graham was appointed to fill the remainder of the term of her brother, the late Republican Senator Lindsey Graham, who died in July. Senator-elect Annie Andrews is a pediatrician from Charleston who opposes cuts to Medicaid and supports a public health insurance option. ... ## Mississippi’s Senate Race Remains Too Close to Call Mississippi’s Senate race remains too close to call. With just a few thousand outstanding provisional ballots yet to be counted, Democrat Scott Colom leads Senator Cindy Hyde-Smith by just 43 votes out of nearly a million cast. ... ## Democrat Deb Haaland Becomes First Native American Female Governor in U.S. History In New Mexico, Democrat Deb Haaland has won the governor’s race. Haaland is a member of the Laguna Pueblo and will become the first Native American woman governor in U.S. history. ... ## Midterm Elections Result in Several Historic Firsts In California, Mexican American Democrat Xavier Becerra was elected to succeed Gavin Newsom as governor. Along with Gina Hinojosa in Texas, the country’s two most populous states will be led by Latino governors starting next year, both areas that were once part of Mexico. In Georgia, former Atlanta Mayor Keisha Lance Bottoms has defeated billionaire Republican healthcare executive Rick Jackson. Bottoms becomes the first Black woman ever elected governor in the United States. ... ## Trump Announces U.S. to Stop Providing Israel $4 Billion in Annual Military Aid Early on Election Day Tuesday, President Trump said that the U.S. will stop providing Israel with roughly $4 billion in annual military aid starting in 2027, though the U.S. will continue to sell Israel weapons. He made the announcement in a phone call to Fox News. ... Earlier this year,"
+   },
+   {
+    "title": "Morning Edition for November 4, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5984719/morning-edition-for-november-4-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Democrats sweep Senate and House in a resounding rebuke to Trump, GOP by Barbara Sprunt, Mara Liasson, Michel Martin, Steve Inskeep ... Democrats sweep Senate and House in a resounding rebuke to Trump, GOP ### Voters rejected Trump in the midterm"
+   },
+   {
+    "title": "November 4, 2026 - PBS News Hour full episode | PBS News",
+    "url": "https://www.pbs.org/newshour/show/november-4-2026-pbs-news-hour-full-episode",
+    "source": "pbs.org",
+    "published": "",
+    "excerpt": "on the News Hour, Democrats win both chambers of Congress in a midterm election sweep. Now the task turns to governing during President Trump's last two years in office. We break down some of the key races that led to Democratic victories and the issues"
+   },
+   {
+    "title": "Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian",
+    "url": "https://www.theguardian.com/theguardian/2026/nov/04",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats Unclear if series of incidents affecting two UK departures and several Ryanair services, among others, were connected"
+   },
+   {
+    "title": "Xinhua world news summary at 1530 GMT, Nov. 4-Xinhua",
+    "url": "https://english.news.cn/20261104/f7587d3b57f8461aa8301fa1f5c55174/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "-- Israel's Central Elections Committee officially announced the results of last week's parliamentary election on Wednesday, confirming that opposition parties won 67 seats in the 120-member parliament, against 53 for Prime Minister Benjamin Netanyahu's"
+   },
+   {
+    "title": "News 4 November 2026 - Archive Euronews",
+    "url": "https://www.euronews.com/2026/11/04",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "No Comment Spain: Madrid hosts 30th Ibero-American Summit with 22-nation bloc Spain is hosting the ... Europe Today Zelenski makes surprise visit to Madrid for talks with Sánchez and Latin American leaders Zelensky visits Madrid to meet Sánchez"
+   },
+   {
+    "title": "World news digest for November 4, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-04",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "# Qeshm strike reports reverse oil fall; US-Iran talks stall ## Summary Oil prices that had fallen on signs of renewed US-Iran dialogue reversed after reports of US strikes on Iran's Qeshm Island, leaving the ceasefire talks in doubt.⁠ 1 2 3 US officials described the strikes as limited defensive measures rather than a resumption of war, saying they responded to Iranian surface-to-air missiles fired at US aircraft.⁠ 4 5 Iran's security chief Mohsen Rezaei called Washington's response not convincing, and Iran says it will not accept what it calls excessive US demands.⁠ 6 7 The New York Times reported that US Central Command has a plan to strike Iran as early as Wednesday, after the midterm elections, which leaves little time for negotiation.⁠ 8 In Africa, the Africa CDC counts 5,376 Ebola deaths since May, most of them in Congo.⁠ 9 In Ukraine, a Russian strike on a school serving as an aid distribution point in Zaporizhzhia killed 31 people, with at least 50 still missing.⁠ 10 Whether the planned US strikes go ahead will determine the course of talks with Iran and the conditions for reopening the Strait of Hormuz.⁠ 8 11"
+   },
+   {
+    "title": "Global News, 4 Nov 2026: Hour by Hour | NewsCura",
+    "url": "https://newscura.com/global/timeline/2026-11-04",
+    "source": "newscura.com",
+    "published": "",
+    "excerpt": "2. ## Solvay strikes rare earths deal that will reduce global dependence on China Solvay's rare earth deal breaks China's dominance of critical minerals for technology and defense. ... 4% for first time in three years may force ECB to raise interest"
+   }
+  ],
+  "text": "[1] The 7 things to know for Wednesday, November 4 - The Washington Post (washingtonpost.com)\n# Catch up quickly: Midterm results; Reflecting Pool; Legend of Zelda Today’s seven most important and interesting stories. ... Voters dealt President Donald Trump a historic rebuke in yesterday’s midterms.\n\n[2] Kyodo News Digest: Nov. 4, 2026 (english.kyodonews.net)\nof Congress in Tuesday's midterm elections, according to projections by major U.S. media outlets, in a sharp voter rebuke of President Donald Trump and his Republican Party over their performance during his second term.\n\n[3] Headlines for November 04, 2026 | Democracy Now! (democracynow.org)\n## Voters Deliver Stunning Rebuke of Trump with Democrats Regaining Control of Congress Nov 04, 2026 In a stunning repudiation of President Trump and his MAGA movement, Democrats regained control of the House and the Senate in Tuesday’s midterm elections. Democrats have picked up at least seven Senate seats, winning races in Texas, Maine, Ohio, South Carolina, North Carolina, Iowa and Kansas, as well as winning in Michigan. The Senate races in Mississippi and Alaska remain too close to call. In the House, Democrats have won at least 231 seats, with more races still to be decided. Only twice …\n\n[4] Morning Edition for November 4, 2026 : NPR (npr.org)\n### Democrats sweep Senate and House in a resounding rebuke to Trump, GOP by Barbara Sprunt, Mara Liasson, Michel Martin, Steve Inskeep ... Democrats sweep Senate and House in a resounding rebuke to Trump, GOP ### Voters rejected Trump in the midterm\n\n[5] November 4, 2026 - PBS News Hour full episode | PBS News (pbs.org)\non the News Hour, Democrats win both chambers of Congress in a midterm election sweep. Now the task turns to governing during President Trump's last two years in office. We break down some of the key races that led to Democratic victories and the issues\n\n[6] Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian (theguardian.com)\nSeven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats Unclear if series of incidents affecting two UK departures and several Ryanair services, among others, were connected\n\n[7] Xinhua world news summary at 1530 GMT, Nov. 4-Xinhua (english.news.cn)\n-- Israel's Central Elections Committee officially announced the results of last week's parliamentary election on Wednesday, confirming that opposition parties won 67 seats in the 120-member parliament, against 53 for Prime Minister Benjamin Netanyahu's\n\n[8] News 4 November 2026 - Archive Euronews (euronews.com)\nNo Comment Spain: Madrid hosts 30th Ibero-American Summit with 22-nation bloc Spain is hosting the ... Europe Today Zelenski makes surprise visit to Madrid for talks with Sánchez and Latin American leaders Zelensky visits Madrid to meet Sánchez\n\n[9] World news digest for November 4, 2026 | World Watch (worldwatch.media)\n# Qeshm strike reports reverse oil fall; US-Iran talks stall ## Summary Oil prices that had fallen on signs of renewed US-Iran dialogue reversed after reports of US strikes on Iran's Qeshm Island, leaving the ceasefire talks in doubt.⁠ 1 2 3 US officials described the strikes as limited defensive measures rather than a resumption of war, saying they responded to Iranian surface-to-air missiles fired at US aircraft.⁠ 4 5 Iran's security chief Mohsen Rezaei called Washington's response not convincing, and Iran says it will not accept what it calls excessive US demands.⁠ 6 7 The New York Times …\n\n[10] Global News, 4 Nov 2026: Hour by Hour | NewsCura (newscura.com)\n2. ## Solvay strikes rare earths deal that will reduce global dependence on China Solvay's rare earth deal breaks China's dominance of critical minerals for technology and defense. ... 4% for first time in three years may force ECB to raise interest",
+  "hash": "5dbaca2af9d51f2ed33c292b7e358a367b3a709b4f23206e062f851d05510120",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 4, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-05T03:17:20+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "The U.S. economy is barreling ahead — but there’s one big problem",
+    "url": "https://www.marketwatch.com/story/the-u-s-economy-is-barreling-ahead-but-theres-one-big-problem-6d62e3b3",
+    "source": "marketwatch.com",
+    "published": "",
+    "excerpt": "A closely followed survey of service companies such as banks, retailers and restaurants registered 54.5% in October versus 54.9% in the prior month, the Institute for Supply Management said. Any number over 50 signals expansion."
+   },
+   {
+    "title": "Democrats won. Will life get more affordable?",
+    "url": "https://www.usatoday.com/story/money/economy/inflation-cost-of-living/2026/11/04/democrats-won-will-life-get-more-affordable/92591208007/",
+    "source": "usatoday.com",
+    "published": "",
+    "excerpt": "Updated Nov. 4, 2026, 5:57 p.m. ET Midterm voters fed up with the cost of living delivered several key victories for Democratic candidates, many of whom pledged on the campaign trail to make Americans' lives more affordable.But it may take a while before they see rising prices stabilize. States are still counting votes, though it's clear Democrats will regain control of the House and Senate on Jan. 3. A blue wave swept through the nation as exit polls revealed widespread frustration over Republican and Trump administration decisions voters believe drove up prices. An NBC exit poll found 75% of voters said the economy was either \"not so good\" or \"poor.\" Economists say voters hoping for quick relief from high costs should temper their expectations. Even if Democrats control Congress, they'll have to get President Donald Trump, or \"Mr. Veto\" as he nicknamed himself in an interview with the New York Post, to sign off on legislation. And experts who spoke to USA TODAY said although"
+   },
+   {
+    "title": "US services sector activity cools slightly in October; inflation remains elevated By Reuters",
+    "url": "https://www.investing.com/news/economy-news/us-services-sector-activity-cools-slightly-in-october-inflation-remains-elevated-5000201",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 4 (Reuters) - US services sector growth slowed marginally in October amid a moderation in new orders, but supply chains remained strained, keeping prices for inputs elevated. The Institute for Supply Management said on Wednesday its nonmanufacturing Purchasing Managers’ Index dipped to 54.5 last month from 54.9 in September. A reading above 50 indicates growth in the services sector, which accounts for more than two-thirds of US economic activity. Economists polled by Reuters had forecast the PMI little changed at 54.8. The PMI suggested the economy started the fourth quarter on solid footing, though economists expect a slowdown in activity, with consumer spending expected to pull back after back-to-back quarters of robust growth. Spending is seen in part curbed by high inflation, which is eroding household purchasing power. Income at the disposal of households, after adjusting for inflation and taxes, fell in September after being unchanged in August. The saving rate is at a four-year low of 3.8%. The survey’s measure of new orders received by services businesses decreased to 55.9 last month from 59.8 in September. Delivery performance by suppliers deteriorated further against the backdrop of the ongoing US-Israel war with Iran and tariffs on imports. The Middle East conflict, now in its ninth month, has boosted energy prices and caused shortages of commodities that are shipped through the Strait of Hormuz. The survey’s measure of supplier deliveries jumped to 56.7 from 53.2 in September. A reading above 50 indicates slower deliveries. Deliveries have slowed for 23 consecutive months, keeping input prices high. The survey’s measure of prices paid by businesses for inputs eased to a still-high 73.0 last month from 74.0 in September. The ISM on Monday reported a slight moderation in prices paid for inputs by manufacturers in October. Economists expect inflation to continue to run above the Federal Reserve’s 2% target into 2027. The Fed last Wednesday left its benchmark overnight interest rate within the 3.75%-4.00% range while acknowledging that inflation \"remains elevated.\" Economists expect the US central bank to raise borrowing costs in December. The ISM survey showed a marginal increase in services sector employment, aligning with economists’ expectations for moderate growth in nonfarm payrolls in October. The survey’s measure of services employment rose to 51.4 from 50.1 in September."
+   },
+   {
+    "title": "Trading Day: Oil tanks, stocks leap on US midterms By Reuters",
+    "url": "https://www.investing.com/news/economy-news/trading-day-oil-tanks-stocks-leap-on-us-midterms-5001616",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Dow +3%.SECTORS/SHARES: Nine sectors on the S&P ... fall. Five sectors +3% or more, consumer discretionaries +4.2%. Energy -4.8%. Data center, defense shares fall. ... and Chilean pesos. Bitcoin +3% above $80,000.BONDS: German bund yield lowest in two"
+   },
+   {
+    "title": "FRED Adds Inflation Indicators from the St. Louis Fed | FRED News",
+    "url": "https://fred.stlouisfed.org/news/2026/11/fred-adds-inflation-indicators-from-stlouis-fed",
+    "source": "fred.stlouisfed.org",
+    "published": "",
+    "excerpt": "FRED has added 2 data series for the consumer price index excluding energy commodities (CPI ex energy commodities) and the personal consumption expenditures chain- ... excluding energy goods (PCE ex energy goods) reported by the Federal Reserve Bank of"
+   },
+   {
+    "title": "Stock market news for Nov. 4, 2026",
+    "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Industrial Average Add To Watchlist jumped 1,569.40 points, or 3.03%, to close at 53,356.12. The ... 000 for the first time since Sept. 8 and posted its best day since April 9, 2025, when Trump announced a pause on his so-called reciprocal tariffs. The"
+   },
+   {
+    "title": "Dollar falls after Democrats take Congress in midterm elections",
+    "url": "https://www.cnbc.com/2026/11/04/dollar-dips-with-us-midterm-results-in-focus.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "the political change, expectations for the Federal Reserve's interest rate path remain largely ... pricing in an 82.6% chance for a rate increase of at least 25 basis ... from the Fed at its ⁠December meeting, according to CME FedWatch, up from 77.4% in"
+   },
+   {
+    "title": "US Services Sector Activity Cools Slightly in October; Inflation Remains Elevated",
+    "url": "https://money.usnews.com/investing/news/articles/2026-11-04/us-services-sector-activity-cools-slightly-in-october-inflation-remains-elevated",
+    "source": "money.usnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 4 (Reuters) - US services sector growth slowed marginally in ⁠October ⁠amid a moderation in new ⁠orders, but supply chains remained strained, keeping prices for inputs elevated. The Institute for ​Supply Management said on Wednesday its nonmanufacturing Purchasing Managers' Index dipped to 54.5 last month from 54.9 in September. A ‌reading above 50 indicates growth in ‌the services sector, which accounts for more than two-thirds of US economic activity. Economists polled by Reuters ⁠had forecast the ⁠PMI little changed at 54.8. The PMI suggested the economy started the fourth quarter ​on solid footing, though economists expect a slowdown in activity, with consumer spending expected to pull back after back-to-back quarters of robust growth. Spending is seen in part curbed by high inflation, which is eroding household purchasing power. Income at the ​disposal of households, after adjusting for inflation and taxes, fell in September after being unchanged in ⁠August."
+   },
+   {
+    "title": "A Blue Wave in the US and Euro Inflation | Investing.com",
+    "url": "https://www.investing.com/analysis/rates-outlook-a-blue-wave-in-the-us-and-euro-inflation-200690834",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "publish the ISM services, seen coming in only marginally softer at 54.8. Ahead of Friday’s official US jobs data, markets will also eye the ADP employment change numbers. The trade balance and import/exports data round off the releases for"
+   },
+   {
+    "title": "Oil rises on Iran war uncertainty after Trump's Republicans vote rout",
+    "url": "https://www.cnbc.com/2026/11/04/oil-us-midterm-election-results.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Oil prices fell on Wednesday in a volatile session ​as investors awaited Washington's next move in ​the US-Israeli war on ​Iran, after Democrats ... Brent futures fell 2.5% to $101.02 a barrel. US West Texas Intermediate crude futures fell 2.6% to $93.61."
+   }
+  ],
+  "text": "[1] The U.S. economy is barreling ahead — but there’s one big problem (marketwatch.com)\nA closely followed survey of service companies such as banks, retailers and restaurants registered 54.5% in October versus 54.9% in the prior month, the Institute for Supply Management said. Any number over 50 signals expansion.\n\n[2] Democrats won. Will life get more affordable? (usatoday.com)\nUpdated Nov. 4, 2026, 5:57 p.m. ET Midterm voters fed up with the cost of living delivered several key victories for Democratic candidates, many of whom pledged on the campaign trail to make Americans' lives more affordable.But it may take a while before they see rising prices stabilize. States are still counting votes, though it's clear Democrats will regain control of the House and Senate on Jan. 3. A blue wave swept through the nation as exit polls revealed widespread frustration over Republican and Trump administration decisions voters believe drove up prices. An NBC exit poll found 75% …\n\n[3] US services sector activity cools slightly in October; inflation remains elevated By Reuters (investing.com)\nWASHINGTON, Nov 4 (Reuters) - US services sector growth slowed marginally in October amid a moderation in new orders, but supply chains remained strained, keeping prices for inputs elevated. The Institute for Supply Management said on Wednesday its nonmanufacturing Purchasing Managers’ Index dipped to 54.5 last month from 54.9 in September. A reading above 50 indicates growth in the services sector, which accounts for more than two-thirds of US economic activity. Economists polled by Reuters had forecast the PMI little changed at 54.8. The PMI suggested the economy started the fourth quarter …\n\n[4] Trading Day: Oil tanks, stocks leap on US midterms By Reuters (investing.com)\nDow +3%.SECTORS/SHARES: Nine sectors on the S&P ... fall. Five sectors +3% or more, consumer discretionaries +4.2%. Energy -4.8%. Data center, defense shares fall. ... and Chilean pesos. Bitcoin +3% above $80,000.BONDS: German bund yield lowest in two\n\n[5] FRED Adds Inflation Indicators from the St. Louis Fed | FRED News (fred.stlouisfed.org)\nFRED has added 2 data series for the consumer price index excluding energy commodities (CPI ex energy commodities) and the personal consumption expenditures chain- ... excluding energy goods (PCE ex energy goods) reported by the Federal Reserve Bank of\n\n[6] Stock market news for Nov. 4, 2026 (cnbc.com)\nIndustrial Average Add To Watchlist jumped 1,569.40 points, or 3.03%, to close at 53,356.12. The ... 000 for the first time since Sept. 8 and posted its best day since April 9, 2025, when Trump announced a pause on his so-called reciprocal tariffs. The\n\n[7] Dollar falls after Democrats take Congress in midterm elections (cnbc.com)\nthe political change, expectations for the Federal Reserve's interest rate path remain largely ... pricing in an 82.6% chance for a rate increase of at least 25 basis ... from the Fed at its ⁠December meeting, according to CME FedWatch, up from 77.4% in\n\n[8] US Services Sector Activity Cools Slightly in October; Inflation Remains Elevated (money.usnews.com)\nWASHINGTON, Nov 4 (Reuters) - US services sector growth slowed marginally in ⁠October ⁠amid a moderation in new ⁠orders, but supply chains remained strained, keeping prices for inputs elevated. The Institute for ​Supply Management said on Wednesday its nonmanufacturing Purchasing Managers' Index dipped to 54.5 last month from 54.9 in September. A ‌reading above 50 indicates growth in ‌the services sector, which accounts for more than two-thirds of US economic activity. Economists polled by Reuters ⁠had forecast the ⁠PMI little changed at 54.8. The PMI suggested the economy started the fourth …\n\n[9] A Blue Wave in the US and Euro Inflation | Investing.com (investing.com)\npublish the ISM services, seen coming in only marginally softer at 54.8. Ahead of Friday’s official US jobs data, markets will also eye the ADP employment change numbers. The trade balance and import/exports data round off the releases for\n\n[10] Oil rises on Iran war uncertainty after Trump's Republicans vote rout (cnbc.com)\nOil prices fell on Wednesday in a volatile session ​as investors awaited Washington's next move in ​the US-Israeli war on ​Iran, after Democrats ... Brent futures fell 2.5% to $101.02 a barrel. US West Texas Intermediate crude futures fell 2.6% to $93.61.",
+  "hash": "64140eeadc414cef4c09507ad3fad45446ee4f5c260170a883226bc2bf7d5ff0",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 4, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-05T03:17:31+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Democrats, Trump face off after elections as Washington heads for divided government | Reuters",
+    "url": "https://www.reuters.com/3fec1b0a85a0/legal/government/democrats-seize-congress-sweeping-midterm-repudiation-trump-2026-11-04/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 4 (Reuters) - Democrats vowed on Wednesday to use their resounding midterm victory to rein in President Donald Trump, setting up two years of possible deadlock in Washington, as Trump ​spent his first post-election appearance showing off his under-construction White House ballroom. A wave of anger over Trump's policies, particularly the US-Iran war's role in pushing the cost of living higher, helped Democrats take the Senate, where they flipped seats ‌in deeply Republican states for a majority of at least 54-44. Democrats also gained at least 30 seats in the House of Representatives. It will be the first time that Trump, a Republican who also held the White House from 2017 to 2021, has had to contend with a Democratic-controlled Congress in both chambers. ... Senate races in Alaska and Mississippi remained uncalled as of Wednesday morning, leaving open the possibility that the ‌Democrats' majority could grow ⁠by another two seats to 56-44. Once seated in January,"
+   },
+   {
+    "title": "Democrats win House and Senate, Trump stares down the specter of Democratic probes | AP News",
+    "url": "https://apnews.com/newsletter/morning-wire/november-4-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": ", ushering in a new era of congressional resistance to President Donald Trump. Democrats routed their rivals across the map in Tuesday’s midterm elections, flipping states that have voted Republican for decades and that Trump won by double digits just two"
+   },
+   {
+    "title": "November 4, 2026 - PBS News Hour full episode | PBS News",
+    "url": "https://www.pbs.org/newshour/show/november-4-2026-pbs-news-hour-full-episode",
+    "source": "pbs.org",
+    "published": "",
+    "excerpt": "on the News Hour, Democrats win both chambers of Congress in a midterm election sweep. Now the task turns to governing during President Trump's last two years in office. We break down some of the key races that led to Democratic victories and"
+   },
+   {
+    "title": "Democrats win Congress as Trump, Republicans confront midterm losses - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/11/04/election-2026-live-updates-democrats-take-control-house-senate-trump-distances-himself-historic-losses/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "are confronting the fallout from a midterm wipeout and Democrats winning majorities in the House and the Senate. President ... and its effect on prices contributed to the party’s worst ... stay on as the GOP leader next year, according to a top aide,"
+   },
+   {
+    "title": "Trump acknowledges Iran war after Democrats sweep Congress | AP News",
+    "url": "https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Updated 2:49 PM CST, November 4, 2026 WASHINGTON (AP) — The midterm election blowout delivered a new era in Washington, with Democrats in Congress eager to meet voter demands for change while Republicans watched their majorities evaporate after a revolt against President Donald Trump and his party in power. Democrats ousted Republicans from coast to coast, with many surprising places in between, in a decisive rejection of unified GOP control for the promise of something different for the country. Their majorities will be padded by unusually wide margins in both the House and the Senate. The staggering results are setting up"
+   },
+   {
+    "title": "Morning Edition for November 4, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5984719/morning-edition-for-november-4-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Democrats sweep Senate and House in a resounding rebuke to Trump, GOP by Barbara Sprunt, Mara Liasson, Michel Martin, Steve Inskeep #### Democrats sweep Senate and House in a resounding rebuke to Trump, GOP ### Voters rejected Trump in the"
+   },
+   {
+    "title": "Up First briefing: Democrats win control of Congress; Midterms update : NPR",
+    "url": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "winning their states' closely watched Senate seats. In Texas, Democrat Gina Hinojosa ... , Adam Hamilton became the first Democratic senator elected in nearly a century. A record number of candidates endorsed by the Democratic Socialists of America were"
+   },
+   {
+    "title": "US midterms latest: JD Vance says Republicans lost due to Iran war | The National",
+    "url": "https://www.thenationalnews.com/news/us/2026/11/04/live-us-midterms-election-results/",
+    "source": "thenationalnews.com",
+    "published": "",
+    "excerpt": "election results and work with the Democrats - Texas flips blue as Democrats win in Congress and governorship races ... beats Lindsey Graham's sister in race for South Carolina Senate seat - Hakeem Jeffries is poised to become the first black Speaker of"
+   },
+   {
+    "title": "Headlines for November 04, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/11/4/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "In a stunning repudiation of President Trump and his MAGA movement, Democrats regained control of the ... and the Senate in Tuesday’s midterm elections. Democrats have picked up at least seven Senate ... , Maine, Ohio, South Carolina, North Carolina, Iowa"
+   },
+   {
+    "title": "Democrats make sweeping gains at the state level in midterm elections | AP News",
+    "url": "https://apnews.com/article/democratic-gains-battleground-states-midterms-elections-e3abf3135f626e37d8d2f57e5591ea6a",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "MADISON, Wis. (AP) — Democrats in Texas took control of the state House after historic wins for governor and U.S. Senate, part of a series of sweeping gains nationwide in Tuesday’s elections that shifted the balance of power across several battleground and Republican-leaning states. It will be the first time Democrats control the House in Texas since Republicans took over after the 2002 election. Republicans are keeping control of the Senate in the state — which also elected Gina Hinojosa its first Democratic governor since George W. Bush ousted Ann Richards in 1994. In this year’s midterm elections, the party took full"
+   }
+  ],
+  "text": "[1] Democrats, Trump face off after elections as Washington heads for divided government | Reuters (reuters.com)\nWASHINGTON, Nov 4 (Reuters) - Democrats vowed on Wednesday to use their resounding midterm victory to rein in President Donald Trump, setting up two years of possible deadlock in Washington, as Trump ​spent his first post-election appearance showing off his under-construction White House ballroom. A wave of anger over Trump's policies, particularly the US-Iran war's role in pushing the cost of living higher, helped Democrats take the Senate, where they flipped seats ‌in deeply Republican states for a majority of at least 54-44. Democrats also gained at least 30 seats in the House of …\n\n[2] Democrats win House and Senate, Trump stares down the specter of Democratic probes | AP News (apnews.com)\n, ushering in a new era of congressional resistance to President Donald Trump. Democrats routed their rivals across the map in Tuesday’s midterm elections, flipping states that have voted Republican for decades and that Trump won by double digits just two\n\n[3] November 4, 2026 - PBS News Hour full episode | PBS News (pbs.org)\non the News Hour, Democrats win both chambers of Congress in a midterm election sweep. Now the task turns to governing during President Trump's last two years in office. We break down some of the key races that led to Democratic victories and\n\n[4] Democrats win Congress as Trump, Republicans confront midterm losses - The Washington Post (washingtonpost.com)\nare confronting the fallout from a midterm wipeout and Democrats winning majorities in the House and the Senate. President ... and its effect on prices contributed to the party’s worst ... stay on as the GOP leader next year, according to a top aide,\n\n[5] Trump acknowledges Iran war after Democrats sweep Congress | AP News (apnews.com)\nUpdated 2:49 PM CST, November 4, 2026 WASHINGTON (AP) — The midterm election blowout delivered a new era in Washington, with Democrats in Congress eager to meet voter demands for change while Republicans watched their majorities evaporate after a revolt against President Donald Trump and his party in power. Democrats ousted Republicans from coast to coast, with many surprising places in between, in a decisive rejection of unified GOP control for the promise of something different for the country. Their majorities will be padded by unusually wide margins in both the House and the Senate. The …\n\n[6] Morning Edition for November 4, 2026 : NPR (npr.org)\n### Democrats sweep Senate and House in a resounding rebuke to Trump, GOP by Barbara Sprunt, Mara Liasson, Michel Martin, Steve Inskeep #### Democrats sweep Senate and House in a resounding rebuke to Trump, GOP ### Voters rejected Trump in the\n\n[7] Up First briefing: Democrats win control of Congress; Midterms update : NPR (npr.org)\nwinning their states' closely watched Senate seats. In Texas, Democrat Gina Hinojosa ... , Adam Hamilton became the first Democratic senator elected in nearly a century. A record number of candidates endorsed by the Democratic Socialists of America were\n\n[8] US midterms latest: JD Vance says Republicans lost due to Iran war | The National (thenationalnews.com)\nelection results and work with the Democrats - Texas flips blue as Democrats win in Congress and governorship races ... beats Lindsey Graham's sister in race for South Carolina Senate seat - Hakeem Jeffries is poised to become the first black Speaker of\n\n[9] Headlines for November 04, 2026 | Democracy Now! (democracynow.org)\nIn a stunning repudiation of President Trump and his MAGA movement, Democrats regained control of the ... and the Senate in Tuesday’s midterm elections. Democrats have picked up at least seven Senate ... , Maine, Ohio, South Carolina, North Carolina, Iowa\n\n[10] Democrats make sweeping gains at the state level in midterm elections | AP News (apnews.com)\nMADISON, Wis. (AP) — Democrats in Texas took control of the state House after historic wins for governor and U.S. Senate, part of a series of sweeping gains nationwide in Tuesday’s elections that shifted the balance of power across several battleground and Republican-leaning states. It will be the first time Democrats control the House in Texas since Republicans took over after the 2002 election. Republicans are keeping control of the Senate in the state — which also elected Gina Hinojosa its first Democratic governor since George W. Bush ousted Ann Richards in 1994. In this year’s midterm …",
+  "hash": "b2f4a1deebbd5bf7f6105d40f821324d06d9f46f4a1670708230830a28df8549",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 4, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-05T03:17:41+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Jamie Foxx Welcomes Baby No. 3, Tonya Harding's Return and More Top Us Stories | Raleigh News & Observer",
+    "url": "https://www.newsobserver.com/entertainment/us-magazine/article317934080.html",
+    "source": "newsobserver.com",
+    "published": "",
+    "excerpt": "By Samantha Benitz Us Updated November 4, 2026 9:00 PM Get a rundown of *Us*‘ top stories making headlines in celebrity news, sports and entertainment on November 4, 2026. Here are the key takeaways: • **Jamie Foxx** and girlfriend **Alyce Huckstepp** welcomed their first baby together. The arrival marks Huckstepp's first child and Foxx's third, coming three years after the *Back in Action* star's 2023 hospitalization for a brain bleed that caused a stroke. • **Tonya Harding** is making a surprising return to figure skating with a public show titled \"Tonya and Friends\" on Saturday, December 12, at Mountain View Ice Arena in Vancouver, Washington. \"The love of skating is the reason why I've always come back,\" Harding told KOIN 6 News. \"I just can't walk away from it.\" • **Cardi B** revealed the name of her and **Stefon Diggs**'s son, as well as the child's face, for the first time on his 1st birthday, introducing Grey Marsean Diggs via Instagram on November 4. The rapper shared a series of new photos and wrote that carrying Grey \"through one of the most uncertain high pressured times of my life\" gave her \"an extra strength.\""
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4001615-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Twelve South Korean industry groups warned on Wednesday that the country's television drama ​production ... was at risk and called on the government ‌to ​set up a 1 trillion won ($ ... ) investment fund to support production of Korean dramas, known as"
+   },
+   {
+    "title": "Amelia's Bits & Bytes 11/4: Fall Out Boy Mall, Sublime Return To Red Rocks, A Perfect Circle Auction, Rob Lowe Documentary, Cena Gets Big WWE Event, Elder Scrolls 6 And More Pop Culture News | 98 Rock Online",
+    "url": "https://www.98online.com/amelias-bits-bytes-11-4-fall-out-boy-mall-sublime-return-to-red-rocks-a-perfect-circle-auction-rob-lowe-documentary-ritchie-statham-team-up-for-movie-elder-scrolls-6-and-more-pop-cult",
+    "source": "98online.com",
+    "published": "",
+    "excerpt": "will return to Red Rocks to play 40 Oz TO Freedom in full. Even Dave Grohl gets starstruck. Motorhead celebrates 40 years of Orgasmatron with a re release and a mini documentary. Billy Howerdel will have an auction of A Perfect Circle things."
+   },
+   {
+    "title": "Wake Up With BroadwayWorld November 4, 2026- OTHER DESERT CITIES Tops the Grosses and More",
+    "url": "https://www.broadwayworld.com/article/Wake-Up-With-BroadwayWorld-November-4-2026--OTHER-DESERT-CITIES-Tops-the-Grosses-and-More-20261104",
+    "source": "broadwayworld.com",
+    "published": "",
+    "excerpt": "look at Annie at Goodspeed Musicals as the company celebrates its 50th anniversary production. Rosamund Pike is also gearing up for her Broadway debut in INTER ALIA, and the stars of Disney on Broadway hit the dance floor on Dancing With the Stars. If you"
+   },
+   {
+    "title": "Pop culture news for readers: November 4, 2026 | For Readers | The Fussy Librarian",
+    "url": "https://www.thefussylibrarian.com/newswire/for-readers/2026/11/04/pop-culture-news-for-readers-november-4-2026",
+    "source": "thefussylibrarian.com",
+    "published": "",
+    "excerpt": "- Kevin J. Anderson's sci-fi/horror novels Nether Station and Nether Vortex will be adapted into movies by a veteran of the Resident ... ). - The movie The Thing in the Hall, inspired by E.F. Benson's short story, has announced casting choices (Deadline)."
+   },
+   {
+    "title": "Entertainment News Live Updates Today (November 4, 2026): Shraddha Kapoor Opens Up On Not Signing Films After Stree 2 | Ramayana Premiere Alia Bhatt Ranbir Kapoor | Tiger Shroff Attack Case Update - Filmibeat",
+    "url": "https://www.filmibeat.com/bollywood/news/2026/entertainment-news-live-updates-november-4-ramayana-shraddha-kapoor-not-signing-films-stree-2-succes-536943.html",
+    "source": "filmibeat.com",
+    "published": "",
+    "excerpt": "One of the biggest talking points is the theatrical release of the Ranbir Kapoor, Sai Pallavi, and Yash-starrer Ramayana Part 1 on November 5. Last night, the makers hosted a special premiere for the film, which was attended by the team and many well-known celebrities. Directed by Nitesh Tiwari, the mythological drama is just one day away from hitting the silver screens and has been creating a huge buzz. ... Playback singer Kanika Kapoor, known for songs such as Baby Doll, Lovely and Da Da Dasse, has announced her separation from husband Gautam Hathiramani after four years of marriage. The 48-year-old musician shared the news in a post on her Instagram Stories, saying that the separation was decided after much thought and consideration. \"Dear friends and family, after much thought and consideration, my husband and I are going our separate ways. I am grateful for the time we shared and wish him well for the future,\" Kanika said. \"I sincerely ask for kindness and respect for our privacy as we move forward,\" she added. Sreeleela has boarded the cast of superstar Rajinikanth's next feature film \"Dharman\", the makers announced on Wednesday. Backed by Kamal Haasan's Raaj Kamal Films International, the film will be directed by filmmaker Ashwath Marimuthu of \"Oh My Kadavule\" and \"Dragon\" fame. Nov 04, 2026, 1:09 pm IST Former James Bond star Pierce Brosnan is backing fellow actor Callum Turner to play the iconic role in the upcoming James Bond movie. Brosnan played the British spy in four films, from 1995's GoldenEye to 2002's Die Another Day. Expressing his admiration for all the actors who are in contention to play the iconic British spy, Brosnan singled out Turner, with whom he worked on 2017 romantic drama The Only Living Boy in New York. Nov 04, 2026, 12:16 pm IST Jason Statham is reuniting with British filmmaker Guy Ritchie for their seventh film, Dogfight, which is set in the London criminal underworld. Announced by Netflix, the movie is described as a \"stylish revenge actioner\". Other plot details are not available for now, Variety reported. Production is due to commence in early 2027, with filming taking place in the UK. Ritchie will write, direct and produce the film that will be produced by Black Bear Pictures, Ritchie's own Toff Guy Films and Statham's Punch Palace Productions. Nov 04, 2026, 9:49 am IST ## Why Shraddha Kapoor Didn't Sign Films After Stree 2? Shraddha Kapoor has spoken about a career decision she took following the huge success of Stree 2. The actress, who is currently preparing for her upcoming film Eetha, recently interacted with fans through an Instagram Q&A session. During the session, a fan asked her what advice she would give young girls about making career choices. Responding to the question on Tuesday, Shraddha revealed that she turned down several film offers, including lucrative projects, after Stree 2 because she wanted to wait for the right story. She said, \"I would share about myself. After Stree 2, I was offered a lot of films and money as well, but I had decided that until I get that perfect story, I won't sign anything. My heart said that I will have to keep that patience, and I did that.\" Nov 04, 2026, 9:45 am IST"
+   },
+   {
+    "title": "‘The Hunger Games’ Goes 3D, Brad Pitt’s Cliff Booth Returns, and Rob Lowe Looks Back: Hollywood Movie News for November 4 - Manny the Movie Guy",
+    "url": "https://mannythemovieguy.com/2026/11/the-hunger-games-goes-3d-brad-pitts-cliff-booth-returns-and-rob-lowe-looks-back-hollywood-movie-news-for-november-4/",
+    "source": "mannythemovieguy.com",
+    "published": "",
+    "excerpt": "### ‘THE HUNGER GAMES’ ENTERS A NEW DIMENSION The upcoming prequel The Hunger Games: Sunrise on the Reaping will receive a 3D theatrical release through a new partnership between Lionsgate and Meta. According to a November 3 report from People, the collaboration will also make the film available in 3D on Meta’s forthcoming VR glasses after its theatrical run. The movie opens November 20. Director Francis Lawrence worked with visual-effects company DNEG on the conversion, intended to immerse audiences in the experience of a young Haymitch Abernathy, portrayed by Joseph Zada. The story takes place 24 years before the original Hunger Games and follows the brutal 50th Hunger Games, also known as the Second Quarter Quell. The cast includes Ralph Fiennes, Jesse Plemons, Glenn Close, Elle Fanning, Kieran Culkin, Maya Hawke and Mckenna Grace. ... ### ROB LOWE REVISITS HIS RISE, FALL AND REINVENTION Rob Lowe is opening up about his extraordinary Hollywood journey in the new Netflix documentary Rob Lowe: The Outsider, directed by Chris Smith. Entertainment Weekly debuted the documentary’s trailer on November 3, ahead of its November 24 premiere. The film revisits Lowe’s rise through The Outsiders and St. Elmo’s Fire, his personal controversies, his recovery from addiction and his eventual reinvention through television. Demi Moore and Gwyneth Paltrow appear, while Lowe’s wife, Sheryl Berkoff, discusses the difficult years behind his public persona. ... Brad Pitt’s return as Cliff Booth in The Further Mis-Adventures of Cliff Booth is attracting attention for an unusual reason: very few people have seen the finished movie. The David Fincher-directed project, a follow-up to Quentin Tarantino’s Once Upon a Time in Hollywood, is scheduled for November 25. A November 4 Page Six report says only the opening 17 minutes were shown at AFI Fest, with Academy screenings planned later this month."
+   },
+   {
+    "title": "What To Watch On TV And Streaming Wednesday, November 4, 2026",
+    "url": "https://www.tvline.com/2303098/what-to-watch-november-4-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "### A Dog's Perfect Christmas Netflix Movie Premiere A teenager, her grandfather, and his trusty basset hound struggle to hold their family together at Christmas; Dennis Quaid, Milo Ventimiglia, Jennifer Tilly, and ... ### The Greatest Prime Video Eight-Episode Binge Series premiere: Jaalen Best stars in the first authorized scripted series about the life of Muhammad Ali, offering unprecedented access and going beyond the amazing victories and defeats that made Ali a legend, both in and out of the ring."
+   },
+   {
+    "title": "Movie News: 4th November 2026",
+    "url": "https://onemannsmovies.com/movie-news/movie-news-4th-november-2026/",
+    "source": "onemannsmovies.com",
+    "published": "",
+    "excerpt": "Wild Horse Nine opens in the UK: Martin McDonagh’s Wild Horse Nine opens in UK and Irish cinemas today, via Searchlight, two days ahead of its US release on Friday. ... Statham and Ritchie reunite: Jason Statham is reuniting with Guy Ritchie for Dogfight, a Netflix revenge thriller set in London’s criminal underworld (so a real divergence then for both men!). ... Blumhouse Atomic: Jason Blum’s Blumhouse and James Wan’s Atomic Monster, which merged in 2024, have unveiled their new corporate name, Blumhouse Atomic, which must have taken them AGES to come up with! The two will, however, continue to trade as separate production labels. The combined company’s films have taken more than $2.5 billion worldwide against production budgets of less than $330 million, and in 2026 alone it has taken $1.3 billion, thanks to Curry Barker’s Obsession ($520 million worldwide) and Kane Parsons’ Backrooms ($400 million), both of which feature in our special ‘Flickering Breadcrumbs’ Top 10 Horror Films podcast. Next up is The Exorcist: Martyrs, and Wan is returning to the Saw franchise as producer. The American Film Market, continued: Several stars have joined Rebecca Miller’s Moonsong: A Life in Seven Verses, which stars Julianne Moore and Elle Fanning, and follows the writer Margaret Wise Brown in 1930s New York as she discovers her gift for children’s stories. Josh Hartnett, Emma Thompson, Sally Hawkins and Danny Huston are among the new cast members. Meanwhile, the Moroccan-Belgian superhero film Atoman has secured a North American release from Disrupt Entertainment, which plans to roll it out on at least 100 screens, ahead of an international sales push at the AFM."
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4001326-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Harry Houdini returned to the stage in Budapest on Friday as a new circus production celebrated the legendary escape ‌artist a century after his death. The Circus of Budapest premiered a performance inspired by Houdini's most famous feats, recreating some"
+   }
+  ],
+  "text": "[1] Jamie Foxx Welcomes Baby No. 3, Tonya Harding's Return and More Top Us Stories | Raleigh News & Observer (newsobserver.com)\nBy Samantha Benitz Us Updated November 4, 2026 9:00 PM Get a rundown of *Us*‘ top stories making headlines in celebrity news, sports and entertainment on November 4, 2026. Here are the key takeaways: • **Jamie Foxx** and girlfriend **Alyce Huckstepp** welcomed their first baby together. The arrival marks Huckstepp's first child and Foxx's third, coming three years after the *Back in Action* star's 2023 hospitalization for a brain bleed that caused a stroke. • **Tonya Harding** is making a surprising return to figure skating with a public show titled \"Tonya and Friends\" on Saturday, December …\n\n[2] Reuters Entertainment News Summary | International (devdiscourse.com)\nTwelve South Korean industry groups warned on Wednesday that the country's television drama ​production ... was at risk and called on the government ‌to ​set up a 1 trillion won ($ ... ) investment fund to support production of Korean dramas, known as\n\n[3] Amelia's Bits & Bytes 11/4: Fall Out Boy Mall, Sublime Return To Red Rocks, A Perfect Circle Auction, Rob Lowe Documentary, Cena Gets Big WWE Event, Elder Scrolls 6 And More Pop Culture News | 98 Rock Online (98online.com)\nwill return to Red Rocks to play 40 Oz TO Freedom in full. Even Dave Grohl gets starstruck. Motorhead celebrates 40 years of Orgasmatron with a re release and a mini documentary. Billy Howerdel will have an auction of A Perfect Circle things.\n\n[4] Wake Up With BroadwayWorld November 4, 2026- OTHER DESERT CITIES Tops the Grosses and More (broadwayworld.com)\nlook at Annie at Goodspeed Musicals as the company celebrates its 50th anniversary production. Rosamund Pike is also gearing up for her Broadway debut in INTER ALIA, and the stars of Disney on Broadway hit the dance floor on Dancing With the Stars. If you\n\n[5] Pop culture news for readers: November 4, 2026 | For Readers | The Fussy Librarian (thefussylibrarian.com)\n- Kevin J. Anderson's sci-fi/horror novels Nether Station and Nether Vortex will be adapted into movies by a veteran of the Resident ... ). - The movie The Thing in the Hall, inspired by E.F. Benson's short story, has announced casting choices (Deadline).\n\n[6] Entertainment News Live Updates Today (November 4, 2026): Shraddha Kapoor Opens Up On Not Signing Films After Stree 2 | Ramayana Premiere Alia Bhatt Ranbir Kapoor | Tiger Shroff Attack Case Update - Filmibeat (filmibeat.com)\nOne of the biggest talking points is the theatrical release of the Ranbir Kapoor, Sai Pallavi, and Yash-starrer Ramayana Part 1 on November 5. Last night, the makers hosted a special premiere for the film, which was attended by the team and many well-known celebrities. Directed by Nitesh Tiwari, the mythological drama is just one day away from hitting the silver screens and has been creating a huge buzz. ... Playback singer Kanika Kapoor, known for songs such as Baby Doll, Lovely and Da Da Dasse, has announced her separation from husband Gautam Hathiramani after four years of marriage. The …\n\n[7] ‘The Hunger Games’ Goes 3D, Brad Pitt’s Cliff Booth Returns, and Rob Lowe Looks Back: Hollywood Movie News for November 4 - Manny the Movie Guy (mannythemovieguy.com)\n### ‘THE HUNGER GAMES’ ENTERS A NEW DIMENSION The upcoming prequel The Hunger Games: Sunrise on the Reaping will receive a 3D theatrical release through a new partnership between Lionsgate and Meta. According to a November 3 report from People, the collaboration will also make the film available in 3D on Meta’s forthcoming VR glasses after its theatrical run. The movie opens November 20. Director Francis Lawrence worked with visual-effects company DNEG on the conversion, intended to immerse audiences in the experience of a young Haymitch Abernathy, portrayed by Joseph Zada. The story takes …\n\n[8] What To Watch On TV And Streaming Wednesday, November 4, 2026 (tvline.com)\n### A Dog's Perfect Christmas Netflix Movie Premiere A teenager, her grandfather, and his trusty basset hound struggle to hold their family together at Christmas; Dennis Quaid, Milo Ventimiglia, Jennifer Tilly, and ... ### The Greatest Prime Video Eight-Episode Binge Series premiere: Jaalen Best stars in the first authorized scripted series about the life of Muhammad Ali, offering unprecedented access and going beyond the amazing victories and defeats that made Ali a legend, both in and out of the ring.\n\n[9] Movie News: 4th November 2026 (onemannsmovies.com)\nWild Horse Nine opens in the UK: Martin McDonagh’s Wild Horse Nine opens in UK and Irish cinemas today, via Searchlight, two days ahead of its US release on Friday. ... Statham and Ritchie reunite: Jason Statham is reuniting with Guy Ritchie for Dogfight, a Netflix revenge thriller set in London’s criminal underworld (so a real divergence then for both men!). ... Blumhouse Atomic: Jason Blum’s Blumhouse and James Wan’s Atomic Monster, which merged in 2024, have unveiled their new corporate name, Blumhouse Atomic, which must have taken them AGES to come up with! The two will, however, continue …\n\n[10] Reuters Entertainment News Summary | International (devdiscourse.com)\nHarry Houdini returned to the stage in Budapest on Friday as a new circus production celebrated the legendary escape ‌artist a century after his death. The Circus of Budapest premiered a performance inspired by Houdini's most famous feats, recreating some",
+  "hash": "6c462392b928028c8501d2847e2e74aae47567be399e1ffe1a77ff46d4fb5a91",
+  "notes": []
+ }
+}
