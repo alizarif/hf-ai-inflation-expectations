@@ -3,15 +3,15 @@
 ## Run calendar
 
 <!-- CALENDAR:START -->
-**Next scheduled wave:** **Thu Nov 5, 04:00 New York** (EST) = **Thu Nov 5, 12:30 Tehran**  
-**Completed waves:** 99 · calendar updated Nov 5, 02:48 New York / 11:18 Tehran (it refreshes after every wave)
+**Next scheduled wave:** **Thu Nov 5, 08:00 New York** (EST) = **Thu Nov 5, 16:30 Tehran**  
+**Completed waves:** 100 · calendar updated Nov 5, 06:20 New York / 14:50 Tehran (it refreshes after every wave)
 
 Times in the cells are **Tehran time** for each New York slot. 🟢 completed · 🔴 missed · 🟡 due now · ⏳ next · ⚪ scheduled
 
 | New York date | 00:00 ET | 04:00 ET | 08:00 ET | 12:00 ET | 16:00 ET | 20:00 ET |
 |---|---|---|---|---|---|---|
 | Fri Nov 6 | ⚪ 08:30 | ⚪ 12:30 | ⚪ 16:30 | ⚪ 20:30 | ⚪ 00:30 (+1d) | ⚪ 04:30 (+1d) |
-| Thu Nov 5 | 🟢 08:30 | ⏳ 12:30 | ⚪ 16:30 | ⚪ 20:30 | ⚪ 00:30 (+1d) | ⚪ 04:30 (+1d) |
+| Thu Nov 5 | 🟢 08:30 | 🟢 12:30 | ⏳ 16:30 | ⚪ 20:30 | ⚪ 00:30 (+1d) | ⚪ 04:30 (+1d) |
 | Wed Nov 4 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
 | Tue Nov 3 | 🔴 08:30 | 🟢 12:30 | 🔴 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
 | Mon Nov 2 | 🟢 08:30 | 🟢 12:30 | 🔴 16:30 | 🟢 20:30 | 🔴 00:30 (+1d) | 🟢 04:30 (+1d) |
@@ -36,8 +36,8 @@ were shown, every prompt, every raw reply, and the parsed answers.
 **Live website:** https://alizarif.github.io/hf-ai-inflation-expectations/ (all waves over time, each wave in detail, and the method; rebuilt after every wave)
 
 <!-- STATUS:START -->
-**Latest wave:** `2026-11-05T00ET` · 420 trials · 419 fully valid · 36 had a probability list rescaled to 100 · cost $0.444  
-**Waves so far:** 99 · **rows in panel:** 41580 · **total cost:** $41.87
+**Latest wave:** `2026-11-05T04ET` · 420 trials · 420 fully valid · 32 had a probability list rescaled to 100 · cost $0.477  
+**Waves so far:** 100 · **rows in panel:** 42000 · **total cost:** $42.34
 <!-- STATUS:END -->
 
 ## Design
