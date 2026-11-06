@@ -109,7 +109,11 @@ probabilities, ordered from "deflation ≥12%" to "inflation ≥12%"); `q2_mean`
 ## Running it
 
 **Setup:** add the repository secret `OPENROUTER_API_KEY` (Settings → Secrets and variables → Actions).
-The schedule then runs by itself.
+
+**What starts each wave:** a Claude scheduled task starts the *Survey wave* workflow at 2 minutes past each
+slot (00, 04, 08, 12, 16, 20 New York time). GitHub's own cron is unreliable (it skips many scheduled runs and
+starts others hours late), so the workflow's schedule is kept only as a backup. A slot that already has a wave
+is skipped, so a double start is harmless.
 
 **Manual runs:** Actions → *Survey wave* → *Run workflow*:
 - `test`: real API calls with 1 trial per cell (140 calls). Output goes to `data_test/` and isn't part of the panel.
