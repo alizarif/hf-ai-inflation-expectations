@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-07T21:34:01+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 7, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-07T21:34:01+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/07",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "World ## Netanyahu rival Eisenkot tapped to form Israeli government Yashar party leader Gadi Eisenkot addresses supporters at an election-night rally in Tel Aviv. ## The Miller Doctrine: Trump's \"wartime consigliere\" Photo illustration of a closeup"
+   },
+   {
+    "title": "World news | World | The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/07/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "Six dead after gunman opens fire ‘at random’ in Kraków market square ... - ### Israel’s president picks Yashar leader Gadi Eisenkot to form government Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost"
+   },
+   {
+    "title": "Morning Briefing: Nov. 7, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-7-2026/4114860",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "Here's a rundown of all the news you need to know for Saturday, including Russian President Vladimir Putin confirming that the next round of Russia-US-Ukraine talks will begin Tuesday in Abu Dhabi; US President Donald Trump naming Stephen Miller as White House chief of staff to replace Susie Wiles and saying he plans Cabinet changes after the midterm election losses; and bomb threats targeting flights, airports and media outlets in at least five European countries. Russian President Vladimir Putin confirmed that the next round of talks between Russia, the US and Ukraine is expected to begin next Tuesday in Abu Dhabi, with Russian state media reporting the talks would last two days. Putin said he invited members of the Russian delegation, headed by presidential aide Vladimir Medinsky, to a UN Security Council meeting ahead of the negotiations, Tass reported. US Special Envoy Steve Witkoff previously said the parties intend to discuss security guarantees, de-escalation, humanitarian issues and further steps toward a peaceful settlement. - Trump names Stephen Miller chief of staff, says he plans Cabinet changes after midterm losses Trump announced that Deputy Chief of Staff Stephen Miller will replace Susie Wiles as White House chief of staff starting Monday, while Wiles moves to the Trump political operation. “Sometimes in life, you have to make moves,” Trump told reporters, saying he “wanted to make a change.” Trump said he plans to make changes to his Cabinet after Republicans lost both chambers of Congress in the midterm elections earlier this week, telling CBS News’ 60 Minutes, “I do, yeah. Little bit,” when asked whether he plans to fire anyone, in an interview set to air Sunday. - Bomb threats target flights, media outlets in at least 5 European countries Bomb threats targeted flights, airports and media organizations in at least five European countries, prompting security inspections and evacuations, according to authorities and the media. Two aircraft departing from London and Brussels were diverted to Sofia and landed safely, while Czech police inspected nine aircraft following anonymous threats against four arrivals and five departures at Prague Airport. The French prime minister’s office said four aircraft flying over French territory received threats and all landed safely, and Copenhagen Police completed security checks at the city’s airport. Several Irish media organizations, including RTE, evacuated their premises after a threatening email was sent to broadcasters and news outlets in Ireland and Britain, with Irish Taoiseach Micheal Martin calling the threats “worrying.” The incidents followed similar threats Thursday against at least 18 flights across Europe."
+   },
+   {
+    "title": "Dawnly",
+    "url": "https://buttondown.com/dawnly/archive/dawnly-november-7-2026/",
+    "source": "buttondown.com",
+    "published": "",
+    "excerpt": "Mediation efforts seek to de-escalate US-Iran nuclear tensions Qatar is proposing a plan that would allow the Strait of Hormuz to reopen in exchange for enhanced international nuclear inspections of Iranian facilities. The proposal emerges amid escalating"
+   },
+   {
+    "title": "Xinhua world news summary at 1530 GMT, Nov. 7-Xinhua",
+    "url": "https://english.news.cn/20261107/d1a796d88b854c598d76f172e21cf1b7/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "-- At least 11 people were killed Saturday in airstrikes on a village near Yemen's capital Sanaa, Houthi-run al-Masirah TV reported, blaming Saudi warplanes for the attacks amid escalating hostilities in the war-torn country. The airstrikes destroyed"
+   },
+   {
+    "title": "AP News Summary at 7:13 a.m. EST | National & World | dailyadvance.com",
+    "url": "https://www.dailyadvance.com/news/national/ap-news-summary-at-7-13-a-m-est/article_23785403-5d01-5e73-87fd-c273e266e444.html",
+    "source": "dailyadvance.com",
+    "published": "",
+    "excerpt": "though territorial and security issues remain unresolved. The missiles also closed traffic on a Kyiv bridge and caused power and water outages ... Meanwhile, recovery efforts continue in Komyshuvakha after a deadly attack there killed at least 55 people."
+   },
+   {
+    "title": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
+    "url": "https://apnews.com/article/mideast-news-november-7-2026-c26759ac66e6c022a3256adeae40c965",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Meanwhile, airstrikes near Yemen’s capital killed at least 27 people, according to a spokesman for Yemen’s Houthi-run Health Ministry. Heavy rains lashed the Gaza Strip, flooding tents and intensifying the misery of hundreds of thousands of Palestinians."
+   },
+   {
+    "title": "Global News, 7 Nov 2026: Hour by Hour | NewsCura",
+    "url": "https://newscura.com/global/timeline/2026-11-07",
+    "source": "newscura.com",
+    "published": "",
+    "excerpt": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa Yemen conflict escalates toward capital with strikes killing 27 ... to try to form government Israeli government impasse with opposition leader raising stakes could reshape"
+   },
+   {
+    "title": "Top news of the day: November 7, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/top-news-of-the-day-november-7-2026/article71678261.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "(ED), the High Court of Karnataka has held that the ED is “not a super ... cannot file a private complaint to initiate a money-laundering probe when the competent agencies decline to prosecute a scheduled offence based on the information filed by the"
+   },
+   {
+    "title": "AP News Summary at 3:45 p.m. EST | National | guardonline.com",
+    "url": "https://www.guardonline.com/news/national/ap-news-summary-at-3-45-p-m-est/article_ffe8f3ec-56d5-58b9-8705-ece1d210e4a6.html",
+    "source": "guardonline.com",
+    "published": "",
+    "excerpt": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu JERUSALEM (AP) — Israeli President Isaac Herzog says he's giving opposition candidate Gadi Eisenkot the first opportunity to form a governing coalition following elections on Oct. 27. Eisenkot, a former military chief, ran as the main challenger to Prime Minister Benjamin Netanyahu, leading a bloc of parties seeking to oust Israel’s longest-serving premier. Neither Eisenkot nor Netanyahu won a clear majority in the vote. But in marathon discussions with the president this week, representatives from most of Israel’s main parties recommended Eisenkot be tasked with assembling a new government. KRAKOW, Poland (AP) — A gunman opened fire in Krakow's Main Square on Saturday, killing six people and wounding 16. Authorities call it an \"act of terror.\" ... The attack left four women and two men dead, and two police officers were among the wounded. Krakow's mayor declared"
+   }
+  ],
+  "text": "[1] Axios (axios.com)\nWorld ## Netanyahu rival Eisenkot tapped to form Israeli government Yashar party leader Gadi Eisenkot addresses supporters at an election-night rally in Tel Aviv. ## The Miller Doctrine: Trump's \"wartime consigliere\" Photo illustration of a closeup\n\n[2] World news | World | The Guardian (theguardian.com)\nSix dead after gunman opens fire ‘at random’ in Kraków market square ... - ### Israel’s president picks Yashar leader Gadi Eisenkot to form government Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost\n\n[3] Morning Briefing: Nov. 7, 2026 (aa.com.tr)\nHere's a rundown of all the news you need to know for Saturday, including Russian President Vladimir Putin confirming that the next round of Russia-US-Ukraine talks will begin Tuesday in Abu Dhabi; US President Donald Trump naming Stephen Miller as White House chief of staff to replace Susie Wiles and saying he plans Cabinet changes after the midterm election losses; and bomb threats targeting flights, airports and media outlets in at least five European countries. Russian President Vladimir Putin confirmed that the next round of talks between Russia, the US and Ukraine is expected to begin …\n\n[4] Dawnly (buttondown.com)\nMediation efforts seek to de-escalate US-Iran nuclear tensions Qatar is proposing a plan that would allow the Strait of Hormuz to reopen in exchange for enhanced international nuclear inspections of Iranian facilities. The proposal emerges amid escalating\n\n[5] Xinhua world news summary at 1530 GMT, Nov. 7-Xinhua (english.news.cn)\n-- At least 11 people were killed Saturday in airstrikes on a village near Yemen's capital Sanaa, Houthi-run al-Masirah TV reported, blaming Saudi warplanes for the attacks amid escalating hostilities in the war-torn country. The airstrikes destroyed\n\n[6] AP News Summary at 7:13 a.m. EST | National & World | dailyadvance.com (dailyadvance.com)\nthough territorial and security issues remain unresolved. The missiles also closed traffic on a Kyiv bridge and caused power and water outages ... Meanwhile, recovery efforts continue in Komyshuvakha after a deadly attack there killed at least 55 people.\n\n[7] Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news (apnews.com)\nMeanwhile, airstrikes near Yemen’s capital killed at least 27 people, according to a spokesman for Yemen’s Houthi-run Health Ministry. Heavy rains lashed the Gaza Strip, flooding tents and intensifying the misery of hundreds of thousands of Palestinians.\n\n[8] Global News, 7 Nov 2026: Hour by Hour | NewsCura (newscura.com)\nYemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa Yemen conflict escalates toward capital with strikes killing 27 ... to try to form government Israeli government impasse with opposition leader raising stakes could reshape\n\n[9] Top news of the day: November 7, 2026 - The Hindu (thehindu.com)\n(ED), the High Court of Karnataka has held that the ED is “not a super ... cannot file a private complaint to initiate a money-laundering probe when the competent agencies decline to prosecute a scheduled offence based on the information filed by the\n\n[10] AP News Summary at 3:45 p.m. EST | National | guardonline.com (guardonline.com)\nIsrael’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu JERUSALEM (AP) — Israeli President Isaac Herzog says he's giving opposition candidate Gadi Eisenkot the first opportunity to form a governing coalition following elections on Oct. 27. Eisenkot, a former military chief, ran as the main challenger to Prime Minister Benjamin Netanyahu, leading a bloc of parties seeking to oust Israel’s longest-serving premier. Neither Eisenkot nor Netanyahu won a clear majority in the vote. But in marathon discussions with the president this week, representatives …",
+  "hash": "2f62ead67f1921ea3ba6a0ba4d8e207e17f096a8e2bbb1a0c0d7e3a83b26af73",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 7, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-07T21:34:15+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Inflation Fears Return as Corporate America Counts the Cost - Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-07/inflation-fears-return-as-corporate-america-counts-the-cost",
+    "source": "bloomberg.com",
+    "published": "",
+    "excerpt": "## Takeaways by ... Mentions of inflation on S&P 500 earnings calls have reached the highest level in more than two years, underscoring growing concerns over skyrocketing costs and weakening consumer confidence. From paint makers to spice manufacturers, company bosses have been evaluating the impact of rising prices, coming up with ways to alleviate the pressure and reassure investors worried about the impact on margins."
+   },
+   {
+    "title": "Daly Says Fed May Need More Rate Increases as Inflation Persists | EconoTimes",
+    "url": "https://econotimes.com/Daly-Says-Fed-May-Need-More-Rate-Increases-as-Inflation-Persists-1772584",
+    "source": "econotimes.com",
+    "published": "",
+    "excerpt": "By Miriam Hart Nov 7, 2026, 9:43 AM UTC ... U.S. wage growth remained below the latest annual inflation reading, and San Francisco Federal Reserve Bank President Mary Daly said the Fed may need to raise rates again as price pressures persist. Daly made the assessment in a Nov. 6 interview with CNBC. She said officials would consider incoming economic information before deciding whether or when to act. “My expectation is we’re going to have to tighten policy further,” she said. Daly did not set a timetable or specify the size of a possible increase. The Bureau of Labor Statistics reported that employers added 165,000 jobs in October and unemployment edged down to 4.1%. Average hourly earnings rose 3.1% from a year earlier that month, while the consumer price index increased 3.7% year over year in September. Daly welcomed the job gains but said inflation continued to weigh on household finances. She said people were still finding work and spending, while pay gains failed to keep pace with prices. She described labor conditions as steady but not unusually strong, and said inflation’s persistence concerned her more than economic growth. Daly also said inflation had remained high for almost six years, with its burden spreading across households. The Federal Open Market Committee (FOMC) raised its target range for the federal funds rate by 0.25 percentage point in September, to 3.75% to 4%. On Oct. 28, it left the range unchanged and said additional information would guide its policy stance. Daly said she supported both decisions and continued to favor a gradual approach. Richmond Fed President Thomas Barkin also expects further increases may be needed, CNBC reported, though he has not identified when. The next report on October CPI is scheduled for Nov. 10, and the FOMC’s next meeting is set for Dec. 8-9."
+   },
+   {
+    "title": "Musalem says inflation concern persists, expectations anchored",
+    "url": "https://www.macroherald.com/musalem-says-inflation-concern-persists-expectations-anchored/",
+    "source": "macroherald.com",
+    "published": "",
+    "excerpt": "Last updated: 7 November 2026 03:04 ... St. Louis Fed President Alberto Musalem said people remain concerned about inflation at the current level. He said inflation expectations remain anchored. The Fed, he said, must return inflation to 2% on a timely basis. ... ## Energy shocks and AI spending Musalem attributed the current excess inflation to energy shocks and the buildout of artificial intelligence infrastructure. He said consumption and investment are growing fast on an optimistic outlook. He argued that AI will bring much higher productivity, and that data center construction is adding to strong demand. Musalem’s remarks point to demand as well as energy costs as the source of the pressure."
+   },
+   {
+    "title": "Inflation, housing, jobs and corporate earnings will dominate the business calendar this week - The Washington Post",
+    "url": "https://www.washingtonpost.com/business/2026/11/07/inflation-home-sales-jobs/69ef9b48-dabd-11f1-930a-e08f8086f5ac_story.html",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "latest updates come a week after voters across the U.S. gave Democrats a sweep of Congress in the midterm elections as stubbornly high prices on everything from gasoline to groceries squeeze households and businesses. The U.S. war with Iran that started"
+   },
+   {
+    "title": "Dollar index jumps after US payrolls data - Markets - Business Recorder",
+    "url": "https://www.brecorder.com/news/40447856",
+    "source": "brecorder.com",
+    "published": "",
+    "excerpt": "NEW YORK: The US dollar index jumped on Friday and was on pace for its biggest daily percentage gain in seven weeks as it extended gains after a stronger-than-expected US payrolls report. The Labor Department said US nonfarm payrolls jumped by 165,000 jobs last month, topping the 65,000 estimate of economists polled by Reuters, after an upwardly revised 60,000 gain in September, while the unemployment rate dipped to 4.1 percent. The report gives the Federal Reserve latitude to continue to hike interest rates, and market expectations for an increase of at least 25 basis points at the central bank’s December meeting moved back up towards 80 percent in the wake of the report, according to the CME FedWatch Tool. ... New York Federal Reserve President John Williams said on Friday that US economic growth has remained remarkably resilient in the face of successive shocks but inflation is too high and it is essential to bring it back to 2 percent."
+   },
+   {
+    "title": "Risk of Iran war escalation remains high despite Democratic election sweep",
+    "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Published Sat, Nov 7 2026 8:03 AM EST ... - Crude oil prices sold off this week as investors hoped the Democratic victory in the U.S. midterm elections would force an end to the Iran war. ... The U.S. and Iran are careening toward renewed war despite growing hopes this week that the Democrats' decisive midterm election victory will bring the conflict to an end, analysts say. Crude oil prices fell more than 16% over the last five trading days after Vice President JD Vance publicly blamed the Republicans' stinging loss on the war. Vance's remarks raised questions about whether there is still support within the administration to continue the conflict with Iran. ... ### Price risk Crude oil prices will vault above $100 a barrel again in response to renewed fighting, said Bob McNally, president of Rapidan and a former energy advisor to President George W. Bush. Brent crude, the international benchmark, was trading above $97 on Friday while U.S. crude was around $90. ... The risk of war is still alive, especially since Trump doesn't face anymore future elections, said Amos Hochstein, a former energy advisor to President Joe Biden. Gasoline, diesel and jet fuel prices would all surge as a consequence, Hochstein told CNBC's \" Power Lunch\" Friday."
+   },
+   {
+    "title": "Fed’s Williams says energy prices have already peaked despite new Iran fighting | Hellenic Shipping News Worldwide",
+    "url": "https://www.hellenicshippingnews.com/feds-williams-says-energy-prices-have-already-peaked-despite-new-iran-fighting/",
+    "source": "hellenicshippingnews.com",
+    "published": "",
+    "excerpt": "Federal Reserve Bank of New York President John Williams said today he does not expect a sustained rise in energy prices for the rest of the year, despite renewed conflict in the Middle East. Williams told a conference at his bank that market expectations for oil prices to decline over the next six to 12 months remain reasonable. He said the fundamentals suggest energy prices are likely around their peak and should come down over time. The Fed official said inflation remains “far too high” and that monetary policy is focused on how energy prices impact inflation. Williams added that artificial intelligence investment is currently driving inflation, though he expects AI to become a positive supply shock in the longer term. His base case sees broader AI use boosting productivity. Williams said the Fed is actively debating scenarios around inflation and remains committed to bringing inflation back to 2%. He stressed the importance of looking at underlying inflation factors rather than just specific measures, noting that government technical changes could better reconcile differences between PCE inflation and CPI."
+   },
+   {
+    "title": "US CPI Preview & Markets Update: Inflation Forecasts, Fed Rates, and Iran Tensions (2026)",
+    "url": "https://dewolfenpartners.com/article/us-cpi-preview-markets-update-inflation-forecasts-fed-rates-and-iran-tensions",
+    "source": "dewolfenpartners.com",
+    "published": "",
+    "excerpt": "In the American session, the story is similar. With no economic data to drive markets, the focus shifts to the US CPI report on Wednesday. The markets ... trigger a hawkish repricing, bringing an October rate hike back into the conversation. However,"
+   },
+   {
+    "title": "Inflación, vivienda, empleo y ganancias empresariales dominarán la agenda económica semanal en EEUU | AP News",
+    "url": "https://apnews.com/article/eeuu-vivienda-inflacion-costos-bolsa-ganancias-9f20a470c3768457773c434e02b5b7ad",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": ", y los economistas proyectan que la tasa de inflación aumentó a 3,9% desde 3,7% en septiembre. El índice mide los cambios de precios de una ... inicio de la guerra de Estados Unidos con Irán y del fuerte repunte de los"
+   },
+   {
+    "title": "America In Focus: key inflation gauge remains high; Fed's Warsh signals rate hikes may be needed | AP News",
+    "url": "https://apnews.com/article/inflation-economy-iran-trump-fed-warsh-31077ff3bc27f6639689cf099f4c1160",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "’s Wednesday report showed that prices rose 3.7% in July compared with a year earlier, the same as June. Inflation has worsened since the U.S. and Israel attacked Iran in late February, when it stood at 2.9%. It’s noticeably above the Fed’s target of 2%."
+   }
+  ],
+  "text": "[1] Inflation Fears Return as Corporate America Counts the Cost - Bloomberg (bloomberg.com)\n## Takeaways by ... Mentions of inflation on S&P 500 earnings calls have reached the highest level in more than two years, underscoring growing concerns over skyrocketing costs and weakening consumer confidence. From paint makers to spice manufacturers, company bosses have been evaluating the impact of rising prices, coming up with ways to alleviate the pressure and reassure investors worried about the impact on margins.\n\n[2] Daly Says Fed May Need More Rate Increases as Inflation Persists | EconoTimes (econotimes.com)\nBy Miriam Hart Nov 7, 2026, 9:43 AM UTC ... U.S. wage growth remained below the latest annual inflation reading, and San Francisco Federal Reserve Bank President Mary Daly said the Fed may need to raise rates again as price pressures persist. Daly made the assessment in a Nov. 6 interview with CNBC. She said officials would consider incoming economic information before deciding whether or when to act. “My expectation is we’re going to have to tighten policy further,” she said. Daly did not set a timetable or specify the size of a possible increase. The Bureau of Labor Statistics reported that …\n\n[3] Musalem says inflation concern persists, expectations anchored (macroherald.com)\nLast updated: 7 November 2026 03:04 ... St. Louis Fed President Alberto Musalem said people remain concerned about inflation at the current level. He said inflation expectations remain anchored. The Fed, he said, must return inflation to 2% on a timely basis. ... ## Energy shocks and AI spending Musalem attributed the current excess inflation to energy shocks and the buildout of artificial intelligence infrastructure. He said consumption and investment are growing fast on an optimistic outlook. He argued that AI will bring much higher productivity, and that data center construction is adding …\n\n[4] Inflation, housing, jobs and corporate earnings will dominate the business calendar this week - The Washington Post (washingtonpost.com)\nlatest updates come a week after voters across the U.S. gave Democrats a sweep of Congress in the midterm elections as stubbornly high prices on everything from gasoline to groceries squeeze households and businesses. The U.S. war with Iran that started\n\n[5] Dollar index jumps after US payrolls data - Markets - Business Recorder (brecorder.com)\nNEW YORK: The US dollar index jumped on Friday and was on pace for its biggest daily percentage gain in seven weeks as it extended gains after a stronger-than-expected US payrolls report. The Labor Department said US nonfarm payrolls jumped by 165,000 jobs last month, topping the 65,000 estimate of economists polled by Reuters, after an upwardly revised 60,000 gain in September, while the unemployment rate dipped to 4.1 percent. The report gives the Federal Reserve latitude to continue to hike interest rates, and market expectations for an increase of at least 25 basis points at the central …\n\n[6] Risk of Iran war escalation remains high despite Democratic election sweep (cnbc.com)\nPublished Sat, Nov 7 2026 8:03 AM EST ... - Crude oil prices sold off this week as investors hoped the Democratic victory in the U.S. midterm elections would force an end to the Iran war. ... The U.S. and Iran are careening toward renewed war despite growing hopes this week that the Democrats' decisive midterm election victory will bring the conflict to an end, analysts say. Crude oil prices fell more than 16% over the last five trading days after Vice President JD Vance publicly blamed the Republicans' stinging loss on the war. Vance's remarks raised questions about whether there is still …\n\n[7] Fed’s Williams says energy prices have already peaked despite new Iran fighting | Hellenic Shipping News Worldwide (hellenicshippingnews.com)\nFederal Reserve Bank of New York President John Williams said today he does not expect a sustained rise in energy prices for the rest of the year, despite renewed conflict in the Middle East. Williams told a conference at his bank that market expectations for oil prices to decline over the next six to 12 months remain reasonable. He said the fundamentals suggest energy prices are likely around their peak and should come down over time. The Fed official said inflation remains “far too high” and that monetary policy is focused on how energy prices impact inflation. Williams added that …\n\n[8] US CPI Preview & Markets Update: Inflation Forecasts, Fed Rates, and Iran Tensions (2026) (dewolfenpartners.com)\nIn the American session, the story is similar. With no economic data to drive markets, the focus shifts to the US CPI report on Wednesday. The markets ... trigger a hawkish repricing, bringing an October rate hike back into the conversation. However,\n\n[9] Inflación, vivienda, empleo y ganancias empresariales dominarán la agenda económica semanal en EEUU | AP News (apnews.com)\n, y los economistas proyectan que la tasa de inflación aumentó a 3,9% desde 3,7% en septiembre. El índice mide los cambios de precios de una ... inicio de la guerra de Estados Unidos con Irán y del fuerte repunte de los\n\n[10] America In Focus: key inflation gauge remains high; Fed's Warsh signals rate hikes may be needed | AP News (apnews.com)\n’s Wednesday report showed that prices rose 3.7% in July compared with a year earlier, the same as June. Inflation has worsened since the U.S. and Israel attacked Iran in late February, when it stood at 2.9%. It’s noticeably above the Fed’s target of 2%.",
+  "hash": "e033cae6576adbbb91ac65ba45b467d1ac053c808de847cf7b6732dd2fdbde19",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 7, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-07T21:34:28+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Live updates: Trump taps Stephen Miller as new chief of staff",
+    "url": "https://www.nbcnews.com/politics/2026-election/live-blog/rump-taps-stephen-miller-chief-staff-wiles-cabinet-midterm-elections-rcna607914",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "November 07, 2026, 2:14 PM EST By NBC News ## What to know today - WILES OUT: President Donald Trump announced Friday that White House chief of staff Susie Wiles would be leaving her role this week and would be replaced by deputy chief of staff Stephen Miller. - STILL COUNTING: Votes are still being counted in the shockingly close Alaska and Mississippi Senate races. Democratic candidates Mary Peltola and Scott Colom continue to narrowly lead their Republican opponents, GOP Sens. Dan Sullivan and Cindy Hyde-Smith, respectively. - CALIFORNIA BALLOTS: The Justice Department moved to dismiss its bid to separate more than 20,000 California ballots it alleged were cast by noncitizens. California officials had argued that the list was out of date and included legitimate voters. ## Trump accuses Democrats of 'criminal extortion' In a Truth Social post, Trump said he is ordering the Justice Department to investigate what he calls “criminal extortion” by Democratic leaders, accusing them of threatening administration officials with impeachment and Republican donors with imprisonment. Trump also singled out Sen. Elissa Slotkin, D-Mich., accusing her of targeting young Republican supporters. “The imprisonment should be against these EXTORTIONISTS,” Trump wrote, adding: “By copy of this statement, I am ordering the Department of Justice to look into this criminal act, immediately!” The president appeared to be responding to posts by some Democratic lawmakers calling for investigations into the Trump administration in the wake of widespread wins for their party on Tuesday. Rep. Robert Garcia, D-Calif., wrote on X on Tuesday, “Lawyer up.” In response to the president’s post today, Slotkin wrote in a post on X, “This shouldn’t be controversial: if you break the law or use taxpayer dollars to enrich yourself, you should be held accountable. If you didn’t break the law, then it’s all good.” ## Trump says he offered UFC's Dana White a job as press secretary In a post on Truth Social, the president said he offered Dana White, the president and CEO of the Ultimate Fighting Championship, a job as White House press secretary. \"I am pleased to announce that the Great Dana White, a violent Fighter and Warrior, has been offered the job of Press Secretary of the United States,\" the president wrote, adding later: \"Dana will be a Press Secretary like none other. Dana, please take the job!\" ... ## Trump floats being kind to Democrats in exchange for bipartisan deals In a new clip released ahead of his full \"60 Minutes\" interview airing Sunday, Trump said he could go six months without insulting Democrats if it meant getting a deal done. Asked by CBS News' Ross Douthat about newly elected Texas Democratic Sen. James Talarico expressing interest in working with him on immigration, Trump noted that other Democrats had also expressed a willingness to cooperate. Trump acknowledged calling Talarico “Talafreako” during the campaign as well as referring to many Democrats as “Dumbocrats.” Brendan Smialowski / AFP / Getty On whether he could refrain from insults for six months to secure a deal, Trump responded, “Very easily.” The president's comments come days after Democrats flipped the House and Senate in the midterm elections, with NBC News projecting Democrats could have 259 House seats next year, far beyond the 218 needed for a majority. In the Senate, Democratic candidates also flipped Senate seats in South Carolina, Texas, Maine and Ohio, cementing a Democratic majority in Congress' upper chamber."
+   },
+   {
+    "title": "Weekend Edition Saturday for November 7, 2026 : NPR",
+    "url": "https://www.npr.org/programs/weekend-edition-saturday/nx-s1-6014837/weekend-edition-saturday-for-november-7-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### GOP's lame-duck clock is ticking by Eric McDaniel, Scott Simon 3 min #### GOP’s lame-duck clock is ticking ### Week in Politics: Trump taps Miller for chief of staff; doubles down on Trumpism by Scott Simon, Ron Elving 4 min"
+   },
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/07",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "## Trump replaces chief of staff Susie Wiles with Stephen Miller Susie Wiles sits in the Oval Office as President Trump speaks during an announcement about a U.S. critical minerals reserve. ## Dems plot a unified case against Trump This is Donald Trump"
+   },
+   {
+    "title": "Trump calls for Justice Department to investigate Democrats - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/11/07/trump-calls-justice-department-investigate-democrats/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "## Here are the midterm races to watch that are still too close to call ... We are four days past Election Day, and while we know that Democrats will hold the majority in both chambers, there are still several races yet to be called that will determine the official voting margins. There are still 19 House races that have yet to be called and two Senate races uncalled, according to the Associated Press. Here are some contests to look out for: Mississippi Senate seat: Sen. Cindy Hyde-Smith (R) is locked in a tight race with Scott Colom, the Democratic nominee. Colom"
+   },
+   {
+    "title": "After their midterm win and Stephen Miller’s promotion, Democrats gear up for a fight on immigration - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/11/07/immigration-democrats-congress-trump-stephen-miller/90cbf57c-da68-11f1-930a-e08f8086f5ac_story.html",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "WASHINGTON — After Democrats’ overwhelming midterm victories this week, winning candidates spoke of the need, once they are sworn in, to rein in President Donald Trump’s mass deportation machine . Some suggested putting forward a new vision for immigration reform while both houses of Congress are in Democratic control."
+   },
+   {
+    "title": "Live updates: Melania Trump hits Baton Rouge for LSU-Alabama game; Peltola’s campaign sues Alaska",
+    "url": "https://thehill.com/homenews/administration/6205796-live-melania-trump-football-mar-a-lago/",
+    "source": "thehill.com",
+    "published": "",
+    "excerpt": "Meanwhile, President Trump announced Saturday afternoon he had offered the open press secretary role to Dana White, president and CEO of the Ultimate Fighting Championship (UFC). ... whether the UFC head plans to accept the offer, though he posted to his"
+   },
+   {
+    "title": "Morning Briefing: Nov. 7, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-7-2026/4114860",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "said Spain has provided Ukraine with a new €437 million ($489 ... A US federal judge temporarily blocked construction of President Donald Trump’s planned ... day order less than an hour after a federal planning commission approved the project."
+   },
+   {
+    "title": "Daily Briefing: November 7, 2026",
+    "url": "https://texianpartisan.com/news/daily-briefing/daily-briefing-saturday-november-7-2026/",
+    "source": "texianpartisan.com",
+    "published": "",
+    "excerpt": "pledged votes to win the speaker’s gavel in January, hours after Rep. Eddie Morales Jr. of Eagle Pass entered the race, The Texas Tribune reported. Thompson told a Capitol news conference, where a handful of Republican members stood with"
+   },
+   {
+    "title": "AP News Summary at 11:01 a.m. EST | National & World | dailyadvance.com",
+    "url": "https://www.dailyadvance.com/news/national/ap-news-summary-at-11-01-a-m-est/article_23785403-5d01-5e73-87fd-c273e266e444.html",
+    "source": "dailyadvance.com",
+    "published": "",
+    "excerpt": "- AP - Nov 7, 2026 - Nov 7, 2026 Updated 3 mins ago House Democrats will start their majority focused on boosting healthcare and ending the Iran war WASHINGTON (AP) — House Democratic leaders are placing an early emphasis on healthcare as they discuss their immediate priorities upon the swearing in of a new Congress on Jan. 3. Early votes in the House next year are expected to focus on boosting Medicaid and restoring an enhanced tax subsidy for Affordable Care Act health plans. Democrats are also promising early votes on legislation to stop the war with Iran and to reverse some of President Donald Trump’s trade tariffs. Democratic leader Hakeem Jeffries is in line to become the next House speaker and he's promising Democrats will “get out of the gate fast.” Trump’s grip on his party is in question as Republicans reel from the midterm wipeout WASHINGTON (AP) — Republicans are reeling from the midterm elections and facing a crisis. Ron DeSantis, the Florida governor, calls it an “extinction-level event” for the party. Ted Cruz, the Texas senator, compares it to a “Watergate-level repudiation.” The party is divided on how to move forward. Some want to return to fiscal conservatism. Others suggest embracing President Donald Trump’s politics. Trump's role in shaping the party's future is a key question. GOP infighting is expected to intensify, with leadership battles and policy decisions looming. The party must also address its appeal to younger voters and minorities to regain lost ground. Young voters overwhelmingly backed Democrats this year. The question is whether they'll stay WASHINGTON (AP) — Young voters voted overwhelmingly for Democrats in the midterm elections, driven by economic concerns and disillusionment with President Donald Trump’s war in Iran. Also motivating some young voters was the rise of artificial intelligence and the data centers powering the technology. The AP Voter Poll shows about 7 in 10 voters under 30 supported Democrats in local congressional races. That was a dramatic shift from 2024. Experts say many young voters aren't firmly aligned with either party and are influenced by current economic conditions. Their dissatisfaction with Republican leadership is clear, but this support could shift if Democrats fail to address key issues."
+   },
+   {
+    "title": "The Morning Briefing: November 7, 2026 - US News America",
+    "url": "https://usnewsamerica.com/the-morning-briefing-november-7-2026/",
+    "source": "usnewsamerica.com",
+    "published": "",
+    "excerpt": "Republicans lost both chambers of Congress in the midterm elections. The move led a Friday ... They built a little bit of an anti-aircraft device and we knocked it out in about ... in the Suza area of the island. Iran said its air defenses shot down U.S."
+   }
+  ],
+  "text": "[1] Live updates: Trump taps Stephen Miller as new chief of staff (nbcnews.com)\nNovember 07, 2026, 2:14 PM EST By NBC News ## What to know today - WILES OUT: President Donald Trump announced Friday that White House chief of staff Susie Wiles would be leaving her role this week and would be replaced by deputy chief of staff Stephen Miller. - STILL COUNTING: Votes are still being counted in the shockingly close Alaska and Mississippi Senate races. Democratic candidates Mary Peltola and Scott Colom continue to narrowly lead their Republican opponents, GOP Sens. Dan Sullivan and Cindy Hyde-Smith, respectively. - CALIFORNIA BALLOTS: The Justice Department moved to dismiss its …\n\n[2] Weekend Edition Saturday for November 7, 2026 : NPR (npr.org)\n### GOP's lame-duck clock is ticking by Eric McDaniel, Scott Simon 3 min #### GOP’s lame-duck clock is ticking ### Week in Politics: Trump taps Miller for chief of staff; doubles down on Trumpism by Scott Simon, Ron Elving 4 min\n\n[3] Axios (axios.com)\n## Trump replaces chief of staff Susie Wiles with Stephen Miller Susie Wiles sits in the Oval Office as President Trump speaks during an announcement about a U.S. critical minerals reserve. ## Dems plot a unified case against Trump This is Donald Trump\n\n[4] Trump calls for Justice Department to investigate Democrats - The Washington Post (washingtonpost.com)\n## Here are the midterm races to watch that are still too close to call ... We are four days past Election Day, and while we know that Democrats will hold the majority in both chambers, there are still several races yet to be called that will determine the official voting margins. There are still 19 House races that have yet to be called and two Senate races uncalled, according to the Associated Press. Here are some contests to look out for: Mississippi Senate seat: Sen. Cindy Hyde-Smith (R) is locked in a tight race with Scott Colom, the Democratic nominee. Colom\n\n[5] After their midterm win and Stephen Miller’s promotion, Democrats gear up for a fight on immigration - The Washington Post (washingtonpost.com)\nWASHINGTON — After Democrats’ overwhelming midterm victories this week, winning candidates spoke of the need, once they are sworn in, to rein in President Donald Trump’s mass deportation machine . Some suggested putting forward a new vision for immigration reform while both houses of Congress are in Democratic control.\n\n[6] Live updates: Melania Trump hits Baton Rouge for LSU-Alabama game; Peltola’s campaign sues Alaska (thehill.com)\nMeanwhile, President Trump announced Saturday afternoon he had offered the open press secretary role to Dana White, president and CEO of the Ultimate Fighting Championship (UFC). ... whether the UFC head plans to accept the offer, though he posted to his\n\n[7] Morning Briefing: Nov. 7, 2026 (aa.com.tr)\nsaid Spain has provided Ukraine with a new €437 million ($489 ... A US federal judge temporarily blocked construction of President Donald Trump’s planned ... day order less than an hour after a federal planning commission approved the project.\n\n[8] Daily Briefing: November 7, 2026 (texianpartisan.com)\npledged votes to win the speaker’s gavel in January, hours after Rep. Eddie Morales Jr. of Eagle Pass entered the race, The Texas Tribune reported. Thompson told a Capitol news conference, where a handful of Republican members stood with\n\n[9] AP News Summary at 11:01 a.m. EST | National & World | dailyadvance.com (dailyadvance.com)\n- AP - Nov 7, 2026 - Nov 7, 2026 Updated 3 mins ago House Democrats will start their majority focused on boosting healthcare and ending the Iran war WASHINGTON (AP) — House Democratic leaders are placing an early emphasis on healthcare as they discuss their immediate priorities upon the swearing in of a new Congress on Jan. 3. Early votes in the House next year are expected to focus on boosting Medicaid and restoring an enhanced tax subsidy for Affordable Care Act health plans. Democrats are also promising early votes on legislation to stop the war with Iran and to reverse some of President …\n\n[10] The Morning Briefing: November 7, 2026 - US News America (usnewsamerica.com)\nRepublicans lost both chambers of Congress in the midterm elections. The move led a Friday ... They built a little bit of an anti-aircraft device and we knocked it out in about ... in the Suza area of the island. Iran said its air defenses shot down U.S.",
+  "hash": "ca0a2145a78e7b93126be5890859f06d9a2ac4efc466afb27f260338cd9e9d7c",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 7, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-07T21:34:42+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "From Wild Horse Nine to Kings of Leon: your complete entertainment guide for the week ahead | Culture | The Guardian",
+    "url": "https://www.theguardian.com/culture/2026/nov/07/going-out-staying-in-wild-horse-nine-kings-of-leon",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "Sat 7 Nov 2026 01.00 EST ... ## Going out: Cinema Wild Horse Nine Out now John Malkovich looks set to be nominated for an Oscar for his portrayal of an ageing CIA agent with terminal cancer who is sent to Easter Island with his younger colleague (Sam Rockwell) in this dark comedy drama from Martin McDonagh (The Banshees of Inisherin). La Bola Negra Out now Javier Calvo and Javier Ambrossi were inspired by Lorca’s unfinished four-page fragment of the same name to create this epic Spanish queer drama spanning three timelines, with an international cast including singer-songwriter Guitarricadelafuente, Penélope Cruz and Glenn Close. I Play Rocky Out now Back in 1975, a struggling actor by the name of Sylvester Stallone wasn’t getting the parts he wanted – so he gave himself three days to write a juicy role. The result was Rocky and the character was so good he had to fight to play it. Anthony Ippolito stars as Stallone in this feelgood dramatisation of the story behind one of"
+   },
+   {
+    "title": "What To Watch On TV And Streaming Saturday, November 7, 2026",
+    "url": "https://www.tvline.com/2307641/what-to-watch-november-7-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "By Nick Caruso Nov. 7, 2026 3:00 am EST ... Every day, TVLine's What to Watch column spotlights new and returning English-language shows (and select movies) premiering or airing fresh episodes across broadcast, cable and streaming — organized below by release time and alphabetically within each slot. On TV this Saturday: Druski makes his Studio 8H debut, Nikki DeLoach and Juan Pablo Di Pace star in Hallmark's \"Holiday Unplugged,\" and David Wain's \"Gail Daughtry and the Celebrity Sex Pass\" streams on Netflix. ## Showtimes for November 7, 2026 3:00 AM ET ### Gail Daughtry and the Celebrity Sex Pass Netflix NEW TO STREAMING After her fiancé sleeps with his celebrity crush, a small-town hairdresser (Zoey Deutch) heads to Hollywood to even the score with her own famous fantasy — Jon Hamm; Ken Marino, John Slattery, and Jennifer Aniston co-star. 8:00 PM ET ### Holiday Unplugged Hallmark Channel MOVIE PREMIERE An art teacher and widow (Nikki DeLoach) institutes a screen-free Christmas after treasured videos of her late husband go missing, enlisting a former colleague and new dating-app match (Juan Pablo Di Pace) to help track them down. ### Karen Kingsbury's The Christmas Ring Great American Family MOVIE PREMIERE When a military widow's long search for her family's treasured Christmas ring leads her to a widowed antiques dealer, the heirloom becomes the key to reconnecting the past and opening both their hearts to a second chance at love; Jana Kramer, Benjamin Hollingsworth, and Kelsey Grammer star. ### Terry McMillan Presents: Paradise With You Lifetime MOVIE PREMIERE A retiring NFL superstar (Taye Diggs) and an interior decorator (Heather Hemmens) find romance on a Caribbean island, only to discover they're competing for the same coveted estate. 9:00 PM ET ... ### Saturday Night Live Comedian and influencer Druski hosts; The Strokes perform."
+   },
+   {
+    "title": "November 7, 2026 | News Headlines | Page Six",
+    "url": "https://pagesix.com/2026/11/07/",
+    "source": "pagesix.com",
+    "published": "",
+    "excerpt": "### Celine Dion caught totally rocking out, playing air guitar, while watching Metallica’s Las Vegas show November 7, 2026 | 2:41pm Dion recently completed the first leg of her Paris residency. ... ### Adam Driver reacts to ‘Girls’ revival after Lena Dunham’s violent on-set behavior claims November 7, 2026 | 12:54pm Driver famously played Adam Sackler, the on-again, off-again boyfriend of Lena Dunham's character, Hannah Horvath, on the HBO series. ### Thomas Markle, Jr. receives apology from Philippine police after wrongly being cited ‘person of interest’ in father’s child sex abuse probe: report November 7, 2026 | 12:30pm The report came one day after his father, Thomas Markle Sr., was arrested in Florida on child porn charges. ... ### Robert Pattinson and Nicholas Hoult join James Bond casting rumors, audition to play the new 007 November 7, 2026 | 11:07am The search for the next James Bond is heating up. ... ### Alanis Morissette comes out as pansexual"
+   },
+   {
+    "title": "Music News for Saturday, November 7, 2026 — Headlines & New Albums as Drum Beats | RockBlocks",
+    "url": "https://rockblocks.app/news/2026-11-07",
+    "source": "rockblocks.app",
+    "published": "",
+    "excerpt": "# Music News for Saturday, November 7, 2026 12 music news headlines from Saturday, November 7, 2026, each one a drum beat. See today's news → ... ## 📰 Music news headlines The latest from Pitchfork, Rolling Stone, Billboard, Stereogum, NME and"
+   },
+   {
+    "title": "Pattinson screen tests for Bond, Maher ribs Trump | Entertainment Roundup · 7 Nov",
+    "url": "https://feedbagel.com/roundup/entertainment/2026-11-07",
+    "source": "feedbagel.com",
+    "published": "",
+    "excerpt": "Today's entertainment news is split between genuine casting surprises and the fallout from the midterms. Robert Pattinson reportedly screen tested for James Bond, while Bill Maher used his platform to needle Trump over the Democrats' win. The rest ... ## Casting and returns A couple of big casting stories broke today, one a genuine surprise and the other a firm refusal. hollywoodreporter.com James Bond Surprise: Robert Pattinson Screen Tested to Play 007 Robert Pattinson reportedly screen tested to play James Bond, which is a wild swing for a franchise that usually goes for less famous actors. He's already Batman and starring in Dune 3 with Bond director Denis Villeneuve, so the connections are there. deadline.com · 2 min Adam Driver is out for the 'Girls' revival, which isn't surprising given his career trajectory, but he made a point of wishing the cast well. The revival will go on without Adam Sackler."
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4003266-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "to reveal a side of himself audiences had not seen before. \"In my real life ... 'The Cat in the Hat' movie combines children's classic with new characters Quinta Brunson wants to set the record straight about the animated Warner Bros. film \"The"
+   },
+   {
+    "title": "Entertainment News Today (Nov 7): 'Medusa' Movie In Works From 'Tangled' Writer, Seven Bucks",
+    "url": "https://todayin.email/e/t-entertainment",
+    "source": "todayin.email",
+    "published": "",
+    "excerpt": "# Entertainment news today Today in Entertainment (Saturday, November 7, 2026): 'Medusa' Movie In Works From 'Tangled' Writer, Seven Bucks. Also: The Top 21 New Movies Streaming Now; Carols of Hope Christmas Concert."
+   },
+   {
+    "title": "Film News Today — November 7, 2026 — FilmNews.net",
+    "url": "https://filmnews.net/news/daily-signal-20261107",
+    "source": "filmnews.net",
+    "published": "",
+    "excerpt": "In a significant coup, director Derek Tsang has joined forces with producer Jonah Greenberg to helm the DEA true-crime series 'Group 41', while Davika Hoorne is set to reprise her role in the sequel to 'Inherit', with Banjong Pisanthanakun at the helm. Meanwhile, the Taiwan Creative Content Fest has provided a platform for industry leaders to showcase their latest endeavors, including the launch of AI filmmaking platform Core Studio, which boasts 24 specialized agents designed to streamline the creative process."
+   },
+   {
+    "title": "Africa Entertainment News Archive: November 7, 2026 | AfricaFrontPage",
+    "url": "https://www.africafrontpage.com/archive/2026-11-07/entertainment",
+    "source": "africafrontpage.com",
+    "published": "",
+    "excerpt": "# Africa Entertainment News Archive: November 7, 2026 236 headlines from Africa Entertainment on November 7, 2026, each linking to the original publisher. Times are GMT. Africa Entertainment News Archive »"
+   },
+   {
+    "title": "Music News Today — November 7, 2026 — MusicNewsletter.com",
+    "url": "https://musicnewsletter.com/news/daily-signal-20261107",
+    "source": "musicnewsletter.com",
+    "published": "",
+    "excerpt": "In the world of music and film, K-pop fans have reason to celebrate as Blackpink's Jisoo has signed with WME for worldwide representation, expanding her reach and opportunities in the global entertainment scene. Meanwhile, Nick Cave is set to return to North America with a 25-date 'Evening of Talk and Music' tour in the spring, promising an intimate and eclectic experience for fans."
+   }
+  ],
+  "text": "[1] From Wild Horse Nine to Kings of Leon: your complete entertainment guide for the week ahead | Culture | The Guardian (theguardian.com)\nSat 7 Nov 2026 01.00 EST ... ## Going out: Cinema Wild Horse Nine Out now John Malkovich looks set to be nominated for an Oscar for his portrayal of an ageing CIA agent with terminal cancer who is sent to Easter Island with his younger colleague (Sam Rockwell) in this dark comedy drama from Martin McDonagh (The Banshees of Inisherin). La Bola Negra Out now Javier Calvo and Javier Ambrossi were inspired by Lorca’s unfinished four-page fragment of the same name to create this epic Spanish queer drama spanning three timelines, with an international cast including singer-songwriter …\n\n[2] What To Watch On TV And Streaming Saturday, November 7, 2026 (tvline.com)\nBy Nick Caruso Nov. 7, 2026 3:00 am EST ... Every day, TVLine's What to Watch column spotlights new and returning English-language shows (and select movies) premiering or airing fresh episodes across broadcast, cable and streaming — organized below by release time and alphabetically within each slot. On TV this Saturday: Druski makes his Studio 8H debut, Nikki DeLoach and Juan Pablo Di Pace star in Hallmark's \"Holiday Unplugged,\" and David Wain's \"Gail Daughtry and the Celebrity Sex Pass\" streams on Netflix. ## Showtimes for November 7, 2026 3:00 AM ET ### Gail Daughtry and the Celebrity Sex …\n\n[3] November 7, 2026 | News Headlines | Page Six (pagesix.com)\n### Celine Dion caught totally rocking out, playing air guitar, while watching Metallica’s Las Vegas show November 7, 2026 | 2:41pm Dion recently completed the first leg of her Paris residency. ... ### Adam Driver reacts to ‘Girls’ revival after Lena Dunham’s violent on-set behavior claims November 7, 2026 | 12:54pm Driver famously played Adam Sackler, the on-again, off-again boyfriend of Lena Dunham's character, Hannah Horvath, on the HBO series. ### Thomas Markle, Jr. receives apology from Philippine police after wrongly being cited ‘person of interest’ in father’s child sex abuse probe: …\n\n[4] Music News for Saturday, November 7, 2026 — Headlines & New Albums as Drum Beats | RockBlocks (rockblocks.app)\n# Music News for Saturday, November 7, 2026 12 music news headlines from Saturday, November 7, 2026, each one a drum beat. See today's news → ... ## 📰 Music news headlines The latest from Pitchfork, Rolling Stone, Billboard, Stereogum, NME and\n\n[5] Pattinson screen tests for Bond, Maher ribs Trump | Entertainment Roundup · 7 Nov (feedbagel.com)\nToday's entertainment news is split between genuine casting surprises and the fallout from the midterms. Robert Pattinson reportedly screen tested for James Bond, while Bill Maher used his platform to needle Trump over the Democrats' win. The rest ... ## Casting and returns A couple of big casting stories broke today, one a genuine surprise and the other a firm refusal. hollywoodreporter.com James Bond Surprise: Robert Pattinson Screen Tested to Play 007 Robert Pattinson reportedly screen tested to play James Bond, which is a wild swing for a franchise that usually goes for less famous …\n\n[6] Reuters Entertainment News Summary | International (devdiscourse.com)\nto reveal a side of himself audiences had not seen before. \"In my real life ... 'The Cat in the Hat' movie combines children's classic with new characters Quinta Brunson wants to set the record straight about the animated Warner Bros. film \"The\n\n[7] Entertainment News Today (Nov 7): 'Medusa' Movie In Works From 'Tangled' Writer, Seven Bucks (todayin.email)\n# Entertainment news today Today in Entertainment (Saturday, November 7, 2026): 'Medusa' Movie In Works From 'Tangled' Writer, Seven Bucks. Also: The Top 21 New Movies Streaming Now; Carols of Hope Christmas Concert.\n\n[8] Film News Today — November 7, 2026 — FilmNews.net (filmnews.net)\nIn a significant coup, director Derek Tsang has joined forces with producer Jonah Greenberg to helm the DEA true-crime series 'Group 41', while Davika Hoorne is set to reprise her role in the sequel to 'Inherit', with Banjong Pisanthanakun at the helm. Meanwhile, the Taiwan Creative Content Fest has provided a platform for industry leaders to showcase their latest endeavors, including the launch of AI filmmaking platform Core Studio, which boasts 24 specialized agents designed to streamline the creative process.\n\n[9] Africa Entertainment News Archive: November 7, 2026 | AfricaFrontPage (africafrontpage.com)\n# Africa Entertainment News Archive: November 7, 2026 236 headlines from Africa Entertainment on November 7, 2026, each linking to the original publisher. Times are GMT. Africa Entertainment News Archive »\n\n[10] Music News Today — November 7, 2026 — MusicNewsletter.com (musicnewsletter.com)\nIn the world of music and film, K-pop fans have reason to celebrate as Blackpink's Jisoo has signed with WME for worldwide representation, expanding her reach and opportunities in the global entertainment scene. Meanwhile, Nick Cave is set to return to North America with a 25-date 'Evening of Talk and Music' tour in the spring, promising an intimate and eclectic experience for fans.",
+  "hash": "e01a9d6d6e88802451356b1c5012c07dd9d657b8d405933b3b24906b0ba3b39c",
+  "notes": []
+ }
+}
