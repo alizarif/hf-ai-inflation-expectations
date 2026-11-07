@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-07T13:04:08+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 7, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-07T13:04:08+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Morning Briefing: Nov. 7, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-7-2026/4114860",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "Anadolu’s recap of top stories from around the globe Merve Aydogan 07 November 2026• Update: 07 November 2026 HAMILTON, Canada Here's a rundown of all the news you need to know for Saturday, including Russian President Vladimir Putin confirming that the next round of Russia-US-Ukraine talks will begin Tuesday in Abu Dhabi; US President Donald Trump naming Stephen Miller as White House chief of staff to replace Susie Wiles and saying he plans Cabinet changes after the midterm election losses; and bomb threats targeting flights, airports and media outlets in at least five European countries. Russian President Vladimir Putin confirmed that the next round of talks between Russia, the US and Ukraine is expected to begin next Tuesday in Abu Dhabi, with Russian state media reporting the talks would last two days. Putin said he invited members of the Russian delegation, headed by presidential aide Vladimir Medinsky, to a UN Security Council meeting ahead of the negotiations, Tass reported. US Special Envoy Steve Witkoff previously said the parties intend to discuss security guarantees, de-escalation, humanitarian issues and further steps toward a peaceful settlement. - Trump names Stephen Miller chief of staff, says he plans Cabinet changes after midterm losses Trump announced that Deputy Chief of Staff Stephen Miller will replace Susie Wiles as White House chief of staff starting Monday, while Wiles moves to the Trump political operation. “Sometimes in life, you have to make moves,” Trump told reporters, saying he “wanted to make a change.” Trump said he plans to make changes to his Cabinet after Republicans lost both chambers of Congress in the midterm elections earlier this week, telling CBS News’ 60 Minutes, “I do, yeah. Little bit,” when asked whether he plans to fire anyone, in an interview set to air Sunday. - Bomb threats target flights, media outlets in at least 5 European countries Bomb threats targeted flights, airports and media organizations in at least five European countries, prompting security inspections and evacuations, according to authorities and the media. Two aircraft departing from London and Brussels were diverted to Sofia and landed safely, while Czech police inspected nine aircraft following anonymous threats against four arrivals and five departures at Prague Airport. The French prime minister’s office said four aircraft flying over French territory received threats and all landed safely, and Copenhagen Police completed security checks at the city’s airport. Several Irish media organizations, including RTE, evacuated their premises after a threatening email was sent to broadcasters and news outlets in Ireland and Britain, with Irish Taoiseach Micheal Martin calling the threats “worrying.” The incidents followed similar threats Thursday against at least 18 flights across Europe."
+   },
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/07",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "15 hours ago - Politics & Policy ## Trump replaces chief of staff Susie Wiles with Stephen Miller Susie Wiles sits in the Oval Office as President Trump speaks during an announcement about a U.S. critical minerals reserve. ## Dems plot a unified case"
+   },
+   {
+    "title": "Top news of the day: November 7, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/top-news-of-the-day-november-7-2026/article71678261.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "Enforcement Directorate is not a ‘super cop’, says Karnataka High Court In a set back to the Directorate of Enforcement (ED), the High Court of Karnataka has held that the ED is “not a super cop” and cannot file a private complaint to initiate a money-laundering probe when the competent agencies decline to prosecute a scheduled offence based on the information filed by the ED. One injured in explosion at Ghaziabad police outpost; ATS, bomb disposal team at site One person was injured in a blast at a police outpost in Ghaziabad district on Friday night (November 6, 2026). Bomb Disposal Squad, Field Unit and Forensic Team of the Uttar Pradeshpolice gathered all the evidence from the site on Saturday (November 7). The explosion damaged the window panes of the Vasundhara police outpost under the Indirapuram police station .A food delivery person present around the police outpost sustained minor injuries. ... New Zealand vote still too close to call as results trickle in The outcome of New Zealand’s election remained too close to call as early results began to roll in on Saturday (November 7, 2026), with none of the parties expected to secure a majority after a campaign dominated by worries over rising costs of living and the economy. Kiwis are struggling to make ends meet — the price of basic goods remains stubbornly high, and unemployment is at its highest in more than a decade. ... U.S. military carries out fresh targeted strikes on Iran as Tehran weighs mediator’s proposals President Donald Trump said the U.S. military on Friday (November 6, 2026) carried out new limited strikes on Iran, targeting an Iranian air defence system. Iran state media reported the sound of two explosions in the Suza area of Qeshm Island, which is in the crucial waterway for oil shipments. Mr. Trump in an exchange with reporters described the military action as “minor”."
+   },
+   {
+    "title": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
+    "url": "https://apnews.com/article/mideast-news-november-7-2026-c26759ac66e6c022a3256adeae40c965",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Iran’s Revolutionary Guard says it has lifted a self-proclaimed limit of 2,000 kilometers (1,200 miles) on the range of its ballistic missiles, suggesting the country may seek to develop missiles capable of reaching more distant targets amid fears of renewed all-out war. Meanwhile, heavy rains lashed the Gaza Strip, flooding tents and intensifying the misery of hundreds of thousands of Palestinians. Here is the latest news from the Middle East on Saturday. Read our full coverage here. The comments by the spokesman of Iran’s paramilitary Revolutionary Guard came days"
+   },
+   {
+    "title": "AP News Summary at 7:13 a.m. EST | National & World | dailyadvance.com",
+    "url": "https://www.dailyadvance.com/news/national/ap-news-summary-at-7-13-a-m-est/article_23785403-5d01-5e73-87fd-c273e266e444.html",
+    "source": "dailyadvance.com",
+    "published": "",
+    "excerpt": "KYIV, Ukraine (AP) — Missile explosions wounded at least nine people across Ukraine Saturday, as Kyiv and Moscow prepared for new talks next week with the United States. Negotiators from the three countries are set to meet Tuesday in Abu Dhabi to discuss ending the war. This will be the fourth round of negotiations brokered by the Trump administration. Western governments are seeking a new formula to break the impasse, though territorial and security issues remain unresolved. The missiles also closed traffic on a Kyiv bridge and caused power and water outages. Meanwhile, recovery efforts continue in Komyshuvakha after a deadly attack there killed at least 55 people."
+   },
+   {
+    "title": "Daily news for November 07, 2026 | EL PAÍS in English",
+    "url": "https://english.elpais.com/archive/2026-11-07/",
+    "source": "english.elpais.com",
+    "published": "",
+    "excerpt": "## Narges Mohammadi, 2023 Nobel Peace Prize winner: ‘Iranian society no longer tolerates the Islamic Republic’ Trinidad Deiros Bronte| Madrid| ... 07, 2026 - 05:00 CET ... Vélez Santiago| San Juan| Nov 07, 2026 - 05:00 CET October’s rate hike is"
+   },
+   {
+    "title": "Xinhua world news summary at 0030 GMT, Nov. 7-Xinhua",
+    "url": "https://english.news.cn/20261107/8fa642b1b8f643279c9f998ac5f99d84/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "-- Paraguay's Senate on Friday voted unanimously to remove President Santiago Pena from office following an impeachment trial over alleged misconduct linked to the collapse of Ueno Bank, with all 44 senators present voting in favor."
+   },
+   {
+    "title": "Saturday (11/7) News Roundup: \"US midterm results may help unite Israeli coalition to unseat Netanyahu\"; \"Trump is going Full Putin with the Miller Appointment\" - Blue Virginia",
+    "url": "https://bluevirginia.us/2026/11/saturday-11-7-news-roundup-us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu-trump-is-going-full-putin-with-the-miller-appointment/",
+    "source": "bluevirginia.us",
+    "published": "",
+    "excerpt": "- What’s the point? Ten years after the Paris treaty, are ... the agreement is still proving a vital moral compass for progress”) - Most ... - Global Science Panel Hits Roadblocks Ahead of COP31 Climate Summit (“Scientists working on new reports for the"
+   },
+   {
+    "title": "Global News, 7 Nov 2026: Hour by Hour | NewsCura",
+    "url": "https://newscura.com/global/timeline/2026-11-07",
+    "source": "newscura.com",
+    "published": "",
+    "excerpt": "1. ## Pakistani astronaut to join China’s next space station mission Space cooperation milestone signals deepening ties between Pakistan and China regionally ... 2. ## New Zealand sweep aside Samoa to reach Women's World Cup final New"
+   },
+   {
+    "title": "November 7, 2026 News: Every Story of the Day | LiveDigest",
+    "url": "https://livedigest.news/archive/2026/11/07",
+    "source": "livedigest.news",
+    "published": "",
+    "excerpt": "### Florida Republicans midterms: narrow wins mask a weakened hold ... ### NZ election 2026 live results: National edges ... New Zealand's election count stands at 97% counted with National on 29.30% of the party vote, just 0.1% ahead of Labour in a 130-seat parliament where 66 seats are needed to govern."
+   }
+  ],
+  "text": "[1] Morning Briefing: Nov. 7, 2026 (aa.com.tr)\nAnadolu’s recap of top stories from around the globe Merve Aydogan 07 November 2026• Update: 07 November 2026 HAMILTON, Canada Here's a rundown of all the news you need to know for Saturday, including Russian President Vladimir Putin confirming that the next round of Russia-US-Ukraine talks will begin Tuesday in Abu Dhabi; US President Donald Trump naming Stephen Miller as White House chief of staff to replace Susie Wiles and saying he plans Cabinet changes after the midterm election losses; and bomb threats targeting flights, airports and media outlets in at least five European countries. …\n\n[2] Axios (axios.com)\n15 hours ago - Politics & Policy ## Trump replaces chief of staff Susie Wiles with Stephen Miller Susie Wiles sits in the Oval Office as President Trump speaks during an announcement about a U.S. critical minerals reserve. ## Dems plot a unified case\n\n[3] Top news of the day: November 7, 2026 - The Hindu (thehindu.com)\nEnforcement Directorate is not a ‘super cop’, says Karnataka High Court In a set back to the Directorate of Enforcement (ED), the High Court of Karnataka has held that the ED is “not a super cop” and cannot file a private complaint to initiate a money-laundering probe when the competent agencies decline to prosecute a scheduled offence based on the information filed by the ED. One injured in explosion at Ghaziabad police outpost; ATS, bomb disposal team at site One person was injured in a blast at a police outpost in Ghaziabad district on Friday night (November 6, 2026). Bomb Disposal Squad, …\n\n[4] Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news (apnews.com)\nIran’s Revolutionary Guard says it has lifted a self-proclaimed limit of 2,000 kilometers (1,200 miles) on the range of its ballistic missiles, suggesting the country may seek to develop missiles capable of reaching more distant targets amid fears of renewed all-out war. Meanwhile, heavy rains lashed the Gaza Strip, flooding tents and intensifying the misery of hundreds of thousands of Palestinians. Here is the latest news from the Middle East on Saturday. Read our full coverage here. The comments by the spokesman of Iran’s paramilitary Revolutionary Guard came days\n\n[5] AP News Summary at 7:13 a.m. EST | National & World | dailyadvance.com (dailyadvance.com)\nKYIV, Ukraine (AP) — Missile explosions wounded at least nine people across Ukraine Saturday, as Kyiv and Moscow prepared for new talks next week with the United States. Negotiators from the three countries are set to meet Tuesday in Abu Dhabi to discuss ending the war. This will be the fourth round of negotiations brokered by the Trump administration. Western governments are seeking a new formula to break the impasse, though territorial and security issues remain unresolved. The missiles also closed traffic on a Kyiv bridge and caused power and water outages. Meanwhile, recovery efforts …\n\n[6] Daily news for November 07, 2026 | EL PAÍS in English (english.elpais.com)\n## Narges Mohammadi, 2023 Nobel Peace Prize winner: ‘Iranian society no longer tolerates the Islamic Republic’ Trinidad Deiros Bronte| Madrid| ... 07, 2026 - 05:00 CET ... Vélez Santiago| San Juan| Nov 07, 2026 - 05:00 CET October’s rate hike is\n\n[7] Xinhua world news summary at 0030 GMT, Nov. 7-Xinhua (english.news.cn)\n-- Paraguay's Senate on Friday voted unanimously to remove President Santiago Pena from office following an impeachment trial over alleged misconduct linked to the collapse of Ueno Bank, with all 44 senators present voting in favor.\n\n[8] Saturday (11/7) News Roundup: \"US midterm results may help unite Israeli coalition to unseat Netanyahu\"; \"Trump is going Full Putin with the Miller Appointment\" - Blue Virginia (bluevirginia.us)\n- What’s the point? Ten years after the Paris treaty, are ... the agreement is still proving a vital moral compass for progress”) - Most ... - Global Science Panel Hits Roadblocks Ahead of COP31 Climate Summit (“Scientists working on new reports for the\n\n[9] Global News, 7 Nov 2026: Hour by Hour | NewsCura (newscura.com)\n1. ## Pakistani astronaut to join China’s next space station mission Space cooperation milestone signals deepening ties between Pakistan and China regionally ... 2. ## New Zealand sweep aside Samoa to reach Women's World Cup final New\n\n[10] November 7, 2026 News: Every Story of the Day | LiveDigest (livedigest.news)\n### Florida Republicans midterms: narrow wins mask a weakened hold ... ### NZ election 2026 live results: National edges ... New Zealand's election count stands at 97% counted with National on 29.30% of the party vote, just 0.1% ahead of Labour in a 130-seat parliament where 66 seats are needed to govern.",
+  "hash": "3dbfd1a851b6d118b89f2ca781c0aa1bcb1c2e3f0729faa77ddc9fcc8d464ad4",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 7, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-07T13:04:30+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Daly Says Fed May Need More Rate Increases as Inflation Persists | EconoTimes",
+    "url": "https://econotimes.com/Daly-Says-Fed-May-Need-More-Rate-Increases-as-Inflation-Persists-1772584",
+    "source": "econotimes.com",
+    "published": "",
+    "excerpt": "By Miriam Hart Nov 7, 2026, 9:43 AM UTC Updated Nov 7, 2026, 9:43 AM UTC 2 min read ... U.S. wage growth remained below the latest annual inflation reading, and San Francisco Federal Reserve Bank President Mary Daly said the Fed may need to raise rates again as price pressures persist. Daly made the assessment in a Nov. 6 interview with CNBC. She said officials would consider incoming economic information before deciding whether or when to act. “My expectation is we’re going to have to tighten policy further,” she said. Daly did not set a timetable or specify the size of a possible increase. The Bureau of Labor Statistics reported that employers added 165,000 jobs in October and unemployment edged down to 4.1%. Average hourly earnings rose 3.1% from a year earlier that month, while the consumer price index increased 3.7% year over year in September. Daly welcomed the job gains but said inflation continued to weigh on household finances. She said people were still finding work and spending, while pay gains failed to keep pace with prices. She described labor conditions as steady but not unusually strong, and said inflation’s persistence concerned her more than economic growth. Daly also said inflation had remained high for almost six years, with its burden spreading across households. The Federal Open Market Committee (FOMC) raised its target range for the federal funds rate by 0.25 percentage point in September, to 3.75% to 4%. On Oct. 28, it left the range unchanged and said additional information would guide its policy stance. Daly said she supported both decisions and continued to favor a gradual approach. Richmond Fed President Thomas Barkin also expects further increases may be needed, CNBC reported, though he has not identified when. The next report on October CPI is scheduled for Nov. 10, and the FOMC’s next meeting is set for Dec. 8-9."
+   },
+   {
+    "title": "President Donald Trump Just Proclaimed That \"Inflation Is Way Down,\" but Federal Reserve Economists Have a Different Take | The Motley Fool",
+    "url": "https://www.fool.com/investing/2026/11/07/donald-trump-proclaimed-inflation-is-way-down-federal-reserve-economists-different-take/",
+    "source": "fool.com",
+    "published": "",
+    "excerpt": "However, inflation isn't \"way down,\" as Donald Trump has proclaimed. Though annualized inflation is well below its four-decade high of 9.1% in June 2022, the reported annualized rate of 3.7% for September is nearly double the FOMC's long-term target of 2%."
+   },
+   {
+    "title": "Musalem says inflation concern persists, expectations anchored",
+    "url": "https://www.macroherald.com/musalem-says-inflation-concern-persists-expectations-anchored/",
+    "source": "macroherald.com",
+    "published": "",
+    "excerpt": "Last updated: 7 November 2026 03:04 Enver Adıgüzel - Editor and Publisher 9 minutes ago St. Louis Fed President Alberto Musalem said people remain concerned about inflation at the current level. He said inflation expectations remain anchored. The Fed, he said, must return inflation to 2% on a timely basis. Contents - Energy shocks and AI spending - Communication and policy transmission ## Energy shocks and AI spending Musalem attributed the current excess inflation to energy shocks and the buildout of artificial intelligence infrastructure. He said consumption and investment are growing fast on an optimistic outlook. He argued that AI will bring much higher productivity, and that data center construction is adding to strong demand. Musalem’s remarks point to demand as well as energy costs as the source of the pressure. ## Communication and policy transmission Musalem said clear Fed communication helps policy move through the economy more smoothly. The US federal funds rate stood at 3.88 percent in force since 5 November, by our market data as of 03:11 GMT on 7 November. US annual inflation was 3.7 percent in September, near its 31-day high."
+   },
+   {
+    "title": "October U.S. CPI report arrives to set December Fed expectations. - CME Group",
+    "url": "https://www.cmegroup.com/videos/2026/11/07/october-u-s-cpi-report-arrives-to-set-december-fed-expectations.html",
+    "source": "cmegroup.com",
+    "published": "",
+    "excerpt": "Looking at the trading week beginning November 9, Tuesday brings the October U.S. CPI report from the BLS, shaping up as the most important economic release to watch. Core CPI is expected to rise 0.2% month-over-month, while headline CPI is expected to rise 0.3%. The week also brings a busy slate of appearances from Federal Reserve officials, including Michelle Bowman, Christopher Waller, Michael Barr, Mary Daly, and John Williams, as the market looks for signs of unity on the inflation trajectory."
+   },
+   {
+    "title": "Dow Jones Top Markets Headlines at 7 PM ET: U.S. Stocks Mixed After Jobs Data, Muted AI Rebound | Solid ... | Morningstar",
+    "url": "https://www.morningstar.com/news/dow-jones/2026110613025/dow-jones-top-markets-headlines-at-7-pm-et-us-stocks-mixed-after-jobs-data-muted-ai-rebound-solid",
+    "source": "morningstar.com",
+    "published": "",
+    "excerpt": "Solid Jobs Report Leaves Inflation, Markets to Settle Fed's December ... Recent economic data point toward another rate increase in December. A more sustained AI selloff could argue against one. ... Treasury yields rose on robust U.S. labor data"
+   },
+   {
+    "title": "Dollar index jumps after US payrolls data - Markets - Business Recorder",
+    "url": "https://www.brecorder.com/news/40447856",
+    "source": "brecorder.com",
+    "published": "",
+    "excerpt": "Published November 7, 2026 Updated November 7, 2026 07:01am By Reuters NEW YORK: The US dollar index jumped on Friday and was on pace for its biggest daily percentage gain in seven weeks as it extended gains after a stronger-than-expected US payrolls report. The Labor Department said US nonfarm payrolls jumped by 165,000 jobs last month, topping the 65,000 estimate of economists polled by Reuters, after an upwardly revised 60,000 gain in September, while the unemployment rate dipped to 4.1 percent. The report gives the Federal Reserve latitude to continue to hike interest rates, and market expectations for an increase of at least 25 basis points at the central bank’s December meeting moved back up towards 80 percent in the wake of the report, according to the CME FedWatch Tool. ... New York Federal Reserve President John Williams said on Friday that US economic growth has remained remarkably resilient in the face of successive shocks but inflation is too high and it is essential to bring it back to 2 percent."
+   },
+   {
+    "title": "Americans feel a little better, and expect less inflation | How the World Works",
+    "url": "https://howtheworldworks.news/news/us-consumer-sentiment-november-expectations-ease",
+    "source": "howtheworldworks.news",
+    "published": "",
+    "excerpt": "How the World Works · 7 Nov 2026 Key takeaways ... - Long-run expectations, at 3.4%, are still well above the Fed's 2% target, so one good month is not enough. ... ## What happened The University of Michigan's index of US consumer sentiment rose to 51.0 in its preliminary November reading, published on 6 November, from 48.0 in October. Economists had expected no change. Both parts of the index improved: views of current conditions rose to 51.0 from 46.7, and expectations to 50.9 from 48.8. Sentiment is still about 10% below its level in February, before the oil shock. The inflation households expect also eased. Over the next year, they expect prices to rise 4.3%, down from 4.7% in October and the lowest since August. Over the long run, five to ten years ahead, they expect 3.4%, down from 3.5%. In February, year-ahead expectations were 3.4%. ## Why expectations matter Inflation is partly self-fulfilling. If workers expect prices to rise 4% next year, they ask for bigger pay rises; if firms expect their costs to rise, they raise prices sooner. Both make the expected inflation more likely to happen. That is why central banks watch surveys like this one closely, especially the long-run measure: a rise there would suggest people have stopped believing inflation will return to target. Two weeks ago, these expectations were at a five-month high (our story). The fall in oil prices may have helped: fuel is the price households see most often, and it shapes what they expect. ## What it means for the Fed For the Federal Reserve, it is a mixed week. October's jobs report was strong, with 165,000 new jobs, which argues for a rate rise in December. Easing inflation expectations argue for patience. Long-run expectations of 3.4% are still well above the 2% target, and above the 2.8% to 3.2% range seen in 2024."
+   },
+   {
+    "title": "Wall Street Eyes Inflation Data After Nasdaq Posts Fourth Straight Weekly Loss",
+    "url": "https://db.forbesmiddleeast.com/money/markets/wall-street-eyes-inflation-data-after-nasdaq-posts-fourth-straight-weekly-loss",
+    "source": "db.forbesmiddleeast.com",
+    "published": "",
+    "excerpt": "Nov 07, 2026, 7:55 AM ... Wall Street is looking to US inflation data for clues on whether stocks can recover from a selloff in technology and artificial intelligence shares, after the Nasdaq Composite recorded its fourth consecutive weekly decline. October's consumer price index is due Tuesday, according to the US Bureau of Labor Statistics (BLS), with investors assessing what the figures could mean for interest rates. ... ### Jobs data sets up inflation test BLS figures released Friday showed that the US economy added 165,000 nonfarm jobs in October, while the unemployment rate stood at 4.1%. Average hourly earnings for private-sector employees increased 0.4% month-on-month and 3.1% year-on-year, providing further evidence for the Federal Reserve to consider as it assesses labor market conditions and price pressures. Hathorn said stronger-than-expected inflation, alongside resilient economic activity, could prompt markets to price in further monetary tightening. That would put additional pressure on technology stocks, as"
+   },
+   {
+    "title": "Datacenter boom is pushing prices higher, Fed officials said - The Washington Post",
+    "url": "https://www.washingtonpost.com/business/2026/10/07/datacenter-boom-is-pushing-prices-higher-fed-officials-said/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "Fed officials cited “surging AI-related investments” as contributing to inflation pressures, alongside higher prices for crude oil and fuel due to the Iran conflict ... , excluding food and energy, continued to rise quickly “as effects of the AI buildout"
+   },
+   {
+    "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+    "url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "The central bank's Survey of Consumer Expectations indicated that the median view for inflation over the next 12 months rose to 3.9%, up 0.3 percentage point from August and the highest level since May 2023, when the figure was at 4.1%."
+   }
+  ],
+  "text": "[1] Daly Says Fed May Need More Rate Increases as Inflation Persists | EconoTimes (econotimes.com)\nBy Miriam Hart Nov 7, 2026, 9:43 AM UTC Updated Nov 7, 2026, 9:43 AM UTC 2 min read ... U.S. wage growth remained below the latest annual inflation reading, and San Francisco Federal Reserve Bank President Mary Daly said the Fed may need to raise rates again as price pressures persist. Daly made the assessment in a Nov. 6 interview with CNBC. She said officials would consider incoming economic information before deciding whether or when to act. “My expectation is we’re going to have to tighten policy further,” she said. Daly did not set a timetable or specify the size of a possible increase. …\n\n[2] President Donald Trump Just Proclaimed That \"Inflation Is Way Down,\" but Federal Reserve Economists Have a Different Take | The Motley Fool (fool.com)\nHowever, inflation isn't \"way down,\" as Donald Trump has proclaimed. Though annualized inflation is well below its four-decade high of 9.1% in June 2022, the reported annualized rate of 3.7% for September is nearly double the FOMC's long-term target of 2%.\n\n[3] Musalem says inflation concern persists, expectations anchored (macroherald.com)\nLast updated: 7 November 2026 03:04 Enver Adıgüzel - Editor and Publisher 9 minutes ago St. Louis Fed President Alberto Musalem said people remain concerned about inflation at the current level. He said inflation expectations remain anchored. The Fed, he said, must return inflation to 2% on a timely basis. Contents - Energy shocks and AI spending - Communication and policy transmission ## Energy shocks and AI spending Musalem attributed the current excess inflation to energy shocks and the buildout of artificial intelligence infrastructure. He said consumption and investment are growing fast …\n\n[4] October U.S. CPI report arrives to set December Fed expectations. - CME Group (cmegroup.com)\nLooking at the trading week beginning November 9, Tuesday brings the October U.S. CPI report from the BLS, shaping up as the most important economic release to watch. Core CPI is expected to rise 0.2% month-over-month, while headline CPI is expected to rise 0.3%. The week also brings a busy slate of appearances from Federal Reserve officials, including Michelle Bowman, Christopher Waller, Michael Barr, Mary Daly, and John Williams, as the market looks for signs of unity on the inflation trajectory.\n\n[5] Dow Jones Top Markets Headlines at 7 PM ET: U.S. Stocks Mixed After Jobs Data, Muted AI Rebound | Solid ... | Morningstar (morningstar.com)\nSolid Jobs Report Leaves Inflation, Markets to Settle Fed's December ... Recent economic data point toward another rate increase in December. A more sustained AI selloff could argue against one. ... Treasury yields rose on robust U.S. labor data\n\n[6] Dollar index jumps after US payrolls data - Markets - Business Recorder (brecorder.com)\nPublished November 7, 2026 Updated November 7, 2026 07:01am By Reuters NEW YORK: The US dollar index jumped on Friday and was on pace for its biggest daily percentage gain in seven weeks as it extended gains after a stronger-than-expected US payrolls report. The Labor Department said US nonfarm payrolls jumped by 165,000 jobs last month, topping the 65,000 estimate of economists polled by Reuters, after an upwardly revised 60,000 gain in September, while the unemployment rate dipped to 4.1 percent. The report gives the Federal Reserve latitude to continue to hike interest rates, and market …\n\n[7] Americans feel a little better, and expect less inflation | How the World Works (howtheworldworks.news)\nHow the World Works · 7 Nov 2026 Key takeaways ... - Long-run expectations, at 3.4%, are still well above the Fed's 2% target, so one good month is not enough. ... ## What happened The University of Michigan's index of US consumer sentiment rose to 51.0 in its preliminary November reading, published on 6 November, from 48.0 in October. Economists had expected no change. Both parts of the index improved: views of current conditions rose to 51.0 from 46.7, and expectations to 50.9 from 48.8. Sentiment is still about 10% below its level in February, before the oil shock. The inflation households …\n\n[8] Wall Street Eyes Inflation Data After Nasdaq Posts Fourth Straight Weekly Loss (db.forbesmiddleeast.com)\nNov 07, 2026, 7:55 AM ... Wall Street is looking to US inflation data for clues on whether stocks can recover from a selloff in technology and artificial intelligence shares, after the Nasdaq Composite recorded its fourth consecutive weekly decline. October's consumer price index is due Tuesday, according to the US Bureau of Labor Statistics (BLS), with investors assessing what the figures could mean for interest rates. ... ### Jobs data sets up inflation test BLS figures released Friday showed that the US economy added 165,000 nonfarm jobs in October, while the unemployment rate stood at …\n\n[9] Datacenter boom is pushing prices higher, Fed officials said - The Washington Post (washingtonpost.com)\nFed officials cited “surging AI-related investments” as contributing to inflation pressures, alongside higher prices for crude oil and fuel due to the Iran conflict ... , excluding food and energy, continued to rise quickly “as effects of the AI buildout\n\n[10] Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023 (cnbc.com)\nThe central bank's Survey of Consumer Expectations indicated that the median view for inflation over the next 12 months rose to 3.9%, up 0.3 percentage point from August and the highest level since May 2023, when the figure was at 4.1%.",
+  "hash": "38aaa03415fc357f5e422c0263e56aeb6304f4ba910a2aaa57bd3956982e4911",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 7, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-07T13:04:42+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/07",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "Policy ## Trump replaces chief of staff Susie Wiles with Stephen Miller Susie Wiles sits in the Oval Office as President Trump speaks during an announcement about a U.S. critical minerals reserve. ## Dems plot a unified case against Trump This is"
+   },
+   {
+    "title": "Trump’s grip on his party is in question as Republicans reel from the midterm wipeout",
+    "url": "https://apnews.com/article/trump-republicans-midterms-reckoning-fd3114355fa1a4fc479e5a3ae17d1445",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — Republicans aren't holding back. Florida Gov. Ron DeSantis described this week's elections as an “extinction-level event” for the GOP. Texas Sen. Ted Cruz likened it to a “Watergate-level repudiation.” Former Vice President Mike Pence called it a “reckoning.” For all the apocalyptic talk emerging from a midterm that relegated Republicans to their thinnest ranks on Capitol Hill in decades, there's little agreement on how the party should move forward. A return to the bedrock fiscal and national security conservatism that defined Republicans under President Ronald Reagan risks alienating the more hard-line conservatives welcomed into the party under President"
+   },
+   {
+    "title": "After their midterm win and Stephen Miller’s promotion, Democrats gear up for a fight on immigration - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/11/07/immigration-democrats-congress-trump-stephen-miller/90cbf57c-da68-11f1-930a-e08f8086f5ac_story.html",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "By Rebecca Santana | AP WASHINGTON — After Democrats’ overwhelming midterm victories this week, winning candidates spoke of the need, once they are sworn in, to rein in President Donald Trump’s mass deportation machine . Some suggested putting forward a new vision for immigration reform while both houses of Congress are in Democratic control."
+   },
+   {
+    "title": "Weekend Edition Saturday for November 7, 2026 : NPR",
+    "url": "https://www.npr.org/programs/weekend-edition-saturday/nx-s1-6014837/weekend-edition-saturday-for-november-7-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### From AC to PA: HVAC tech Chris Donisi wins contest to become the voice of Logan Airport by Scott Simon ### Border shift: Hispanic voters drive Texas' historic flip to blue by David Martin Davies,"
+   },
+   {
+    "title": "Morning Briefing: Nov. 7, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-7-2026/4114860",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "that the next round of Russia-US-Ukraine talks will begin Tuesday in Abu ... saying he plans Cabinet changes after the midterm election losses; and bomb threats targeting flights, airports and media outlets in at least five"
+   },
+   {
+    "title": "US election confirms erosion of support for Israel, with even Trump questioning military aid - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/11/07/us-elections-israel-aid-trump-vance-elsayed/6363070a-da69-11f1-930a-e08f8086f5ac_story.html",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "By Associated Press JERUSALEM — In the space of about 24 hours, U.S. President Donald Trump suggested cutting off aid to Israel , a staunch critic of Israel won a key Senate race and the vice president partly blamed his own party’s landslide defeat on U.S.-Israel relations. The rupture caused by Israel’s devastating military campaign in Gaza and the jointly launched war with Iran has shredded bipartisan U.S. support for Israel that goes back decades. Democrats are fiercely divided over Israel, and Republicans are increasingly critical of its actions. In Israel, critics of Prime Minister Benjamin Netanyahu accuse him of having mismanaged"
+   },
+   {
+    "title": "AP News Summary at 7:13 a.m. EST | National & World | dailyadvance.com",
+    "url": "https://www.dailyadvance.com/news/national/ap-news-summary-at-7-13-a-m-est/article_23785403-5d01-5e73-87fd-c273e266e444.html",
+    "source": "dailyadvance.com",
+    "published": "",
+    "excerpt": ", is stepping down and will be replaced by Stephen Miller, a key member of Trump’s inner circle. ... ' departure comes after midterm elections that saw major Republican losses. She is Trump’s ... a key member of Trump’s inner circle, is a key"
+   },
+   {
+    "title": "AP News in Brief at 6:04 a.m. EST | National News | postregister.com",
+    "url": "https://www.postregister.com/news/national/ap-news-in-brief-at-6-04-a-m-est/article_32f0571a-9c75-5702-b71d-1742d69ee353.html",
+    "source": "postregister.com",
+    "published": "",
+    "excerpt": "House chief of staff, installing as his closest adviser a loyal, combative bulldog for his “America First” agenda as the president prepares to stare down a newly empowered Democratic Congress next year."
+   },
+   {
+    "title": "After the US midterm rout of Trumpism, the world struggles to trust America again - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/11/07/trump-democracy-election-trust-wave/60c16c7c-da68-11f1-930a-e08f8086f5ac_story.html",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "# After the US midterm rout of Trumpism, the world struggles to trust America again The U.S. midterm rout of President Donald Trump’s stewardship doesn’t mean the world trusts America again November 7, 2026 at 4:49 a.m. EST Today at 4:49 a.m. EST"
+   },
+   {
+    "title": "AP News in Brief at 12:04 a.m. EST | 10tv.com",
+    "url": "https://www.10tv.com/article/syndication/associatedpress/ap-news-in-brief-at-1204-am-est/616-37e0212a-eeb7-4e9f-8f96-f75803da0fab",
+    "source": "10tv.com",
+    "published": "",
+    "excerpt": "Wiles as White House chief of staff, installing as his closest adviser a loyal, combative bulldog for his “America First” agenda as the president prepares to stare down a newly empowered Democratic Congress next year."
+   }
+  ],
+  "text": "[1] Axios (axios.com)\nPolicy ## Trump replaces chief of staff Susie Wiles with Stephen Miller Susie Wiles sits in the Oval Office as President Trump speaks during an announcement about a U.S. critical minerals reserve. ## Dems plot a unified case against Trump This is\n\n[2] Trump’s grip on his party is in question as Republicans reel from the midterm wipeout (apnews.com)\nWASHINGTON (AP) — Republicans aren't holding back. Florida Gov. Ron DeSantis described this week's elections as an “extinction-level event” for the GOP. Texas Sen. Ted Cruz likened it to a “Watergate-level repudiation.” Former Vice President Mike Pence called it a “reckoning.” For all the apocalyptic talk emerging from a midterm that relegated Republicans to their thinnest ranks on Capitol Hill in decades, there's little agreement on how the party should move forward. A return to the bedrock fiscal and national security conservatism that defined Republicans under President Ronald Reagan risks …\n\n[3] After their midterm win and Stephen Miller’s promotion, Democrats gear up for a fight on immigration - The Washington Post (washingtonpost.com)\nBy Rebecca Santana | AP WASHINGTON — After Democrats’ overwhelming midterm victories this week, winning candidates spoke of the need, once they are sworn in, to rein in President Donald Trump’s mass deportation machine . Some suggested putting forward a new vision for immigration reform while both houses of Congress are in Democratic control.\n\n[4] Weekend Edition Saturday for November 7, 2026 : NPR (npr.org)\n### From AC to PA: HVAC tech Chris Donisi wins contest to become the voice of Logan Airport by Scott Simon ### Border shift: Hispanic voters drive Texas' historic flip to blue by David Martin Davies,\n\n[5] Morning Briefing: Nov. 7, 2026 (aa.com.tr)\nthat the next round of Russia-US-Ukraine talks will begin Tuesday in Abu ... saying he plans Cabinet changes after the midterm election losses; and bomb threats targeting flights, airports and media outlets in at least five\n\n[6] US election confirms erosion of support for Israel, with even Trump questioning military aid - The Washington Post (washingtonpost.com)\nBy Associated Press JERUSALEM — In the space of about 24 hours, U.S. President Donald Trump suggested cutting off aid to Israel , a staunch critic of Israel won a key Senate race and the vice president partly blamed his own party’s landslide defeat on U.S.-Israel relations. The rupture caused by Israel’s devastating military campaign in Gaza and the jointly launched war with Iran has shredded bipartisan U.S. support for Israel that goes back decades. Democrats are fiercely divided over Israel, and Republicans are increasingly critical of its actions. In Israel, critics of Prime Minister …\n\n[7] AP News Summary at 7:13 a.m. EST | National & World | dailyadvance.com (dailyadvance.com)\n, is stepping down and will be replaced by Stephen Miller, a key member of Trump’s inner circle. ... ' departure comes after midterm elections that saw major Republican losses. She is Trump’s ... a key member of Trump’s inner circle, is a key\n\n[8] AP News in Brief at 6:04 a.m. EST | National News | postregister.com (postregister.com)\nHouse chief of staff, installing as his closest adviser a loyal, combative bulldog for his “America First” agenda as the president prepares to stare down a newly empowered Democratic Congress next year.\n\n[9] After the US midterm rout of Trumpism, the world struggles to trust America again - The Washington Post (washingtonpost.com)\n# After the US midterm rout of Trumpism, the world struggles to trust America again The U.S. midterm rout of President Donald Trump’s stewardship doesn’t mean the world trusts America again November 7, 2026 at 4:49 a.m. EST Today at 4:49 a.m. EST\n\n[10] AP News in Brief at 12:04 a.m. EST | 10tv.com (10tv.com)\nWiles as White House chief of staff, installing as his closest adviser a loyal, combative bulldog for his “America First” agenda as the president prepares to stare down a newly empowered Democratic Congress next year.",
+  "hash": "25057e93506a65cc6c1417ea92e0047c78ce721532da5622f9e8ba627c1416a9",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 7, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-07T13:05:08+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "AP Entertainment SummaryBrief at 12:04 a.m. EST | Features | rutlandherald.com",
+    "url": "https://www.rutlandherald.com/features/ap-entertainment/ap-entertainment-summarybrief-at-12-04-a-m-est/article_8d49ebf0-ac3c-5c19-a322-e162a84e952f.html",
+    "source": "rutlandherald.com",
+    "published": "",
+    "excerpt": "- AP - Nov 7, 2026 - 7 hrs ago Russell Brand's convictions renew spotlight on media — and a culture — that may have looked away LONDON (AP) — Russell Brand's convictions this week for rape and sexual assault have renewed scrutiny on the BBC and other media employers that may have looked the other way. Brand, who gained fame while cultivating an outrageous persona, was convicted Thursday on multiple charges involving several women. The BBC has apologized for a culture that allowed his behavior to go unchecked. An internal probe followed a joint investigation by The Times and Channel 4, which aired accusations from women who said they were abused by Brand. Analysts argue that Brand's raunchy image acted as a shield, allowing his excesses to be overlooked by employers and the public, too. Writer Nick Harkaway expands his father John le Carré's spyverse in new thriller 'The Taper Man' LONDON (AP) — Fictional spymaster George Smiley is back in \"The Taper Man,\" a new thriller set in the world of John le Carré and written by his son, Nick Harkaway. The novel follows Smiley to the U.S. in 1965, chasing a Soviet agent. Harkaway says writing a Cold War story in 2026 feels like “writing in the mirror” due to modern parallels. The book, published Nov. 17 in the U.S., is Harkaway’s second le Carré novel since his father’s death in 2020. Harkaway, who grew up with his father's stories, captures the le Carré spirit, blending espionage with office politics. He plans to write at least one more Smiley book and says other writers may be invited to expand the universe. Meghan's estranged father arrested and charged with possessing child sexual abuse materials TAMPA, Fla. (AP) — Thomas Markle, the 82-year-old father of Prince Harry’s wife Meghan, has been arrested by federal agents in Florida and charged with possessing child sexual abuse material in California. Thomas Markle was released after a court appearance in Tampa. Authorities say a search of storage units in the Los Angeles area turned up dozens of items. There was no immediate comment from his lawyer. Meghan Markle had recently said she's “deeply distressed” about allegations that a collection of child sexual abuse images were found at her father’s former home in the Philippines. 25 years after 'Britney,' 5 new Britney Spears songs showcase a pop icon at a transformative moment NEW YORK (AP) — Britney Spears' 2001 self-titled album ‘Britney' marked a pivotal moment in her career. At 19, she was already a global icon, transitioning from teen pop to a more mature sound. The album, certified quadruple platinum, showcased her evolution with hits like “I'm a Slave 4 U.” On Friday, Legacy Recordings releases the “Britney (25th Anniversary Edition).” It features five previously unreleased tracks and two new remixes. These songs add depth to her legacy, reflecting themes of autonomy and self-definition. Fans can revisit the album, exploring its impact and Spears’ journey from adolescence to adulthood. Awkwafina digs into her culinary roots to try something a little crazy: Open a restaurant NEW YORK (AP) — Awkwafina has taken a surprising turn in her career by diving into the culinary world. Her new Apple TV series, “Awkwafina: The Unlikely Cook,” follows her journey from a novice cook to opening her own restaurant. The show, premiering Friday, captures her learning experiences, from making stir-fry to mastering Peking duck. Awkwafina was born Nora Lum and comes from a family with a rich restaurant history. They opened the New York City eatery Lum's. Her journey reconnects her with her roots and honors her family. The series also highlights a trend of Asian Americans returning to the restaurant industry, defying their parents' expectations. In 'Being Heumann,' Siân Heder and Ruth Madeley channel the spirit of a disability rights pioneer NEW YORK (AP) — Siân Heder's follow-up to the best picture-winning “CODA” chronicles the disability rights pioneer Judy Heumann. Heumann died at the age of 75 in 2023 while Heder was developing the movie with her. She resolved to push on with the project to honor Heumann and try to bring some of her accessibility gains to the movie industry. Characters with disabilities remain extremely uncommon in Hollywood productions, and big-screen biopics like “Being Heumann” are even more seldom. “Being Heumann,” starring Ruth Madeley as Heumann, features the largest ensemble ever of performers with disabilities. Oscar-winning Chilean filmmaker Sebastián Lelio dies at 52 SANTIAGO, Chile (AP) — Oscar-winning Chilean filmmaker Sebastián Lelio has died in Santiago, Chile, at 52. His family announced his death Friday on Instagram, citing health reasons but not specifying the cause. Lelio was known for his groundbreaking film “A Fantastic Woman,” which portrayed a transgender woman and won the Academy Award for best international film. It was Chile's second Oscar win. Lelio’s other works include \"Gloria,\" \"The Wonder,\" and “Disobedience.” He had begun filming “Poeta Chileno” in September. Born in Argentina, Lelio moved to Chile at age two and studied at the Chilean Film School. ... 'ER' and 'The Pitt' are similar enough for lawsuit to move forward, appeals court finds LOS ANGELES (AP) — A California appeals court has found enough similarity between “ER” and “The Pitt” for a lawsuit by Michael Crichton's widow to proceed. The court ruled that the trial judge was correct to reject Warner Bros. Television's motion to dismiss. Both shows star Noah Wyle as an emergency room doctor and focus on the healthcare system. The lawsuit argues “The Pitt” is an unauthorized “ER” reboot. Crichton had a contract preventing any “ER” spinoffs without his consent. The court dismissed claims against Wyle and others, finding no evidence they interfered with Crichton's contract."
+   },
+   {
+    "title": "From Wild Horse Nine to Kings of Leon: your complete entertainment guide for the week ahead | Culture | The Guardian",
+    "url": "https://www.theguardian.com/culture/2026/nov/07/going-out-staying-in-wild-horse-nine-kings-of-leon",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "## Going out: Cinema Wild Horse Nine Out now John Malkovich looks set to be nominated for an Oscar for his portrayal of an ageing CIA agent with terminal cancer who is sent to Easter Island with his younger colleague (Sam Rockwell) in this dark comedy drama from Martin McDonagh (The Banshees of Inisherin). La Bola Negra Out now Javier Calvo and Javier Ambrossi were inspired by Lorca’s unfinished four-page fragment of the same name to create this epic Spanish queer drama spanning three timelines, with an international cast including singer-songwriter Guitarricadelafuente, Penélope Cruz and Glenn Close. I Play Rocky Out now Back in 1975, a struggling actor by the name of Sylvester Stallone wasn’t getting the parts he wanted – so he gave himself three days to write a juicy role. The result was Rocky and the character was so good he had to fight to play it. Anthony Ippolito stars as Stallone in this feelgood dramatisation of the story behind one of cinema’s most famous roles. One in a"
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4003099-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Jordan Firstman brings a softer side to screen in directorial debut 'Club Kid' ... Macklemore says US venues rejected his Free Palestine tour American rapper ​Macklemore, an outspoken critic of Israel's war in Gaza, said on Friday that major US concert venues including New York's Madison Square Garden refused to book his Free Palestine tour that just concluded three dates in Europe. The \"Thrift Shop\" performer launched ⁠the effort after he was removed as the opening act on musician Ed Sheeran's concert tour in August. Macklemore said at the time that stadium owners had objected to him saying \"Free Palestine\" on stage."
+   },
+   {
+    "title": "What To Watch On TV And Streaming Saturday, November 7, 2026",
+    "url": "https://www.tvline.com/2307641/what-to-watch-november-7-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "Every day, TVLine's What to Watch column spotlights new and returning English-language shows (and ... On TV this Saturday: Druski makes his Studio 8H debut, Nikki DeLoach and Juan Pablo Di Pace star in Hallmark's \"Holiday Unplugged,\" and David Wain's \"Gail Daughtry and the Celebrity Sex Pass\" streams on Netflix. ## Showtimes for November 7, 2026 3:00 AM ET ### Gail Daughtry and the Celebrity Sex Pass Netflix NEW TO STREAMING After her fiancé sleeps with his celebrity crush, a small-town hairdresser (Zoey Deutch) heads to Hollywood to even the score with her own famous fantasy — Jon Hamm; Ken Marino, John Slattery, and Jennifer Aniston co-star. 8:00 PM ET ### Holiday Unplugged Hallmark Channel MOVIE PREMIERE An art teacher and widow (Nikki DeLoach) institutes a screen-free Christmas after treasured videos of her late husband go missing, enlisting a former colleague and new dating-app match (Juan Pablo Di Pace) to help track them down. ### Karen Kingsbury's The Christmas Ring Great American Family MOVIE PREMIERE When a military widow's long search for her family's treasured Christmas ring leads her to a widowed antiques dealer, the heirloom becomes the key to reconnecting the past and opening both their hearts to a second chance at love; Jana Kramer, Benjamin Hollingsworth, and Kelsey Grammer star. ### Terry McMillan Presents: Paradise With You Lifetime MOVIE PREMIERE A retiring NFL superstar (Taye Diggs) and an interior decorator (Heather Hemmens) find romance on a Caribbean island, only to discover they're competing for the same coveted estate."
+   },
+   {
+    "title": "Pattinson screen tests for Bond, Maher ribs Trump | Entertainment Roundup · 7 Nov",
+    "url": "https://feedbagel.com/roundup/entertainment/2026-11-07",
+    "source": "feedbagel.com",
+    "published": "",
+    "excerpt": "Today's entertainment news is split between genuine casting surprises and the fallout from the ... . Robert Pattinson reportedly screen tested for James Bond, while Bill Maher used his platform to needle Trump over the Democrats' win"
+   },
+   {
+    "title": "7 novembre 2026. Actualités en novembre 2026 avec Télérama",
+    "url": "https://www.telerama.fr/archives/2026-11-07",
+    "source": "telerama.fr",
+    "published": "",
+    "excerpt": "### La série “L’Affaire Laura Stern” récompensée aux prix MeTooMedia Publié le 07 novembre 2026 à 11h25 ### “Wild Horse Nine” : “Ça faisait très longtemps que John Malkovich n’avait pas été aussi bon”"
+   },
+   {
+    "title": "From Rise of the Rockstar Chefs to La Bola Negra: the week in rave reviews | Culture | The Guardian",
+    "url": "https://www.theguardian.com/culture/2026/nov/07/from-rise-of-the-rockstar-chefs-to-la-bola-negra-the-week-in-rave-reviews",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "Gordon Ramsay and Marco Pierre White reunite to beef it out, while the poetic Spanish saga recounts the hidden history of gay sexuality. Here’s the pick of the week’s culture, taken from the Guardian’s best-rated reviews Sat 7 Nov 2026 01.00 EST"
+   },
+   {
+    "title": "November 7, 2026 | News Headlines | New York Post",
+    "url": "https://nypost.com/2026/11/07/",
+    "source": "nypost.com",
+    "published": "",
+    "excerpt": "### Luka Doncic scores 53 points as Lakers rally past Trail Blazers November 7, 2026 | 2:09am Luka Dončić recorded a season-high 53 points in the Lakers' 124-118 comeback win over the Trail Blazers on Friday night in Los Angeles."
+   },
+   {
+    "title": "Pop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News",
+    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "## Taylor Swift is the ‘fakest’ celeb Knicks fan, 2 players say; team rushes to her defense ... ## She’s got a friend in Hollywood: Los Angeles Mayor-elect Nithya Raman’s industry support ... his international retirement from Portugal The"
+   },
+   {
+    "title": "Culture, Style & Media News Today — November 7, 2026 — PartyWire.com",
+    "url": "https://partywire.com/news/daily-signal-20261107",
+    "source": "partywire.com",
+    "published": "",
+    "excerpt": "The world of entertainment is buzzing with news that highlights the intersection of art, politics, and industry shake-ups. Rapper ... is making waves with his 'Free Palestine' tour, which he claims has been banned by Madison Square Garden and eight"
+   }
+  ],
+  "text": "[1] AP Entertainment SummaryBrief at 12:04 a.m. EST | Features | rutlandherald.com (rutlandherald.com)\n- AP - Nov 7, 2026 - 7 hrs ago Russell Brand's convictions renew spotlight on media — and a culture — that may have looked away LONDON (AP) — Russell Brand's convictions this week for rape and sexual assault have renewed scrutiny on the BBC and other media employers that may have looked the other way. Brand, who gained fame while cultivating an outrageous persona, was convicted Thursday on multiple charges involving several women. The BBC has apologized for a culture that allowed his behavior to go unchecked. An internal probe followed a joint investigation by The Times and Channel 4, which …\n\n[2] From Wild Horse Nine to Kings of Leon: your complete entertainment guide for the week ahead | Culture | The Guardian (theguardian.com)\n## Going out: Cinema Wild Horse Nine Out now John Malkovich looks set to be nominated for an Oscar for his portrayal of an ageing CIA agent with terminal cancer who is sent to Easter Island with his younger colleague (Sam Rockwell) in this dark comedy drama from Martin McDonagh (The Banshees of Inisherin). La Bola Negra Out now Javier Calvo and Javier Ambrossi were inspired by Lorca’s unfinished four-page fragment of the same name to create this epic Spanish queer drama spanning three timelines, with an international cast including singer-songwriter Guitarricadelafuente, Penélope Cruz and …\n\n[3] Reuters Entertainment News Summary | International (devdiscourse.com)\nJordan Firstman brings a softer side to screen in directorial debut 'Club Kid' ... Macklemore says US venues rejected his Free Palestine tour American rapper ​Macklemore, an outspoken critic of Israel's war in Gaza, said on Friday that major US concert venues including New York's Madison Square Garden refused to book his Free Palestine tour that just concluded three dates in Europe. The \"Thrift Shop\" performer launched ⁠the effort after he was removed as the opening act on musician Ed Sheeran's concert tour in August. Macklemore said at the time that stadium owners had objected to him saying …\n\n[4] What To Watch On TV And Streaming Saturday, November 7, 2026 (tvline.com)\nEvery day, TVLine's What to Watch column spotlights new and returning English-language shows (and ... On TV this Saturday: Druski makes his Studio 8H debut, Nikki DeLoach and Juan Pablo Di Pace star in Hallmark's \"Holiday Unplugged,\" and David Wain's \"Gail Daughtry and the Celebrity Sex Pass\" streams on Netflix. ## Showtimes for November 7, 2026 3:00 AM ET ### Gail Daughtry and the Celebrity Sex Pass Netflix NEW TO STREAMING After her fiancé sleeps with his celebrity crush, a small-town hairdresser (Zoey Deutch) heads to Hollywood to even the score with her own famous fantasy — Jon Hamm; Ken …\n\n[5] Pattinson screen tests for Bond, Maher ribs Trump | Entertainment Roundup · 7 Nov (feedbagel.com)\nToday's entertainment news is split between genuine casting surprises and the fallout from the ... . Robert Pattinson reportedly screen tested for James Bond, while Bill Maher used his platform to needle Trump over the Democrats' win\n\n[6] 7 novembre 2026. Actualités en novembre 2026 avec Télérama (telerama.fr)\n### La série “L’Affaire Laura Stern” récompensée aux prix MeTooMedia Publié le 07 novembre 2026 à 11h25 ### “Wild Horse Nine” : “Ça faisait très longtemps que John Malkovich n’avait pas été aussi bon”\n\n[7] From Rise of the Rockstar Chefs to La Bola Negra: the week in rave reviews | Culture | The Guardian (theguardian.com)\nGordon Ramsay and Marco Pierre White reunite to beef it out, while the poetic Spanish saga recounts the hidden history of gay sexuality. Here’s the pick of the week’s culture, taken from the Guardian’s best-rated reviews Sat 7 Nov 2026 01.00 EST\n\n[8] November 7, 2026 | News Headlines | New York Post (nypost.com)\n### Luka Doncic scores 53 points as Lakers rally past Trail Blazers November 7, 2026 | 2:09am Luka Dončić recorded a season-high 53 points in the Lakers' 124-118 comeback win over the Trail Blazers on Friday night in Los Angeles.\n\n[9] Pop Culture News: Updates on Music, Movies, TV and Celebrities | NBC News (nbcnews.com)\n## Taylor Swift is the ‘fakest’ celeb Knicks fan, 2 players say; team rushes to her defense ... ## She’s got a friend in Hollywood: Los Angeles Mayor-elect Nithya Raman’s industry support ... his international retirement from Portugal The\n\n[10] Culture, Style & Media News Today — November 7, 2026 — PartyWire.com (partywire.com)\nThe world of entertainment is buzzing with news that highlights the intersection of art, politics, and industry shake-ups. Rapper ... is making waves with his 'Free Palestine' tour, which he claims has been banned by Madison Square Garden and eight",
+  "hash": "9677a013e46abcdf2603d195bbab1c2bcd9fdbf6c25f401d65a8c3b1e1d69e16",
+  "notes": []
+ }
+}
