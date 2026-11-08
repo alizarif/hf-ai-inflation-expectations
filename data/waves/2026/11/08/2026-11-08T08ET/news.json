@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-08T13:06:20+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 8, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-08T13:06:20+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Morning Briefing: Nov. 8, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-8-2026/4115649",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "08 November 2026• Update: 08 November 2026 Here’s a rundown of all the news you need to start Sunday, including Poland's interior minister's claim that far-right ideologies may have influenced a Krakow attacker; Israeli President Isaac Herzog's appointment of Gadi Eisenkot to form the next government; and the US army's announcement of a new task force to disrupt Iran's supply routes. Initial indications suggest that the suspect who opened fire in central Krakow, Poland's second-largest city, was influenced by far-right ideologies, according to Interior Minister Marcin Kierwinski. Kierwinski told a news conference that police opened fire on the suspect three minutes after receiving the first report of the attack. He confirmed that six people were killed, including one foreign national, while 16 were injured, including five foreign nationals, two police officers and the suspect. - Israel’s President Herzog says he will task Eisenkot with forming next government Israeli President Isaac Herzog announced that he will task Yashar party leader Gadi Eisenkot with forming the next government, Israeli news site Ynet reported. Eisenkot has been invited to receive the mandate at a ceremony at the President’s Residence on Sunday at 5 pm local time (1500GMT), according to the report. Once he receives the mandate, Eisenkot will have 28 days to form a government. Herzog can grant an extension of up to 14 days under Israel’s Basic Law. - US army announces new task force to disrupt Iran’s supply routes The US military’s Central Command (CENTCOM) announced the establishment of a new task force aimed at disrupting Iran’s use of land routes to transport advanced weapons and other materials, expanding Washington’s pressure on Tehran. In a statement on US social media platform X, CENTCOM said Adm. Brad Cooper, the command’s chief, directed the formation of Task Force Iron Gate on Nov. 7. The unit, comprising approximately 20 civilian and military personnel, will be based in Tampa, Florida. The task force will work with other US government agencies to monitor and prevent the movement of advanced weapons systems, dual-use technologies, sanctioned materials and what Washington describes as illegal revenue streams across Iran’s land borders and the Caspian Sea."
+   },
+   {
+    "title": "Daily World Briefing, Nov. 8-Xinhua",
+    "url": "https://english.news.cn/20261108/dc021ec57e444eee9730b0370f184243/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "Guard Corps (IRGC) said early Sunday two \"violating\" oil ... Gaza's civil defense authorities declared a state of maximum emergency on Saturday as a rainstorm flooded around 70,000 tents housing displaced Palestinians and overwhelmed rescue services."
+   },
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/08",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "Nvidia CEO Jensen Huang, in his trademark black leather jacket, standing against a black backdrop and showing a rack of computer hardware. Updated 16 hours ... Yashar party leader Gadi Eisenkot addresses supporters at an election-night rally in Tel Aviv."
+   },
+   {
+    "title": "Xinhua world news summary at 0030 GMT, Nov. 8-Xinhua",
+    "url": "https://english.news.cn/20261108/5e72b6c3d9be42faa86443b3792082b5/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "cargo vessel in the Gulf of Oman on Saturday, the U.S. Central Command (CENTCOM) said. ... precision munitions at the stern of the Saint Kitts and Nevis-flagged M/V Huda, disabling the ship after its crew was instructed to abandon targeted spaces,"
+   },
+   {
+    "title": "HT Morning News Brief November 8: Delhi’s worst Diwali eve air in 10 years; Israel Prez picks Netanyahu rival Eisenkot, and more | India News",
+    "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-8-delhi-s-worst-diwali-eve-air-in-10-years-israel-prez-picks-netanyahu-rival-eisenkot-and-more-101794104992289.html",
+    "source": "hindustantimes.com",
+    "published": "",
+    "excerpt": "after recording its most polluted festival eve in a decade. The city's air quality index (AQI) stood at 369 at 4 pm on Saturday, placing it in the ‘very poor’ category on the Central Pollution Control Board’s (CPCB) 0-500 scale. This was the highest AQI"
+   },
+   {
+    "title": "Kyodo News Digest: Nov. 8",
+    "url": "https://english.kyodonews.net/articles/-/90712",
+    "source": "english.kyodonews.net",
+    "published": "",
+    "excerpt": "M5.7 quake strikes central Japan, over 20 injured TOKYO - An earthquake with a preliminary magnitude of 5.7 hit central Japan early Sunday, leaving over 20 people injured in Aichi and Shizuoka prefectures, authorities said. The 1:04 a.m. temblor originated in the western part of Shizuoka Prefecture at a depth of about 40 kilometers and registered upper 5 on the Japanese seismic intensity scale in Chita, Aichi, according to the Japan Meteorological Agency. No tsunami warning was issued."
+   },
+   {
+    "title": "World news digest for November 8, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-08",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "The US military has set up a task force to restrict Iran's land and Caspian Sea shipments, extending pressure from its months-long naval blockade to overland routes.⁠ 1 2 ... strikes on an Iranian air-defence site, which Trump described as 'minor'.⁠ 3"
+   },
+   {
+    "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
+    "url": "https://apnews.com/article/mideast-news-november-8-2026-090d96e25872f5c63e105b9dd3e5dc60",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Saudi Arabia said it intercepted incoming missiles targeting the kingdom's capital and other regions on Sunday, with falling debris damaging a building belonging to the state-owned oil giant Aramco in Riyadh’s financial district. Meanwhile, the United Arab Emirates said it rescued 22 crew members after a fire broke out aboard a cargo ship in the Sea of Oman, as risks to commercial shipping in the region remain high. Here is the latest news from the Middle East on Sunday. ... Witnesses in Riyadh said they heard a loud explosion Sunday morning and described damage across multiple floors of an Aramco building"
+   },
+   {
+    "title": "Global News, 8 Nov 2026: Hour by Hour | NewsCura",
+    "url": "https://newscura.com/global/timeline/2026-11-08",
+    "source": "newscura.com",
+    "published": "",
+    "excerpt": "1. ## Australia reach World Cup final after Fiji scare Australia reaches their fifth consecutive Women's Rugby League World Cup final, pursuing a fourth straight title. ... Tenerife footballer Jesus De Miguel died after colliding with a goalkeeper during"
+   },
+   {
+    "title": "AP News Summary at 6:59 a.m. EST | National | guardonline.com",
+    "url": "https://www.guardonline.com/news/national/ap-news-summary-at-6-59-a-m-est/article_f06c98cd-ddf7-5e00-bf8a-2acccad40d75.html",
+    "source": "guardonline.com",
+    "published": "",
+    "excerpt": "has receives the first chance to form a governing coalition in Israel. Last month's elections left no clear winner. Eisenkot, a former military chief ... serving leader. Eisenkot faces challenges in building a coalition. Options include a power-sharing"
+   }
+  ],
+  "text": "[1] Morning Briefing: Nov. 8, 2026 (aa.com.tr)\n08 November 2026• Update: 08 November 2026 Here’s a rundown of all the news you need to start Sunday, including Poland's interior minister's claim that far-right ideologies may have influenced a Krakow attacker; Israeli President Isaac Herzog's appointment of Gadi Eisenkot to form the next government; and the US army's announcement of a new task force to disrupt Iran's supply routes. Initial indications suggest that the suspect who opened fire in central Krakow, Poland's second-largest city, was influenced by far-right ideologies, according to Interior Minister Marcin Kierwinski. Kierwinski …\n\n[2] Daily World Briefing, Nov. 8-Xinhua (english.news.cn)\nGuard Corps (IRGC) said early Sunday two \"violating\" oil ... Gaza's civil defense authorities declared a state of maximum emergency on Saturday as a rainstorm flooded around 70,000 tents housing displaced Palestinians and overwhelmed rescue services.\n\n[3] Axios (axios.com)\nNvidia CEO Jensen Huang, in his trademark black leather jacket, standing against a black backdrop and showing a rack of computer hardware. Updated 16 hours ... Yashar party leader Gadi Eisenkot addresses supporters at an election-night rally in Tel Aviv.\n\n[4] Xinhua world news summary at 0030 GMT, Nov. 8-Xinhua (english.news.cn)\ncargo vessel in the Gulf of Oman on Saturday, the U.S. Central Command (CENTCOM) said. ... precision munitions at the stern of the Saint Kitts and Nevis-flagged M/V Huda, disabling the ship after its crew was instructed to abandon targeted spaces,\n\n[5] HT Morning News Brief November 8: Delhi’s worst Diwali eve air in 10 years; Israel Prez picks Netanyahu rival Eisenkot, and more | India News (hindustantimes.com)\nafter recording its most polluted festival eve in a decade. The city's air quality index (AQI) stood at 369 at 4 pm on Saturday, placing it in the ‘very poor’ category on the Central Pollution Control Board’s (CPCB) 0-500 scale. This was the highest AQI\n\n[6] Kyodo News Digest: Nov. 8 (english.kyodonews.net)\nM5.7 quake strikes central Japan, over 20 injured TOKYO - An earthquake with a preliminary magnitude of 5.7 hit central Japan early Sunday, leaving over 20 people injured in Aichi and Shizuoka prefectures, authorities said. The 1:04 a.m. temblor originated in the western part of Shizuoka Prefecture at a depth of about 40 kilometers and registered upper 5 on the Japanese seismic intensity scale in Chita, Aichi, according to the Japan Meteorological Agency. No tsunami warning was issued.\n\n[7] World news digest for November 8, 2026 | World Watch (worldwatch.media)\nThe US military has set up a task force to restrict Iran's land and Caspian Sea shipments, extending pressure from its months-long naval blockade to overland routes.⁠ 1 2 ... strikes on an Iranian air-defence site, which Trump described as 'minor'.⁠ 3\n\n[8] Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news (apnews.com)\nSaudi Arabia said it intercepted incoming missiles targeting the kingdom's capital and other regions on Sunday, with falling debris damaging a building belonging to the state-owned oil giant Aramco in Riyadh’s financial district. Meanwhile, the United Arab Emirates said it rescued 22 crew members after a fire broke out aboard a cargo ship in the Sea of Oman, as risks to commercial shipping in the region remain high. Here is the latest news from the Middle East on Sunday. ... Witnesses in Riyadh said they heard a loud explosion Sunday morning and described damage across multiple floors of an …\n\n[9] Global News, 8 Nov 2026: Hour by Hour | NewsCura (newscura.com)\n1. ## Australia reach World Cup final after Fiji scare Australia reaches their fifth consecutive Women's Rugby League World Cup final, pursuing a fourth straight title. ... Tenerife footballer Jesus De Miguel died after colliding with a goalkeeper during\n\n[10] AP News Summary at 6:59 a.m. EST | National | guardonline.com (guardonline.com)\nhas receives the first chance to form a governing coalition in Israel. Last month's elections left no clear winner. Eisenkot, a former military chief ... serving leader. Eisenkot faces challenges in building a coalition. Options include a power-sharing",
+  "hash": "b41e8c018c1ccf91e1d013307b77f4db6ba8ea81a5eb9a671ae572d5d0bc21a0",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 8, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-08T13:06:37+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "US inflation set to cool in October after two months of sharp increases | World News - Business Standard",
+    "url": "https://www.business-standard.com/world-news/us-inflation-set-to-cool-in-october-after-two-months-of-sharp-increases-126110800246_1.html",
+    "source": "business-standard.com",
+    "published": "",
+    "excerpt": "8 min read Last Updated : Nov 08 2026 | 1:03 PM IST By Vince Golle and Craig Stirling Prices for US goods and services probably rose at a slower pace in October after two particularly uncomfortable months for American consumers. The consumer price index is seen rising 0.3% after a 0.6% increase that was the largest since April, based on the median projection in a Bloomberg survey of economists ahead of Tuesday’s Bureau of Labor Statistics’ release. The core measure, which excludes often-volatile energy and food components, also probably cooled. The survey median sees a 0.2% increase for October, which would be the smallest advance in three months. The agency won’t publish year-over-year figures after it skipped the October 2025 CPI release due to the federal government shutdown at the time. ## The Fed is expected to hold rates steady. Warsh will have to explain why ## Fed Chair Warsh stresses price stability, offers no signals on rate outlook The October CPI will be the last before the Federal Reserve’s meeting in December, at which investors expect policymakers to boost interest rates. Economists will also assess the finer details of the report for clues on inflation risks into early 2027. Economists at Citigroup Inc. said in a recent note that they anticipate limited pass-through of high energy costs to goods prices, as well as moderate services inflation. What Bloomberg Economics Says... > “We expect headline CPI slowed to 0.25% in October (vs. 0.65% prior). The core likely softened to 0.24% (vs. 0.33% prior), with both softer goods and services price gains driving the improvement. For goods, used cars and consumer electronics — categories that have faced pressure from the AI boom — saw slower inflation. For services, gains in owners’ equivalent rent are down a third from a September spike.” > > > > —Anna Wong, Troy Durie and Eliza Winger The latest snapshot of inflation also follows Friday’s stronger-than-expected October jobs report. Sustained employment growth has the potential of ensuring consumers keep spending, while allowing the Fed to keep its focus squarely on inflation. Another price report, due on Friday, is projected to show nagging inflationary pressures faced by companies. The producer price index is forecast to accelerate to 6.6% for the year through October, the steepest annual increase in nearly four years."
+   },
+   {
+    "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
+    "url": "https://apnews.com/article/trump-economy-midterm-elections-democrats-ab332d745571d36c5512e7e3beab6d59",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "he launched in February contributed to the consumer price index climbing to 3.7% annually. The president also tried to bully the Federal Reserve, an independent body tasked with keeping inflation low, to slash its benchmark interest rate in ways that"
+   },
+   {
+    "title": "Fed policymakers consider rate hike after strong jobs report - The Korea Herald",
+    "url": "https://www.koreaherald.com/article/10929514",
+    "source": "koreaherald.com",
+    "published": "",
+    "excerpt": "Published : Nov. 8, 2026 - 10:24:06 ... A stronger-than-expected US jobs report bolstered the case for further Federal Reserve interest rate hikes, which had lost some momentum ‌amid a post-election stock market selloff and growing fears that weaker AI-driven demand could undercut the economy. Employers added 165,000 jobs last month, more than twice what economists had expected, the Bureau of Labor Statistics said Friday, and the unemployment rate ticked down to 4.1 percent. Average hourly wages gained 3.1 percent from a year earlier, not enough to keep up with a 3.7 percent rise in consumer prices that is ‌taking a bigger chunk of the typical paycheck's purchasing power. After the US central bank left its policy rate on hold last month, Fed Chairman Kevin Warsh said policymakers would be watching for \"the accumulation of data\" to help decide whether more monetary policy tightening would be needed. For San Francisco Fed President Mary Daly, the latest monthly jobs report appeared to put a definitive tick in the \"yes\" column. \"People are just at the point where they're — they say 'Inflation — I'm doing well ⁠in everything, except I can't keep up with inflation,' so that has to be our number one priority, and the fact that we have a solid labor market gives us the latitude, really, to just get that job done,\" Daly said in an interview on CNBC. \"My expectation is, we're going to have to tighten policy further,\" said Daly, who is not a voting member of the Fed's policy committee this ⁠year but typically voices views similar to the majority view. Noting \"how volatile the world seems to be in many ways,\" she added, \"those volatilities are something that you have to take into account, collect more information, and be deliberate but more gradual in how you get there when you don't know exactly where you're going to need to head. But more is likely to be ​needed and certainly we're prepared — I'm prepared — to do that, if that's what the economy calls for.\" In comments at a St. Louis civic event Friday, St. ‌Louis Fed President Alberto Musalem said inflation remained the top concern in his conversations with businesses in his district. \"Inflation is a regressive tax, a distortionary tax,\" said Musalem, who has advocated for further rate ‌increases. \"The best thing we can do for growth ‌and employment is bring inflation back down on a timely basis.\" ... The ‌release of the latest employment report, however, put a Fed rate hike back in focus. Markets were pricing about an 80 percent chance of a quarter-percentage-point policy rate increase at the Fed's December 8-9 meeting, up from about 67 percent Thursday. Traders now also see the next and final rate increase coming earlier, in April instead of June, as the central bank battles inflation that has been running above its 2 percent target for more than ​five years. \"This is a very strong labor market report on the heels of solid GDP and consumer spending data last week, reinforcing the economy's positive momentum,\" Olu Sonola, an analyst at Fitch Ratings, wrote after the report. Recent concern over AI poses a risk to that outlook, Sonola said, \"but for now the economy remains on firm footing. The labor market's resilience keeps the Fed focused on inflation and pushes the policy debate further toward a December rate hike.\""
+   },
+   {
+    "title": "Hassett Offers No Timeline for Expected Inflation Slowdown | EconoTimes",
+    "url": "https://econotimes.com/Hassett-Offers-No-Timeline-for-Expected-Inflation-Slowdown-1773158",
+    "source": "econotimes.com",
+    "published": "",
+    "excerpt": "White House National Economic Council Director Kevin Hassett said inflation should cool but gave no estimate or timetable, leaving the expected slowdown’s scale and timing unspecified. ... he would respect the judgment of Federal Reserve Chair Kevin Warsh"
+   },
+   {
+    "title": "US inflation, housing and jobs: 4 key economic updates to watch this week - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-inflation-housing-and-jobs-4-key-economic-updates-to-watch-this-week/articleshow/135655127.cms",
+    "source": "timesofindia.indiatimes.com",
+    "published": "",
+    "excerpt": "## US inflation: October CPI and PPI figures in focus The first major update will come on Tuesday, when the US releases its consumer price index (CPI) data for October. Economists expect inflation to rise to 3.9%, against 3.7% in September. The CPI tracks price movements across a broad range of goods and services. Inflation has remained above 3% since March, following the start of the US war with Iran in February. The conflict led to a sharp rise in energy prices, which pushed up petrol prices and shipping costs. Businesses will also get a fresh reading of their costs on Friday, when the October producer price index (PPI) is released. Unlike the CPI, the PPI measures price changes before goods and services reach consumers. The September PPI report had recorded its biggest increase since December 2022. It also showed how higher fuel costs, particularly for diesel, were feeding into shipping and warehousing expenses. However, crude prices fell sharply over the past week after the US midterm elections. Some believe Democrats, who routed President Donald Trump's GOP, will push to end the Iran conflict, which has sent energy prices soaring."
+   },
+   {
+    "title": "U.S. Companies' Inflation Concerns Reach Highest Level in Over Two Years | Aju Press",
+    "url": "https://www.ajupress.com/view/20261108150470614",
+    "source": "ajupress.com",
+    "published": "",
+    "excerpt": "U.S. companies' concerns about inflation have surged to their highest level in over two years. Rising oil prices, increased raw material costs, and logistics expenses are intensifying cost pressures on businesses, drawing attention to key U.S. inflation indicators set to be released this week. In last month's series of third-quarter earnings reports, inflation was a central topic. According to Bloomberg, companies in the S&P 500 mentioned the term 'inflation' 820 times during their October earnings conference calls, marking the highest monthly count since February 2024. In the first week of November, mentions of inflation by companies have already surpassed the total for November of last year, Bloomberg reported. By sector, industrial companies, which include machinery, equipment, construction, and transportation, had the highest number of inflation mentions at 213. Basic materials companies, including steel, chemicals, and metals, followed with 135 mentions. This reflects companies' concerns about rising production and operational costs due to raw material and energy prices, as well as logistics expenses. The impact of inflation is also spreading to consumer goods companies. U.S. automaker General Motors (GM) projected that rising raw material, logistics, and memory semiconductor prices will lead to approximately $2 billion in additional costs this year. Of this, about $400 million is attributed to inflation, with most of the impact expected in the fourth quarter. As companies face increasing cost burdens, there are concerns that price pressures at the production stage will transfer to consumer prices. If inflationary trends strengthen again, it could influence the Federal Reserve's monetary policy. According to the CME FedWatch on November 6, futures markets reflect a 76.33% probability that the Fed will raise interest rates by 0.25 percentage points at its December Federal Open Market Committee (FOMC) meeting, up from 66.9% the previous day. Inflation pressures are expected to be confirmed in key U.S. inflation indicators to be released this week. The Consumer Price Index (CPI) for October will be published on November 10, with expectations of a 0.3% increase from the previous month, a slowdown from September's 0.6% rise. However, due to a government shutdown in October 2025, the Bureau of Labor Statistics (BLS) was unable to collect price survey data, so year-over-year comparisons will not be available this time. On November 13, the Producer Price Index (PPI) for October will be released. Bloomberg anticipates that the October PPI will rise by 6.6% compared to the same month last year, exceeding the previous month's increase of 6.3%. If market forecasts hold true, this would represent the highest level in nearly four years. The PPI, also known as wholesale prices, reflects changes in the prices received by companies for producing and selling goods and services. Increases in production stage prices can affect companies' costs and selling prices, ultimately impacting consumer prices, making it a key indicator for gauging inflation trends."
+   },
+   {
+    "title": "Today's Key Economic Events: Fed Watch, Oil Prices, and CPI Preview (2026)",
+    "url": "https://pensengetten.com/article/today-s-key-economic-events-fed-watch-oil-prices-and-cpi-preview",
+    "source": "pensengetten.com",
+    "published": "",
+    "excerpt": "has raised concerns about the Federal Reserve's potential need to tighten monetary policy. The job gains exceeded estimates, ... to 4.29%. As a result, the market is now fully pricing in a rate hike by the end of the year, with a total tightening of"
+   },
+   {
+    "title": "US Inflation Report Canceled: Fed's Dilemma on Interest Rates (2026)",
+    "url": "https://generalas.com/article/us-inflation-report-canceled-fed-s-dilemma-on-interest-rates",
+    "source": "generalas.com",
+    "published": "",
+    "excerpt": "collect’ the necessary data. This absence of data comes at a critical ... has likened the central bank’s current challenge to ‘driving in the fog.’ Without clear visibility on inflation trends, the Fed’s ability to make informed decisions is"
+   },
+   {
+    "title": "US inflation rose slightly last month after 2 years of steady cooling but remained low",
+    "url": "https://www.wbrz.com/videos/us-inflation-rose-slightly-last-month-after-2-years-of-steady-cooling-but-remained-low/",
+    "source": "wbrz.com",
+    "published": "",
+    "excerpt": ". From September to October, prices edged up 0.2%, the same as the ... same as in September. From September to October, core prices rose 0.3% for a ... straight month. Over the long run, core inflation at that pace would exceed the Fed’s 2% target"
+   },
+   {
+    "title": "Inflation is turning on the 2026 rally - this week's CPI and PPI decide how fast the Fed tightens | AInvest",
+    "url": "https://www.ainvest.com/news/inflation-turning-2026-rally-week-cpi-ppi-decide-fast-fed-tightens-2611/",
+    "source": "ainvest.com",
+    "published": "",
+    "excerpt": "Bond markets priced in an 80% probability of a 25 ... basis-point hike, with Treasury yields rising as investors anticipate tighter monetary policy. ... While headline CPI is expected to cool from energy-driven spikes, core inflation ("
+   }
+  ],
+  "text": "[1] US inflation set to cool in October after two months of sharp increases | World News - Business Standard (business-standard.com)\n8 min read Last Updated : Nov 08 2026 | 1:03 PM IST By Vince Golle and Craig Stirling Prices for US goods and services probably rose at a slower pace in October after two particularly uncomfortable months for American consumers. The consumer price index is seen rising 0.3% after a 0.6% increase that was the largest since April, based on the median projection in a Bloomberg survey of economists ahead of Tuesday’s Bureau of Labor Statistics’ release. The core measure, which excludes often-volatile energy and food components, also probably cooled. The survey median sees a 0.2% increase for …\n\n[2] Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver (apnews.com)\nhe launched in February contributed to the consumer price index climbing to 3.7% annually. The president also tried to bully the Federal Reserve, an independent body tasked with keeping inflation low, to slash its benchmark interest rate in ways that\n\n[3] Fed policymakers consider rate hike after strong jobs report - The Korea Herald (koreaherald.com)\nPublished : Nov. 8, 2026 - 10:24:06 ... A stronger-than-expected US jobs report bolstered the case for further Federal Reserve interest rate hikes, which had lost some momentum ‌amid a post-election stock market selloff and growing fears that weaker AI-driven demand could undercut the economy. Employers added 165,000 jobs last month, more than twice what economists had expected, the Bureau of Labor Statistics said Friday, and the unemployment rate ticked down to 4.1 percent. Average hourly wages gained 3.1 percent from a year earlier, not enough to keep up with a 3.7 percent rise in consumer …\n\n[4] Hassett Offers No Timeline for Expected Inflation Slowdown | EconoTimes (econotimes.com)\nWhite House National Economic Council Director Kevin Hassett said inflation should cool but gave no estimate or timetable, leaving the expected slowdown’s scale and timing unspecified. ... he would respect the judgment of Federal Reserve Chair Kevin Warsh\n\n[5] US inflation, housing and jobs: 4 key economic updates to watch this week - The Times of India (timesofindia.indiatimes.com)\n## US inflation: October CPI and PPI figures in focus The first major update will come on Tuesday, when the US releases its consumer price index (CPI) data for October. Economists expect inflation to rise to 3.9%, against 3.7% in September. The CPI tracks price movements across a broad range of goods and services. Inflation has remained above 3% since March, following the start of the US war with Iran in February. The conflict led to a sharp rise in energy prices, which pushed up petrol prices and shipping costs. Businesses will also get a fresh reading of their costs on Friday, when the …\n\n[6] U.S. Companies' Inflation Concerns Reach Highest Level in Over Two Years | Aju Press (ajupress.com)\nU.S. companies' concerns about inflation have surged to their highest level in over two years. Rising oil prices, increased raw material costs, and logistics expenses are intensifying cost pressures on businesses, drawing attention to key U.S. inflation indicators set to be released this week. In last month's series of third-quarter earnings reports, inflation was a central topic. According to Bloomberg, companies in the S&P 500 mentioned the term 'inflation' 820 times during their October earnings conference calls, marking the highest monthly count since February 2024. In the first week of …\n\n[7] Today's Key Economic Events: Fed Watch, Oil Prices, and CPI Preview (2026) (pensengetten.com)\nhas raised concerns about the Federal Reserve's potential need to tighten monetary policy. The job gains exceeded estimates, ... to 4.29%. As a result, the market is now fully pricing in a rate hike by the end of the year, with a total tightening of\n\n[8] US Inflation Report Canceled: Fed's Dilemma on Interest Rates (2026) (generalas.com)\ncollect’ the necessary data. This absence of data comes at a critical ... has likened the central bank’s current challenge to ‘driving in the fog.’ Without clear visibility on inflation trends, the Fed’s ability to make informed decisions is\n\n[9] US inflation rose slightly last month after 2 years of steady cooling but remained low (wbrz.com)\n. From September to October, prices edged up 0.2%, the same as the ... same as in September. From September to October, core prices rose 0.3% for a ... straight month. Over the long run, core inflation at that pace would exceed the Fed’s 2% target\n\n[10] Inflation is turning on the 2026 rally - this week's CPI and PPI decide how fast the Fed tightens | AInvest (ainvest.com)\nBond markets priced in an 80% probability of a 25 ... basis-point hike, with Treasury yields rising as investors anticipate tighter monetary policy. ... While headline CPI is expected to cool from energy-driven spikes, core inflation (",
+  "hash": "4cd4cec6c0a387dc230683ed6e2e20bea8b3e27661858e696bb793a8a9b61031",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 8, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-08T13:07:07+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
+    "url": "https://apnews.com/article/trump-economy-midterm-elections-democrats-ab332d745571d36c5512e7e3beab6d59",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — Voters have sent a strong election-year message to the new Democratic congressional majority and President Donald Trump: Repair the damage inflation has done to the economy. Trump, who campaigned on the idea that a Democratic victory in the midterms would trigger a 1929-style economic depression, has maintained that the economy is booming. Since his party lost in Tuesday's voting, he has claimed he is willing to work with Democrats in the House and Senate, though that's not something he has done much of in the past."
+   },
+   {
+    "title": "Justice Department braces for congressional scrutiny after Democrats sweep elections",
+    "url": "https://www.washingtonpost.com/national-security/2026/11/08/after-midterms-justice-dept-braces-barrage-congressional-scrutiny/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "During the first two years of President Donald Trump’s second term, the Justice Department has been on the front lines of some of his most contentious actions, pursuing his perceived foes and agenda with relish and little pushback or oversight from Congressional leaders. The next two years will likely be dramatically different. As Democrats prepare to take control of the House and Senate following sweeping victories in the midterm elections, the Justice Department is bracing for a barrage of subpoenas and investigative inquiries as lawmakers say they will aggressively scrutinize the agency in a way Republicans did not while in"
+   },
+   {
+    "title": "Post midterms, what will Democrats do in congress and how do Republicans respond? : The Sunday Story : NPR",
+    "url": "https://www.npr.org/2026/11/08/nx-s1-6033470/where-will-america-go-from-here",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "will America go from here? November 8, 2026 3:00 AM ET ... What drove the Democratic blue wave at the polls and what happens now? This week on The Sunday Story, we dive into the lessons from the midterms and talk about where the country goes from here."
+   },
+   {
+    "title": "Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power | Democrats | The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "Sun 8 Nov 2026 07.00 EST Last modified on Sun 8 Nov 2026 07.02 EST “C osts, chaos, corruption”: after almost two years spent relentlessly criticizing Donald Trump for failing to address those three, broad political concerns, Democrats won a monumental return to power in Tuesday’s midterm elections that will give them potent new leverage over the president. Now the question becomes: what will they do with it? While party leaders say their exact strategy remains under discussion, all signs point to Democrats embarking on aggressive campaigns of both investigating and lawmaking, with the aim of giving their eventual nominee the ammunition they will need to win the 2028 presidential election. “We are going to make sure that those candidates running for president of the United States aren’t getting asked about plastic-straw bans. Instead, we should be talking about all of the legislation that we pass out of the House, pass out of the Senate, and force to Donald Trump’s desk,” Greg"
+   },
+   {
+    "title": "Potential Vance challengers smell blood in the water after brutal GOP losses",
+    "url": "https://www.washingtonpost.com/politics/2026/11/08/potential-vance-challengers-smell-blood-water-after-brutal-gop-losses/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "Ambitious Republicans were already sizing up JD Vance ahead of the 2028 presidential primary. Tuesday night’s GOP bludgeoning has only emboldened some of them. Florida Gov. Ron DeSantis embarked on a media blitz in recent days as he prepares a potential run, according to three people briefed on his plans. Georgia Gov. Brian Kemp is weighing a bid, said a person with knowledge of his plans. And Sen. Ted Cruz of Texas is planning to work with longtime consultant Jeff Roe of Axiom Strategies if he enters the race, said two people with knowledge of his thinking. The people, like"
+   },
+   {
+    "title": "Site Map - November 8, 2026 - The Washington Post",
+    "url": "https://www.washingtonpost.com/sitemap/2026/11/8/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "- Trump says he offered White House press secretary role to UFC’s Dana White - D.C. United caps another lackluster season as playoff drought nears MLS record - Stephen Miller’s promotion sets the stage for a new era of confrontation"
+   },
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/08",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "to form Israeli government Yashar party leader Gadi Eisenkot addresses supporters at an election-night rally in Tel Aviv. ... illustration of a closeup image of Stephen Miller, with an abstract pattern made from the White House's columns behind him."
+   },
+   {
+    "title": "Morning Briefing: Nov. 8, 2026",
+    "url": "https://aa.com.tr/en/world/morning-briefing-nov-8-2026/4115649",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "The US military’s Central Command (CENTCOM) announced the establishment of a new task force aimed ... Iran’s use of land routes to transport advanced weapons and ... In a statement on US social media platform X, CENTCOM said Adm. Brad Cooper, the command’"
+   },
+   {
+    "title": "Reuters US Domestic News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4003430-reuters-us-domestic-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Mississippi US Senate candidates battle over ballots as winner remains unclear US Senate candidates in Mississippi are battling over the treatment of ballots still being counted in the race, one of two remaining Senate contests yet to be called after Tuesday's midterm elections. The outcome in Mississippi and in Alaska, where the Senate race is also not yet called, will determine whether the Democratic Party extends its sweeping election victory in which it seized at least 54 of the Senate's 100 seats, and also took control of the US House of Representatives."
+   },
+   {
+    "title": "Xinhua world news summary at 0030 GMT, Nov. 8-Xinhua",
+    "url": "https://english.news.cn/20261108/5e72b6c3d9be42faa86443b3792082b5/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "Eisenkot with forming the next government, following consultations with political parties. Herzog has invited Eisenkot to the president's residence on Sunday at 5 p.m. ... ) to formally receive the mandate, according to a statement from the Office of"
+   }
+  ],
+  "text": "[1] Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver (apnews.com)\nWASHINGTON (AP) — Voters have sent a strong election-year message to the new Democratic congressional majority and President Donald Trump: Repair the damage inflation has done to the economy. Trump, who campaigned on the idea that a Democratic victory in the midterms would trigger a 1929-style economic depression, has maintained that the economy is booming. Since his party lost in Tuesday's voting, he has claimed he is willing to work with Democrats in the House and Senate, though that's not something he has done much of in the past.\n\n[2] Justice Department braces for congressional scrutiny after Democrats sweep elections (washingtonpost.com)\nDuring the first two years of President Donald Trump’s second term, the Justice Department has been on the front lines of some of his most contentious actions, pursuing his perceived foes and agenda with relish and little pushback or oversight from Congressional leaders. The next two years will likely be dramatically different. As Democrats prepare to take control of the House and Senate following sweeping victories in the midterm elections, the Justice Department is bracing for a barrage of subpoenas and investigative inquiries as lawmakers say they will aggressively scrutinize the agency in …\n\n[3] Post midterms, what will Democrats do in congress and how do Republicans respond? : The Sunday Story : NPR (npr.org)\nwill America go from here? November 8, 2026 3:00 AM ET ... What drove the Democratic blue wave at the polls and what happens now? This week on The Sunday Story, we dive into the lessons from the midterms and talk about where the country goes from here.\n\n[4] Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power | Democrats | The Guardian (theguardian.com)\nSun 8 Nov 2026 07.00 EST Last modified on Sun 8 Nov 2026 07.02 EST “C osts, chaos, corruption”: after almost two years spent relentlessly criticizing Donald Trump for failing to address those three, broad political concerns, Democrats won a monumental return to power in Tuesday’s midterm elections that will give them potent new leverage over the president. Now the question becomes: what will they do with it? While party leaders say their exact strategy remains under discussion, all signs point to Democrats embarking on aggressive campaigns of both investigating and lawmaking, with the aim of …\n\n[5] Potential Vance challengers smell blood in the water after brutal GOP losses (washingtonpost.com)\nAmbitious Republicans were already sizing up JD Vance ahead of the 2028 presidential primary. Tuesday night’s GOP bludgeoning has only emboldened some of them. Florida Gov. Ron DeSantis embarked on a media blitz in recent days as he prepares a potential run, according to three people briefed on his plans. Georgia Gov. Brian Kemp is weighing a bid, said a person with knowledge of his plans. And Sen. Ted Cruz of Texas is planning to work with longtime consultant Jeff Roe of Axiom Strategies if he enters the race, said two people with knowledge of his thinking. The people, like\n\n[6] Site Map - November 8, 2026 - The Washington Post (washingtonpost.com)\n- Trump says he offered White House press secretary role to UFC’s Dana White - D.C. United caps another lackluster season as playoff drought nears MLS record - Stephen Miller’s promotion sets the stage for a new era of confrontation\n\n[7] Axios (axios.com)\nto form Israeli government Yashar party leader Gadi Eisenkot addresses supporters at an election-night rally in Tel Aviv. ... illustration of a closeup image of Stephen Miller, with an abstract pattern made from the White House's columns behind him.\n\n[8] Morning Briefing: Nov. 8, 2026 (aa.com.tr)\nThe US military’s Central Command (CENTCOM) announced the establishment of a new task force aimed ... Iran’s use of land routes to transport advanced weapons and ... In a statement on US social media platform X, CENTCOM said Adm. Brad Cooper, the command’\n\n[9] Reuters US Domestic News Summary | International (devdiscourse.com)\nMississippi US Senate candidates battle over ballots as winner remains unclear US Senate candidates in Mississippi are battling over the treatment of ballots still being counted in the race, one of two remaining Senate contests yet to be called after Tuesday's midterm elections. The outcome in Mississippi and in Alaska, where the Senate race is also not yet called, will determine whether the Democratic Party extends its sweeping election victory in which it seized at least 54 of the Senate's 100 seats, and also took control of the US House of Representatives.\n\n[10] Xinhua world news summary at 0030 GMT, Nov. 8-Xinhua (english.news.cn)\nEisenkot with forming the next government, following consultations with political parties. Herzog has invited Eisenkot to the president's residence on Sunday at 5 p.m. ... ) to formally receive the mandate, according to a statement from the Office of",
+  "hash": "ad3ad6e377f66a45faefd9034e3ad6305d4db483b94b2e0d39244be0ddbe6105",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 8, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-08T13:07:20+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Hollywood Red Carpet Roundup: Whalefall, Clayface, & This Week's Biggest Premieres (2026)",
+    "url": "https://honsound.com/article/hollywood-red-carpet-roundup-whalefall-clayface-this-week-s-biggest-premieres",
+    "source": "honsound.com",
+    "published": "",
+    "excerpt": "Austin Abrams and Josh Brolin attended the Whalefall premiere in Los Angeles alongside 20th Century ... president Steve Asbell, The Walt Disney Company president and Chief Creative Officer Dana Walden, Disney Entertainment and Studios chairman Alan"
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4003457-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": ", an outspoken critic of Israel's war in Gaza, said on Friday that major US concert venues including ... refused to book ⁠his Free Palestine tour that just concluded three dates in Europe. The \"Thrift Shop\" performer launched the effort ⁠after he was"
+   },
+   {
+    "title": "Africa Entertainment News Archive: November 8, 2026 | AfricaFrontPage",
+    "url": "https://www.africafrontpage.com/archive/2026-11-08/entertainment",
+    "source": "africafrontpage.com",
+    "published": "",
+    "excerpt": "# Africa Entertainment News Archive: November 8, 2026 128 headlines from Africa Entertainment on November 8, 2026, each linking to the original publisher. Times are GMT. Africa Entertainment News Archive »"
+   },
+   {
+    "title": "What To Watch On TV And Streaming Sunday, November 8, 2026",
+    "url": "https://www.tvline.com/2306909/what-to-watch-november-8-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "By Nick Caruso Nov. 8, 2026 3:00 am EST Elizabeth Fisher/CBS Every day, TVLine's What to Watch column spotlights new and returning English-language shows (and select movies) premiering or airing fresh episodes across broadcast, cable and streaming — organized below by release time and alphabetically within each slot. On TV this Sunday: \"Cupertino\" airs on a special night, Nick and Vanessa Lachey host the \"Love Is Blind\" reunion, and \"The Institute\" returns for Season 2. ## Showtimes for November 8, 2026 3:00 AM ET ### Love Is Blind Netflix After all the \"I dos\" and \"I don'ts,\" the pod squad comes back together to tell all at the Season 11 reunion, hosted by Nick and Vanessa Lachey. 8:00 PM ET ### A Season of Promises Hallmark Channel MOVIE PREMIERE Estranged sisters (Brooke D'Orsay and Ali Liebert) set aside their differences to play Cupid for their widowed father (James Denton) at Christmas. ### An Ozark Mountain Christmas Great American Family MOVIE PREMIERE When a young designer reluctantly returns home to the Ozarks for Christmas, reconnecting with her family's legacy and a caring local man helps her rediscover the faith, purpose, and sense of home she left behind; Brianna Cohen and Jonathan Stoddard star. ### Animal Control Fox SPECIAL TIME Emily and Shred host their first party as a couple. ### Cupertino CBS SPECIAL NIGHT & TIME When Christy’s roommate is denied a transplant due to an AI algorithm swapping the order of the list to put a wealthy man above her, Michael and Olivia race to get a judge on board to stop the surgery. ### Professor T When Jasper's former mentor is murdered, a suspect is arrested but the truth hides darker secrets; Jasper risks everything to expose the killer. ### The Real Housewives of Potomac Bravo Ashley takes the ladies back to the Delaware shore a decade later, where they immediately make waves; Wendy shocks the ladies with a revelation about Stacey, and Monique confronts Karen about her lack of support during her divorce. ### The Road Back to Us Lifetime MOVIE PREMIERE A newly divorced couple (Mary Antonini and Shane Marriott) must drive cross-country together to deliver their daughter's belongings to college, retracing the milestones of their marriage along the way. ### Tournament of Champions: All-Star Christmas Food Network Season 2 premiere: Thirty-two superstar chefs create sweet and savory delights in hopes of sleighing the competition and winning $100,000 for charity. 8:30 PM ET ### The Simpsons Bart and Lisa break into Krustyland’s most notorious failed attraction only to discover that it hasn’t been completely abandoned. 9:00 PM ET ### The Gilded Age Bertha returns to a frosty household, Peggy’s career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview. ### The Institute Season 2 premiere: After their escape, Luke and friends plot to end the Institute for good; the Director enlists a new ally; Sigsby seeks a way back in. ### Maigret Maigret and his team close in on Olga Borysenko's murderer; however, the investigation lands Maigret in more danger. ### Universal Basic Guys"
+   },
+   {
+    "title": "Venice News Today — November 8, 2026 — VeniceNews.com",
+    "url": "https://venicenews.com/news/daily-signal-20261108",
+    "source": "venicenews.com",
+    "published": "",
+    "excerpt": "The world of entertainment is abuzz with news today, as stars and creators continue to push boundaries and make headlines. In the world of comedy, SNL is making waves with its latest sketches, including a spot-on impersonation of embattled entrepreneur"
+   },
+   {
+    "title": "Breaking News | TheFutonCritic.com - The Web's Best Television Resource",
+    "url": "http://www.thefutoncritic.com/news/2026/11/08/",
+    "source": "thefutoncritic.com",
+    "published": "",
+    "excerpt": "The Label,\" the New Series Starring Christian De Sica and Claudio Santamaria Coming Soon to Netflix The cast ... #2 - Netflix Brad Pitt stars as the sometime stuntman ... Netflix Announces \"Stiffs,\" a New Series Directed by Jan Holoubek and Kasper Bajon"
+   },
+   {
+    "title": "Culture on Sunday: Best Events on Nov. 8",
+    "url": "https://www.mreast.eu/2026/11/culture-on-sunday-best-events-on-nov-8/",
+    "source": "mreast.eu",
+    "published": "",
+    "excerpt": "## Tallinn, Estonia: A film festival and a pop legend ... Tallinn Black Nights Film Festival (PÖFF) TOP PICK | The festival’s 30th edition runs from Nov. 6 to 22 with screenings in cinemas across Tallinn. It is the first edition under artistic director Triin Tramberg, and the program has films from 87 countries. 📍 Cinemas across Tallinn 🕒 Times vary 🎫 Ticketed 🔗 Tallinn Black Nights Film Festival Thomas Anders from Modern Talking READER’S TIP | The Modern Talking singer plays a Sunday evening concert at Tallinn’s Alexela Concert Hall. 📍 Alexela Kontserdimaja, Tallinn 🕒 7 p.m. to 9 p.m. 🎫 Ticketed 🔗 Thomas Anders in Tallinn"
+   },
+   {
+    "title": "The R&B Tour - Starring Usher Raymond & Chris Brown, November 8, 2026 | Event at Mercedes-Benz Stadium",
+    "url": "https://www.mercedesbenzstadium.com/events/the-r-b-tour---starring-usher-raymond-chris-brown-night-2",
+    "source": "mercedesbenzstadium.com",
+    "published": "",
+    "excerpt": "November 8, 2026 ## The R&B Tour - Starring Usher Raymond & Chris Brown GRAMMY Award-winning icons Chris Brown and USHER officially announce dates for The R&B Tour, a 2026 co-headlining stadium run across North America including a stop at Atlanta’s Mercedes Benz Stadium for TWO SHOWS on November 7 and 8."
+   },
+   {
+    "title": "2026年11月8日の映画ニュース - 映画.com",
+    "url": "https://eiga.com/news/20261108/",
+    "source": "eiga.com",
+    "published": "",
+    "excerpt": "## 河瀨直美監督、樹木希林さんは今も「ここにいる」 「あん」上映で泉佐野市への思い語る 2026年11月8日 21:00 ## 倍賞千恵子、21歳で山田洋次監督の現場で涙した過去を告白【泉佐野フィルムフェス】 2026年11月8日 20:50 ... 「すごく不思議」 岡田将生は“寅子愛”を再確認「やっぱり好き」【劇場版「虎に翼」完成披露試写会】 2026年11月8日 20:40 ... 2026年11月8日 17"
+   },
+   {
+    "title": "2026年11月8日の映画ニュース - 映画.com",
+    "url": "https://cinema.eiga.com/news/20261108/",
+    "source": "cinema.eiga.com",
+    "published": "",
+    "excerpt": "## 河瀨直美監督、樹木希林さんは今も「ここにいる」 「あん」上映で泉佐野市への思い語る 2026年11月8日 21:00 ## 倍賞千恵子、21歳で山田洋次監督の現場で涙した過去を告白【泉佐野フィルムフェス】 2026年11月8日 20:50 ... 「すごく不思議」 岡田将生は“寅子愛”を再確認「やっぱり好き」【劇場版「虎に翼」完成披露試写会】 2026年11月8日 20:40 ... 2026年11月8日 17"
+   }
+  ],
+  "text": "[1] Hollywood Red Carpet Roundup: Whalefall, Clayface, & This Week's Biggest Premieres (2026) (honsound.com)\nAustin Abrams and Josh Brolin attended the Whalefall premiere in Los Angeles alongside 20th Century ... president Steve Asbell, The Walt Disney Company president and Chief Creative Officer Dana Walden, Disney Entertainment and Studios chairman Alan\n\n[2] Reuters Entertainment News Summary | International (devdiscourse.com)\n, an outspoken critic of Israel's war in Gaza, said on Friday that major US concert venues including ... refused to book ⁠his Free Palestine tour that just concluded three dates in Europe. The \"Thrift Shop\" performer launched the effort ⁠after he was\n\n[3] Africa Entertainment News Archive: November 8, 2026 | AfricaFrontPage (africafrontpage.com)\n# Africa Entertainment News Archive: November 8, 2026 128 headlines from Africa Entertainment on November 8, 2026, each linking to the original publisher. Times are GMT. Africa Entertainment News Archive »\n\n[4] What To Watch On TV And Streaming Sunday, November 8, 2026 (tvline.com)\nBy Nick Caruso Nov. 8, 2026 3:00 am EST Elizabeth Fisher/CBS Every day, TVLine's What to Watch column spotlights new and returning English-language shows (and select movies) premiering or airing fresh episodes across broadcast, cable and streaming — organized below by release time and alphabetically within each slot. On TV this Sunday: \"Cupertino\" airs on a special night, Nick and Vanessa Lachey host the \"Love Is Blind\" reunion, and \"The Institute\" returns for Season 2. ## Showtimes for November 8, 2026 3:00 AM ET ### Love Is Blind Netflix After all the \"I dos\" and \"I don'ts,\" the pod squad …\n\n[5] Venice News Today — November 8, 2026 — VeniceNews.com (venicenews.com)\nThe world of entertainment is abuzz with news today, as stars and creators continue to push boundaries and make headlines. In the world of comedy, SNL is making waves with its latest sketches, including a spot-on impersonation of embattled entrepreneur\n\n[6] Breaking News | TheFutonCritic.com - The Web's Best Television Resource (thefutoncritic.com)\nThe Label,\" the New Series Starring Christian De Sica and Claudio Santamaria Coming Soon to Netflix The cast ... #2 - Netflix Brad Pitt stars as the sometime stuntman ... Netflix Announces \"Stiffs,\" a New Series Directed by Jan Holoubek and Kasper Bajon\n\n[7] Culture on Sunday: Best Events on Nov. 8 (mreast.eu)\n## Tallinn, Estonia: A film festival and a pop legend ... Tallinn Black Nights Film Festival (PÖFF) TOP PICK | The festival’s 30th edition runs from Nov. 6 to 22 with screenings in cinemas across Tallinn. It is the first edition under artistic director Triin Tramberg, and the program has films from 87 countries. 📍 Cinemas across Tallinn 🕒 Times vary 🎫 Ticketed 🔗 Tallinn Black Nights Film Festival Thomas Anders from Modern Talking READER’S TIP | The Modern Talking singer plays a Sunday evening concert at Tallinn’s Alexela Concert Hall. 📍 Alexela Kontserdimaja, Tallinn 🕒 7 p.m. to 9 p.m. 🎫 …\n\n[8] The R&B Tour - Starring Usher Raymond & Chris Brown, November 8, 2026 | Event at Mercedes-Benz Stadium (mercedesbenzstadium.com)\nNovember 8, 2026 ## The R&B Tour - Starring Usher Raymond & Chris Brown GRAMMY Award-winning icons Chris Brown and USHER officially announce dates for The R&B Tour, a 2026 co-headlining stadium run across North America including a stop at Atlanta’s Mercedes Benz Stadium for TWO SHOWS on November 7 and 8.\n\n[9] 2026年11月8日の映画ニュース - 映画.com (eiga.com)\n## 河瀨直美監督、樹木希林さんは今も「ここにいる」 「あん」上映で泉佐野市への思い語る 2026年11月8日 21:00 ## 倍賞千恵子、21歳で山田洋次監督の現場で涙した過去を告白【泉佐野フィルムフェス】 2026年11月8日 20:50 ... 「すごく不思議」 岡田将生は“寅子愛”を再確認「やっぱり好き」【劇場版「虎に翼」完成披露試写会】 2026年11月8日 20:40 ... 2026年11月8日 17\n\n[10] 2026年11月8日の映画ニュース - 映画.com (cinema.eiga.com)\n## 河瀨直美監督、樹木希林さんは今も「ここにいる」 「あん」上映で泉佐野市への思い語る 2026年11月8日 21:00 ## 倍賞千恵子、21歳で山田洋次監督の現場で涙した過去を告白【泉佐野フィルムフェス】 2026年11月8日 20:50 ... 「すごく不思議」 岡田将生は“寅子愛”を再確認「やっぱり好き」【劇場版「虎に翼」完成披露試写会】 2026年11月8日 20:40 ... 2026年11月8日 17",
+  "hash": "60196fd4ce0f8ef0c0b32f268e7c8e2e2ba7e9559ebbde2f3605b6354ec11b2a",
+  "notes": []
+ }
+}
