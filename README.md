@@ -3,15 +3,17 @@
 ## Run calendar
 
 <!-- CALENDAR:START -->
-**Next scheduled wave:** **Sat Nov 7, 20:00 New York** (EST) = **Sun Nov 8, 04:30 Tehran**  
-**Completed waves:** 113 · calendar updated Nov 7, 16:41 New York / 01:11 Tehran (it refreshes after every wave)
+**Running or due now:** **Sun Nov 8, 00:00 New York** (EST) = **Sun Nov 8, 08:30 Tehran**  
+**Next scheduled wave:** **Sun Nov 8, 04:00 New York** (EST) = **Sun Nov 8, 12:30 Tehran**  
+**Completed waves:** 114 · calendar updated Nov 8, 00:05 New York / 08:35 Tehran (it refreshes after every wave)
 
 Times in the cells are **Tehran time** for each New York slot. 🟢 completed · 🔴 missed · 🟡 due now · ⏳ next · ⚪ scheduled
 
 | New York date | 00:00 ET | 04:00 ET | 08:00 ET | 12:00 ET | 16:00 ET | 20:00 ET |
 |---|---|---|---|---|---|---|
-| Sun Nov 8 | ⚪ 08:30 | ⚪ 12:30 | ⚪ 16:30 | ⚪ 20:30 | ⚪ 00:30 (+1d) | ⚪ 04:30 (+1d) |
-| Sat Nov 7 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | ⏳ 04:30 (+1d) |
+| Mon Nov 9 | ⚪ 08:30 | ⚪ 12:30 | ⚪ 16:30 | ⚪ 20:30 | ⚪ 00:30 (+1d) | ⚪ 04:30 (+1d) |
+| Sun Nov 8 | 🟡 08:30 | ⏳ 12:30 | ⚪ 16:30 | ⚪ 20:30 | ⚪ 00:30 (+1d) | ⚪ 04:30 (+1d) |
+| Sat Nov 7 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
 | Fri Nov 6 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
 | Thu Nov 5 | 🟢 08:30 | 🟢 12:30 | 🔴 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🔴 04:30 (+1d) |
 | Wed Nov 4 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
@@ -23,7 +25,6 @@ Times in the cells are **Tehran time** for each New York slot. 🟢 completed ·
 | Thu Oct 29 | 🟢 07:30 | 🟢 11:30 | 🟢 15:30 | 🟢 19:30 | 🟢 23:30 | 🟢 03:30 (+1d) |
 | Wed Oct 28 | 🟢 07:30 | 🔴 11:30 | 🟢 15:30 | 🟢 19:30 | 🟢 23:30 | 🟢 03:30 (+1d) |
 | Tue Oct 27 | 🟢 07:30 | 🔴 11:30 | 🟢 15:30 | 🟢 19:30 | 🟢 23:30 | 🟢 03:30 (+1d) |
-| Mon Oct 26 | 🟢 07:30 | 🟢 11:30 | 🟢 15:30 | 🟢 19:30 | 🟢 23:30 | 🟢 03:30 (+1d) |
 
 Older days: see [`data/waves_index.csv`](data/waves_index.csv).
 <!-- CALENDAR:END -->
@@ -36,8 +37,8 @@ were shown, every prompt, every raw reply, and the parsed answers.
 **Live website:** https://alizarif.github.io/hf-ai-inflation-expectations/ (all waves over time, each wave in detail, and the method; rebuilt after every wave)
 
 <!-- STATUS:START -->
-**Latest wave:** `2026-11-07T16ET` · 420 trials · 419 fully valid · 33 had a probability list rescaled to 100 · cost $0.457  
-**Waves so far:** 113 · **rows in panel:** 47460 · **total cost:** $48.23
+**Latest wave:** `2026-11-07T20ET` · 420 trials · 420 fully valid · 32 had a probability list rescaled to 100 · cost $0.444  
+**Waves so far:** 114 · **rows in panel:** 47880 · **total cost:** $48.67
 <!-- STATUS:END -->
 
 ## Design
