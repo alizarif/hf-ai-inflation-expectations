@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-09T13:06:42+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 9, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-09T13:06:42+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Morning Edition for November 9, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5961637/morning-edition-for-november-9-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Trump appoints Stephen Miller as his new chief of staff by Leila Fadel #### Trump appoints Stephen Miller as his new chief of staff This year's U.N. climate conference, known as COP31, takes ... ### U.N. climate talks begin today. Here are 3 things"
+   },
+   {
+    "title": "top news of the day november 9 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/top-news-of-the-day-november-9-2026/article71682319.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "#### U.S., China, Russia leaders to meet next week, says Trump; Beijing says ‘in communication with parties’ United States President Donald Trump has said he will likely meet Chinese President Xi Jinping and Russian President Vladimir Putin in a rare trilateral leaders’ meeting on the sidelines of the APEC gathering in Shenzhen next week. Beijing said on Monday (November 9, 2026) it was “in communication with relevant parties” over the meeting, not ruling out the possibility as leaders gather for the APEC summit in southern China on November 18 and 19. #### AQI slips to ‘severe’ in Delhi; Mumbai, Chennai wake up to smog morning after Deepavali Delhi Air Quality Index slips near “severe” mark as a thick layer of toxic haze engulfed India’s National capital on Monday (November 9, 2026). Despite stringent restrictions on fireworks imposed by the Supreme Court, people defied the deadline way past 10 p.m. on Deepavali night. ... #### Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence Nvidia is opening an investigation into reports that CEO Jensen Huang was the “target of a foreign intelligence effort,” the company’s board of directors said Sunday (November 8, 2026). The announcement came after Mr. Huang acknowledged to the board that he had been intimate with a business executive whom U.S. intelligence determined was gathering information for Beijing, The New York Times reported. #### COP31 opens as climate and geopolitical pressures mount The UN’s annual climate talks kick off Monday (November 9, 2026) in Turkiye as rising temperatures heighten the urgency of action, with financial constraints and geopolitical tensions complicating efforts to secure global cooperation. More than 100,000 people are expected to attend COP31 in a sprawling expo centre in the Mediterranean seaside city of Antalya over the next two weeks."
+   },
+   {
+    "title": "Morning Briefing: Nov. 9",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-9/4116449",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "Here’s a rundown of all the news you need to start your Monday, including US President Donald Trump saying he was not seeking further escalation with Iran following midterm elections, Israeli president tasking Eisenkot with forming new government, and COP31 climate summit opening in Türkiye's Antalya. US President Donald Trump said he was not seeking further escalation with Iran following the midterm elections. \"I'm not looking to. I don't think there's any reason to,\" he said in an interview with CBS News' 60 Minutes. He also repeated his claim that Israel would not exist without US military strikes against Iran's nuclear facilities. ... Israeli President Isaac Herzog on Sunday tasked Yashar party leader Gadi Eisenkot with forming a new government after parliamentary elections left his bloc and Prime Minister Benjamin Netanyahu’s alliance short of a majority. Eisenkot has 28 days to form a government under Israel’s Basic Law. Herzog can grant him up to 14 additional days if needed, according to the daily Yedioth Ahronoth. Herzog announced his decision to ask Eisenkot to form the next government on Saturday after consulting parliamentary factions. ​​​​​​​His office said factions representing 67 members of the 120-seat Knesset recommended Eisenkot, while factions representing 46 backed Netanyahu. A seven-member faction declined to recommend a candidate."
+   },
+   {
+    "title": "Video. Latest news bulletin | November 9th, 2026 – Morning | Euronews",
+    "url": "https://www.euronews.com/video/2026/11/09/latest-news-bulletin-november-9th-2026-morning",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "## US President Donald Trump plans to meet Putin and Xi in China next week ... ## Europe Today: Poland in shock after deadly Krakow attack, Ukraine peace talks in Abu Dhabi near ... ## At least seven dead, more than 100 injured as two trains collide south"
+   },
+   {
+    "title": "The 7 things to know for Monday, November 9 - The Washington Post",
+    "url": "https://www.washingtonpost.com/the-seven/2026/11/09/7-things-know-monday-november-9/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "up quickly: 2028 contenders; ‘60 Minutes’; stroke symptoms Today’s seven most important ... Vice President JD Vance and other potential 2028 candidates Florida Gov. Ron DeSantis, Georgia Gov. Brian Kemp and Sen. Ted Cruz of Texas. (Reuters; AP; The Post)"
+   },
+   {
+    "title": "AP Top Stories November 9 | AP News",
+    "url": "https://apnews.com/video/ap-top-stories-november-9-13c2efa662b544c19c9dcd5459a0c2a6",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Pope wraps up Uruguay visit and arrives in Milei’s Argentina for the most fraught stop of his tour Displaced in Gaza reeling after torrential rains flood their worn-out tents Collision between 2 trains in Egypt kills 7 and injures more than 100"
+   },
+   {
+    "title": "Morning news brief",
+    "url": "https://www.npr.org/2026/11/09/nx-s1-6027654/morning-news-brief",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "on Morning Edition By Steve Inskeep Leila Fadel President Trump shakes up his staff after midterm losses, Congress returns to Washington, Nvidia launches investigation into CEO's alleged relationship with Chinese spy."
+   },
+   {
+    "title": "Daily World Briefing, Nov. 9-Xinhua",
+    "url": "https://english.news.cn/20261109/e1d906afa36f4aa7b8e1eed37bad74d3/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "The death toll from Sunday's collision between two trains in Egypt's Giza governorate has risen to seven, with 112 others injured, Egypt's Ministry of Health and Population said. ... , while seven others were expected to be discharged soon. The remaining"
+   },
+   {
+    "title": "World news | World | The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/09/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "### EU sues IBM and two European firms over troubled entry/exit border system Lawsuit filed last year against IBM, Atos and Leonardo after delays to passengers blamed on the system, first reported in the FT EU sues IBM and two European"
+   },
+   {
+    "title": "World News in Brief: November 9",
+    "url": "https://en.nhandan.vn/world-news-in-brief-november-9-post168879.html",
+    "source": "en.nhandan.vn",
+    "published": "",
+    "excerpt": "Eisenkot with forming a government, giving the former military chief a chance to replace Prime Minister ... 's external debt has climbed to 113.44 billion USD ... , released recently at its headquarters, showing that the South Asian country's external"
+   }
+  ],
+  "text": "[1] Morning Edition for November 9, 2026 : NPR (npr.org)\n### Trump appoints Stephen Miller as his new chief of staff by Leila Fadel #### Trump appoints Stephen Miller as his new chief of staff This year's U.N. climate conference, known as COP31, takes ... ### U.N. climate talks begin today. Here are 3 things\n\n[2] top news of the day november 9 2026 - The Hindu (thehindu.com)\n#### U.S., China, Russia leaders to meet next week, says Trump; Beijing says ‘in communication with parties’ United States President Donald Trump has said he will likely meet Chinese President Xi Jinping and Russian President Vladimir Putin in a rare trilateral leaders’ meeting on the sidelines of the APEC gathering in Shenzhen next week. Beijing said on Monday (November 9, 2026) it was “in communication with relevant parties” over the meeting, not ruling out the possibility as leaders gather for the APEC summit in southern China on November 18 and 19. #### AQI slips to ‘severe’ in Delhi; …\n\n[3] Morning Briefing: Nov. 9 (aa.com.tr)\nHere’s a rundown of all the news you need to start your Monday, including US President Donald Trump saying he was not seeking further escalation with Iran following midterm elections, Israeli president tasking Eisenkot with forming new government, and COP31 climate summit opening in Türkiye's Antalya. US President Donald Trump said he was not seeking further escalation with Iran following the midterm elections. \"I'm not looking to. I don't think there's any reason to,\" he said in an interview with CBS News' 60 Minutes. He also repeated his claim that Israel would not exist without US military …\n\n[4] Video. Latest news bulletin | November 9th, 2026 – Morning | Euronews (euronews.com)\n## US President Donald Trump plans to meet Putin and Xi in China next week ... ## Europe Today: Poland in shock after deadly Krakow attack, Ukraine peace talks in Abu Dhabi near ... ## At least seven dead, more than 100 injured as two trains collide south\n\n[5] The 7 things to know for Monday, November 9 - The Washington Post (washingtonpost.com)\nup quickly: 2028 contenders; ‘60 Minutes’; stroke symptoms Today’s seven most important ... Vice President JD Vance and other potential 2028 candidates Florida Gov. Ron DeSantis, Georgia Gov. Brian Kemp and Sen. Ted Cruz of Texas. (Reuters; AP; The Post)\n\n[6] AP Top Stories November 9 | AP News (apnews.com)\nPope wraps up Uruguay visit and arrives in Milei’s Argentina for the most fraught stop of his tour Displaced in Gaza reeling after torrential rains flood their worn-out tents Collision between 2 trains in Egypt kills 7 and injures more than 100\n\n[7] Morning news brief (npr.org)\non Morning Edition By Steve Inskeep Leila Fadel President Trump shakes up his staff after midterm losses, Congress returns to Washington, Nvidia launches investigation into CEO's alleged relationship with Chinese spy.\n\n[8] Daily World Briefing, Nov. 9-Xinhua (english.news.cn)\nThe death toll from Sunday's collision between two trains in Egypt's Giza governorate has risen to seven, with 112 others injured, Egypt's Ministry of Health and Population said. ... , while seven others were expected to be discharged soon. The remaining\n\n[9] World news | World | The Guardian (theguardian.com)\n### EU sues IBM and two European firms over troubled entry/exit border system Lawsuit filed last year against IBM, Atos and Leonardo after delays to passengers blamed on the system, first reported in the FT EU sues IBM and two European\n\n[10] World News in Brief: November 9 (en.nhandan.vn)\nEisenkot with forming a government, giving the former military chief a chance to replace Prime Minister ... 's external debt has climbed to 113.44 billion USD ... , released recently at its headquarters, showing that the South Asian country's external",
+  "hash": "05637b3d279e79ac097d190886435edebd79d36eadfe4677941499456209ce56",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 9, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-09T13:06:59+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Inflation data could pile more pressure on stocks",
+    "url": "https://www.axios.com/2026/11/09/stocks-inflation-fed",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "After a wobbly post-election performance last week, investor focus will be back on inflation this week and its implications for the Federal Reserve. Why it matters: New price data could convince diehard believers in the \" Fed put,\" that the central bank will not, in fact, swoop to steady a stock market battered by the Blue Tsunami's implications for AI. What we're watching: Consumer Price Index data Tuesday — and producer prices on Friday. By the numbers: Wall Street analysts expect headline inflation to be up 3.9% over October 2025 levels. (Ex-food and energy would be up 2.7%.) - The headline PPI index due Friday is expected to be up 6.7% in October, compared with the prior year, showing price pressures continue to build. Between the lines: The risks to stocks are pretty one-sided. - If inflation numbers are higher than expected, that could mean a steeper, faster series of rate hikes that could add pressure to stocks. - But if inflation undershoots expectations, few think that will keep the central bank from lifting rates, as recent jobs data has shown the economy to be quite strong."
+   },
+   {
+    "title": "Treasury yields steady as investors await more economic data",
+    "url": "https://www.cnbc.com/2026/11/09/us-treasurys-bonds-yields.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Published Mon, Nov 9 2026 4:42 AM EST ... Bond yields held steady on Monday as investors awaited fresh economic data, after a strong employment print Friday. Yields on 10-year U.S. Treasurys Add To Watchlist — the main benchmark for mortgages, auto loans and credit card debt — were flat at 4.855%. The yield on 30-year U.S. Treasurys Add To Watchlist — which often moves on geopolitical developments — was unchanged at 5.257%. The yield on the 2-year Treasury Add To Watchlist note, which more closely follows short-term Federal Reserve rate decisions, was also unchanged at 4.52%. One basis point equals 0.01%, or 1/100th of 1%, and yields and prices move inversely to one another. Traders are looking ahead to key inflation data, expected on Tuesday, for more insights into the domestic economic landscape. Consensus forecasts are expected to show a rise in October's annual consumer price index to 3.9%, up from 3.7% in September, according to Trading Economics. October's core CPI, which strips out often-volatile food and energy costs, is also expected to print higher, at 2.8%, up from 2.6% in September. The latest U.S. product price index report, which often provides an early read on consumer inflation, is due later in the week. The data follows a stronger-than-expected U.S. employment picture last week, which sent Treasury yields higher during Friday's session. The monthly non-farm payrolls report showed an increase of 165,000 jobs in October, far outweighing the 59,000 expected by economists, while the unemployment rate dipped to 4.1%. Meanwhile, energy prices moved lower in early trade. West Texas Intermediate futures Add To Watchlist for December delivery slipped 1.2% to $89.70 per barrel, after President Donald Trump said fresh Iran attacks were \"highly unlikely\" as talks aimed at resolving the Middle East conflict continue."
+   },
+   {
+    "title": "October CPI follows a month when gasoline drove over half of the rise in US prices | FinanceInTime",
+    "url": "https://financeintime.com/news/2026/11/09/october-cpi-follows-a-month-when-gasoline-drove-over-half-of-the-rise-in-us",
+    "source": "financeintime.com",
+    "published": "",
+    "excerpt": "Published Nov 9, 2026, 01:11 UTC 5 min read ... ## Key points - The BLS publishes October consumer prices at 8:30 a.m. ET on Tuesday, November 10; producer prices follow on November 13. - Consumer prices rose 0.6% in September, and gasoline accounted for over half of the increase. - Annual inflation reached 3.7% in September from 3.4% in August; core prices rose 0.3% in both months. ... The US Bureau of Labor Statistics (BLS) will publish consumer prices for October at 8:30 a.m. ET on Tuesday, November 10, after a September report in which gasoline accounted for more than half of the monthly rise, according to the BLS release schedule and its September report. ## One component carried September's jump The consumer price index for all urban consumers (CPI-U) rose 0.6% in September on a seasonally adjusted basis, the BLS said. Over the 12 months through September the all-items index rose 3.7% before seasonal adjustment, a larger increase than the 3.4% reported for the 12 months through August. That is an acceleration of 0.3 percentage point (computed). The BLS attributed much of the monthly move to fuel. The energy index increased 5.2% over the month, following a 2.1% increase in August, and the gasoline index rose 9.1% in September, \"accounting for over half of the monthly all items increase.\" Over 12 months, the energy index was up in large part because gasoline rose 34.2%, the BLS said. FinanceInTime covered that release in a report on the gasoline-led rise. A rise that rests on one volatile component leaves a plain question for the next report: whether the component held its level, gave some of the increase back or kept climbing. ## Core prices were steadier than the headline The index for all items less food and energy, known as core, rose 0.3% in September, as it did in August. Core is the measure analysts use to look past swings in fuel and groceries. Two other parts of the basket were quieter than energy. The shelter index, which covers rent and the estimated rental value of owner-occupied homes, rose 0.4% in September after 0.3% in August, and was up 3.2% over the last year. The index for food was unchanged in September and was up 2.5% over the last year. Taken together, the September figures show a headline that moved on energy and a core index that moved at the same 0.3% pace in both months. The report does not say whether that pace will continue. ... The BLS measures the price of gasoline in its own index, which is seasonally adjusted, and the figures cannot be compared directly with the weekly retail prices the US Energy Information Administration (EIA) publishes. ... ## What the Fed and the jobs report have already said The Federal Reserve did not wait for the October CPI to set its position. On October 28 the Federal Open Market Committee \"decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent,\" and its statement said: \"Inflation remains elevated.\" The vote was 10-2, with Lisa D. Cook and Beth M. Hammack dissenting in favor of a 1/4 percentage point increase, according to the Fed's statement. FinanceInTime reported the decision in its coverage of the hold. The labor market gave a firm reading on November 6. Total nonfarm payroll employment rose by 165,000 in October and the unemployment rate changed little at 4.1%, the BLS employment report said. Average hourly earnings for all employees on private nonfarm payrolls increased by 14 cents, or 0.4%, to $38.00. August payrolls were revised up to 186,000 from 133,000 and September to 60,000 from 29,000, the BLS said. FinanceInTime's report on the jobs data has the sector detail. Neither release states a forecast for the CPI. They are inputs: a Fed with two members already voting for a higher rate, and a labor market that has not weakened in the latest report."
+   },
+   {
+    "title": "Dow Jones, Nasdaq, S&P 500 preview: Inflation data, earnings loom after AI rout By Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/dow-jones-nasdaq-sp-500-preview-inflation-data-earnings-loom-after-ai-rout-5011066",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "the most closely watched inflation gauge, is due Tuesday. Investors expect the ... Traders trimmed rate-hike bets modestly during Thursday’s selloff, but after a strong jobs report Friday ... fed funds futures implied about an 80% chance of a hike at the"
+   },
+   {
+    "title": "Gold gains as lower oil prices temper inflation fears; US inflation in focus | MarketScreener",
+    "url": "https://www.marketscreener.com/news/gold-gains-as-lower-oil-prices-temper-inflation-fears-us-inflation-in-focus-ce785fd3db8ef023",
+    "source": "marketscreener.com",
+    "published": "",
+    "excerpt": "Nov 9 (Reuters) - Gold prices rose on Monday as lower oil prices helped ease inflation concerns, while investors awaited US price data this week that could shape the Federal Reserve's rate outlook. ... ounce by 1125 GMT, while US gold futures for December"
+   },
+   {
+    "title": "Dow Jones futures gain as lower oil prices ease inflationary concerns",
+    "url": "https://www.fxstreet.com/news/dow-jones-futures-gain-as-lower-oil-prices-ease-inflationary-concerns-202611090911",
+    "source": "fxstreet.com",
+    "published": "",
+    "excerpt": "Donald Trump stated that further military action against Iran is \"highly unlikely,\" contingent on continued progress on ... s nuclear program and the Strait of Hormuz remaining open. Trump also acknowledged that the unpopular Middle East conflict had"
+   },
+   {
+    "title": "US CPI, Fed rhetoric and Iran talks in focus after Democratic midterm sweep",
+    "url": "https://www.moneycontrol.com/news/opinion/us-cpi-fed-rhetoric-and-iran-talks-in-focus-after-democratic-midterm-sweep-14075060.html",
+    "source": "moneycontrol.com",
+    "published": "",
+    "excerpt": "The dollar index initially fell to a one-month low of 101.09 as a divided government reduced expectations of fresh fiscal expansion. However, the currency reversed course after a stronger-than-expected October employment report, rising"
+   },
+   {
+    "title": "U.S. consumer prices seen rising 3.8% year-on-year in October - Truflation",
+    "url": "https://www.streetinsider.com/Economic+Data/U.S.+consumer+prices+seen+rising+3.8%25+year-on-year+in+October+-+Truflation/27311413.html",
+    "source": "streetinsider.com",
+    "published": "",
+    "excerpt": "November 9, 2026 7:48 AM EST Investing.com - U.S. consumer prices are estimated to have risen by 3.8% in the twelve months to October and 0.3% month-on-month, amid ongoing upward pressure from elevated energy costs caused by the Iran war, according to Truflation predictions. Stripping out volatile items like food and fuel, the so-called \"core\" gauge is seen standing at 2.8% year-on-year and 0.2% month-on-month, the alternative data provider said in a statement. \"Headline inflation is moderating, but upstream inflation pipeline remains active. Energy and tariffs are supporting renewed goods inflation. The key risk heading into 2027 is whether rising supply costs spread into persistent core inflation before consumer price sensitivity and moderating labor costs can offset them,\" Truflation said. The group added that it expects \"uneven inflation\" through the end of the year and early into 2027, with heightened goods prices due to tariffs and input expenses partially offset by stable services costs. Levies are seen pushing retail prices higher, although grocery prices are anticipated to fall because of retailer discounting and improving supplies. Energy is still the \"principal swing factor\" for overall price gains, Truflation flagged. For October, the group projected a 20.7% rise in energy prices versus a year earlier, with gasoline in particular climbing 37.7%. Month-on-month, gas price growth is tipped to moderate to 0.3%. ... Crucially, the outcome of the Labor Department's monthly consumer-price index on Tuesday could sway projections for Federal Reserve interest rate policy in December and 2027. Solid labor market data last Friday bolstered the case that Fed policymakers may believe they have the headroom to raise rates once again next month, after officials rolled out their first increase in three years in September. In theory, lifting borrowing costs can quell inflation, albeit at the risk of weighing on overall economic activity and the job market. According to CME FedWatch, traders are now pricing in a roughly 79% chance of a quarter-point rate rise in December. Investors are wondering whether that could be the last increase for a while, given the possibility that oil prices may slide should the U.S. and Iran reach a detente, analysts at Vital Knowledge said in a note. In September, headline consumer price growth was 3.7% year-on-year and 0.6% month-on-month, official government data showed. The \"core\" gauge was 2.6% year-on-year and 0.3% on a monthly basis. Truflation noted that a direct year-over-year comparison cannot be calculated because the October 2025 consumer-price index from the Bureau of Labor Statistics was not released due to a federal government shutdown at the time. As a result, Truflation said its prediction carries forward the September 2025 CPI level into October 2025, assuming no monthly change for the missing period."
+   },
+   {
+    "title": "U.S. Inflation Data in Focus After Strong Jobs Data — Market Talk — TradingView News",
+    "url": "https://www.tradingview.com/news/DJN_DN20261109001888:0-u-s-inflation-data-in-focus-after-strong-jobs-data-market-talk/",
+    "source": "tradingview.com",
+    "published": "",
+    "excerpt": "U.S. Inflation Data in Focus After Strong Jobs Data — Market Talk — TradingView News # U.S. Inflation Data in Focus After Strong Jobs Data — Market Talk"
+   },
+   {
+    "title": "Dollar Rebound Faces CPI Test as U.S. Inflation Data Near | EconoTimes",
+    "url": "https://econotimes.com/Dollar-Rebound-Faces-CPI-Test-as-U-S-Inflation-Data-Near-1773708",
+    "source": "econotimes.com",
+    "published": "",
+    "excerpt": "October’s Consumer Price Index (CPI) report on Tuesday, ... , at 8:30 a.m. ET. MUFG cited a consensus estimate for core CPI to rise 0.2% from the previous month. In September, headline CPI ... 0.6% for the month and 3.7% over 12 months; core CPI"
+   }
+  ],
+  "text": "[1] Inflation data could pile more pressure on stocks (axios.com)\nAfter a wobbly post-election performance last week, investor focus will be back on inflation this week and its implications for the Federal Reserve. Why it matters: New price data could convince diehard believers in the \" Fed put,\" that the central bank will not, in fact, swoop to steady a stock market battered by the Blue Tsunami's implications for AI. What we're watching: Consumer Price Index data Tuesday — and producer prices on Friday. By the numbers: Wall Street analysts expect headline inflation to be up 3.9% over October 2025 levels. (Ex-food and energy would be up 2.7%.) - The …\n\n[2] Treasury yields steady as investors await more economic data (cnbc.com)\nPublished Mon, Nov 9 2026 4:42 AM EST ... Bond yields held steady on Monday as investors awaited fresh economic data, after a strong employment print Friday. Yields on 10-year U.S. Treasurys Add To Watchlist — the main benchmark for mortgages, auto loans and credit card debt — were flat at 4.855%. The yield on 30-year U.S. Treasurys Add To Watchlist — which often moves on geopolitical developments — was unchanged at 5.257%. The yield on the 2-year Treasury Add To Watchlist note, which more closely follows short-term Federal Reserve rate decisions, was also unchanged at 4.52%. One basis point …\n\n[3] October CPI follows a month when gasoline drove over half of the rise in US prices | FinanceInTime (financeintime.com)\nPublished Nov 9, 2026, 01:11 UTC 5 min read ... ## Key points - The BLS publishes October consumer prices at 8:30 a.m. ET on Tuesday, November 10; producer prices follow on November 13. - Consumer prices rose 0.6% in September, and gasoline accounted for over half of the increase. - Annual inflation reached 3.7% in September from 3.4% in August; core prices rose 0.3% in both months. ... The US Bureau of Labor Statistics (BLS) will publish consumer prices for October at 8:30 a.m. ET on Tuesday, November 10, after a September report in which gasoline accounted for more than half of the monthly …\n\n[4] Dow Jones, Nasdaq, S&P 500 preview: Inflation data, earnings loom after AI rout By Investing.com (investing.com)\nthe most closely watched inflation gauge, is due Tuesday. Investors expect the ... Traders trimmed rate-hike bets modestly during Thursday’s selloff, but after a strong jobs report Friday ... fed funds futures implied about an 80% chance of a hike at the\n\n[5] Gold gains as lower oil prices temper inflation fears; US inflation in focus | MarketScreener (marketscreener.com)\nNov 9 (Reuters) - Gold prices rose on Monday as lower oil prices helped ease inflation concerns, while investors awaited US price data this week that could shape the Federal Reserve's rate outlook. ... ounce by 1125 GMT, while US gold futures for December\n\n[6] Dow Jones futures gain as lower oil prices ease inflationary concerns (fxstreet.com)\nDonald Trump stated that further military action against Iran is \"highly unlikely,\" contingent on continued progress on ... s nuclear program and the Strait of Hormuz remaining open. Trump also acknowledged that the unpopular Middle East conflict had\n\n[7] US CPI, Fed rhetoric and Iran talks in focus after Democratic midterm sweep (moneycontrol.com)\nThe dollar index initially fell to a one-month low of 101.09 as a divided government reduced expectations of fresh fiscal expansion. However, the currency reversed course after a stronger-than-expected October employment report, rising\n\n[8] U.S. consumer prices seen rising 3.8% year-on-year in October - Truflation (streetinsider.com)\nNovember 9, 2026 7:48 AM EST Investing.com - U.S. consumer prices are estimated to have risen by 3.8% in the twelve months to October and 0.3% month-on-month, amid ongoing upward pressure from elevated energy costs caused by the Iran war, according to Truflation predictions. Stripping out volatile items like food and fuel, the so-called \"core\" gauge is seen standing at 2.8% year-on-year and 0.2% month-on-month, the alternative data provider said in a statement. \"Headline inflation is moderating, but upstream inflation pipeline remains active. Energy and tariffs are supporting renewed goods …\n\n[9] U.S. Inflation Data in Focus After Strong Jobs Data — Market Talk — TradingView News (tradingview.com)\nU.S. Inflation Data in Focus After Strong Jobs Data — Market Talk — TradingView News # U.S. Inflation Data in Focus After Strong Jobs Data — Market Talk\n\n[10] Dollar Rebound Faces CPI Test as U.S. Inflation Data Near | EconoTimes (econotimes.com)\nOctober’s Consumer Price Index (CPI) report on Tuesday, ... , at 8:30 a.m. ET. MUFG cited a consensus estimate for core CPI to rise 0.2% from the previous month. In September, headline CPI ... 0.6% for the month and 3.7% over 12 months; core CPI",
+  "hash": "b08becf77cb1e5423d1b8893fb64b4dca2ca60291e5b3c69ca923c91e5234c70",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 9, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-09T13:07:17+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Live updates: Trump says deportation policy ‘might have been too tough’ | AP News",
+    "url": "https://apnews.com/live/trump-politics-election-news-updates-11-09-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "## Trump and his Justice Department stand defiant as Democrats ready an investigative blitz By MIKE CATALINI National politics reporter Trump and his Department of Justice are taking a combative stance toward Democrats after their election victories in the midterms, signaling intense conflict to come as lawmakers prepare aggressive investigations into the executive branch next year. Trump set the tone, declaring on social media that investigative requests already made by Democrats are “extortion at the highest level, and they should be held accountable.” Attorney General Todd Blanche echoed the Republican president and said criminal investigations of Democrats are possible. “They are"
+   },
+   {
+    "title": "Morning Edition for November 9, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5961637/morning-edition-for-november-9-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Israel's president taps Netanyahu's political rival to form a new government by Lauren Frayer, Steve Inskeep 3 min #### Israel’s president taps Netanyahu’s political rival to form a new government"
+   },
+   {
+    "title": "Congress returns to a changed Washington after GOP's election wipeout",
+    "url": "https://apnews.com/article/midterm-elections-congress-new-lawmakers-231d18d536141d9c19ac7e8cfca66eec",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — Congress returns Monday to a changed Washington, the Democrats having trounced Republicans in the midterm elections, but with President Donald Trump doubling down on his political threats despite the landmark GOP losses. Newly elected lawmakers arrived on Capitol Hill over the weekend, creating a jumble of split-screen moments reflective of the new political landscape. Dozens of jubilant Democrats, families and suitcases in tow for freshman orientation, appeared emboldened by the party's sweep of power. The trickle of Republicans coming in spoke soberly of the GOP's vast challenges ahead. ... But first, it's out with the old before the new"
+   },
+   {
+    "title": "Congress returns with big to-do list and how Ukraine is using AI on the battlefield: Morning Rundown",
+    "url": "https://www.nbcnews.com/news/us-news/congress-returns-big-list-ukraine-using-ai-battlefield-morning-rundown-rcna608075",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "bill, but that’s far from certain as Iran war funding ... → House leadership races: House Republicans will choose their leadership team tomorrow in a secret-ballot election. Speaker Mike Johnson’s departure sets up a race for minority leader between"
+   },
+   {
+    "title": "Trump administration live updates: Congress returns with government funding atop the to-do list",
+    "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-2026-midterm-elections-senate-house-supreme-court-live-updates-rcna608235",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "## Some Senate Republicans call for a delay in leadership elections following midterm losses Senate Republicans are scheduled to hold their leadership elections tomorrow morning, but a growing number of GOP senators are calling for a delay to discuss how contenders plan to lead in the wake of historic losses among their ranks. Sen. Ron Johnson, R-Wis., wrote in a letter he plans to send today to Senate Republican Conference Chair Tom Cotton, R-Ark., that senators should meet tomorrow morning instead to hear “what type of collaborative conference governing model we should adopt and what our strategy will be to counter the emboldened Democrats.” “Holding leadership elections without engaging in a robust discussion and evaluation of how those running for leadership intend to lead would be political malpractice,” Johnson wrote. “It is certainly not the way leadership elections should be conducted in the world’s greatest deliberative body.” Johnson’s office said the letter has five Republicans’ signatures. Sen. John Kennedy, R-La., said on X that his is one of them, and Sen. Dave McCormick, R-Pa., agreed that holding leadership elections tomorrow would be too soon. “As I’ve shared with Leader Thune, I don’t believe we should move to leadership elections until we have digested and debated the lessons of the midterms and how to move forward,” McCormick said. The call to delay leadership elections is not unprecedented. Similar calls were made two years ago by Republicans trying to block Sen. John Thune, R-S.D., from becoming majority leader following Sen. Mitch McConnell’s exit. That delay effort ultimately failed despite a challenge to Thune from Sen. Rick Scott, R-Fla. It’s not clear whether anyone is challenging the current slate of leaders, as no one has declared their candidacy to unseat Thune or other leaders. Leadership elections take place behind closed doors with a secret ballot, with the winner needing only a simple majority of the conference to be elected."
+   },
+   {
+    "title": "Up First briefing: Stephen Miller; Trump; Congress; Nvidia; COP31 : NPR",
+    "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "in. Lawmakers' key agenda item is keeping the federal government open, as funding runs out on Dec. ... . They will likely use a short-term continuing resolution to extend funding, because they lack the time and political will to negotiate the typical 12"
+   },
+   {
+    "title": "Deportation policy ‘might have been too tough’, says Trump, as Miller starts chief-of-staff role – US politics live",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "deportations and that he was open to an arrangement to ... The president said, in his first major interview since his party lost control of the House and Senate in the midterm elections, that his deportation policy was part of the reason Republicans lost."
+   },
+   {
+    "title": "The 7 things to know for Monday, November 9 - The Washington Post",
+    "url": "https://www.washingtonpost.com/the-seven/2026/11/09/7-things-know-monday-november-9/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "Potential challengers to Vice President JD Vance smell blood in the water. Vice President JD Vance and other potential 2028 candidates Florida Gov. Ron DeSantis, Georgia Gov. Brian Kemp and Sen. Ted Cruz of Texas. (Reuters; AP; The Post)"
+   },
+   {
+    "title": "Congress is back. Hegseth, Iran and new GOP leader on tap",
+    "url": "https://punchbowl.news/article/washington/congress-returns-hegseth-iran-gop-leader/",
+    "source": "punchbowl.news",
+    "published": "",
+    "excerpt": "First, an update: Democrats control at least 54 Senate seats right now, with the Alaska and Mississippi races still uncalled. In Mississippi, Democrat Scott Colom leads Sen. Cindy Hyde-Smith (R-Miss.) by 2,574 votes. Individual counties have until Friday to certify; 75 of 82 counties have done so unofficially, per Secretary of State Michael Watson. Just under 2,900 ballots are outstanding. In Alaska, former Rep. Mary Peltola (D-Ala.) leads incumbent Sen. Dan Sullivan (R-Ala.) by 637 votes. If no candidate clears 50%, then the race heads to a ranked-choice tabulation. A winner could be weeks away. Absentee and contested ballots must be counted by Nov. 18, with a “target deadline” for certification a week later. Nineteen House races remain uncalled. Democrats have at least 254 seats for the next Congress and lead in six of the outstanding races. Several races in Florida and North Carolina could go to recounts."
+   },
+   {
+    "title": "Trump says deportation policy ‘might have been too tough’ for voters | AP News",
+    "url": "https://apnews.com/newsletter/morning-wire/november-9-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": ". intelligence determined was gathering information for Beijing. - Nvidia has become a central player in the global race to develop ... of U.S. export restrictions aimed at limiting China’s access to cutting-edge semiconductor technology. - Nvidia’s board"
+   }
+  ],
+  "text": "[1] Live updates: Trump says deportation policy ‘might have been too tough’ | AP News (apnews.com)\n## Trump and his Justice Department stand defiant as Democrats ready an investigative blitz By MIKE CATALINI National politics reporter Trump and his Department of Justice are taking a combative stance toward Democrats after their election victories in the midterms, signaling intense conflict to come as lawmakers prepare aggressive investigations into the executive branch next year. Trump set the tone, declaring on social media that investigative requests already made by Democrats are “extortion at the highest level, and they should be held accountable.” Attorney General Todd Blanche echoed …\n\n[2] Morning Edition for November 9, 2026 : NPR (npr.org)\n### Israel's president taps Netanyahu's political rival to form a new government by Lauren Frayer, Steve Inskeep 3 min #### Israel’s president taps Netanyahu’s political rival to form a new government\n\n[3] Congress returns to a changed Washington after GOP's election wipeout (apnews.com)\nWASHINGTON (AP) — Congress returns Monday to a changed Washington, the Democrats having trounced Republicans in the midterm elections, but with President Donald Trump doubling down on his political threats despite the landmark GOP losses. Newly elected lawmakers arrived on Capitol Hill over the weekend, creating a jumble of split-screen moments reflective of the new political landscape. Dozens of jubilant Democrats, families and suitcases in tow for freshman orientation, appeared emboldened by the party's sweep of power. The trickle of Republicans coming in spoke soberly of the GOP's vast …\n\n[4] Congress returns with big to-do list and how Ukraine is using AI on the battlefield: Morning Rundown (nbcnews.com)\nbill, but that’s far from certain as Iran war funding ... → House leadership races: House Republicans will choose their leadership team tomorrow in a secret-ballot election. Speaker Mike Johnson’s departure sets up a race for minority leader between\n\n[5] Trump administration live updates: Congress returns with government funding atop the to-do list (nbcnews.com)\n## Some Senate Republicans call for a delay in leadership elections following midterm losses Senate Republicans are scheduled to hold their leadership elections tomorrow morning, but a growing number of GOP senators are calling for a delay to discuss how contenders plan to lead in the wake of historic losses among their ranks. Sen. Ron Johnson, R-Wis., wrote in a letter he plans to send today to Senate Republican Conference Chair Tom Cotton, R-Ark., that senators should meet tomorrow morning instead to hear “what type of collaborative conference governing model we should adopt and what our …\n\n[6] Up First briefing: Stephen Miller; Trump; Congress; Nvidia; COP31 : NPR (npr.org)\nin. Lawmakers' key agenda item is keeping the federal government open, as funding runs out on Dec. ... . They will likely use a short-term continuing resolution to extend funding, because they lack the time and political will to negotiate the typical 12\n\n[7] Deportation policy ‘might have been too tough’, says Trump, as Miller starts chief-of-staff role – US politics live (theguardian.com)\ndeportations and that he was open to an arrangement to ... The president said, in his first major interview since his party lost control of the House and Senate in the midterm elections, that his deportation policy was part of the reason Republicans lost.\n\n[8] The 7 things to know for Monday, November 9 - The Washington Post (washingtonpost.com)\nPotential challengers to Vice President JD Vance smell blood in the water. Vice President JD Vance and other potential 2028 candidates Florida Gov. Ron DeSantis, Georgia Gov. Brian Kemp and Sen. Ted Cruz of Texas. (Reuters; AP; The Post)\n\n[9] Congress is back. Hegseth, Iran and new GOP leader on tap (punchbowl.news)\nFirst, an update: Democrats control at least 54 Senate seats right now, with the Alaska and Mississippi races still uncalled. In Mississippi, Democrat Scott Colom leads Sen. Cindy Hyde-Smith (R-Miss.) by 2,574 votes. Individual counties have until Friday to certify; 75 of 82 counties have done so unofficially, per Secretary of State Michael Watson. Just under 2,900 ballots are outstanding. In Alaska, former Rep. Mary Peltola (D-Ala.) leads incumbent Sen. Dan Sullivan (R-Ala.) by 637 votes. If no candidate clears 50%, then the race heads to a ranked-choice tabulation. A winner could be weeks …\n\n[10] Trump says deportation policy ‘might have been too tough’ for voters | AP News (apnews.com)\n. intelligence determined was gathering information for Beijing. - Nvidia has become a central player in the global race to develop ... of U.S. export restrictions aimed at limiting China’s access to cutting-edge semiconductor technology. - Nvidia’s board",
+  "hash": "b58d3a2c15608b1c99f81e851e6d374b7f85b67b5332f701444fcacceddd8e97",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 9, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-09T13:07:34+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4003672-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Britain's culture minister, Lisa ‌Nandy, said on Sunday ‌there was still a problem with sexual abuse in the media ⁠industry after ​Russell ⁠Brand, once a high-profile comedian ... ⁠their ⁠power, with some women saying they feared speaking ‌out ‌could harm"
+   },
+   {
+    "title": "ENTERTAINMENT NEWS LIVE Updates Today (November 9, 2026): Ramayana Crosses 230Cr; Alia Celebrates 1st Diwali At Her New Home | Entertainment Live News Updates Bollywood Today | Latest Bollywood News | Trending Bollywood News Live | Ramayana Box Office Collection | Bollywood Celebs Diwali Celebration Latest News - Filmibeat",
+    "url": "https://www.filmibeat.com/bollywood/news/2026/ent-news-live-updates-today-nov-9-2026-ramayana-crosses-230cr-alia-celebrates-1st-diwali-at-her-home-537421.html",
+    "source": "filmibeat.com",
+    "published": "",
+    "excerpt": "## Denis Villeneuve Teases Next James Bond Casting, Stops Short Of Revealing 007's Identity Filmmaker Denis Villeneuve jokingly teased the identity of the next James Bond during his acceptance speech at the LACMA Art+Film Gala in Los Angeles, before stopping himself from revealing the name. The director, who is helming the next 007 film, said he would announce the actor with the \"blessing\" of his new Amazon partners but cut himself short, joking that producer Amy Pascal was about to have a heart attack. Villeneuve later told Variety that he was enjoying the search for the next Bond. (PTI) ... ## Ranbir Kapoor's Ramayana To Release In Hong Kong On November 12 After taking over the Indian box office by a storm, Ranbir Kapoor starrer Ramayana is set to release in Hong Kong on November 12, 2026. The film will be shown in Hindi, with Chinese and English subtitles and will be available to watch at Mong Kok, Langham Place, Premiere Elements, Tsuen Wan and Kwai Fong. ... ## Alia Bhatt Celebrates Her First Diwali In Krishna Raj Bungalow With Ranbir & Raha Alia Bhatt, who had recently moved to her new abode Krishna Raj Bungalow, celebrated first Diwali in the house with Ranbir Kapoor and Raha and it was all about love, light and happiness. ... ## Ramayana Records Highest Collection For Bollywood Movie On Diwali Ramayana earned Rs 56.15cr in India including Rs 36.75cr in Hindi, Rs 7.25cr in Kannada, Rs 6.25cr in Telugu, Rs 3.15cr in Tamil and Rs 2.75cr in Malayalam. This took the overall collection of Ramayana to Rs 238.85cr after 4 days opening weekend. The movie has recorded highest collection for a Bollywood movie on the occasion of Diwali"
+   },
+   {
+    "title": "'Ebenezer', Rivals and the return of U2: The best things to do, hear, see or watch in Europe this week | Euronews",
+    "url": "https://www.euronews.com/2026/11/09/ebenezer-rivals-and-the-return-of-u2-the-best-things-to-do-hear-see-or-watch-in-europe-thi",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "When: 13 November Charles Dickens' 'A Christmas Carol' is a staple of the festive season and has spawned hundreds of on-screen adaptations. Everyone has their favourite (author note: I vote for The Muppet's version) but still, new ones keep coming and the latest is from Ti West, the American director best known for his X trilogy and other works in the horror genre. For this reason, Ebenezer leans into the story's darker, gothic elements in a Tim Burton-esque way, with Johnny Depp playing the titular lead, Rupert Grint (Happy Potter) as Bob Cratchit, and Ian McKellen (The Lord of the Rings) as Marley. It's family-friendly fantasy that signals we've truly entered the countdown to Christmas! Bonus highlights: Last week was a big week for movie releases, with Oscars favourite Wild Horse Nine and Sylvestor Stallone biopic I Play Rocky hitting the big screen. Fans of city-destroying reptiles should also catch Godzilla Minus Zero. ## TV series Rivals (season 2 part 2) ... Where: Disney+ When: 11 November The salacious 80s melodrama of Rivals is back for part 2 of its second season. Based on a 1988 novel of the same name by Jilly Cooper, it follows a rivalry between a former Olympian/ Tory politician (Rupert Campbell-Black) and a former TV mogul (David Tennant), whose fight for control over a TV empire becomes an allegory for the decade's debauchery. The upcoming episodes take things to their climax, with drama escalating and character's psyches unravelling in the aftermath of a fatal car crash. It will also see the story depart from its original source material, setting things up for a now-greenlit third season. ... ## Music U2: Carnaval De Luz When: 13 November After an almost ten year hiatus, Irish rockers U2 are back with their 16th studio album: 'Carnaval de Luz'. It marks 50 years since the band first formed in Dublin, with an eclectic 12-track collection that's fittingly reflective, matured, and at times existential. There's also a notable collaboration with the late country queen Dolly Parton, whose duet on 'torn' ended up being her final ever recording. Another highlight includes 'The Mirror Maker', a song written entirely about the Spanish singer Rosalía which, according to producer Jacknife Lee, took nearly 200 takes to get right. But eventually they found what they were looking for — hopefully fans will too. Bonus highlight: For a less mainstream vibe, California indie band Wavves are releasing their 11th studio album, 'Cherry Soda', on 13 November 2026."
+   },
+   {
+    "title": "Entertainment News (11/10/26)",
+    "url": "https://bworldonline.com/arts-and-leisure/2026/11/09/792438/entertainment-news-11-10-26/",
+    "source": "bworldonline.com",
+    "published": "",
+    "excerpt": "and visual references that pay tribute to their 18-year career as an underground force in the Filipino independent ... the highs and lows of band life. The track, which retains the post- ... , has crossed the P100-million mark at the Philippine box"
+   },
+   {
+    "title": "Jeff Goldblum, John Turturro Set For Marrakech Honors",
+    "url": "https://deadline.com/2026/11/jeff-goldblum-john-turturro-marrakech-honors-1237215686/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "U.S. stars Jeff Goldblum, John Turturro, and Moroccan composer-actor Younès Mégri have been unveiled as the honorees of this 23rd Marrakech International Film Festival. Turturro is currently on the festival and awards with The Only Living Pickpocket in New York, which plays in the festival’s gala screenings lineup."
+   },
+   {
+    "title": "K-Pop News Archive | KpopVisage.com",
+    "url": "https://www.kpopvisage.com/news/2026-11-09",
+    "source": "kpopvisage.com",
+    "published": "",
+    "excerpt": "Monday, November 9, 2026 Korea Times Nov 9, 2026 · 10:52 AM ## Doh Kyung-soo surprises fans with new single 'Darling' during global tour EXO’s Doh Kyung-soo will release his new digital single “Darling” on Nov. 11 at 6 p.m., his first music since September’s DOPAMINE EP, while continuing his DAY OFF tour across Asia Event dates and times are local to where each event takes place. Korea Times Nov 9, 2026 · 10:27 AM ## JYP's new K-pop boy band oftheblue to debut next year JYP Entertainment will launch a new boy band, oftheblue, under its Squ4d label next year — its first new boy group since KickFlip debuted in 2025 Korea Times Nov 9, 2026 · 5:17 PM ## Taeyeon to release 4th studio album 'Unspecial' on Nov. 30 Taeyeon will release her fourth studio album, 'Unspecial,' on Nov. 30, marking her first full-length record in nearly five years. The 12-track album includes a title song of the same name, and pre-orders are already open Korea Times Nov 9, 2026 · 1:27 PM ## BLACKPINK's Jisoo signs with Hollywood agency WME BLACKPINK’s Jisoo has signed with Hollywood talent agency WME for global representation as she expands her solo career beyond Korea, with her first full-length solo album still in the works Korea Times Nov 9, 2026 · 10:52 AM ## CORTIS rules Spotify charts as 'REDRED' nears 300 mil. streams CORTIS’s “REDRED” has surpassed 274 million Spotify streams and is on pace to reach 300 million by year-end, while the group holds the top three spots among boy bands that debuted in the past five years Korea Times Nov 9, 2026 · 2:27 PM ## ENHYPEN to make 3 comebacks in 1 year, keeping momentum through year-end ENHYPEN will release the spin-off single 'THE SIN : PARALLEL WORLD' on Nov. 20, closing out a year with three comebacks and the 'THE SIN' series. The lead track 'I Want You' arrives with a music video on Nov. 13 ... ## Illit’s ‘Tick-Tack’ music video exceeds 100m YouTube views"
+   },
+   {
+    "title": "Nerd News: Godzilla, Stranger Things & Bond (11/9/2026)",
+    "url": "https://thechairshot.com/2026/11/bandwagon-nerds-news-report-11-9-2026-godzilla-rules-stranger-things-expands-bond-contenders-emerge/",
+    "source": "thechairshot.com",
+    "published": "",
+    "excerpt": "Godzilla Minus Zero led the November 6–8 North American box office with an estimated $31.6 million from 3,254 theaters. The result establishes a new opening-weekend record for distributor GKIDS and nearly triples the approximately $11.4 million debut of Godzilla Minus One. The sequel also brought its worldwide total to roughly $63 million, according to weekend reporting. These remain studio estimates, with final figures subject to adjustment as the complete weekend accounting arrives. ... ### Netflix Takes Stranger Things Into Other Worlds Netflix has announced Other Worlds: A Stranger Things Adventure, a live-action prequel scheduled to arrive in 2028. The project comes from Matt and Ross Duffer and longtime Stranger Things writer Kate Trefry, who will serve as showrunner. The series takes place in the 1950s, before both the original show and the stage production Stranger Things: The First Shadow. Its teaser identifies the setting as Marion, Nevada, in 1955, moving the franchise away from the familiar streets of Hawkins. Joe Wright will direct the first three episodes and executive produce. Production will take place in New Mexico, with the Duffers involved through Upside Down Pictures. Netflix and the creative team are emphasizing a new setting, new characters and new mysteries. A cast and specific premiere date have not been announced. ... ### Robert Pattinson and Nicholas Hoult Enter the Bond Conversation Robert Pattinson and Nicholas Hoult reportedly participated in screen tests for the next James Bond film. They join a reported group of contenders that includes Callum Turner, Jack Lowden and Josh O’Connor. Deadline described a field of five actors, while TheWrap separately reported Pattinson’s participation and noted Hoult’s reported involvement. Amazon MGM Studios has not announced its selection, and no actor should yet be presented as the next 007. Denis Villeneuve is directing the film, with Amy Pascal and David Heyman producing."
+   },
+   {
+    "title": "Wake Up With BroadwayWorld November 9, 2026- THE ROCKY HORROR SHOW Welcomes Margaret Cho and More",
+    "url": "https://www.broadwayworld.com/article/Wake-Up-With-BroadwayWorld-November-9-2026--THE-ROCKY-HORROR-SHOW-Welcomes-Margaret-Cho-and-More-20261109",
+    "source": "broadwayworld.com",
+    "published": "",
+    "excerpt": "lovers! Here's a look at some of the stories that kept the BroadwayWorld community talking ... survivors to the Barrymore. Don't miss the opening-night celebration for THE ... at The Public Theater, and check out the critics' reactions to SLANTED"
+   },
+   {
+    "title": "Everything We Are Watching This Week (November 9-15): I Play Rocky, SOTY: After Dark & More | Filmfare.com",
+    "url": "https://www.filmfare.com/what-to-watch/everything-we-are-watching-this-week-november-9-15-i-play-rocky-soty-after-dark-more-87070.html",
+    "source": "filmfare.com",
+    "published": "",
+    "excerpt": "Platform: Prime Video Release Date: November 12 ... ## I Play Rocky Director: Peter Farrelly Cast: Anthony Ippolito, AnnaSophia Robb, Matt Dillon, Toby Kebbell, P. J. Byrne Platform: Theatrical Release Release Date: November 13 I Play Rocky is the true and inspiring story of Sylvester Stallone and his never-resting ambition to make it big as an actor. The biographical drama will explore his earlier rough days as a struggling actor, his vision behind writing the historic script of Rocky, and his belief in the story, which skyrocketed him to the greatest heights. Anthony Ippolito plays the role of Sylvester Stallone and dives deep into bringing authenticity to his portrayal of the Hollywood legend."
+   },
+   {
+    "title": "Breaking News | TheFutonCritic.com - The Web's Best Television Resource",
+    "url": "http://www.thefutoncritic.com/news/2026/11/09/",
+    "source": "thefutoncritic.com",
+    "published": "",
+    "excerpt": "AM] Video: Prime Video Drops Trailer, Key Art and First Look Images for \"Alan Carr's Great Big Bucket List ... /06/26 - 12:01 AM] Netflix Announces \"Stiffs,\" a New Series Directed by Jan Holoubek and Kasper Bajon, ... /26 - 01:00 PM] FOX Entertainment"
+   }
+  ],
+  "text": "[1] Reuters Entertainment News Summary | International (devdiscourse.com)\nBritain's culture minister, Lisa ‌Nandy, said on Sunday ‌there was still a problem with sexual abuse in the media ⁠industry after ​Russell ⁠Brand, once a high-profile comedian ... ⁠their ⁠power, with some women saying they feared speaking ‌out ‌could harm\n\n[2] ENTERTAINMENT NEWS LIVE Updates Today (November 9, 2026): Ramayana Crosses 230Cr; Alia Celebrates 1st Diwali At Her New Home | Entertainment Live News Updates Bollywood Today | Latest Bollywood News | Trending Bollywood News Live | Ramayana Box Office Collection | Bollywood Celebs Diwali Celebration Latest News - Filmibeat (filmibeat.com)\n## Denis Villeneuve Teases Next James Bond Casting, Stops Short Of Revealing 007's Identity Filmmaker Denis Villeneuve jokingly teased the identity of the next James Bond during his acceptance speech at the LACMA Art+Film Gala in Los Angeles, before stopping himself from revealing the name. The director, who is helming the next 007 film, said he would announce the actor with the \"blessing\" of his new Amazon partners but cut himself short, joking that producer Amy Pascal was about to have a heart attack. Villeneuve later told Variety that he was enjoying the search for the next Bond. (PTI) ... …\n\n[3] 'Ebenezer', Rivals and the return of U2: The best things to do, hear, see or watch in Europe this week | Euronews (euronews.com)\nWhen: 13 November Charles Dickens' 'A Christmas Carol' is a staple of the festive season and has spawned hundreds of on-screen adaptations. Everyone has their favourite (author note: I vote for The Muppet's version) but still, new ones keep coming and the latest is from Ti West, the American director best known for his X trilogy and other works in the horror genre. For this reason, Ebenezer leans into the story's darker, gothic elements in a Tim Burton-esque way, with Johnny Depp playing the titular lead, Rupert Grint (Happy Potter) as Bob Cratchit, and Ian McKellen (The Lord of the Rings) as …\n\n[4] Entertainment News (11/10/26) (bworldonline.com)\nand visual references that pay tribute to their 18-year career as an underground force in the Filipino independent ... the highs and lows of band life. The track, which retains the post- ... , has crossed the P100-million mark at the Philippine box\n\n[5] Jeff Goldblum, John Turturro Set For Marrakech Honors (deadline.com)\nU.S. stars Jeff Goldblum, John Turturro, and Moroccan composer-actor Younès Mégri have been unveiled as the honorees of this 23rd Marrakech International Film Festival. Turturro is currently on the festival and awards with The Only Living Pickpocket in New York, which plays in the festival’s gala screenings lineup.\n\n[6] K-Pop News Archive | KpopVisage.com (kpopvisage.com)\nMonday, November 9, 2026 Korea Times Nov 9, 2026 · 10:52 AM ## Doh Kyung-soo surprises fans with new single 'Darling' during global tour EXO’s Doh Kyung-soo will release his new digital single “Darling” on Nov. 11 at 6 p.m., his first music since September’s DOPAMINE EP, while continuing his DAY OFF tour across Asia Event dates and times are local to where each event takes place. Korea Times Nov 9, 2026 · 10:27 AM ## JYP's new K-pop boy band oftheblue to debut next year JYP Entertainment will launch a new boy band, oftheblue, under its Squ4d label next year — its first new boy group since …\n\n[7] Nerd News: Godzilla, Stranger Things & Bond (11/9/2026) (thechairshot.com)\nGodzilla Minus Zero led the November 6–8 North American box office with an estimated $31.6 million from 3,254 theaters. The result establishes a new opening-weekend record for distributor GKIDS and nearly triples the approximately $11.4 million debut of Godzilla Minus One. The sequel also brought its worldwide total to roughly $63 million, according to weekend reporting. These remain studio estimates, with final figures subject to adjustment as the complete weekend accounting arrives. ... ### Netflix Takes Stranger Things Into Other Worlds Netflix has announced Other Worlds: A Stranger Things …\n\n[8] Wake Up With BroadwayWorld November 9, 2026- THE ROCKY HORROR SHOW Welcomes Margaret Cho and More (broadwayworld.com)\nlovers! Here's a look at some of the stories that kept the BroadwayWorld community talking ... survivors to the Barrymore. Don't miss the opening-night celebration for THE ... at The Public Theater, and check out the critics' reactions to SLANTED\n\n[9] Everything We Are Watching This Week (November 9-15): I Play Rocky, SOTY: After Dark & More | Filmfare.com (filmfare.com)\nPlatform: Prime Video Release Date: November 12 ... ## I Play Rocky Director: Peter Farrelly Cast: Anthony Ippolito, AnnaSophia Robb, Matt Dillon, Toby Kebbell, P. J. Byrne Platform: Theatrical Release Release Date: November 13 I Play Rocky is the true and inspiring story of Sylvester Stallone and his never-resting ambition to make it big as an actor. The biographical drama will explore his earlier rough days as a struggling actor, his vision behind writing the historic script of Rocky, and his belief in the story, which skyrocketed him to the greatest heights. Anthony Ippolito plays the role …\n\n[10] Breaking News | TheFutonCritic.com - The Web's Best Television Resource (thefutoncritic.com)\nAM] Video: Prime Video Drops Trailer, Key Art and First Look Images for \"Alan Carr's Great Big Bucket List ... /06/26 - 12:01 AM] Netflix Announces \"Stiffs,\" a New Series Directed by Jan Holoubek and Kasper Bajon, ... /26 - 01:00 PM] FOX Entertainment",
+  "hash": "645f601ce246a81e0c55b89766c98ce9695233a949785ce0ffe0b58174a759db",
+  "notes": []
+ }
+}
