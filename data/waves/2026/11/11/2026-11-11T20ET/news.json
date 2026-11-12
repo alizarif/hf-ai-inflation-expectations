@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-12T01:04:06+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 11, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-12T01:04:06+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "AP Top Stories November 11 - Yahoo News Singapore",
+    "url": "https://sg.news.yahoo.com/ap-top-stories-november-11-111107203.html",
+    "source": "sg.news.yahoo.com",
+    "published": "",
+    "excerpt": "Here's the latest for Wednesday, Nov 11th: Pete Hegseth impeachment effort blocked by House Republicans; Eisenkot unveils agenda to reverse Netanyahu's policies as ... conference amid concerns that actions are inadequate, slow; A slithering second chance:"
+   },
+   {
+    "title": "Headlines for November 11, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/11/11/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "## House GOP Blocks Impeachment Charges Against Defense Secretary Pete Hegseth Nov 11, 2026 House Republicans on Tuesday blocked impeachment charges against Defense Secretary Pete Hegseth. By a margin of just seven votes, Republicans managed to bury the charges in committee through a 211-204 party-line procedural vote. Eleven Democrats skipped the vote, including Democratic Congressmember Nancy Pelosi of California. While House Minority Leader Hakeem Jeffries, who is vying for the speakership in January, expressed support for Hegseth’s impeachment, many wondered how it was such a surprise that he was unable to corral Democratic votes to impeach Hegseth. President Trump hailed the outcome as an “exoneration.” Hours before the vote, Hegseth blasted the impeachment articles and said he’d carry out the same operations again. > Defense Secretary Pete Hegseth: “Let’s be clear about what this resolution actually does. It tells our enemies, Iran, the cartels, every adversary watching, that the United States will actually punish its own warriors and its own civilian leadership for successfully executing lawful military operations.” ... ## Rep. Jordan Elected as House GOP Leader as Senator Thune Reelected as Senate Republican Leader Nov 11, 2026 House Republicans elected Congressmember Jim Jordan, a staunch Trump ally, as their leader after last week’s sweeping midterm losses. Jordan will replace Speaker Mike Johnson come January when a new Democratic majority takes office with at least 256 seats in the House. In the Senate, Republicans reelected Senator John Thune of South Dakota as leader. Democrats currently have a 54-seat majority in the Senate, with the races in Alaska and Mississippi leaning toward Democrats. The Democratic Senate candidate in Mississippi, Scott Colom, leads his Republican opponent by 3,000 votes."
+   },
+   {
+    "title": "Morning Edition for November 11, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-6004012/morning-edition-for-november-11-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot by Steve Inskeep, Michel Martin ... ### Close Trump ally to lead House Republicans next year by Barbara Sprunt, Steve"
+   },
+   {
+    "title": "Video. Latest news bulletin | November 11th, 2026 – Morning | Euronews",
+    "url": "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-morning",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "## EU pledges €10 million for Bulgarian Black Sea search, rescue operations ## Central Asia's first wind farm with large-scale batteries nears completion in Uzbekistan ## Aerial ... ## 12 dead and dozens injured in Bulgarian motorway pile-up"
+   },
+   {
+    "title": "National and International News in Focus: Nov. 11 | National | wktv.com",
+    "url": "https://www.wktv.com/news/national/national-and-international-news-in-focus-nov-11/article_a991f55d-aca1-5691-b178-b9faf375b1b3.html",
+    "source": "wktv.com",
+    "published": "",
+    "excerpt": "## White House confronts Democrats over planned probes, claiming they may be 'blatant criminality' WASHINGTON (AP) — The White House has issued a warning to Democrats over their planned probes into the Trump administration. It's going as far as claiming that such investigations, which are a standard oversight function of Congress, may amount to “blatant criminality.” White House counsel Will Scharf issued the warning in a letter dated Monday to Rep. Robert Garcia, the top Democrat on the House Oversight Committee. ## Immigration arrests go on unabated despite Trump's misgivings after the GOP's midterm wipeout In the wake of midterm elections, President Donald Trump said his immigration crackdown may have been “too tough” and suggested it was time to sit down with the Democrats. Despite those misgivings, immigration arrests have continued unabated. In Los Angeles, a line of immigration officers in masks and body armor blocked the entrance to a hospital emergency room in a heavily Latino neighborhood early Saturday. In the hills of central Alabama, twin 19-year-old brothers from Venezuela were arrested at a traffic stop heading back to college the day after elections. ## Russia and Ukraine agree to a large prisoner exchange as talks conclude with no major breakthrough ABU DHABI, United Arab Emirates (AP) — Russia and Ukraine have agreed to a large prisoner exchange during U.S.-mediated talks. However, no major breakthroughs were announced in efforts to end the war that began nearly five years ago. The two-day session in Abu Dhabi was the first meeting in nine months. U.S. officials are determined to revive peace efforts, with envoys set to meet with the Russian and Ukrainian presidents. Fighting continues on the front line, with both countries using long-range missiles and drones. Ukrainian officials say three people were killed and 11 were injured after Russia launched a daytime attack on a market in the southern Odesa region. ## How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington WASHINGTON (AP) — Jensen Huang, CEO of Nvidia, is under scrutiny after revelations of an affair with a Chinese businesswoman, Alice Huang, who is suspected of spying. Nvidia produces crucial AI chips that both China and the U.S. covet, and the affair has sparked concerns about national security. The Department of Justice is probing whether a company tied to Alice Huang, Megaspeed, illegally funneled chips to China. Nvidia's board says there's “no reason to believe” secrets were compromised. President Donald Trump, a supporter of Jensen Huang, has downplayed the issue. And China has denied the allegations that Alice Huang was a spy. ... ## As higher prices seep into broader economy, Fed officials consider faster hikes WASHINGTON (AP) — More evidence this week of hot inflation in the U.S. was unpleasant news for the Federal Reserve, not to mention consumers: Rising prices may be spreading beyond the one-time shocks from tariffs and high gas prices into the wider economy, meaning that mortgages, credit cards and other forms of borrowing are likely to become increasingly expensive. Tuesday’s consumer price index report showed broadly rising costs across a range of goods and services. There is increasing anxiety among Fed officials that higher oil prices stemming from the Iran war may last longer than previously thought. ... ## Ebola tops 11,000 cases in Congo's deadliest outbreak BUNIA, Congo (AP) — Congo's Ebola outbreak has topped 11,000 cases, highlighting the severity of the situation. The health ministry reported on Wednesday 11,042 infections and 5,387 deaths, making it Congo's deadliest outbreak. The crisis began in mid-May, and authorities have struggled to contain it due to armed conflicts, a health system crisis, poor roads, and violence fueled by mistrust. The Bundibugyo virus responsible for this outbreak has no known vaccine or treatment and has spread to eight provinces. Health workers face attacks, and experts urge more efforts to contain the disease, which has spread to Uganda, Kenya, and Nigeria. ## World leaders urge stronger and faster action at UN climate talks over inadequate response ANTALYA, Turkey (AP) — World leaders were urged to act decisively to curb global warming as formal talkes opened Wednesday at the United Nations climate conference in Turkey. The summit comes after a year of deadly floods, heat waves and other climate-related disasters. “We know the truth. Now we must act on it,” U.N. Secretary-General António Guterres told the COP31 gathering. What will be accomplished remains uncertain as laders of some of the world’s biggest polluting nations — including the United States, China and India — skipped the summit. A new report warns of a widening gap between countries’ climate pledges and emissions cuts."
+   },
+   {
+    "title": "Morning Briefing: Nov. 11",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-11/4119658",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "Here’s a rundown of all the news you need to start your Wednesday, including US House blocking effort to impeach Defense Secretary Pete Hegseth, COP31 leaders’ summit set to open in Türkiye with electrification in focus, and US Secretary of State Marco Rubio calling US-Russia-Ukraine talks in Abu Dhabi \"very productive.\" The US House of Representatives on Tuesday voted 211-204 to send a resolution to impeach Defense Secretary Pete Hegseth to committee, effectively killing the effort. Republicans backed the motion 210-1 and were joined by the chamber’s lone independent, while all 203 Democrats who voted opposed it. Republican Congressman Thomas Massie, who authored the resolution, was the only Republican to vote against it. Massie’s resolution, introduced Monday, contained eight articles of impeachment. They accuse Hegseth of waging war with Iran without congressional authorization, carrying out extrajudicial killings in airstrikes against alleged drug-trafficking vessels in the Caribbean Sea, illegally seizing then-Venezuelan President Nicolas Maduro, targeting Democratic Senator Mark Kelly and carrying out an unlawful war in Yemen. Hegseth dismissed the effort at a Pentagon news conference earlier Tuesday. - COP31 leaders’ summit set to open in Türkiye with electrification in focus World leaders are set to gather in Türkiye’s Mediterranean city of Antalya on Wednesday for a two-day summit at the COP31 UN climate conference, with the Turkish presidency putting electrification at the center of its push to turn climate pledges into action. Türkiye is seeking support for a proposal to raise electricity’s share of global energy use to 35% by 2035. Turkish Erdogan and UN Secretary-General Antonio Guterres are scheduled to address the opening session at the Antalya Expo Center at 12.15 p.m. local time (0915GMT). National statements are due to begin at 2.30 p.m. and continue Thursday. Brazilian President Luiz Inacio Lula da Silva, whose country hosted last year’s climate talks, is among those expected to speak Wednesday, along with European Commission President Ursula von der Leyen, Chinese Vice President Han Zheng and Marshall Islands President Hilda Heine. ... US Secretary of State Marco Rubio characterized trilateral negotiations between the US, Russia and Ukraine in Abu Dhabi as \"very productive,\" saying their diplomatic efforts are looking to construct durable security arrangements. \"There's a lot of work to be done in that regard. It's not like something that's on the verge of being solved in the"
+   },
+   {
+    "title": "Daily World Briefing, Nov. 11-Xinhua",
+    "url": "https://english.news.cn/20261111/2dad43f4501b4deea37c358c92aa9697/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "Russia, Ukraine and the United States concluded the first day of trilateral talks in Abu Dhabi, the capital of the United Arab Emirates, on Tuesday after nearly four hours of discussions ... 50 others injured in two pile-ups on the Trakia motorway near"
+   },
+   {
+    "title": "News | The Guardian",
+    "url": "https://www.theguardian.com/news/2026/nov/11/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics ... - ### Trump’s $10bn BBC battle goes ahead - The Latest Donald Trump’s $10bn defamation lawsuit against the BBC has been granted permission to proceed, after"
+   },
+   {
+    "title": "Early Edition: November 11, 2026",
+    "url": "https://www.justsecurity.org/164111/early-edition-november-11-2026/",
+    "source": "justsecurity.org",
+    "published": "",
+    "excerpt": "Officials at the trilateral talks today said Ukraine and Russia have agreed to a large exchange of prisoners of war as the two-day talks come to a close. U.S. Special Envoy Jared Kushner said “one of the positives is we agreed that we’re going to have the biggest humanitarian release of prisoners, which we’re going to finalize the numbers tomorrow.” Head of the Russian delegation Vladimir Medinsky confirmed the planned exchange."
+   },
+   {
+    "title": "Netanyahu denies Israel is to blame for conditions in Gaza camps, and other Mideast news",
+    "url": "https://apnews.com/article/mideast-news-israel-gaza-iran-november-11-2026-50075bc97e07d41fa3b66fc28858c06b",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "was responsible for worsening conditions for Palestinians in Gaza's tent camps, which have been hit by severe winter flooding. ... The United Nations and other aid groups say more than 150,000 tents and pumps to remove floodwater are ready to enter Gaza,"
+   }
+  ],
+  "text": "[1] AP Top Stories November 11 - Yahoo News Singapore (sg.news.yahoo.com)\nHere's the latest for Wednesday, Nov 11th: Pete Hegseth impeachment effort blocked by House Republicans; Eisenkot unveils agenda to reverse Netanyahu's policies as ... conference amid concerns that actions are inadequate, slow; A slithering second chance:\n\n[2] Headlines for November 11, 2026 | Democracy Now! (democracynow.org)\n## House GOP Blocks Impeachment Charges Against Defense Secretary Pete Hegseth Nov 11, 2026 House Republicans on Tuesday blocked impeachment charges against Defense Secretary Pete Hegseth. By a margin of just seven votes, Republicans managed to bury the charges in committee through a 211-204 party-line procedural vote. Eleven Democrats skipped the vote, including Democratic Congressmember Nancy Pelosi of California. While House Minority Leader Hakeem Jeffries, who is vying for the speakership in January, expressed support for Hegseth’s impeachment, many wondered how it was such a surprise …\n\n[3] Morning Edition for November 11, 2026 : NPR (npr.org)\n### Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot by Steve Inskeep, Michel Martin ... ### Close Trump ally to lead House Republicans next year by Barbara Sprunt, Steve\n\n[4] Video. Latest news bulletin | November 11th, 2026 – Morning | Euronews (euronews.com)\n## EU pledges €10 million for Bulgarian Black Sea search, rescue operations ## Central Asia's first wind farm with large-scale batteries nears completion in Uzbekistan ## Aerial ... ## 12 dead and dozens injured in Bulgarian motorway pile-up\n\n[5] National and International News in Focus: Nov. 11 | National | wktv.com (wktv.com)\n## White House confronts Democrats over planned probes, claiming they may be 'blatant criminality' WASHINGTON (AP) — The White House has issued a warning to Democrats over their planned probes into the Trump administration. It's going as far as claiming that such investigations, which are a standard oversight function of Congress, may amount to “blatant criminality.” White House counsel Will Scharf issued the warning in a letter dated Monday to Rep. Robert Garcia, the top Democrat on the House Oversight Committee. ## Immigration arrests go on unabated despite Trump's misgivings after the …\n\n[6] Morning Briefing: Nov. 11 (aa.com.tr)\nHere’s a rundown of all the news you need to start your Wednesday, including US House blocking effort to impeach Defense Secretary Pete Hegseth, COP31 leaders’ summit set to open in Türkiye with electrification in focus, and US Secretary of State Marco Rubio calling US-Russia-Ukraine talks in Abu Dhabi \"very productive.\" The US House of Representatives on Tuesday voted 211-204 to send a resolution to impeach Defense Secretary Pete Hegseth to committee, effectively killing the effort. Republicans backed the motion 210-1 and were joined by the chamber’s lone independent, while all 203 Democrats …\n\n[7] Daily World Briefing, Nov. 11-Xinhua (english.news.cn)\nRussia, Ukraine and the United States concluded the first day of trilateral talks in Abu Dhabi, the capital of the United Arab Emirates, on Tuesday after nearly four hours of discussions ... 50 others injured in two pile-ups on the Trakia motorway near\n\n[8] News | The Guardian (theguardian.com)\nlikely belonging to enslaved people returned to Brazil after Harvard used them in eugenics ... - ### Trump’s $10bn BBC battle goes ahead - The Latest Donald Trump’s $10bn defamation lawsuit against the BBC has been granted permission to proceed, after\n\n[9] Early Edition: November 11, 2026 (justsecurity.org)\nOfficials at the trilateral talks today said Ukraine and Russia have agreed to a large exchange of prisoners of war as the two-day talks come to a close. U.S. Special Envoy Jared Kushner said “one of the positives is we agreed that we’re going to have the biggest humanitarian release of prisoners, which we’re going to finalize the numbers tomorrow.” Head of the Russian delegation Vladimir Medinsky confirmed the planned exchange.\n\n[10] Netanyahu denies Israel is to blame for conditions in Gaza camps, and other Mideast news (apnews.com)\nwas responsible for worsening conditions for Palestinians in Gaza's tent camps, which have been hit by severe winter flooding. ... The United Nations and other aid groups say more than 150,000 tents and pumps to remove floodwater are ready to enter Gaza,",
+  "hash": "56546f3316cc959ab6fffc199a0e21308c9954de5e0a997900c19f8e90548936",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 11, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-12T01:04:29+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "As higher prices seep into broader economy, Fed officials consider faster hikes",
+    "url": "https://apnews.com/article/inflation-gas-federal-reserve-prices-1318a1694472e2926e0a4ab5d8ca6457",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "driven up the cost of computer chips, power generation equipment, and copper, among other components, with little sign of easing. Prices for smartphones jumped 1.4% just from September to October, the government said, the largest such increase on record."
+   },
+   {
+    "title": "US consumer prices rise briskly for third straight month | Reuters",
+    "url": "https://www.reuters.com/5f374b32b07b/world/us/us-consumer-prices-rise-above-expectations-october-2026-11-10/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 10 (Reuters) - US consumer prices increased more than expected in October amid higher costs for food and accommodation, cementing expectations that the Federal Reserve will raise interest rates next month. The Consumer Price Index report from the Labor Department on Tuesday also showed ​a strong buildup of underlying inflation pressures for a third straight month. It followed data last week showing the labor market regained momentum in October. Inflation is being driven by the US-Israeli war with Iran, which has boosted oil ‌prices, the Trump administration's import tariffs, resilient consumer spending and aggressive business investment in artificial intelligence technology. The rising cost of living contributed to the heavy losses suffered by President Donald Trump's Republican Party in the midterm elections last week. Fed Governor Christopher Waller said on Tuesday the US central bank should raise rates next month, adding that \"a stronger policy move may be"
+   },
+   {
+    "title": "Austan Goolsbee calls inflation report 'borderline disturbing' as Fed weighs more hikes",
+    "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "The consumer price index rose 0.4% on a seasonally adjusted basis in October, according to the Bureau of Labor Statistics' Tuesday morning release. That was higher than economists had predicted, and the third straight month of outsized price increases."
+   },
+   {
+    "title": "Fed officials open door to a quicker round of rate hikes as inflation worsens | live",
+    "url": "https://live.euronext.com/en/financial-news/fed-officials-open-door-quicker-round-rate-hikes-inflation-worsens",
+    "source": "live.euronext.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 10 (Reuters) - The odds that the Federal Reserve may raise interest rates by half a percentage point next month jumped on Tuesday after US data showed prices rising faster than expected in October and policymakers opened the door to a quicker pace of rate hikes. The Consumer Price Index rose 0.4% on a monthly basis in October, down from the 0.6% registered in September as energy inflation receded. The core index excluding volatile food and energy prices, however, rose 0.3% for the third month in a row, evidence of persistent underlying inflation and price pressures spreading through the economy. A few hours before the data was released, Fed Governor Christopher Waller said he planned to support a quarter-point increase at the Fed's December 8-9 meeting unless core CPI came in at 0.3% or more. \"In that case, I believe a 50-basis-point hike in the policy rate should be considered at the December meeting,\" he said at a conference in London hosted by King's Business School and the Money Macro and Finance Society. Sticking with a smaller rate increase, Waller said, risked hurting the Fed's inflation-fighting credibility, given inflation was too high and appeared to be broadening. Economists polled by Reuters had expected core monthly inflation to drop to 0.2% in October. The CPI data and Waller's comments drove a powerful selloff in the US Treasury market, with the yield on 2-year notes — a proxy for Fed policy expectations — rising by the most since early April 2025."
+   },
+   {
+    "title": "Dollar climbs as traders raise December Fed hike bets",
+    "url": "https://www.cnbc.com/2026/11/11/dollar-gains-traction-as-fed-speakers-warn-of-risks-from-inflation.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Traders have boosted bets on a 25-basis-point Federal Reserve rate hike in December to 87% from about 70% a month ⁠ago, according ‌to CME's FedWatch tool, after U.S. consumer prices rose more ⁠than expected in October for a third consecutive month."
+   },
+   {
+    "title": "Morning Bid: Jumbo Fed hike hits radar By Reuters",
+    "url": "https://www.investing.com/news/commodities-news/morning-bid-jumbo-fed-hike-hits-radar-5018434",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "With inflation readings sticky across several sectors beyond fuel and transportation and headline annual rates almost twice the Fed’s target, bond markets were spooked, with ... -year Treasury yields surging by up to 20 bps, and stocks tumbled despite the"
+   },
+   {
+    "title": "Food prices push US inflation above forecasts, increasing pressure on Fed | Malay Mail",
+    "url": "https://www.malaymail.com/news/money/2026/11/11/food-prices-push-us-inflation-above-forecasts-increasing-pressure-on-fed/242773",
+    "source": "malaymail.com",
+    "published": "",
+    "excerpt": "The consumer price index for October rose 0.4 per cent from September, down from the prior month’s 0.6 per cent increase, according to Labor Department data. Analysts had projected a 0.3 per cent increase."
+   },
+   {
+    "title": "10-Yr Tsy Yld Spikes As Inflation Spreads Across Economy, Driven By Ugly Core Services CPI | Seeking Alpha",
+    "url": "https://seekingalpha.com/article/4966305-10-year-treasury-yield-spikes-inflation-spreads-across-economy-driven-by-ugly-core-services-cpi",
+    "source": "seekingalpha.com",
+    "published": "",
+    "excerpt": "- The 10-year Treasury yield spiked by about 12 basis points to 5.0% at the moment, upon ... morning, which showed that inflation has seeped deeply into the economy, especially non-housing services, but also food, core goods,"
+   },
+   {
+    "title": "CPI Continues Climbing – U.S. Economic Snapshot",
+    "url": "https://econsnapshot.com/2026/11/11/cpi-continues-climbing/",
+    "source": "econsnapshot.com",
+    "published": "",
+    "excerpt": "The BLS announced that CPI inflation fell from 8.07% to 4.28% on an annualized basis (that is, month-over-month), the year over year rate increased from 3.72% to 3.95%, and our trend measure dropped slightly from 4.62% to 4.51%."
+   },
+   {
+    "title": "Bowman Says October CPI Raises Risk Inflation Will Cool More Slowly | EconoTimes",
+    "url": "https://econotimes.com/Bowman-Says-October-CPI-Raises-Risk-Inflation-Will-Cool-More-Slowly-1774896",
+    "source": "econotimes.com",
+    "published": "",
+    "excerpt": "Using CPI data, Bowman estimated that core personal consumption expenditures (PCE) inflation likely reached 3.3% over the 12 months through October. That was her estimate, not an official PCE reading. She linked the pressure to energy costs and AI-related"
+   }
+  ],
+  "text": "[1] As higher prices seep into broader economy, Fed officials consider faster hikes (apnews.com)\ndriven up the cost of computer chips, power generation equipment, and copper, among other components, with little sign of easing. Prices for smartphones jumped 1.4% just from September to October, the government said, the largest such increase on record.\n\n[2] US consumer prices rise briskly for third straight month | Reuters (reuters.com)\nWASHINGTON, Nov 10 (Reuters) - US consumer prices increased more than expected in October amid higher costs for food and accommodation, cementing expectations that the Federal Reserve will raise interest rates next month. The Consumer Price Index report from the Labor Department on Tuesday also showed ​a strong buildup of underlying inflation pressures for a third straight month. It followed data last week showing the labor market regained momentum in October. Inflation is being driven by the US-Israeli war with Iran, which has boosted oil ‌prices, the Trump administration's import tariffs, …\n\n[3] Austan Goolsbee calls inflation report 'borderline disturbing' as Fed weighs more hikes (cnbc.com)\nThe consumer price index rose 0.4% on a seasonally adjusted basis in October, according to the Bureau of Labor Statistics' Tuesday morning release. That was higher than economists had predicted, and the third straight month of outsized price increases.\n\n[4] Fed officials open door to a quicker round of rate hikes as inflation worsens | live (live.euronext.com)\nWASHINGTON, Nov 10 (Reuters) - The odds that the Federal Reserve may raise interest rates by half a percentage point next month jumped on Tuesday after US data showed prices rising faster than expected in October and policymakers opened the door to a quicker pace of rate hikes. The Consumer Price Index rose 0.4% on a monthly basis in October, down from the 0.6% registered in September as energy inflation receded. The core index excluding volatile food and energy prices, however, rose 0.3% for the third month in a row, evidence of persistent underlying inflation and price pressures spreading …\n\n[5] Dollar climbs as traders raise December Fed hike bets (cnbc.com)\nTraders have boosted bets on a 25-basis-point Federal Reserve rate hike in December to 87% from about 70% a month ⁠ago, according ‌to CME's FedWatch tool, after U.S. consumer prices rose more ⁠than expected in October for a third consecutive month.\n\n[6] Morning Bid: Jumbo Fed hike hits radar By Reuters (investing.com)\nWith inflation readings sticky across several sectors beyond fuel and transportation and headline annual rates almost twice the Fed’s target, bond markets were spooked, with ... -year Treasury yields surging by up to 20 bps, and stocks tumbled despite the\n\n[7] Food prices push US inflation above forecasts, increasing pressure on Fed | Malay Mail (malaymail.com)\nThe consumer price index for October rose 0.4 per cent from September, down from the prior month’s 0.6 per cent increase, according to Labor Department data. Analysts had projected a 0.3 per cent increase.\n\n[8] 10-Yr Tsy Yld Spikes As Inflation Spreads Across Economy, Driven By Ugly Core Services CPI | Seeking Alpha (seekingalpha.com)\n- The 10-year Treasury yield spiked by about 12 basis points to 5.0% at the moment, upon ... morning, which showed that inflation has seeped deeply into the economy, especially non-housing services, but also food, core goods,\n\n[9] CPI Continues Climbing – U.S. Economic Snapshot (econsnapshot.com)\nThe BLS announced that CPI inflation fell from 8.07% to 4.28% on an annualized basis (that is, month-over-month), the year over year rate increased from 3.72% to 3.95%, and our trend measure dropped slightly from 4.62% to 4.51%.\n\n[10] Bowman Says October CPI Raises Risk Inflation Will Cool More Slowly | EconoTimes (econotimes.com)\nUsing CPI data, Bowman estimated that core personal consumption expenditures (PCE) inflation likely reached 3.3% over the 12 months through October. That was her estimate, not an official PCE reading. She linked the pressure to energy costs and AI-related",
+  "hash": "b6b3ed3a489793f2a97bb1f7ef7608a03c52eed2cb8caba029b9b5dbb13ead1e",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 11, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-12T01:04:42+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Live updates: Democrat Scott Colom wins Mississippi US Senate race | AP News",
+    "url": "https://apnews.com/live/trump-congress-midterm-elections-politics-news-updates-11-11-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Here’s what we’re following: - Democratic nominee Scott Colom defeated Republican Sen. Cindy Hyde-Smith in Mississippi’s closely contested U.S. Senate race on Wednesday after a prolonged ballot counting process. Colom will be Mississippi’s first Black U.S. senator since post-Civil War Reconstruction — a seismic shift that adds to the decisive midterm rebuke of President Donald Trump, particularly in GOP-controlled states. - Gearing up for the loss of GOP control in Congress next year, the White House warned Democrats that planned investigations of Trump could cross into criminal conduct. House Democrats are preparing a vast oversight agenda to look at how Trump and his"
+   },
+   {
+    "title": "Sanders won’t support Schumer for Senate Democratic leader, Hegseth impeachment effort blocked by GOP | AP News",
+    "url": "https://apnews.com/newsletter/morning-wire/november-11-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "The House on Tuesday turned aside a resolution to impeach Defense Secretary Pete Hegseth, halting an effort to remove the Pentagon chief for ... , with a number of Democrats missing the vote. It came as Republicans grapple with the fallout from sweeping"
+   },
+   {
+    "title": "Tracking Trump: Trump defends Iran war in Veterans Day speech; Hegseth impeachment fails; Kennedy family sues Trump; and more",
+    "url": "https://www.washingtonpost.com/the-seven-trump/2026/11/11/tracking-trump-trump-defends-iran-war-veterans-day-speech-hegseth-impeachment-fails-kennedy-family-sues-trump-more/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "**Trump defended the Iran war in a Veterans Day speech.** **House Republicans blocked a vote on impeaching Hegseth.** **The White House prepared to fight congressional probes.** ... **The Kennedy family sued to stop Trump’s triumphal arch.** **Rubio faced"
+   },
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/11",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "Updated 1 hour ago - Politics & Policy ## Democrat Scott Colom pulls off stunning Mississippi Senate upset Smiling man in a navy blazer and white shirt stands outdoors on a blurred urban street, with warm daylight highlighting his face."
+   },
+   {
+    "title": "Headlines for November 11, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/11/11/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "## House GOP Blocks Impeachment Charges Against Defense Secretary Pete Hegseth Nov 11, 2026 House Republicans on Tuesday blocked impeachment charges against Defense Secretary Pete Hegseth. By a margin of just seven votes, Republicans managed to bury the charges in committee through a 211-204 party-line procedural vote. Eleven Democrats skipped the vote, including Democratic Congressmember Nancy Pelosi of California. While House Minority Leader Hakeem Jeffries, who is vying for the speakership in January, expressed support for Hegseth’s impeachment, many wondered how it was such a surprise that he was unable to corral Democratic votes to impeach Hegseth. President Trump hailed the outcome as an “exoneration.” Hours before the vote, Hegseth blasted the impeachment articles and said he’d carry out the same operations again. ... Senators-elect Peggy Flanagan of Minnesota, Troy Jackson of Maine, Abdul El-Sayed of Michigan, Juliana Stratton of Illinois and Adam Hamilton of Kansas have all said they won’t support Schumer, as has Senate candidate Scott Colom of Mississippi. This comes as Democratic Senator Chris Van Hollen of Maryland indicated Monday he’s open to running for Senate majority leader when the new Congress convenes in January. ... House Republicans elected Congressmember Jim Jordan, a staunch Trump ally, as their leader after last week’s sweeping midterm losses."
+   },
+   {
+    "title": "The Latest: Democrat Scott Colom wins election to US Senate from Mississippi",
+    "url": "https://apnews.com/article/trump-elections-hegseth-schumer-9a0e54363b4c74761212ad55785d2733",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Colom led Hyde-Smith, the Republican incumbent, by 43 votes following the final election night update in Mississippi, which arrived at 3:03 a.m. from Pike County. ... 669 votes out of 962,237 counted, or 0.5 percentage points. To come back and take the"
+   },
+   {
+    "title": "Live updates: Trump to mark Veterans Day with speech at Arlington National Cemetery",
+    "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-vance-veterans-day-congress-2026-election-live-updates-rcna608667",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "has defeated Republican Sen. Cindy Hyde-Smith in Mississippi, ... of Democratic victories by flipping the reddest seat yet in this year’s midterms. Democrats will now have ... least 55 Senate seats in the next Congress. The Alaska Senate race remains"
+   },
+   {
+    "title": "One month from shutdown, Congress is far from a deal to fund government - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/11/11/one-month-shutdown-congress-is-far-deal-fund-government/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "United Futures Inc., which was registered as a corporation in Delaware on Aug. 12, spent nearly $20 million over the next two months to boost Democrats in the midterms, making it one of the top megadonors of the 2026 election, according to a Washington Post analysis. The nonpartisan watchdog group Campaign Legal Center filed a complaint this month with the Federal Election Commission alleging that the ... United Futures did not immediately respond to a request for comment. ... ## North Carolina is on the brink of a total Democratic sweep of state government As of Wednesday afternoon, state Sen. Danny Britt (R)"
+   },
+   {
+    "title": "Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot : NPR",
+    "url": "https://www.npr.org/2026/11/11/nx-s1-6035568/morning-news-brief-hegseth-impeachment-new-house-gop-leader-uk-probes-base-plot",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "# Morning News Brief: Hegseth impeachment, new House GOP leader, ... November 11, 2026 5:02 AM ET Heard on Morning Edition ... Republicans block Hegseth impeachment, Trump ally picked to lead House GOP minority, UK investigates alleged Iran-backed plot."
+   },
+   {
+    "title": "Morning Edition for November 11, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-6004012/morning-edition-for-november-11-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot ... News Brief: Hegseth impeachment, new House GOP leader, UK probes base ... ### Close Trump ally to lead House Republicans next year by Barbara Sprunt, Steve Inskeep"
+   }
+  ],
+  "text": "[1] Live updates: Democrat Scott Colom wins Mississippi US Senate race | AP News (apnews.com)\nHere’s what we’re following: - Democratic nominee Scott Colom defeated Republican Sen. Cindy Hyde-Smith in Mississippi’s closely contested U.S. Senate race on Wednesday after a prolonged ballot counting process. Colom will be Mississippi’s first Black U.S. senator since post-Civil War Reconstruction — a seismic shift that adds to the decisive midterm rebuke of President Donald Trump, particularly in GOP-controlled states. - Gearing up for the loss of GOP control in Congress next year, the White House warned Democrats that planned investigations of Trump could cross into criminal conduct. …\n\n[2] Sanders won’t support Schumer for Senate Democratic leader, Hegseth impeachment effort blocked by GOP | AP News (apnews.com)\nThe House on Tuesday turned aside a resolution to impeach Defense Secretary Pete Hegseth, halting an effort to remove the Pentagon chief for ... , with a number of Democrats missing the vote. It came as Republicans grapple with the fallout from sweeping\n\n[3] Tracking Trump: Trump defends Iran war in Veterans Day speech; Hegseth impeachment fails; Kennedy family sues Trump; and more (washingtonpost.com)\n**Trump defended the Iran war in a Veterans Day speech.** **House Republicans blocked a vote on impeaching Hegseth.** **The White House prepared to fight congressional probes.** ... **The Kennedy family sued to stop Trump’s triumphal arch.** **Rubio faced\n\n[4] Axios (axios.com)\nUpdated 1 hour ago - Politics & Policy ## Democrat Scott Colom pulls off stunning Mississippi Senate upset Smiling man in a navy blazer and white shirt stands outdoors on a blurred urban street, with warm daylight highlighting his face.\n\n[5] Headlines for November 11, 2026 | Democracy Now! (democracynow.org)\n## House GOP Blocks Impeachment Charges Against Defense Secretary Pete Hegseth Nov 11, 2026 House Republicans on Tuesday blocked impeachment charges against Defense Secretary Pete Hegseth. By a margin of just seven votes, Republicans managed to bury the charges in committee through a 211-204 party-line procedural vote. Eleven Democrats skipped the vote, including Democratic Congressmember Nancy Pelosi of California. While House Minority Leader Hakeem Jeffries, who is vying for the speakership in January, expressed support for Hegseth’s impeachment, many wondered how it was such a surprise …\n\n[6] The Latest: Democrat Scott Colom wins election to US Senate from Mississippi (apnews.com)\nColom led Hyde-Smith, the Republican incumbent, by 43 votes following the final election night update in Mississippi, which arrived at 3:03 a.m. from Pike County. ... 669 votes out of 962,237 counted, or 0.5 percentage points. To come back and take the\n\n[7] Live updates: Trump to mark Veterans Day with speech at Arlington National Cemetery (nbcnews.com)\nhas defeated Republican Sen. Cindy Hyde-Smith in Mississippi, ... of Democratic victories by flipping the reddest seat yet in this year’s midterms. Democrats will now have ... least 55 Senate seats in the next Congress. The Alaska Senate race remains\n\n[8] One month from shutdown, Congress is far from a deal to fund government - The Washington Post (washingtonpost.com)\nUnited Futures Inc., which was registered as a corporation in Delaware on Aug. 12, spent nearly $20 million over the next two months to boost Democrats in the midterms, making it one of the top megadonors of the 2026 election, according to a Washington Post analysis. The nonpartisan watchdog group Campaign Legal Center filed a complaint this month with the Federal Election Commission alleging that the ... United Futures did not immediately respond to a request for comment. ... ## North Carolina is on the brink of a total Democratic sweep of state government As of Wednesday afternoon, state …\n\n[9] Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot : NPR (npr.org)\n# Morning News Brief: Hegseth impeachment, new House GOP leader, ... November 11, 2026 5:02 AM ET Heard on Morning Edition ... Republicans block Hegseth impeachment, Trump ally picked to lead House GOP minority, UK investigates alleged Iran-backed plot.\n\n[10] Morning Edition for November 11, 2026 : NPR (npr.org)\n### Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot ... News Brief: Hegseth impeachment, new House GOP leader, UK probes base ... ### Close Trump ally to lead House Republicans next year by Barbara Sprunt, Steve Inskeep",
+  "hash": "4c19b76b5dfe43fd1cc74690b2fed6d351500e6b9234280e610d7561671d1ab7",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 11, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-12T01:05:04+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Music Biz Headlines: Celine Dion Sets a Record, Bob Dylan Meets The Pope | Billboard Canada",
+    "url": "https://ca.billboard.com/fyi/celine-dion-bob-dylan-leonard-cohen-headlines",
+    "source": "ca.billboard.com",
+    "published": "",
+    "excerpt": "Celine Dion is the headlines for setting a residencies record and headbanging to Metallica while fellow Quebecer Leonard Cohen is remembered a decade after his death. It's a big week for Canadian music news, with Rush announcing a Sphere residency, Angine de Poitrine debuting a new member and much more. Live Nation reports that the tour grossed over $1.3 billion and sold 9 million tickets across 176 shows worldwide, surpassing Elton John's record for the highest-grossing tour by a male artist in history and third highest-grossing tour overall."
+   },
+   {
+    "title": "Pop culture news for readers: November 11, 2026 | For Readers | The Fussy Librarian",
+    "url": "https://www.thefussylibrarian.com/newswire/for-readers/2026/11/11/pop-culture-news-for-readers-november-11-2026",
+    "source": "thefussylibrarian.com",
+    "published": "",
+    "excerpt": "convicted murderer Gary Gilmore in a movie adaptation of The Executioner's Song by Norman Mailer ... star in the movie version of Insomniac City, a memoir by Bill Hayes (The Hollywood Reporter). - The movie"
+   },
+   {
+    "title": "Movie News: 11th November 2026",
+    "url": "https://onemannsmovies.com/movie-news/movie-news-11th-november-2026/",
+    "source": "onemannsmovies.com",
+    "published": "",
+    "excerpt": "La Bola Negra breaks a UK record: Altitude’s La Bola Negra, which won the London Film Festival’s Audience Award, has had the biggest opening ever for a Spanish-language film at the UK-Ireland box office, according to Screen Daily. It took £536,000 including previews, ahead of the £433,000 of Pedro Almodóvar’s Volver in 2006, with £354,000 from 130 cinemas at the weekend, a strong £2,723 average. Volver remains the highest-grossing Spanish-language film in the territory, with £2.8 million, and La Bola Negra has a chance of passing it over its run. ... The American Film Market, day one: The American Film Market opened in Los Angeles on Tuesday in ... Indie sellers are also pointing to hits including You Can See Everything, Obsession and Buddy as proof that audiences will come out for the right film."
+   },
+   {
+    "title": "Entertainment news roundup: 11 November 2026 | SVCZZ",
+    "url": "https://svczz.com/articles/entertainment-news-roundup-11-november-2026",
+    "source": "svczz.com",
+    "published": "",
+    "excerpt": "HBO’s three character posters for Harry Potter give each of the young leads the same treatment: Dominic McLaughlin as Harry, Arabella Stanton as Hermione and Alastair Stout as Ron, wands held upright down the centre of the frame under the line “The first year begins”. The motion versions carry a first snippet of Hans Zimmer’s score, and the eight-episode first season, Harry Potter and the Philosopher’s Stone, premieres on 25 December 2026 on HBO and HBO Max. Disney and National Geographic have announced The Real Frozen, a natural history series in which Idina Menzel, Kristen Bell and Jonathan Groff return to narrate, with Josh Gad making special appearances as Olaf. It will air on National Geographic and Disney+, and no premiere date has been announced. Salman Khan shared the official trailer for Maatrubhumi: May War Rest in Peace online on 10 November 2026. The war drama, inspired by the June 2020 Galwan Valley clash and directed by Apoorva Lakhia, opens in cinemas on 4 December 2026. The theatrical trailer for Gunmaaster G9 is due out today, 11 November 2026, ahead of the Emraan Hashmi romantic action film’s cinema release on 27 November 2026. Danny Boyle’s Ink, a drama about the birth of The Sun newspaper, has a new trailer, with Guy Pearce as Rupert Murdoch and Jack O’Connell as Larry Lamb. It opens in UK and Ireland cinemas on 8 January 2027. Jesse Eisenberg’s The Debut also has a new trailer, starring Julianne Moore and Paul Giamatti alongside Halle Bailey, ahead of its theatrical release on 11 December 2026. Dario Russo’s comedy The Fox follows the same pattern, its new trailer putting Jai Courtney and Emily Browning front and centre, with Olivia Colman and Sam Neill in one of his final performances, for a 4 December 2026 cinema release."
+   },
+   {
+    "title": "AP Entertainment SummaryBrief at 4:48 p.m. EST | Features | rutlandherald.com",
+    "url": "https://www.rutlandherald.com/features/ap-entertainment/ap-entertainment-summarybrief-at-5-09-a-m-est/article_7637dc32-b423-5a6d-a6f5-f8a1c2d8bfae.html",
+    "source": "rutlandherald.com",
+    "published": "",
+    "excerpt": "- AP - Nov 11, 2026 - Nov 11, 2026 Updated 1 hr ago Rapper Yella Beezy convicted of hiring gunman who fatally shot rapper MO3 on busy Dallas interstate DALLAS (AP) — A Dallas County jury has unanimously convicted rapper Yella Beezy of capital murder in a brazen daylight attack on rapper MO3 on a busy Dallas interstate in 2020. Jurors found that Yella Beezy hired the gunman who fatally shot rapper MO3. Yella Beezy’s real name is Markies Conway, and MO3’s real name was Melvin Noble. The jury’s guilty verdict means the 35-year-old Conway will spend the rest of his life in prison without parole. Kewon White was found guilty in September of carrying out the fatal shooting and sentenced to life in prison without parole. Irma P. Hall, 'Soul Food' and 'The Ladykillers' actor who found fame at 60, dies at 91 Irma P. Hall, the beloved actress known for roles in “Soul Food” and “The Ladykillers,” has died at 91. Her family announced her passing Wednesday, though no cause was given. Hall was best known as Big Mama in “Soul Food,” a role that earned her an NAACP Image Award. She also received a Cannes Film Festival Jury Prize for her role in “The Ladykillers.” Hall's acting career began later in life after decades as a teacher. She was a dedicated member of her church and helped develop young artists. Her family remembers her as a woman of faith and a global teacher. The 'Hunger Games' are back, with an A-list cast and brutal origin story for Haymitch The “Hunger Games” franchise is back with “The Hunger Games: Sunrise on the Reaping,” focusing on a young Haymitch Abernathy. Before becoming the mentor to Katniss and Peeta, Haymitch was a tribute from District 12. Director Francis Lawrence and producer Nina Jacobson cast a then-19-year-old Joseph Zada as Haymitch. Zada impressed with his charisma and mischief, essential for the role. The film's production spanned five months across Spain and Germany. The series has a lasting cultural impact, with over 100 million books sold and $3.3 billion in box office revenue. Jennifer Lawrence and Josh Hutcherson also return in the epilogue. Jordan Firstman has been a lot of things, but 'Club Kid' confirms he's a filmmaker NEW YORK (AP) — It’s taken some time but Jordan Firstman, with “Club Kid,” feels like he’s finally made it. Since its debut at the Cannes Film Festival, “Club Kid” has been a sensation. Now, he just needs to stay on his game. The film, which Firstman wrote, directed and stars in, draws from Firstman's own experiences with gay nightlife. His character is hard-partying, hard-drug user who's shocked to discover he has a 10-year-old son. After a bidding war, A24 picked it up for $17 million and is releasing the film in the heart of awards season. Firstman has been a provocative viral-video star, a TV series writer, an actor and more. But “Club Kid” confirms he's a filmmaker. Movie Review: James Gray delivers a milestone crime drama in ‘Paper Tiger’ Miles Teller and Adam Driver play brothers trying to work on a deal in 1986 New York in James Gray's “Paper Tiger.” Part crime drama, part family tragedy, the film also stars Scarlett Johansson as Teller's wife, Hester. All are trying to make a little more money in pursuit of their version of the American Dream. In her review for The Associated Press, film writer Lindsey Bahr opines that “with an operatic grace and 35 mm grit, “Paper Tiger” shrewdly and authentically explores ideas about wealth, worth, the cost of family and price of wanting more.” Rated R, “Paper Tiger” opens in limited release Friday and expands nationwide Nov. 20. ... The 2027 Coachella lineup is here: Dua Lipa, Tame Impala and SZA to headline INDIO, Calif. (AP) — The 2027 Coachella Valley Music and Arts Festival lineup is finally here. Dua Lipa, Tame Impala, and SZA will headline the event next April. Tame Impala, the musical project of Australian Kevin Parker, returns as a headliner after first topping the bill in 2019. SZA and Lipa have also performed at Coachella before. Daddy Yankee, set to be named artist of the year at the 2026 Latin Grammys, joins as a fourth headliner. The festival will feature Madonna, Phoebe Bridgers, and many more. Coachella returns to Indio, California, for two weekends in April 2027. Tickets go on sale Friday. ... Walliams and Brand were leading UK comics. Now they are part of a reckoning over sexual misconduct LONDON (AP) — A day after British actor-comedian Russell Brand was sent to prison for rape and sexual assault, allegations have surfaced against another leading comedian, David Walliams. The cases have sparked a wider reckoning about celebrity misconduct in the U.K. Walliams, a feted children's author and well-known TV personality, is facing allegations of using his fame to exploit young female fans. He had sought to block news organizations from publishing these claims, but a judge dismissed his bid. Walliams has not been charged, but the revelations have prompted questions about the media and entertainment industries' roles in enabling such behavior. Authorities are now urging stronger protections for women."
+   },
+   {
+    "title": "Music News Today — November 11, 2026 — MusicNewsletter.com",
+    "url": "https://musicnewsletter.com/news/daily-signal-20261111",
+    "source": "musicnewsletter.com",
+    "published": "",
+    "excerpt": "is shaping up to be an unforgettable event with headliners Dua Lipa, Tame ... , a nostalgic throwback for fans of 90s R&B. Meanwhile, not all artists are celebrating their recognitions, as Sade have declined to attend their Rock & Roll Hall of Fame"
+   },
+   {
+    "title": "November 11, 2026",
+    "url": "https://neon.reviewjournal.com/2026/11/11/",
+    "source": "neon.reviewjournal.com",
+    "published": "",
+    "excerpt": "Rush is expanding its touring show to play Sphere for 10 shows in May and June. Carrot Top announces ‘27 tour dates By John Katsilometes / RJ November 11, 2026 - 11:34 am Less than two months after his suicide attempt, Carrot Top has announced an 11-show tour. R&B icons to co-star in their first Las Vegas Strip residency ... The Grammy-winning duo Brandy & Monica will open a 10-show set to kick off Memorial Day weekend."
+   },
+   {
+    "title": "November 11, 2026 | News Headlines | Page Six",
+    "url": "https://pagesix.com/2026/11/11/",
+    "source": "pagesix.com",
+    "published": "",
+    "excerpt": "### ‘Below Deck’ alum Colin Macy-O’Toole jumps to co-star João Franco’s defense after arrest: ‘Tragic situation’ November 11, 2026 | 7:13pm Macy-O'Toole believes his friend was only trying to de-escalate the situation."
+   },
+   {
+    "title": "Wake Up With BroadwayWorld November 11, 2026- Jordan Fisher Will Lead PURPLE RAIN on Broadway and More",
+    "url": "https://www.broadwayworld.com/article/Wake-Up-With-BroadwayWorld-November-11-2026--Jordan-Fisher-Will-Lead-PURPLE-RAIN-on-Broadway-and-More-20261111",
+    "source": "broadwayworld.com",
+    "published": "",
+    "excerpt": "Kicking things off, you can now get a first look at production photos from the unauthorized musical parody TRAITORZ, inspired by the hit reality series \"The Traitors,\" now playing at St. Luke's Theatre. Fans of new musicals will also want to check out our video chat with Joshua Henry and Julia Harriman, who discuss love, collaboration, and bringing THE CONVERSATION to the stage ahead of its November 17 opening at the Asher Place Theatre. On the business side, Broadway box office climbed 24% to $36.7 million for the week ending 11/8/26. See the full breakdown in our Broadway Grosses report. Big casting news came from producer Orin Wolf, who announced that Jordan Fisher will lead PURPLE RAIN on Broadway as \"The Kid.\" Our exclusives brought the musical theatre fans plenty to sing about. Tony nominee Andrew Durand and an ensemble of 15 actor-musicians perform \"A Little Life\" from THE CURIOUS CASE OF BENJAMIN BUTTON at The Public Theater, and Troy Iwata and Ryann Redmond take on \"Gay Guy\" in HEATED RIVALRY: The Unauthorized Musical Parody."
+   },
+   {
+    "title": "Amelia's Bits & Bytes 11/11: New Clutch, Fall Out Boy Play Mall, Hendrix Concert In Theaters, RIP Stacy Keach, VisionQuest Ties Into Doomsday And More Pop Culture News | 98 Rock Online",
+    "url": "https://www.98online.com/amelias-bits-bytes-11-11-new-clutch-fall-out-boy-play-mall-hendrix-concert-in-theaters-rip-stacy-keach-visionquest-ties-doomsday-in-and-more-pop-culture-news",
+    "source": "98online.com",
+    "published": "",
+    "excerpt": "Clutch has a new song called Beware The Fever. Fall Out Boy play a mall in LA to promote their new song and tour. ... U2 has the final music recording of Dolly parton on new album. ... Fear Factory announce new album and have a new tune called Detonizer."
+   }
+  ],
+  "text": "[1] Music Biz Headlines: Celine Dion Sets a Record, Bob Dylan Meets The Pope | Billboard Canada (ca.billboard.com)\nCeline Dion is the headlines for setting a residencies record and headbanging to Metallica while fellow Quebecer Leonard Cohen is remembered a decade after his death. It's a big week for Canadian music news, with Rush announcing a Sphere residency, Angine de Poitrine debuting a new member and much more. Live Nation reports that the tour grossed over $1.3 billion and sold 9 million tickets across 176 shows worldwide, surpassing Elton John's record for the highest-grossing tour by a male artist in history and third highest-grossing tour overall.\n\n[2] Pop culture news for readers: November 11, 2026 | For Readers | The Fussy Librarian (thefussylibrarian.com)\nconvicted murderer Gary Gilmore in a movie adaptation of The Executioner's Song by Norman Mailer ... star in the movie version of Insomniac City, a memoir by Bill Hayes (The Hollywood Reporter). - The movie\n\n[3] Movie News: 11th November 2026 (onemannsmovies.com)\nLa Bola Negra breaks a UK record: Altitude’s La Bola Negra, which won the London Film Festival’s Audience Award, has had the biggest opening ever for a Spanish-language film at the UK-Ireland box office, according to Screen Daily. It took £536,000 including previews, ahead of the £433,000 of Pedro Almodóvar’s Volver in 2006, with £354,000 from 130 cinemas at the weekend, a strong £2,723 average. Volver remains the highest-grossing Spanish-language film in the territory, with £2.8 million, and La Bola Negra has a chance of passing it over its run. ... The American Film Market, day one: The …\n\n[4] Entertainment news roundup: 11 November 2026 | SVCZZ (svczz.com)\nHBO’s three character posters for Harry Potter give each of the young leads the same treatment: Dominic McLaughlin as Harry, Arabella Stanton as Hermione and Alastair Stout as Ron, wands held upright down the centre of the frame under the line “The first year begins”. The motion versions carry a first snippet of Hans Zimmer’s score, and the eight-episode first season, Harry Potter and the Philosopher’s Stone, premieres on 25 December 2026 on HBO and HBO Max. Disney and National Geographic have announced The Real Frozen, a natural history series in which Idina Menzel, Kristen Bell and Jonathan …\n\n[5] AP Entertainment SummaryBrief at 4:48 p.m. EST | Features | rutlandherald.com (rutlandherald.com)\n- AP - Nov 11, 2026 - Nov 11, 2026 Updated 1 hr ago Rapper Yella Beezy convicted of hiring gunman who fatally shot rapper MO3 on busy Dallas interstate DALLAS (AP) — A Dallas County jury has unanimously convicted rapper Yella Beezy of capital murder in a brazen daylight attack on rapper MO3 on a busy Dallas interstate in 2020. Jurors found that Yella Beezy hired the gunman who fatally shot rapper MO3. Yella Beezy’s real name is Markies Conway, and MO3’s real name was Melvin Noble. The jury’s guilty verdict means the 35-year-old Conway will spend the rest of his life in prison without parole. …\n\n[6] Music News Today — November 11, 2026 — MusicNewsletter.com (musicnewsletter.com)\nis shaping up to be an unforgettable event with headliners Dua Lipa, Tame ... , a nostalgic throwback for fans of 90s R&B. Meanwhile, not all artists are celebrating their recognitions, as Sade have declined to attend their Rock & Roll Hall of Fame\n\n[7] November 11, 2026 (neon.reviewjournal.com)\nRush is expanding its touring show to play Sphere for 10 shows in May and June. Carrot Top announces ‘27 tour dates By John Katsilometes / RJ November 11, 2026 - 11:34 am Less than two months after his suicide attempt, Carrot Top has announced an 11-show tour. R&B icons to co-star in their first Las Vegas Strip residency ... The Grammy-winning duo Brandy & Monica will open a 10-show set to kick off Memorial Day weekend.\n\n[8] November 11, 2026 | News Headlines | Page Six (pagesix.com)\n### ‘Below Deck’ alum Colin Macy-O’Toole jumps to co-star João Franco’s defense after arrest: ‘Tragic situation’ November 11, 2026 | 7:13pm Macy-O'Toole believes his friend was only trying to de-escalate the situation.\n\n[9] Wake Up With BroadwayWorld November 11, 2026- Jordan Fisher Will Lead PURPLE RAIN on Broadway and More (broadwayworld.com)\nKicking things off, you can now get a first look at production photos from the unauthorized musical parody TRAITORZ, inspired by the hit reality series \"The Traitors,\" now playing at St. Luke's Theatre. Fans of new musicals will also want to check out our video chat with Joshua Henry and Julia Harriman, who discuss love, collaboration, and bringing THE CONVERSATION to the stage ahead of its November 17 opening at the Asher Place Theatre. On the business side, Broadway box office climbed 24% to $36.7 million for the week ending 11/8/26. See the full breakdown in our Broadway Grosses report. …\n\n[10] Amelia's Bits & Bytes 11/11: New Clutch, Fall Out Boy Play Mall, Hendrix Concert In Theaters, RIP Stacy Keach, VisionQuest Ties Into Doomsday And More Pop Culture News | 98 Rock Online (98online.com)\nClutch has a new song called Beware The Fever. Fall Out Boy play a mall in LA to promote their new song and tour. ... U2 has the final music recording of Dolly parton on new album. ... Fear Factory announce new album and have a new tune called Detonizer.",
+  "hash": "86131bd6c2cc4692f6db1cee17bf78a69da6e500c994643b96a4852ed8991cea",
+  "notes": []
+ }
+}
