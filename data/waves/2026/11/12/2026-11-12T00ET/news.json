@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-12T05:04:13+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 12, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-12T05:04:13+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Morning Recap - November 12, 2026",
+    "url": "https://www.thestandard.com.hk/news/article/348252/Morning-Recap-November-12-2026",
+    "source": "thestandard.com.hk",
+    "published": "",
+    "excerpt": "Nvidia's NVDA.O board is preparing to oust CEO Jensen Huang after he had two extramarital affairs, including one with a suspected Chinese spy, the Wall Street Journal reported on Wednesday, citing people familiar with the matter. ... Four million Spanish workers took part in a general strike on Wednesday, unions said, enduring stormy weather to set up picket lines in a protest against the country's housing affordability crisis less than three weeks before a snap general election. ... Hoax bomb alerts sent to schools in Italy, UK and Ireland in latest disruption Schools across Italy were evacuated on Wednesday after around 6,300 of them received bomb warnings, the latest in a series of threats and cyberattacks around Europe against supermarkets, blood banks, air traffic and broadcasters."
+   },
+   {
+    "title": "Kyodo News Digest: Nov. 12",
+    "url": "https://english.kyodonews.net/articles/-/91120",
+    "source": "english.kyodonews.net",
+    "published": "",
+    "excerpt": "G7 ministers reaffirm Ukraine support, condemn China's military aid PARIS - Foreign ministers of the Group of Seven industrialized nations reaffirmed their support for Ukraine amid Russian attacks and criticized China for providing Russia with weapons that enable the war to continue in a joint declaration issued Wednesday following their talks in Paris. The show of unity toward the Eastern European country came amid lingering concerns that U.S. President Donald Trump is pivoting toward the Kremlin."
+   },
+   {
+    "title": "Breaking News Live Updates, November 12: Nvidia board to decide on Jensen Huang's future as CEO at Wednesday meeting - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-november-12/liveblog/135751098.cms",
+    "source": "timesofindia.indiatimes.com",
+    "published": "",
+    "excerpt": "SUMMARY 10:13 (IST) Nov 12 White House tells Democrats that investigating Trump administration could be criminal 10:03 (IST) Nov 12 US envoys en route to Moscow, to meet Putin's envoy Dmitriev first 07:36 (IST) Nov 12 4.9-magnitude earthquake hits Nepal Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction ... US says Rubio and Chinese counterpart agree on importance of leader-level talks Firefighters dig through rubble after NYC building collapse kills 1 and traps people in wreckage Firefighters searched through the rubble of a three-storey building in Brooklyn on Wednesday after it collapsed near a construction site, killing at least one person and leaving several others trapped beneath the debris. Emergency crews were called to the scene in the Flatbush section of the borough at around 4 pm. News helicopter footage showed dozens of firefighters combing through the wreckage, with some focusing on a particular area and appearing to use a saw to cut through the debris. The New York City Fire Department said one person had died, while four others were taken to hospital in critical condition. Six more people were hospitalised with minor injuries. 05:08 (IST) Nov 12 An Israeli airstrike hit a building at Nasser Hospital in Khan Younis, southern Gaza, early on Thursday, killing at least four people and injuring several others, a spokesman for Gaza's civil defence service told Reuters. ... He is the 15th plant employee to be killed since April amid frequent attacks in the area."
+   },
+   {
+    "title": "World news digest for November 12, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-12",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "# Iran refuses uranium handover; Hormuz tanker blasts continue ## Summary Iran has refused to hand over its enriched uranium, and the Revolutionary Guards said two more oil tankers exploded in the Strait of Hormuz, pushing any return to talks with Washington further away.⁠ 1 2 Security chief Mohsen Rezaei said that not a single particle of enriched nuclear material would leave the country, and that no negotiations with Washington were currently under way.⁠ 1 3 US officials have described the situation differently: Trump said the war with Iran is effectively over while the naval blockade continues, and Secretary of State Marco Rubio said large-scale military operations are not needed because sanctions are hurting Iran's economy.⁠ 4 5 In an interview with Lebanon's Al Mayadeen TV, Rezaei also warned that if US bases in Europe were used to launch strikes on Iran, Iran would attack them, extending the threat beyond the Middle East.⁠ 6 In the Democratic Republic of the Congo, government data released Wednesday showed more than 11,000 Ebola cases, making the outbreak the deadliest in the country's history, with more than 5,000 deaths.⁠ 7 In Spain, millions of people joined the country's first general strike in 14 years, protesting housing costs amid growing public anger over the housing crisis.⁠ 8 For Iran, the next checkpoint is the APEC summit in Shenzhen on November 18 to 19, where Trump says he expects to meet Xi and Putin, although Beijing has not confirmed the meeting.⁠ 9"
+   },
+   {
+    "title": "World news wrapup: 12 November 2026 | AJP",
+    "url": "https://ajp.com.au/news/world-news-wrapup-12-november-2026/",
+    "source": "ajp.com.au",
+    "published": "",
+    "excerpt": "Women warned against allergy meds for sexual use; vending machines considered in Estonia; pharmacist trial over alleged sex-for-drugs deals Kenya: The ... not to insert allergy medicines into their vaginas. Cetirizine is reportedly being promoted as"
+   },
+   {
+    "title": "Xinhua world news summary at 0100 GMT, Nov. 12-Xinhua",
+    "url": "https://english.news.cn/20261112/c7e0ee01b9e347a190a32bf2d02de352/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "-- Europe's security architecture was at the heart of the Russia-U.S.-Ukraine trilateral talks in Abu Dhabi, Russian Presidential Aide Vladimir Medinsky said after the ... chief on Wednesday called for the immediate opening of all crossings to allow aid"
+   },
+   {
+    "title": "News from Thursday, 12 November 2026 | Headlinne",
+    "url": "https://www.headlinne.com/articles/date/2026-11-12",
+    "source": "headlinne.com",
+    "published": "",
+    "excerpt": "### MLA, farmers protest Centre’s ‘failure to release drought relief’ in ... :05 ### Protesters clash with police in Spain after huge housing cost rallies ... :03 ### Bitcoin listless, Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe"
+   },
+   {
+    "title": "NEWS IN BRIEF-2026-11-12",
+    "url": "https://today.thefinancialexpress.com.bd/print/news-in-brief-2026-11-12-1794416191",
+    "source": "today.thefinancialexpress.com.bd",
+    "published": "",
+    "excerpt": "11: Israeli forces killed at least seven Palestinians, including a father and his 13-year- ... son, in the Gaza Strip on Tuesday, local health officials said. Medics said ... of a displacement shelter in the Zeitoun neighbourhood in Gaza City. A third"
+   },
+   {
+    "title": "News in 90 Seconds November 12",
+    "url": "https://www.1news.co.nz/2026/11/12/news-in-90-seconds-november-12/",
+    "source": "1news.co.nz",
+    "published": "",
+    "excerpt": "will be closing 19 stores before the end of the year ... Thousands of schools across Europe have received hoax bomb threats forcing hundreds to be evacuated. Warehouse and Noel Leeming workers will commence a 24 hour strike today over concerns around AI"
+   },
+   {
+    "title": "India News Live Updates, 12 November 2026: Smog blankets Delhi, AQI settles at 307 | India News - The Indian Express",
+    "url": "https://indianexpress.com/article/india/breaking-news-live-updates-12-november-2026-delhi-aqi-india-weather-today-kimberly-powell-nvidia-train-accident-10959719/",
+    "source": "indianexpress.com",
+    "published": "",
+    "excerpt": "A history-sheeter named Vijay Bajia was hacked to death with an axe in Jaipur’s Kardhani area late Wednesday. Attackers rammed a pickup into his car, then surrounded and struck him as he tried to flee. Police"
+   }
+  ],
+  "text": "[1] Morning Recap - November 12, 2026 (thestandard.com.hk)\nNvidia's NVDA.O board is preparing to oust CEO Jensen Huang after he had two extramarital affairs, including one with a suspected Chinese spy, the Wall Street Journal reported on Wednesday, citing people familiar with the matter. ... Four million Spanish workers took part in a general strike on Wednesday, unions said, enduring stormy weather to set up picket lines in a protest against the country's housing affordability crisis less than three weeks before a snap general election. ... Hoax bomb alerts sent to schools in Italy, UK and Ireland in latest disruption Schools across Italy were …\n\n[2] Kyodo News Digest: Nov. 12 (english.kyodonews.net)\nG7 ministers reaffirm Ukraine support, condemn China's military aid PARIS - Foreign ministers of the Group of Seven industrialized nations reaffirmed their support for Ukraine amid Russian attacks and criticized China for providing Russia with weapons that enable the war to continue in a joint declaration issued Wednesday following their talks in Paris. The show of unity toward the Eastern European country came amid lingering concerns that U.S. President Donald Trump is pivoting toward the Kremlin.\n\n[3] Breaking News Live Updates, November 12: Nvidia board to decide on Jensen Huang's future as CEO at Wednesday meeting - The Times of India (timesofindia.indiatimes.com)\nSUMMARY 10:13 (IST) Nov 12 White House tells Democrats that investigating Trump administration could be criminal 10:03 (IST) Nov 12 US envoys en route to Moscow, to meet Putin's envoy Dmitriev first 07:36 (IST) Nov 12 4.9-magnitude earthquake hits Nepal Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction ... US says Rubio and Chinese counterpart agree on importance of leader-level talks Firefighters dig through rubble after NYC building collapse kills 1 and traps people in wreckage Firefighters searched through the rubble of a three-storey building …\n\n[4] World news digest for November 12, 2026 | World Watch (worldwatch.media)\n# Iran refuses uranium handover; Hormuz tanker blasts continue ## Summary Iran has refused to hand over its enriched uranium, and the Revolutionary Guards said two more oil tankers exploded in the Strait of Hormuz, pushing any return to talks with Washington further away.⁠ 1 2 Security chief Mohsen Rezaei said that not a single particle of enriched nuclear material would leave the country, and that no negotiations with Washington were currently under way.⁠ 1 3 US officials have described the situation differently: Trump said the war with Iran is effectively over while the naval blockade …\n\n[5] World news wrapup: 12 November 2026 | AJP (ajp.com.au)\nWomen warned against allergy meds for sexual use; vending machines considered in Estonia; pharmacist trial over alleged sex-for-drugs deals Kenya: The ... not to insert allergy medicines into their vaginas. Cetirizine is reportedly being promoted as\n\n[6] Xinhua world news summary at 0100 GMT, Nov. 12-Xinhua (english.news.cn)\n-- Europe's security architecture was at the heart of the Russia-U.S.-Ukraine trilateral talks in Abu Dhabi, Russian Presidential Aide Vladimir Medinsky said after the ... chief on Wednesday called for the immediate opening of all crossings to allow aid\n\n[7] News from Thursday, 12 November 2026 | Headlinne (headlinne.com)\n### MLA, farmers protest Centre’s ‘failure to release drought relief’ in ... :05 ### Protesters clash with police in Spain after huge housing cost rallies ... :03 ### Bitcoin listless, Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe\n\n[8] NEWS IN BRIEF-2026-11-12 (today.thefinancialexpress.com.bd)\n11: Israeli forces killed at least seven Palestinians, including a father and his 13-year- ... son, in the Gaza Strip on Tuesday, local health officials said. Medics said ... of a displacement shelter in the Zeitoun neighbourhood in Gaza City. A third\n\n[9] News in 90 Seconds November 12 (1news.co.nz)\nwill be closing 19 stores before the end of the year ... Thousands of schools across Europe have received hoax bomb threats forcing hundreds to be evacuated. Warehouse and Noel Leeming workers will commence a 24 hour strike today over concerns around AI\n\n[10] India News Live Updates, 12 November 2026: Smog blankets Delhi, AQI settles at 307 | India News - The Indian Express (indianexpress.com)\nA history-sheeter named Vijay Bajia was hacked to death with an axe in Jaipur’s Kardhani area late Wednesday. Attackers rammed a pickup into his car, then surrounded and struck him as he tried to flee. Police",
+  "hash": "dc6c7afd96994c47dbc092c496da0bb04aa1a3e1c7c107bd00bc4f13d2455a7d",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 12, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-12T05:04:27+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "As higher prices seep into broader economy, Fed officials consider faster hikes",
+    "url": "https://apnews.com/article/inflation-gas-federal-reserve-prices-1318a1694472e2926e0a4ab5d8ca6457",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — More evidence this week of hot inflation in the U.S. was unpleasant news for the Federal Reserve, not to mention consumers: Rising prices may be spreading beyond the one-time shocks from tariffs and high gas prices into the wider economy, meaning that mortgages, credit cards and other forms of borrowing are likely to become increasingly expensive. Tuesday's consumer price index report showed broadly rising costs across a range of goods and services, some with little connection to more expensive oil and gas or surging investment in artificial intelligence data centers, another factor blamed for worsening inflation. And there"
+   },
+   {
+    "title": "US consumer prices rise briskly for third straight month | Reuters",
+    "url": "https://www.reuters.com/5f374b32b07b/world/us/us-consumer-prices-rise-above-expectations-october-2026-11-10/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": "November 10, 2026 1:37 PM UTC Updated November 10, 2026 ... - Consumer Price Index increases 0.4% in October - Economists in Reuters poll had expected 0.3% gain - CPI excluding food and energy rises 0.3% for third straight month - BLS did not publish year-over-year figures because of last year's government shutdown WASHINGTON, Nov 10 (Reuters) - US consumer prices increased more than expected in October amid higher costs for food and accommodation, cementing expectations that the Federal Reserve will raise interest rates next month. The Consumer Price Index report from the Labor Department on Tuesday also showed ​a strong buildup of underlying inflation pressures for a third straight month. It followed data last week showing the labor market regained momentum in October. Inflation is being driven by the US-Israeli war with Iran, which has boosted oil ‌prices, the Trump administration's import tariffs, resilient consumer spending and aggressive business investment in artificial"
+   },
+   {
+    "title": "U.S. CPI Fuels Talk of Half-Point Fed Hike as Treasury Yields Spike - Seoul Economic Daily",
+    "url": "https://en.sedaily.com/economy/2026/11/12/us-cpi-fuels-talk-of-half-point-fed-hike-as-treasury-yields",
+    "source": "en.sedaily.com",
+    "published": "",
+    "excerpt": "Published 2026.11.12. 13:21:01 ... ■ Big-step debate: Christopher Waller, a governor of the U.S. Federal Reserve, said the Fed should consider raising its benchmark rate by 0.50 percentage points at its December meeting if October core consumer price index growth came in at or above roughly 0.3%. The CPI released shortly after his speech met that condition exactly. Energy price gains have slowed, but price pressure has spread to transportation services, food and housing costs. A string of hawkish comments from Fed officials sent New York stocks broadly lower, and the 10-year U.S. Treasury yield climbed as high as 5.021% during the session. ... Waller Floats a December Half-Point Hike, but AI Sentiment and Oil Cloud the Outlook - Key points: Fed Governor Waller said the central bank should consider a half-point hike in December if October core CPI came in near 0.3%, and the reading released just after his remarks met that bar, strengthening the case inside the Fed for a larger move. Waller said raising rates by only 0.25 percentage points could jeopardize the Fed's credibility, and Dallas Federal Reserve Bank President Lorie Logan also argued for at least two quarter-point increases. The two-year Treasury yield jumped 0.18 percentage points in a single day to 4.74%. Even so, CME FedWatch pricing put the probability of a December hike at 100% but the odds of a 0.50-percentage-point move at just 13.2%, leaving the prevailing view that the Fed will moderate its pace given the surge in corporate bond yields and the deterioration in AI investment sentiment."
+   },
+   {
+    "title": "Inflation pace slowed in October, but prices remain high",
+    "url": "https://www.washingtonpost.com/business/2026/11/10/inflation-pace-slowed-october-prices-remain-high/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": ",” she said. Many economists expect the Federal Reserve to raise rates at its December meeting in a bid ... clear: the inflation fight is not finished,” Shah wrote. The Fed ... as people forgo road trips and stay closer to home. The steady prices over"
+   },
+   {
+    "title": "Austan Goolsbee calls inflation report 'borderline disturbing' as Fed weighs more hikes",
+    "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "The consumer price index rose 0.4% on a seasonally adjusted basis in October, according to the Bureau of Labor Statistics' Tuesday morning release ... That was higher than economists had predicted, and the third straight month of outsized price increases"
+   },
+   {
+    "title": "Inflation runs hotter than expected as higher prices extend beyond the gas station | PBS News",
+    "url": "https://www.pbs.org/newshour/economy/inflation-runs-hotter-than-expected-as-higher-prices-extend-beyond-the-gas-station",
+    "source": "pbs.org",
+    "published": "",
+    "excerpt": "The new inflation data heightened concerns that strong consumer and business spending, combined with higher gas prices and supply disruptions stemming from tariffs and global turmoil, are creating increasingly stubborn inflation that could extend beyond ... The economy expanded at a 3.4% annual rate in the July-September quarter, mostly driven by consumer spending."
+   },
+   {
+    "title": "Market spooked because now the Fed may need a supersized hike in December",
+    "url": "https://www.cnbc.com/2026/11/10/market-spooked-because-now-the-fed-may-need-a-supersized-hike-in-december.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Wall Street has recently been able to put inflation worries on the back burner, as traders focused instead on the U.S. midterm elections and wild swings in tech stocks. That's over now. The consumer price index rose 0.4% in October from"
+   },
+   {
+    "title": "Hot October inflation report rattles markets By Reuters",
+    "url": "https://www.investing.com/news/economic-indicators/hot-october-inflation-report-rattles-markets-5015775",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "The Consumer Price Index rose 0.4% last month after advancing 0.6% in September, the Labor Department’s Bureau of Labor Statistics said on Tuesday. Economists polled by Reuters had forecast the CPI climbing 0.3% over the month."
+   },
+   {
+    "title": "US Dollar Index (DXY) Hits One-Month High After Hot CPI",
+    "url": "https://www.vantagemarkets.com/market-news/us-dollar-index-dxy-one-month-high-hot-inflation-november-12-2026/",
+    "source": "vantagemarkets.com",
+    "published": "",
+    "excerpt": "Traders added to bets on a further Federal Reserve rate hike after October US inflation data came in stronger than expected and Fed officials voiced concern about stubborn inflation, Reuters reported. ... -basis-point increase, and Goldman Sachs now"
+   },
+   {
+    "title": "CPI Continues Climbing – U.S. Economic Snapshot",
+    "url": "https://econsnapshot.com/2026/11/11/cpi-continues-climbing/",
+    "source": "econsnapshot.com",
+    "published": "",
+    "excerpt": "The BLS announced that CPI inflation fell from 8.07% to 4.28% on an annualized basis (that is, month-over-month), the year over year rate increased from 3.72% to 3.95%, and our trend measure dropped slightly from 4.62% to 4.51%."
+   }
+  ],
+  "text": "[1] As higher prices seep into broader economy, Fed officials consider faster hikes (apnews.com)\nWASHINGTON (AP) — More evidence this week of hot inflation in the U.S. was unpleasant news for the Federal Reserve, not to mention consumers: Rising prices may be spreading beyond the one-time shocks from tariffs and high gas prices into the wider economy, meaning that mortgages, credit cards and other forms of borrowing are likely to become increasingly expensive. Tuesday's consumer price index report showed broadly rising costs across a range of goods and services, some with little connection to more expensive oil and gas or surging investment in artificial intelligence data centers, …\n\n[2] US consumer prices rise briskly for third straight month | Reuters (reuters.com)\nNovember 10, 2026 1:37 PM UTC Updated November 10, 2026 ... - Consumer Price Index increases 0.4% in October - Economists in Reuters poll had expected 0.3% gain - CPI excluding food and energy rises 0.3% for third straight month - BLS did not publish year-over-year figures because of last year's government shutdown WASHINGTON, Nov 10 (Reuters) - US consumer prices increased more than expected in October amid higher costs for food and accommodation, cementing expectations that the Federal Reserve will raise interest rates next month. The Consumer Price Index report from the Labor Department on …\n\n[3] U.S. CPI Fuels Talk of Half-Point Fed Hike as Treasury Yields Spike - Seoul Economic Daily (en.sedaily.com)\nPublished 2026.11.12. 13:21:01 ... ■ Big-step debate: Christopher Waller, a governor of the U.S. Federal Reserve, said the Fed should consider raising its benchmark rate by 0.50 percentage points at its December meeting if October core consumer price index growth came in at or above roughly 0.3%. The CPI released shortly after his speech met that condition exactly. Energy price gains have slowed, but price pressure has spread to transportation services, food and housing costs. A string of hawkish comments from Fed officials sent New York stocks broadly lower, and the 10-year U.S. Treasury …\n\n[4] Inflation pace slowed in October, but prices remain high (washingtonpost.com)\n,” she said. Many economists expect the Federal Reserve to raise rates at its December meeting in a bid ... clear: the inflation fight is not finished,” Shah wrote. The Fed ... as people forgo road trips and stay closer to home. The steady prices over\n\n[5] Austan Goolsbee calls inflation report 'borderline disturbing' as Fed weighs more hikes (cnbc.com)\nThe consumer price index rose 0.4% on a seasonally adjusted basis in October, according to the Bureau of Labor Statistics' Tuesday morning release ... That was higher than economists had predicted, and the third straight month of outsized price increases\n\n[6] Inflation runs hotter than expected as higher prices extend beyond the gas station | PBS News (pbs.org)\nThe new inflation data heightened concerns that strong consumer and business spending, combined with higher gas prices and supply disruptions stemming from tariffs and global turmoil, are creating increasingly stubborn inflation that could extend beyond ... The economy expanded at a 3.4% annual rate in the July-September quarter, mostly driven by consumer spending.\n\n[7] Market spooked because now the Fed may need a supersized hike in December (cnbc.com)\nWall Street has recently been able to put inflation worries on the back burner, as traders focused instead on the U.S. midterm elections and wild swings in tech stocks. That's over now. The consumer price index rose 0.4% in October from\n\n[8] Hot October inflation report rattles markets By Reuters (investing.com)\nThe Consumer Price Index rose 0.4% last month after advancing 0.6% in September, the Labor Department’s Bureau of Labor Statistics said on Tuesday. Economists polled by Reuters had forecast the CPI climbing 0.3% over the month.\n\n[9] US Dollar Index (DXY) Hits One-Month High After Hot CPI (vantagemarkets.com)\nTraders added to bets on a further Federal Reserve rate hike after October US inflation data came in stronger than expected and Fed officials voiced concern about stubborn inflation, Reuters reported. ... -basis-point increase, and Goldman Sachs now\n\n[10] CPI Continues Climbing – U.S. Economic Snapshot (econsnapshot.com)\nThe BLS announced that CPI inflation fell from 8.07% to 4.28% on an annualized basis (that is, month-over-month), the year over year rate increased from 3.72% to 3.95%, and our trend measure dropped slightly from 4.62% to 4.51%.",
+  "hash": "3a3469e74d0520c8eec0abe00d7ae4e89522441d90900a0c7b1e972dac6f5480",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 12, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-12T05:04:39+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Live updates: Democrat Scott Colom wins Mississippi US Senate race | AP News",
+    "url": "https://apnews.com/live/trump-congress-midterm-elections-politics-news-updates-11-11-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "November 11, 2026 8:24 PM MST # Scott Colom’s win in Mississippi widens Democrats’ US Senate majority Edited By BRIDGET BROWN, MICHAEL WARREN, LUENA RODRIGUEZ-FEO VILEIRA, LISA MARIE PANE and ANJALIE TANDON Updated 8:32 PM MST, November 11, 2026 Here’s what we’re following: - Democratic nominee Scott Colom defeated Republican Sen. Cindy Hyde-Smith in Mississippi’s closely contested U.S. Senate race on Wednesday after a prolonged ballot counting process. Colom will be Mississippi’s first Black U.S. senator since post-Civil War Reconstruction — a seismic shift that adds to the decisive midterm rebuke of President Donald Trump, particularly in GOP-controlled states. - Gearing up for the"
+   },
+   {
+    "title": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "Democrat Scott Colom claimed victory in the Mississippi Senate race in remarks to supporters in Jackson, Mississippi. His defeat of incumbent Republican ... Democratic majority in the new US Senate that convenes in January to at least 55 seats. A victory"
+   },
+   {
+    "title": "U.S. attorney demands Sen. Richard Blumenthal preserve documents from his inquiry into White House ballroom",
+    "url": "https://www.nbcnews.com/politics/trump-administration/us-attorney-demands-sen-richard-blumenthal-preserve-documents-inquiry-rcna608899",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "Nov. 11, 2026, 9:11 PM EST By Raquel Coronell Uribe, Ryan J. Reilly and Frank Thorp V A Justice Department official called on Sen. Richard Blumenthal, D-Conn., on Wednesday to preserve documents related to what he claims is harassment of citizens during Blumenthal’s investigation into White House ballroom donors, threatening “significant legal consequences” if he does not comply. The U.S. attorney for the Southern District of Texas, Aaron Reitz, alleged in a letter to Blumenthal that his investigation equated to threatening “citizens for associating themselves with the President and other public officials.” The White House warned congressional Democrats on Wednesday that efforts to investigate the administration could be a crime. In a post on X with a copy of the letter attached, Reitz equated Blumenthal’s investigation examining anonymous donors for the roughly $400 million project on White House grounds with wielding Congress as a “weapon” against Americans. “I’m taking the first step to stop this abuse of power,” Reitz said. Acting Deputy Attorney General Trent McCotter, the second-highest-ranking official at the Justice Department, responded to Reitz’s post, saying, “The First Amendment expressly prohibits Congress from infringing the speech and association rights of Americans.” “DOJ will defend against threats to those rights, period,” McCotter wrote. Blumenthal said in a statement responding to the letter that he “will not be intimidated,” vowing to “vigorously pursue investigations into this Administration’s persistent misuse of taxpayer dollars and any corporate entity that has enabled their boundless corruption.” “The Trump Administration is so afraid of transparency and oversight that they are weaponizing the Department of Justice to baselessly target Congress in direct violation of the Constitution,” Blumenthal wrote. Blumenthal is the top Democrat on the Homeland Security and Governmental Affairs Permanent Subcommittee on Investigations. The subcommittee is tasked with studying the economics and efficiency of government operations. Blumenthal sent letters last month to a list of people whom a Washington Post report identified as having donated private funds to the ballroom’s construction. A news release said he was “leading an inquiry into waste, fraud, and abuse associated with the White House ballroom and other projects throughout the nation’s capital.” President Donald Trump had vowed to release the names of the private donors, but he has made only a partial list public. A few donors have acknowledged their donations, including Nvidia CEO Jensen Huang, who is under investigation by the company and the FBI for an affair with an alleged Chinese spy. Trump defended Huang in remarks to reporters this week. Reitz’s letter cited the federal conspiracy against rights statute, as well as the federal deprivation of rights under color of law statute. Such an overt investigative measure against a sitting member of Congress would typically have undergone an extensive review process within the Justice Department’s Public Integrity Office, but that office has been shrunk and sidelined in the second Trump term. A Justice Department spokesperson said in a statement that “the Department routinely requests that records be preserved when public officials take such extreme actions,” alleging that Blumenthal’s letters were an attempt to “suppress their First Amendment activities, including their philanthropic practices.” ... Blumenthal on Wednesday night responded to Reitz’s letter with a record preservation request of his own, calling his efforts to investigate the ballroom donations “appropriate” and part of his “constitutional duties.” “Since you appear to have evidence of the Trump Administration’s efforts to protect corporate donors and Administration officials from legitimate oversight, I accordingly direct you to preserve all records and correspondence, including all communications with the White House or senior officials at the Department of Justice, related to the decision to draft and post your letter,” Blumenthal wrote."
+   },
+   {
+    "title": "White House faces unusual obstacle on confirming Trump judges: other Republicans | WBAL Baltimore News",
+    "url": "https://www.wbal.com/white-house-faces-unusual-obstacle-on-confirming-trump-judges-other-republicans",
+    "source": "wbal.com",
+    "published": "",
+    "excerpt": "- November 11, 2026 WASHINGTON (AP) — Several Republican senators are complicating a White House plan to leave an enduring imprint on the judiciary long after President Donald Trump leaves office by throwing up obstacles for a handful of his judicial nominees in the final weeks of their Senate majority. In Texas, outgoing Sen. John Cornyn has expressed reservations about a top Justice Department official who has been nominated for a federal judgeship in the Dallas area. The two Arkansas senators, both Republicans, opposed a Trump nominee to a powerful appeals court seat, forcing the White House to withdraw Trump’s pick this week. And in Oklahoma, an appointed GOP senator has thrown up sudden objections to a district court nominee after earlier giving him the green light. Central to this effort are Cornyn and retiring North Carolina Sen. Thom Tillis, both of whom serve on the Judiciary Committee and are using their leverage to effectively block nominations on behalf of Republicans who aren’t on the panel. Though it comes after the midterm losses that weakened Trump’s political standing, this under-the-radar judiciary fight is more about Republicans asserting their powers over the administration’s judge selections, which has long been a cherished prerogative for senators , particularly for their home states. Asked about his opposition to the Arkansas and Oklahoma nominees, Tillis said he wants senators and their views on the prospective judges to be heard by the administration. His message to the White House, Tillis said, was: “Don’t treat us like a manufacturing facility. Treat us like the U.S. Senate.” “I’m not making a judgment about the merit of the nominee. I’m calling a foul on a process,” Tillis said in an interview with the Associated Press. “And the sooner the White House gets that, the more productive this next two years will be. If they don’t, they do so at their own peril.” Trump had nominated Lee Rudofsky of Arkansas to the 8th Circuit Court of Appeals. But the White House abruptly pulled that nomination on Tuesday, after Cornyn and Tillis had privately conveyed to Senate Judiciary Committee Chairman Chuck Grassley, R-Iowa, that they would vote against Rudofsky in committee, according to two people with knowledge of the discussions who spoke on condition of anonymity to confirm private deliberations. Grassley also was forced to postpone a key committee vote on Tuesday for Oklahoma judicial nominee Zachary West because of opposition from Tillis on behalf of Sen. Alan Armstrong, one of the people said. The obstacles for the White House come as Senate Republicans have been"
+   },
+   {
+    "title": "White House claims possible 'criminality' over Democrats' planned probes",
+    "url": "https://www.scrippsnews.com/politics/the-president/white-house-confronts-democrats-over-planned-probes-claiming-possible-criminality",
+    "source": "scrippsnews.com",
+    "published": "",
+    "excerpt": "The White House has issued a warning to Democrats over their planned probes into the Trump administration, going as far as claiming that such investigations — a standard oversight function of Congress — may amount to “blatant criminality.”"
+   },
+   {
+    "title": "One month from shutdown, Congress is far from a deal to fund government - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/11/11/one-month-shutdown-congress-is-far-deal-fund-government/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "Congress remains at an impasse on how to fund the government just one month away from the deadline to avoid a shutdown ahead of the holidays. The top Senate and House appropriators discussed on Monday plans to secure government funding by the Dec. 11 deadline, but they emerged from the meeting with no definitive agreement on a path forward. Democrats and Republicans have been at an impasse since the summer. Democrats would rather pursue short-term funding at current levels until next year, when they will control Congress. But Republicans would prefer to take advantage of their last opportunity in power"
+   },
+   {
+    "title": "AP News in Brief at 9:04 p.m. EST | National | guardonline.com",
+    "url": "https://www.guardonline.com/news/national/ap-news-in-brief-at-9-04-p-m-est/article_5b859f52-2436-530e-85b0-83b5e8db85ee.html",
+    "source": "guardonline.com",
+    "published": "",
+    "excerpt": ", Miss. (AP) — Democratic nominee Scott Colom defeated Republican Sen. Cindy Hyde-Smith on Wednesday in Mississippi's closely contested U.S. Senate race after a prolonged ballot counting process, giving the state its first Black U.S. senator since"
+   },
+   {
+    "title": "National Briefs (November 12, 2026) – The American Israelite Newspaper",
+    "url": "https://americanisraelite.com/national-briefs-november-12-2026/",
+    "source": "americanisraelite.com",
+    "published": "",
+    "excerpt": "Texas state House member James Talarico defeated his Republican opponent Ken Paxton, the state attorney general, ... 60% of the vote and more than 70% of votes counted. The Associated Press called the race for Talarico about two hours after polls closed."
+   },
+   {
+    "title": "World news digest for November 12, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-12",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "described the situation differently: Trump said the war with Iran is effectively over while the naval blockade continues, and Secretary of State Marco Rubio said large-scale military operations are not needed because sanctions are hurting Iran's"
+   },
+   {
+    "title": "Breaking News Live Updates, November 12: Nvidia board to decide on Jensen Huang's future as CEO at Wednesday meeting - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-november-12/liveblog/135751098.cms",
+    "source": "timesofindia.indiatimes.com",
+    "published": "",
+    "excerpt": "Trump administration could be criminal 10:03 (IST) Nov 12 US envoys en route to Moscow, to meet Putin's envoy ... 4.9-magnitude earthquake hits Nepal Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction"
+   }
+  ],
+  "text": "[1] Live updates: Democrat Scott Colom wins Mississippi US Senate race | AP News (apnews.com)\nNovember 11, 2026 8:24 PM MST # Scott Colom’s win in Mississippi widens Democrats’ US Senate majority Edited By BRIDGET BROWN, MICHAEL WARREN, LUENA RODRIGUEZ-FEO VILEIRA, LISA MARIE PANE and ANJALIE TANDON Updated 8:32 PM MST, November 11, 2026 Here’s what we’re following: - Democratic nominee Scott Colom defeated Republican Sen. Cindy Hyde-Smith in Mississippi’s closely contested U.S. Senate race on Wednesday after a prolonged ballot counting process. Colom will be Mississippi’s first Black U.S. senator since post-Civil War Reconstruction — a seismic shift that adds to the decisive midterm …\n\n[2] Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live (theguardian.com)\nDemocrat Scott Colom claimed victory in the Mississippi Senate race in remarks to supporters in Jackson, Mississippi. His defeat of incumbent Republican ... Democratic majority in the new US Senate that convenes in January to at least 55 seats. A victory\n\n[3] U.S. attorney demands Sen. Richard Blumenthal preserve documents from his inquiry into White House ballroom (nbcnews.com)\nNov. 11, 2026, 9:11 PM EST By Raquel Coronell Uribe, Ryan J. Reilly and Frank Thorp V A Justice Department official called on Sen. Richard Blumenthal, D-Conn., on Wednesday to preserve documents related to what he claims is harassment of citizens during Blumenthal’s investigation into White House ballroom donors, threatening “significant legal consequences” if he does not comply. The U.S. attorney for the Southern District of Texas, Aaron Reitz, alleged in a letter to Blumenthal that his investigation equated to threatening “citizens for associating themselves with the President and other …\n\n[4] White House faces unusual obstacle on confirming Trump judges: other Republicans | WBAL Baltimore News (wbal.com)\n- November 11, 2026 WASHINGTON (AP) — Several Republican senators are complicating a White House plan to leave an enduring imprint on the judiciary long after President Donald Trump leaves office by throwing up obstacles for a handful of his judicial nominees in the final weeks of their Senate majority. In Texas, outgoing Sen. John Cornyn has expressed reservations about a top Justice Department official who has been nominated for a federal judgeship in the Dallas area. The two Arkansas senators, both Republicans, opposed a Trump nominee to a powerful appeals court seat, forcing the White …\n\n[5] White House claims possible 'criminality' over Democrats' planned probes (scrippsnews.com)\nThe White House has issued a warning to Democrats over their planned probes into the Trump administration, going as far as claiming that such investigations — a standard oversight function of Congress — may amount to “blatant criminality.”\n\n[6] One month from shutdown, Congress is far from a deal to fund government - The Washington Post (washingtonpost.com)\nCongress remains at an impasse on how to fund the government just one month away from the deadline to avoid a shutdown ahead of the holidays. The top Senate and House appropriators discussed on Monday plans to secure government funding by the Dec. 11 deadline, but they emerged from the meeting with no definitive agreement on a path forward. Democrats and Republicans have been at an impasse since the summer. Democrats would rather pursue short-term funding at current levels until next year, when they will control Congress. But Republicans would prefer to take advantage of their last …\n\n[7] AP News in Brief at 9:04 p.m. EST | National | guardonline.com (guardonline.com)\n, Miss. (AP) — Democratic nominee Scott Colom defeated Republican Sen. Cindy Hyde-Smith on Wednesday in Mississippi's closely contested U.S. Senate race after a prolonged ballot counting process, giving the state its first Black U.S. senator since\n\n[8] National Briefs (November 12, 2026) – The American Israelite Newspaper (americanisraelite.com)\nTexas state House member James Talarico defeated his Republican opponent Ken Paxton, the state attorney general, ... 60% of the vote and more than 70% of votes counted. The Associated Press called the race for Talarico about two hours after polls closed.\n\n[9] World news digest for November 12, 2026 | World Watch (worldwatch.media)\ndescribed the situation differently: Trump said the war with Iran is effectively over while the naval blockade continues, and Secretary of State Marco Rubio said large-scale military operations are not needed because sanctions are hurting Iran's\n\n[10] Breaking News Live Updates, November 12: Nvidia board to decide on Jensen Huang's future as CEO at Wednesday meeting - The Times of India (timesofindia.indiatimes.com)\nTrump administration could be criminal 10:03 (IST) Nov 12 US envoys en route to Moscow, to meet Putin's envoy ... 4.9-magnitude earthquake hits Nepal Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction",
+  "hash": "2b426d868ebc37ffbbb12df53b7dcb7c7f8c2fd4a8c532c166a219f9214c40ca",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 12, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-12T05:04:53+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Ariana Grande, Ricky Álvarez Make Red Carpet Debut at Focker In-Law",
+    "url": "https://www.eonline.com/news/1438036/ariana-grande-ricky-alvarez-make-red-carpet-debut-at-focker-in-law",
+    "source": "eonline.com",
+    "published": "",
+    "excerpt": "Ariana Grande and boyfriend Ricky Álvarez stood side to side as they made their official red carpet debut at the New York City premiere of Focker In-Law Nov. 11. By Sabba Rahbar Nov 12, 2026 12:41 AM | Updated 2 hours ago ... The “Love Me Harder” singer and her former backup dancer attended the New York City premiere of Focker In-Law Nov. 11, marking their first official red carpet outing since rekindling their romance earlier this year."
+   },
+   {
+    "title": "Entertainment Live News Updates Today (November 12): Anirudh Ravichander-Kavya Maran Wedding First Pics Out; Kareena Kapoor Gets Legal Notice Over Quran Pendant | Latest Bollywood News Live Today | Trending Entertainment News Live Today In India | Anirudh Ravichander Kavya Maran Wedding Pics - Filmibeat",
+    "url": "https://www.filmibeat.com/bollywood/news/2026/entertainment-live-news-updates-anirudh-kavya-maran-wedding-first-pics-kareena-kapoor-legal-notice-537739.html",
+    "source": "filmibeat.com",
+    "published": "",
+    "excerpt": "Published: Thursday, November 12, 2026, 9:55 [IST] ... ## Latest & Trending Entertainment Live News Updates Today To begin with, Anirudh Ravichander and Kavya Maran are officially married! The couple tied the knot in Greece on November 11. Taking to social media, Anirudh shared a series of dreamy wedding pictures, giving fans a glimpse into their special day. Kareena Kapoor Khan has reportedly received a legal notice over her Diwali pendant. The emerald-studded royal heirloom pendant, which she wore during the celebrations, drew attention after it was revealed to feature an engraving of the Quranic verse Ayat-ul-Kursi."
+   },
+   {
+    "title": "K-pop News Today (Nov 12, 2026): Coachella 2027, BTS, IVE, RESCENE",
+    "url": "https://seolnotes.com/k-pop/kpop-news-2026-11-12/",
+    "source": "seolnotes.com",
+    "published": "",
+    "excerpt": "## JISOO, NCT and BABYMONSTER Are Heading to Coachella 2027 BLACKPINK’s JISOO, NCT and BABYMONSTER are on the lineup for Coachella 2027, which the festival announced on Nov. 10 (local time), Yonhap and Kyunghyang Shinmun reported on Nov. 11. JISOO plays on April 9 and 16, NCT on April 10 and 17, and BABYMONSTER on April 11 and 18 in Indio, California. Pansori-pop band Leenalchi and Berlin-based Korean DJ Peggy Gou are also on the bill, with Dua Lipa, Tame Impala and SZA as headliners and Madonna on the lineup too. JISOO has played Coachella with BLACKPINK in 2019 and 2023, when the group became the first K-pop act to headline, and this time she returns as a soloist. NCT are listed simply as “NCT,” with no unit named, and it will be their first Coachella. For BABYMONSTER, it is the dream stage they have talked about since their early days, coming about three years after their official debut in April 2024, and Edaily noted they are the first fifth-generation K-pop group to make the lineup. ... ## BTS’s “SWIM” Is the Only K-pop Group Song on Apple Music’s “Best Songs of 2026” “SWIM,” the title track of BTS’s fifth full album “ARIRANG,” made Apple Music’s “Best Songs of 2026,” a list of 100 songs announced on Nov. 7 (local time), BIGHIT MUSIC said on Nov. 11, as Yonhap and Newsis reported. BTS are the only K-pop group on the list, and “SWIM” also appears on Apple Music’s A-List Pop, Viral Hits and KPOPWRLD year-end playlists. “BTS’s ‘ARIRANG’ comeback was a moment K-pop had long been waiting for,” Apple Music wrote, adding that the group “redefined the flow of K-pop in 2026.” JENNIE’s feature on Tame Impala’s “Dracula” and pianist Lim Yunchan’s live Carnegie Hall recording of Bach’s “Goldberg Variations” made the list too. The album is still going strong in the US: “ARIRANG” sits at No. 62 on the Billboard 200 dated Nov. 14, its 33rd straight week on the chart, and “SWIM” climbed five spots to No. 28 on the Global 200. The “SWIM” MV had 174,235,286 views when we checked. ARMY, the “ARIRANG” tour heads to Southeast Asia next, starting in Kaohsiung on Nov. 19. ... ## IVE Enter the Billboard 200 for the First Time and Top the Emerging Artists Chart IVE’s mini album “Looks Can Kill” entered the Billboard 200 at No. 126 on the chart dated Nov. 14, the group’s first time on Billboard’s main album chart, Top Star News and OSEN reported on Nov. 11. IVE also reached No. 1 on the Emerging Artists chart and re-entered the Artist 100 at No. 66. The album placed No. 2 on World Albums, No. 6 on Top Album Sales and No. 19 on Independent Albums, all higher than their last album “REVIVE+,” and the title track spent a second week on the Global Excl. U.S. chart. It comes about four years and 11 months after their debut in December 2021, and after a world tour that wrapped in August and grew their North American run from six cities to eight, all in arenas. At home, “Looks Can Kill” topped Circle Chart’s weekly album and retail album charts, and IVE held No. 1 on Hanteo’s world chart for a third straight week. ... ## RESCENE Win “Show Champion” and Announce Their First Solo Concert RESCENE won first place on MBC M’s “Show Champion” on Nov. 11 with “With,” their second music show trophy in two days after SBS LIFE’s “THE SHOW” on Nov. 10, Top Star News reported. “I think we could win this because Remine are always right beside us, loving us the most,” WONI said on stage. The same day, the group announced “2027 RESCENE CONCERT IN SEOUL,” their first solo concert, set for Feb. 19 to 21, 2027, at Olympic Hall in Seoul’s Olympic Park, MK Sports reported. “Holding our first solo concert, which we’ve wished for since debut, feels like a dream,” the members said, and tickets open in December through the Coupang Play app. Three years in, RESCENE are finally getting the stage of their own that fans have been asking for. ... ## LISA’s Documentary “Always Lalisa” and New Song “Leave With Me” Arrive on Nov. 18 LISA’s documentary “Always Lalisa,” which follows her year of solo work, will stream exclusively on YouTube Premium from Nov. 18, YouTube announced on its official blog on Nov. 10 (local time), Sports Kyunghyang reported on Nov. 11. “Leave With Me,” the song made for the film and first heard over its end credits in theaters, gets its official release the same day."
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4005391-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Nicolas Cage transformed ‘from within’ for ‘Madden,’ co-star Kathryn Hahn says Nicolas Cage so fully ​transformed himself into NFL legend John Madden for the new biopic “Madden” that co-star ​Kathryn Hahn says she spent an entire production with him ‌without ​ever feeling she had met the real Cage. Hahn, who plays Madden’s wife Virginia, said Cage remained covered in prosthetics throughout production, transforming him into Madden more than just physically. ... Actor Stacy Keach, known for playing Hammer, Hamlet and Hemingway, dead at 85 Actor ⁠Stacy Keach, who portrayed rugged characters such as fictional detective Mike Hammer and legendary American novelist Ernest Hemingway, died on Tuesday at the age of 85, his wife said in a"
+   },
+   {
+    "title": "Breaking News | TheFutonCritic.com - The Web's Best Television Resource",
+    "url": "http://thefutoncritic.com/news/2026/11/12/",
+    "source": "thefutoncritic.com",
+    "published": "",
+    "excerpt": "11/26 - 05:06 AM] MGM+ Greenlights \"The American ... , Based on the New York Times Best-Selling Novel by Daisy Goodwin In ... communities,\" said Matt Greenberg, Reelz Senior Vice President of Marketing & Growth. |"
+   },
+   {
+    "title": "November 12, 2026 - Media Solutions in BlackNewss Diversity",
+    "url": "https://www.blacknewss.com/2026/11/12/",
+    "source": "blacknewss.com",
+    "published": "",
+    "excerpt": "Actor and comedian Anthony Clark, who starred in the long-running CBS sitcom ... ## Scrubs’ Zach Braff Unpacks J.D. And Elliot Fantasy, Clarifies Kim/Sam Canon, And Shares Season 3 Hopes ... about the buzzed-about J.D. and Elliot fantasy, J.D.’s son Sam,"
+   },
+   {
+    "title": "Movies Coming Out November 12, 2026",
+    "url": "https://www.movieinsider.com/movies/november/2026/12",
+    "source": "movieinsider.com",
+    "published": "",
+    "excerpt": "## Thursday, November 12 88 mins ### PAW Patrol: The Dino Movie PG After their ship gets caught in a mysterious storm, the PAW Patrol pups crash land on an uncharted tropical island filled with dinosaurs. They meet Rex, a pup who has been stranded on the island for years and has become an expert in all things dino-related. When the PAW Patrol's archrival, Mayor Humdinger, begins recklessly mining in hopes of exploiting the island for its natural resources, he inadvertently causes a huge, dormant volcano to erupt. The PAW Patrol pups are thrown into a series of high-stakes, dino-sized rescues bigger than anything they've done before, as they must stop Humdinger before everything on the island goes extinct. McKenna Grace, Fortune Feimster, Jennifer Hudson, Snoop Dogg, Cal Brunker, Terry Crews, William Desrosiers, Ronnen Harary Adventure Sequel Family Where to Watch: Paramount+ ... ### The Christmas Switch This heartwarming holiday story follows the sisters, Mathilda and Freddie, whose personalities and lives couldn't be more different. Mathilda is a homebody who has never left the small-town village and Freddie is a work-hard-play-hard city girl. In the weeks leading up to Christmas, an unexpected twist forces them to swap lives. As they step into each other’s worlds, they face new challenges, begin to question the paths that they’re on, and find love blooming where they least expect it. Christin Magdu, Lena Rehnberg, Eleonor Sager, Mikael Syrén, Dag Malmberg, Maria Kulle, Hadis Jabbari Linnell, Viktor Linnell Romance Holiday Where to Watch: Netflix ... ### Allen 20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated — and unexpected. Daley Pearson, Josh Helman, Charlotte Nicdao, Emily Barclay, T.J Power, Sophie Miller, Benedict Hardie ... ### The Good Daughter (series)"
+   },
+   {
+    "title": "MoMA’s 18th Annual Film Benefit, Presented by CHANEL, To Honor Steven Spielberg on November 12",
+    "url": "https://press.moma.org/news/momas-18th-annual-film-benefit-presented-by-chanel-to-honor-steven-spielberg-on-november-12/",
+    "source": "press.moma.org",
+    "published": "",
+    "excerpt": "The Museum of Modern Art’s 2026 Film Benefit, presented by CHANEL, will honor Academy Award–winning director and producer Steven Spielberg on November 12. ... is one of the most successful and influential filmmakers in history, having directed more than"
+   },
+   {
+    "title": "FKA Twigs stars as Josephine Baker in new biopic | Parallax",
+    "url": "https://parallax.news/en/entertainment/fka-twigs-stars-as-josephine-baker-in-new-2026-11-12",
+    "source": "parallax.news",
+    "published": "",
+    "excerpt": "StudioCanal released the first image of FKA Twigs playing Josephine Baker at the American Film Market on Wednesday. ... ## Film covers rise and activism Director Maïmouna Doucouré wrote the script with Olivier Lorelle to follow the subject's career path. The story details her move from St. Louis in 1906 to Paris in 1925. It also includes her efforts in aiding the French Resistance and subsequently supporting the American civil rights movement. Baker became the first Black woman inducted into France's Panthéon in 2021."
+   },
+   {
+    "title": "Jews in the News (November 12, 2026) – The American Israelite Newspaper",
+    "url": "https://americanisraelite.com/jews-in-the-news-november-12-2026/",
+    "source": "americanisraelite.com",
+    "published": "",
+    "excerpt": "is a new documentary tracing the life and legacy of RICHARD AVEDON ( ... film was made by Ron Howard. It premiered at the 2026 Cannes Film Festival ... Nov. 11. The film publicity says: “He captured movie stars and presidents, coal miners and"
+   }
+  ],
+  "text": "[1] Ariana Grande, Ricky Álvarez Make Red Carpet Debut at Focker In-Law (eonline.com)\nAriana Grande and boyfriend Ricky Álvarez stood side to side as they made their official red carpet debut at the New York City premiere of Focker In-Law Nov. 11. By Sabba Rahbar Nov 12, 2026 12:41 AM | Updated 2 hours ago ... The “Love Me Harder” singer and her former backup dancer attended the New York City premiere of Focker In-Law Nov. 11, marking their first official red carpet outing since rekindling their romance earlier this year.\n\n[2] Entertainment Live News Updates Today (November 12): Anirudh Ravichander-Kavya Maran Wedding First Pics Out; Kareena Kapoor Gets Legal Notice Over Quran Pendant | Latest Bollywood News Live Today | Trending Entertainment News Live Today In India | Anirudh Ravichander Kavya Maran Wedding Pics - Filmibeat (filmibeat.com)\nPublished: Thursday, November 12, 2026, 9:55 [IST] ... ## Latest & Trending Entertainment Live News Updates Today To begin with, Anirudh Ravichander and Kavya Maran are officially married! The couple tied the knot in Greece on November 11. Taking to social media, Anirudh shared a series of dreamy wedding pictures, giving fans a glimpse into their special day. Kareena Kapoor Khan has reportedly received a legal notice over her Diwali pendant. The emerald-studded royal heirloom pendant, which she wore during the celebrations, drew attention after it was revealed to feature an engraving of the …\n\n[3] K-pop News Today (Nov 12, 2026): Coachella 2027, BTS, IVE, RESCENE (seolnotes.com)\n## JISOO, NCT and BABYMONSTER Are Heading to Coachella 2027 BLACKPINK’s JISOO, NCT and BABYMONSTER are on the lineup for Coachella 2027, which the festival announced on Nov. 10 (local time), Yonhap and Kyunghyang Shinmun reported on Nov. 11. JISOO plays on April 9 and 16, NCT on April 10 and 17, and BABYMONSTER on April 11 and 18 in Indio, California. Pansori-pop band Leenalchi and Berlin-based Korean DJ Peggy Gou are also on the bill, with Dua Lipa, Tame Impala and SZA as headliners and Madonna on the lineup too. JISOO has played Coachella with BLACKPINK in 2019 and 2023, when the group …\n\n[4] Reuters Entertainment News Summary | International (devdiscourse.com)\nNicolas Cage transformed ‘from within’ for ‘Madden,’ co-star Kathryn Hahn says Nicolas Cage so fully ​transformed himself into NFL legend John Madden for the new biopic “Madden” that co-star ​Kathryn Hahn says she spent an entire production with him ‌without ​ever feeling she had met the real Cage. Hahn, who plays Madden’s wife Virginia, said Cage remained covered in prosthetics throughout production, transforming him into Madden more than just physically. ... Actor Stacy Keach, known for playing Hammer, Hamlet and Hemingway, dead at 85 Actor ⁠Stacy Keach, who portrayed rugged characters such …\n\n[5] Breaking News | TheFutonCritic.com - The Web's Best Television Resource (thefutoncritic.com)\n11/26 - 05:06 AM] MGM+ Greenlights \"The American ... , Based on the New York Times Best-Selling Novel by Daisy Goodwin In ... communities,\" said Matt Greenberg, Reelz Senior Vice President of Marketing & Growth. |\n\n[6] November 12, 2026 - Media Solutions in BlackNewss Diversity (blacknewss.com)\nActor and comedian Anthony Clark, who starred in the long-running CBS sitcom ... ## Scrubs’ Zach Braff Unpacks J.D. And Elliot Fantasy, Clarifies Kim/Sam Canon, And Shares Season 3 Hopes ... about the buzzed-about J.D. and Elliot fantasy, J.D.’s son Sam,\n\n[7] Movies Coming Out November 12, 2026 (movieinsider.com)\n## Thursday, November 12 88 mins ### PAW Patrol: The Dino Movie PG After their ship gets caught in a mysterious storm, the PAW Patrol pups crash land on an uncharted tropical island filled with dinosaurs. They meet Rex, a pup who has been stranded on the island for years and has become an expert in all things dino-related. When the PAW Patrol's archrival, Mayor Humdinger, begins recklessly mining in hopes of exploiting the island for its natural resources, he inadvertently causes a huge, dormant volcano to erupt. The PAW Patrol pups are thrown into a series of high-stakes, dino-sized rescues …\n\n[8] MoMA’s 18th Annual Film Benefit, Presented by CHANEL, To Honor Steven Spielberg on November 12 (press.moma.org)\nThe Museum of Modern Art’s 2026 Film Benefit, presented by CHANEL, will honor Academy Award–winning director and producer Steven Spielberg on November 12. ... is one of the most successful and influential filmmakers in history, having directed more than\n\n[9] FKA Twigs stars as Josephine Baker in new biopic | Parallax (parallax.news)\nStudioCanal released the first image of FKA Twigs playing Josephine Baker at the American Film Market on Wednesday. ... ## Film covers rise and activism Director Maïmouna Doucouré wrote the script with Olivier Lorelle to follow the subject's career path. The story details her move from St. Louis in 1906 to Paris in 1925. It also includes her efforts in aiding the French Resistance and subsequently supporting the American civil rights movement. Baker became the first Black woman inducted into France's Panthéon in 2021.\n\n[10] Jews in the News (November 12, 2026) – The American Israelite Newspaper (americanisraelite.com)\nis a new documentary tracing the life and legacy of RICHARD AVEDON ( ... film was made by Ron Howard. It premiered at the 2026 Cannes Film Festival ... Nov. 11. The film publicity says: “He captured movie stars and presidents, coal miners and",
+  "hash": "e730d80be123dfce9a6cc2b259eb9caa18fa9681dd9dbd6144f44a827ba45ea0",
+  "notes": []
+ }
+}
