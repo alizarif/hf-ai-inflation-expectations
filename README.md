@@ -3,15 +3,15 @@
 ## Run calendar
 
 <!-- CALENDAR:START -->
-**Next scheduled wave:** **Thu Nov 12, 20:00 New York** (EST) = **Fri Nov 13, 04:30 Tehran**  
-**Completed waves:** 143 · calendar updated Nov 12, 16:09 New York / 00:39 Tehran (it refreshes after every wave)
+**Next scheduled wave:** **Fri Nov 13, 00:00 New York** (EST) = **Fri Nov 13, 08:30 Tehran**  
+**Completed waves:** 144 · calendar updated Nov 12, 20:12 New York / 04:42 Tehran (it refreshes after every wave)
 
 Times in the cells are **Tehran time** for each New York slot. 🟢 completed · 🔴 missed · 🟡 due now · ⏳ next · ⚪ scheduled
 
 | New York date | 00:00 ET | 04:00 ET | 08:00 ET | 12:00 ET | 16:00 ET | 20:00 ET |
 |---|---|---|---|---|---|---|
-| Fri Nov 13 | ⚪ 08:30 | ⚪ 12:30 | ⚪ 16:30 | ⚪ 20:30 | ⚪ 00:30 (+1d) | ⚪ 04:30 (+1d) |
-| Thu Nov 12 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | ⏳ 04:30 (+1d) |
+| Fri Nov 13 | ⏳ 08:30 | ⚪ 12:30 | ⚪ 16:30 | ⚪ 20:30 | ⚪ 00:30 (+1d) | ⚪ 04:30 (+1d) |
+| Thu Nov 12 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
 | Wed Nov 11 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
 | Tue Nov 10 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
 | Mon Nov 9 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
@@ -36,8 +36,8 @@ were shown, every prompt, every raw reply, and the parsed answers.
 **Live website:** https://alizarif.github.io/hf-ai-inflation-expectations/ (all waves over time, each wave in detail, and the method; rebuilt after every wave)
 
 <!-- STATUS:START -->
-**Latest wave:** `2026-11-12T16ET` · 420 trials · 420 fully valid · 44 had a probability list rescaled to 100 · cost $0.412  
-**Waves so far:** 143 · **rows in panel:** 60060 · **total cost:** $61.52
+**Latest wave:** `2026-11-12T20ET` · 420 trials · 420 fully valid · 32 had a probability list rescaled to 100 · cost $0.429  
+**Waves so far:** 144 · **rows in panel:** 60480 · **total cost:** $61.95
 <!-- STATUS:END -->
 
 ## Design
