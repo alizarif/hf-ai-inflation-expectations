@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-13T21:04:17+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 13, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-13T21:04:17+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "AP top stories November 13 | AP News",
+    "url": "https://apnews.com/video/ap-top-stories-november-13-a52107be8cfb40e1bdb6edf497670300",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "s the latest for Friday, Nov. 13th: Microsoft struggled to restore services as outage hit companies ... with Putin in Moscow on Ukraine talks, then saw Zelenskyy in Dublin; Israeli strike on Gaza hospital killed 6 people, wounded dozens; Production of the"
+   },
+   {
+    "title": "The News Roundup For November 13, 2026 : 1A : NPR",
+    "url": "https://www.npr.org/2026/11/13/nx-s1-6040038/the-news-roundup-for-november-13-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "Democrats had a feeling that the midterms would go well for their candidates. But few would have predicted that traditionally red states like Mississippi would flip. Now, Scott Colom will head to Washington as the state’s first Democratic senator since 1982. The House tried and failed to impeach the Defense Secretary Defense Secretary Pete Hegseth this week. Republican Rep. Thomas Massie sponsored a resolution to effectively fire the head of the military. But his fellow GOP members did not back him. And Jensen Huang, the co-founder and now former CEO of Nvidia, resigned on Thursday. That’s after revelations of several affairs with his employees and a potential Chinese spy. And, in global news, President Donald Trump said he would hold off on new military action against Iran after appeals from Gulf allies, but the U.S. military continues to build its presence in the Middle East region. Saudi air defences intercepted Houthi missiles and drones launched towards Riyadh, Mecca, and other regions. Houthis have denied targeting Mecca, saying they only target oil facilities and military bases. And there were two days of U.S.-mediated peace talks between Russia and Ukraine in Abu Dhabi. They ended with no major breakthrough. It was the first meeting between the two delegations in nine months."
+   },
+   {
+    "title": "Live updates: Trump tells Vance to shift focus from Iran to ‘corruption' at home | AP News",
+    "url": "https://apnews.com/live/trump-vance-iran-congress-midterms-politics-news-updates-11-13-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Here’s what we’re following: - The Supreme Court agreed Friday to consider President Donald Trump’s ban on asylum at the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive order banning asylum applications is illegal. - Democrats are preparing an onslaught of probes into the Trump administration. Investigations into the federal government’s purchase of an immigration detention facility in Minnesota, whether Robert F. Kennedy Jr. lied to Congress about his 2019 trip to Samoa and several others have been announced. - Democratic Sen. Chris Van Hollen of"
+   },
+   {
+    "title": "Headlines for November 13, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/11/13/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "## Sen. Chris Van Hollen Will Challenge Chuck Schumer for Senate Majority Leader Nov 13, 2026 Maryland Senator Chris Van Hollen said Thursday he will challenge New York’s Chuck Schumer for Senate majority leader when Democrats retake control of both chambers of Congress in January. This follows historic gains for Democrats in last week’s midterm elections. They’ll now control at least 255 seats in the House of Representatives and 55 in the Senate. This is Senator Van Hollen speaking on MS NOW. ... Van Hollen is the first Democratic senator to launch a leadership challenge since 1994. His bid was quickly endorsed by Michigan Senator-elect Abdul El-Sayed and Vermont independent Senator Bernie Sanders. ... ## Nvidia’s Colette Kress to Serve as Interim CEO as Jensen Huang Resigns Amid Scandals Nvidia CEO and co-founder Jensen Huang has resigned. The chip maker says its longtime chief financial officer, Colette Kress, will serve as interim CEO while Nvidia’s board of directors searches for a permanent replacement. Huang stepped down as Reuters reported he’d had an intimate relationship with a second employee, whom Reuters did not name. That follows reports that Huang had an affair with a Chinese businesswoman who U.S. intelligence officials claim was spying for Beijing as part of a Chinese intelligence operation seeking to acquire advanced computer chips, which are banned by U.S. export controls. Huang reportedly helped the alleged spy acquire at least $7.5 billion worth of Nvidia chips for China via a Singapore-based cloud computing company called Megaspeed International. Meanwhile, Bloomberg reports Jensen Huang has agreed to testify before House lawmakers in a closed-door hearing later this month. Nvidia has lost nearly $2 trillion in market capitalization since its all-time high in early October. We’ll have more on this story after headlines. ## Microsoft Outage Disrupts Communications for Millions Across 74 Countries In more technology news, Microsoft is scrambling to fix a major outage that’s disrupted communication for millions of people across at least 74 countries since Thursday morning. The outage has cut off access to Microsoft’s Outlook, Teams and the AI assistant Copilot. ## Iran Says It Blew Up U.S. Early-Warning Radar as Trump Declares, “We Don’t Need a Deal with Iran” Iran’s Islamic Revolutionary Guard Corps says it destroyed a U.S. early-warning radar system in Bahrain in retaliation for a U.S. strike on a telecommunications tower in southern Iran. Officials also claimed four attacks on oil tankers in ​the Strait of Hormuz on Thursday, following strikes on a pair of supertankers one day earlier. Iran’s attacks came as President Trump on Thursday sidelined Vice President JD Vance as the top U.S. negotiator with Iran. Trump said in a social media post he’d directed Vance to instead focus on fighting what Trump called “corruption and crime” in Democratic-controlled cities and states. Trump wrote, “We don’t need a deal with Iran. Those days have long since passed. ... ## Russia and Ukraine Continue Deadly Strikes as U.S."
+   },
+   {
+    "title": "The Christian Science Monitor Daily for November 13, 2026",
+    "url": "https://www.csmonitor.com/Daily/2026/20261113",
+    "source": "csmonitor.com",
+    "published": "",
+    "excerpt": "the strike on Nasser Hospital in southern Gaza targeted an unidentified Hamas commander and ... Ministry said the victims included a surgeon and a 13-year-old boy ... Israel’s strikes on Gaza have continued despite a ceasefire deal with Hamas last year"
+   },
+   {
+    "title": "Morning Briefing: Nov. 13",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-13/4123624",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "the news you need to start your Friday, including US President Donald Trump saying he may use military force against Iran \"right now\" if US allies and ships are threatened, ... Tayyip Erdogan calling for stronger global action on climate change at"
+   },
+   {
+    "title": "What to know to start your day - The Washington Post",
+    "url": "https://www.washingtonpost.com/the-seven/2026/11/13/what-know-start-your-day/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "ZAPORIZHZHIA, Ukraine — President Volodymyr Zelensky reported that problems with the Ukrainian military’s Starlink satellite service persisted Friday, just days after Ukrainian, Russian and U.S. negotiators met for trilateral talks in Abu Dhabi —"
+   },
+   {
+    "title": "Portal:Current events/2026 November 13",
+    "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_13",
+    "source": "en.wikipedia.org",
+    "published": "",
+    "excerpt": "- A tanker and the cruise ship American Heritage collided in the Mississippi River. The cruise ship, carrying 130 people, sunk. Multiple people ... -four people are killed and eleven more injured in a bus–truck collision in Golaghat, India. (Al Jazeera)"
+   },
+   {
+    "title": "Early Edition: November 13, 2026",
+    "url": "https://www.justsecurity.org/164357/early-edition-november-13-2026/",
+    "source": "justsecurity.org",
+    "published": "",
+    "excerpt": "IRGC’s navy today said a tanker carrying liquefied natural gas struck a naval mine and ... were hit by explosions in the strait over Wednesday and Thursday after ignoring warnings and entering what the IRGC considers restricted areas of the strait. The"
+   },
+   {
+    "title": "top news of the day november 13 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/top-news-of-the-day-november-13-2026/article71698171.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "# Top news of the day: 23 die in bus-truck collision in Assam’s Kaziranga; Microsoft outage drags on as company observes ‘limited recovery’, and more Updated - November 13, 2026 07:18 pm IST ... At least 23 die in bus-truck collision in Assam’s Kaziranga; 20 others injured At least 23 people died and 20 others were injured in a head-on collision between a minibus and a container truck near Kaziranga National Park in Assam on Friday (November 13, 2026), officials said. Out of the deceased, two were women, and many were college students who were returning from their classes, a police officer said. The accident occurred at Rangajan near Hathikuli Tea Estate in Kohora range on National Highway 715 when the passenger vehicle collided with the truck, a senior officer said. Microsoft 365 outage drags on as company observes ‘limited recovery’ Microsoft Outlook suffered a major outage across the world Thursday (November 12, 2026), with tens of thousands of users struggling to access their email as the company said it was working “aggressively” to reduce the impact. The disruption, which Microsoft attributed to “elevated load” on its infrastructure, dragged on for much of the U.S. workday and also affected other company products such as Teams and the AI assistant Copilot. ... Delhi overtakes Lahore as world’s most polluted city as air quality drops India’s capital, Delhi, overtook Lahore in ​Pakistan to become the world’s ‌most polluted city on Friday (November 13, 2026), with ​air quality reaching hazardous ⁠levels and visibility dropping as smog blanketed the city of 20 million people. Air quality index (AQI) in Delhi was “hazardous” at 334, making ‌it the most polluted ‌major city, according to Swiss ⁠group IQAir, which measures air quality levels based on the concentration of toxins. In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors In a significant breakthrough towards the conclusion of the India-U.S. interim deal on trade, the U.S. has assured India of a comparative advantage over its competitors once it finalises its tariff structure, a senior official in the Ministry of Commerce and Industry said, adding that both sides are working to complete the deal by the end of the current financial year. Indian officials have repeatedly been saying that India would move ahead with a deal only if the U.S. assured it of a comparative advantage, as was agreed to in the February 2026 joint statement between Prime Minister Narendra Modi and U.S. President Donald Trump. Iran says it struck U.S. military radar in Bahrain The Islamic Revolutionary Guard Corps (IRGC) on Friday (November 13, 2026) said it had “destroyed” a U.S. military early-warning radar in Bahrain, in retaliation for a U.S. strike on a telecommunications tower in Sirik, southern Iran."
+   }
+  ],
+  "text": "[1] AP top stories November 13 | AP News (apnews.com)\ns the latest for Friday, Nov. 13th: Microsoft struggled to restore services as outage hit companies ... with Putin in Moscow on Ukraine talks, then saw Zelenskyy in Dublin; Israeli strike on Gaza hospital killed 6 people, wounded dozens; Production of the\n\n[2] The News Roundup For November 13, 2026 : 1A : NPR (npr.org)\nDemocrats had a feeling that the midterms would go well for their candidates. But few would have predicted that traditionally red states like Mississippi would flip. Now, Scott Colom will head to Washington as the state’s first Democratic senator since 1982. The House tried and failed to impeach the Defense Secretary Defense Secretary Pete Hegseth this week. Republican Rep. Thomas Massie sponsored a resolution to effectively fire the head of the military. But his fellow GOP members did not back him. And Jensen Huang, the co-founder and now former CEO of Nvidia, resigned on Thursday. That’s …\n\n[3] Live updates: Trump tells Vance to shift focus from Iran to ‘corruption' at home | AP News (apnews.com)\nHere’s what we’re following: - The Supreme Court agreed Friday to consider President Donald Trump’s ban on asylum at the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive order banning asylum applications is illegal. - Democrats are preparing an onslaught of probes into the Trump administration. Investigations into the federal government’s purchase of an immigration detention facility in Minnesota, whether Robert F. Kennedy Jr. lied to Congress about his 2019 …\n\n[4] Headlines for November 13, 2026 | Democracy Now! (democracynow.org)\n## Sen. Chris Van Hollen Will Challenge Chuck Schumer for Senate Majority Leader Nov 13, 2026 Maryland Senator Chris Van Hollen said Thursday he will challenge New York’s Chuck Schumer for Senate majority leader when Democrats retake control of both chambers of Congress in January. This follows historic gains for Democrats in last week’s midterm elections. They’ll now control at least 255 seats in the House of Representatives and 55 in the Senate. This is Senator Van Hollen speaking on MS NOW. ... Van Hollen is the first Democratic senator to launch a leadership challenge since 1994. His bid …\n\n[5] The Christian Science Monitor Daily for November 13, 2026 (csmonitor.com)\nthe strike on Nasser Hospital in southern Gaza targeted an unidentified Hamas commander and ... Ministry said the victims included a surgeon and a 13-year-old boy ... Israel’s strikes on Gaza have continued despite a ceasefire deal with Hamas last year\n\n[6] Morning Briefing: Nov. 13 (aa.com.tr)\nthe news you need to start your Friday, including US President Donald Trump saying he may use military force against Iran \"right now\" if US allies and ships are threatened, ... Tayyip Erdogan calling for stronger global action on climate change at\n\n[7] What to know to start your day - The Washington Post (washingtonpost.com)\nZAPORIZHZHIA, Ukraine — President Volodymyr Zelensky reported that problems with the Ukrainian military’s Starlink satellite service persisted Friday, just days after Ukrainian, Russian and U.S. negotiators met for trilateral talks in Abu Dhabi —\n\n[8] Portal:Current events/2026 November 13 (en.wikipedia.org)\n- A tanker and the cruise ship American Heritage collided in the Mississippi River. The cruise ship, carrying 130 people, sunk. Multiple people ... -four people are killed and eleven more injured in a bus–truck collision in Golaghat, India. (Al Jazeera)\n\n[9] Early Edition: November 13, 2026 (justsecurity.org)\nIRGC’s navy today said a tanker carrying liquefied natural gas struck a naval mine and ... were hit by explosions in the strait over Wednesday and Thursday after ignoring warnings and entering what the IRGC considers restricted areas of the strait. The\n\n[10] top news of the day november 13 2026 - The Hindu (thehindu.com)\n# Top news of the day: 23 die in bus-truck collision in Assam’s Kaziranga; Microsoft outage drags on as company observes ‘limited recovery’, and more Updated - November 13, 2026 07:18 pm IST ... At least 23 die in bus-truck collision in Assam’s Kaziranga; 20 others injured At least 23 people died and 20 others were injured in a head-on collision between a minibus and a container truck near Kaziranga National Park in Assam on Friday (November 13, 2026), officials said. Out of the deceased, two were women, and many were college students who were returning from their classes, a police officer …",
+  "hash": "d3e28d3634204054dd83e043d70de249e155d458005f7e5040b97d04709318a2",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 13, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-13T21:04:30+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "PPI inflation report October 2026:",
+    "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Published Fri, Nov 13 2026 8:31 AM EST Updated 5 Hours Ago ... - The producer price index, a measure of wholesale prices, rose 0.3% in October, slightly less than the 0.4% forecast. - On an annual basis, PPI surged 6.5%, the biggest increase since November 2022. ... Wholesale prices increased less than expected in October, but inflation pressures persisted and the Federal Reserve is likely still on target for an interest rate increase soon. The producer price index, which measures the prices domestic producers get for their products before they reach the consumer, rose a seasonally adjusted 0.3% for the month, against the Dow Jones consensus for a 0.4% increase, the Bureau of Labor Statistics reported Friday. Stripping out food and energy, core PPI posted a 0.3% gain, meeting expectations. On an annual basis, headline PPI accelerated 6.5%, up 0.2 percentage point for the highest annual rate since November 2022. The report comes just a few weeks ahead of the Federal Reserve's next policy meeting, Dec. 8-9. Markets are fully pricing in a quarter percentage point increase in the central bank's key overnight borrowing rate, with slight odds that the Federal Open Market Committee might opt for a half-point hike. Stock market futures added to gains following the release while Treasury yields were mixed. Earlier this week, the BLS reported that inflation at the cash register was hotter than expected. The headline consumer price index saw a 0.4% increase in October while core was up 0.3%, both 0.1 percentage point higher than expected. Because of the government shutdown in October 2025, the BLS couldn't collect some data and refrained from putting out a 12-month inflation figure for CPI. However, the figures showed that the Fed remains a good distance from its 2% inflation goal. \"Today's PPI data – which shows some signs of improving, albeit still too-high – is unlikely to change the Fed's approach in December because the CPI data was already outside their comfort zone,\" said Chris Zaccarelli, chief investment officer for Northlight Asset Management. Moreover, policymakers are beginning to worry that inflation generated by the Iran war and higher fuel prices, along with President Donald Trump's tariffs, are beginning to spread through the economy. The Fed generally would look through such price pressures as temporary, but the breadth of inflation could indicate that inflation is becoming more entrenched. \"We've had some signs of trouble now for several months in a row,\" Chicago Fed President Austan Goolsbee said in a CNBC interview Friday. \"If you look at how broad-based the inflation is, it's not just that we're above the target and have been for some time. It's that in categories that are not driven by oil prices and not driven by tariffs, you're still seeing stalled progress and in some cases going the wrong way.\" Stripping out food, energy and trade services, PPI saw an increase of 0.5% in October. Goods prices increased 0.5% in October, with more than 60% of that move driven by goods excluding food and energy, which actually saw a 0.1% decrease. On an annual basis, the goods index jumped 10.2%, the biggest 12-month surge since October 2022. Final demand services prices increased 0.2%, most of which was linked to transportation and warehousing services, and within that category a 3.9% gain in truck transportation of freight. \"We've been above 2% for almost six years, and while it sometimes we were making progress, lately we're not making any progress, and if anything, it's going the wrong way,\" Goolsbee said. \"Inflation is rising; it's proved far more persistent than we predicted at the beginning from the supply shocks.\" Other items in the PPI report also showed multiyear gains. Prices for intermediate processed goods soared 14.6% from October 2025, the biggest annual gain since July 2022. Intermediate prices for services posted a 6.9% increase, the most since November 2022."
+   },
+   {
+    "title": "Wholesale inflation declined last month yet remains stubbornly elevated - The Washington Post",
+    "url": "https://www.washingtonpost.com/business/2026/11/13/producer-prices-inflation-economy-iran/7c1b131a-df68-11f1-912c-4fbb80d73f7f_story.html",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "WASHINGTON — Wholesale inflation cooled a bit last month yet remains elevated, evidence of stubbornly higher prices that have soured Americans on the economy and fueled big gains for Democrats in the midterm elections last week."
+   },
+   {
+    "title": "Bessent, Fed’s Goolsbee divided on role of energy shock in inflation By Reuters",
+    "url": "https://www.investing.com/news/economy-news/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-to-iran-war-5025640",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 13 (Reuters) - US Treasury Secretary Scott Bessent said on Friday that the Federal Reserve should not hike rates because of inflation driven by an \"energy supply shock\" tied to the Iran war, comments made to CNBC and promptly contradicted on the network by Chicago Fed President Austan Goolsbee, who said price pressures were building far beyond what could be explained by high oil prices. \"I think the Fed should understand that this is an energy supply shock,\" while the underlying US economy is very strong, Bessent said in an interview on CNBC. \"So I think that to hike too much into an energy supply shock when it’s coming down, these are very noisy numbers...You know, the Fed’s supposed to look into the future, not look in the rearview mirror.\" Shortly afterwards, the network hosted Goolsbee, a regular guest on CNBC’s morning Squawk Box show, who said that inflation was not just due to energy, but had spread to the service sector and areas like medical care that are not usually responsive to the price of oil, and was also elevated through strong demand tied to the AI data center buildout. \"I respect the secretary and I am trying to figure out the same thing he is trying to figure out, which is how persistent is this inflation? The tariff inflation and oil price shock were supposed to have gone away by now and it hasn’t,\" Goolsbee said. \"One puzzle is why have those supply shocks been as persistent as they have been. A second thing is if demand is overheating and that is contributing to inflation, that is more worrisome... Services inflation, which is probably not coming from tariffs or oil, is one of the more troubling aspects of the inflation reports we have been getting.\" While not committing to a rate hike, he said the Fed \"has definitely got work to do to continue to reestablish its credibility.\" ... But as inflation remained lodged above the Fed’s target, concern about it grew, as did ... Research meanwhile opened a different window on the relationship between oil prices and US inflation. Because the US is an energy exporter, higher global oil prices can filter through to the economy in the form of higher corporate profits and wages, providing a source of inflation beyond supply issues that can’t be easily ignored by the central bank."
+   },
+   {
+    "title": "U.S. inflation outlook puts Federal Reserve rate hike in focus",
+    "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "resigned as Nvidia CEO under a cloud of scandal related to Megaspeed, had pushed ... ease restrictions on the export of advanced AI chips to China. - The departments of Treasury, Defense and State and"
+   },
+   {
+    "title": "Last Week in Review: US CPI, PPI Reports Confirm FOMC Move in December",
+    "url": "https://www.econoday.com/articles/last-week-in-review-us-cpi-ppi-reports-confirm-fomc-move-in-december/",
+    "source": "econoday.com",
+    "published": "",
+    "excerpt": "increases for energy, but food prices accelerated to lift the overall reading. Food prices were up 0.5 percent after no change in September ... higher in October, slowing from the 5.2% month-over-month gain in September."
+   },
+   {
+    "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+    "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "the Bureau of Labor Statistics reported that the producer price index, considered a proxy for wholesale prices, posted a 0.3% increase in October, which was slightly less than expected, but also indicated a 6.5% annual gain, the highest since November"
+   },
+   {
+    "title": "Fed likely to need to raise rates amid worsening inflation: Daly By Reuters",
+    "url": "https://www.investing.com/news/economy-news/fed-likely-to-need-to-raise-rates-amid-worsening-inflation-daly-5026338",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Nov 13 (Reuters) - San Francisco Federal Reserve President Mary Daly said on Friday that her \"bias\" is that the central bank will need to increase its policy rate, particularly with services inflation moving in the wrong direction and some signs of inflation persistence. \"We’re going to need to, in all likelihood, raise rates; I will deliberate this with my colleagues in December at our meeting and in all future meetings and make the collective decision that we judge is most appropriate for the economy that is evolving,\" Daly said at a University of Nevada, Las Vegas Center for Business and Economic Research forecast event. \"Producers are telling us more and more that they’re running out of room to take it out of margins, and they really want to consider passing along this to consumers. So that’s the inflationary impulse we want to avoid.\" The core consumer price index, which excludes volatile food and energy prices, has risen about 0.3% month over month in each of the last three months. That’s far higher than the 0.2% or less that would be consistent with year-over-year inflation at 2%, the Fed’s target. Daly, like several other policymakers, said she’s particularly concerned that services inflation excluding housing is \"not moving in the correct direction,\" which is particularly troubling because that slice of inflation tends to be sticky. \"That’s a place where you might think a retailer, or a professional business, if they have to buy more expensive IT goods, pay higher energy bills and have other inputs that are rising in price, maybe they’re going to pass that along to customers,\" she said. The Fed raised its policy rate in September but held it steady in October, and financial markets are betting heavily on quarter-point interest-rate hikes at each of the Fed’s December 8-9 and January 26-27 meetings. Daly said she feels markets understand how the Fed sets rates in response to economic conditions, without remarking specifically on the timing of coming rate hikes. Daly said she is also paying close attention to consumer spending, which accounts for most of the US economy, as the December meeting approaches. \"Consumer spending remains just surprisingly resilient; you just haven’t seen a pullback, so I think that’s the piece of information that I’m really looking for in the next one to two to three months: what happens in that, especially around the holiday season, do we see consumers giving up or do we see them keeping going even if prices rise?\" Daly said. \"Sitting here in Las Vegas...we’re just starting to hear that the consumer may be running out of gas. And we’re hearing that now in other states, not just Nevada.\""
+   },
+   {
+    "title": "Stock market today: S&P 500, Nasdaq turn lower as wholesale inflation rises, Nvidia stock falls",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
+    "source": "finance.yahoo.com",
+    "published": "",
+    "excerpt": ", according to the producer price index. The reading was less than the 0.4% economists expected, but the annual rate of ... , which likely keeps the Federal Reserve on track to hike interest rates next month."
+   },
+   {
+    "title": "Fed turns hawkish as CPI beats and officials back further rate hikes By Investing.com",
+    "url": "https://ca.investing.com/news/stock-market-news/fed-turns-hawkish-as-cpi-beats-and-officials-back-further-rate-hikes-93CH-4957743",
+    "source": "ca.investing.com",
+    "published": "",
+    "excerpt": "unless noted) | Actual | Forecast | Previous | | --- | --- | --- | --- | | CPI m/m | 0.4% | 0.3% | 0.6% | | Core CPI m/m | 0.3% | 0.2% | 0.3% | | PPI m/m | 0.3% | 0.4% | 1.4% | | PPI y/y | 6.5% | 6.6% | 6.3%"
+   },
+   {
+    "title": "The Fed chief said AI would tame inflation. His colleagues disagree.",
+    "url": "https://www.washingtonpost.com/business/2026/11/13/more-top-fed-officials-say-ai-is-fueling-inflation-kevin-warsh-is-an-outlier/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "This week, Fed governor Michelle Bowman, a Trump appointee who like Warsh once predicted AI would help push inflation down, conceded that is not yet happening. She said the AI buildout accounts for roughly a quarter of the excess inflation the Fed is fighting, about as much as the pressure from tariffs or energy prices. Fed governor Christopher Waller, who said a big interest rate hike should be on the table in December, on Tuesday pointed to research by Fed economists on AI and high energy prices. Their findings, the Trump appointee said, “do not encourage me to think that"
+   }
+  ],
+  "text": "[1] PPI inflation report October 2026: (cnbc.com)\nPublished Fri, Nov 13 2026 8:31 AM EST Updated 5 Hours Ago ... - The producer price index, a measure of wholesale prices, rose 0.3% in October, slightly less than the 0.4% forecast. - On an annual basis, PPI surged 6.5%, the biggest increase since November 2022. ... Wholesale prices increased less than expected in October, but inflation pressures persisted and the Federal Reserve is likely still on target for an interest rate increase soon. The producer price index, which measures the prices domestic producers get for their products before they reach the consumer, rose a seasonally adjusted …\n\n[2] Wholesale inflation declined last month yet remains stubbornly elevated - The Washington Post (washingtonpost.com)\nWASHINGTON — Wholesale inflation cooled a bit last month yet remains elevated, evidence of stubbornly higher prices that have soured Americans on the economy and fueled big gains for Democrats in the midterm elections last week.\n\n[3] Bessent, Fed’s Goolsbee divided on role of energy shock in inflation By Reuters (investing.com)\nWASHINGTON, Nov 13 (Reuters) - US Treasury Secretary Scott Bessent said on Friday that the Federal Reserve should not hike rates because of inflation driven by an \"energy supply shock\" tied to the Iran war, comments made to CNBC and promptly contradicted on the network by Chicago Fed President Austan Goolsbee, who said price pressures were building far beyond what could be explained by high oil prices. \"I think the Fed should understand that this is an energy supply shock,\" while the underlying US economy is very strong, Bessent said in an interview on CNBC. \"So I think that to hike too much …\n\n[4] U.S. inflation outlook puts Federal Reserve rate hike in focus (cnbc.com)\nresigned as Nvidia CEO under a cloud of scandal related to Megaspeed, had pushed ... ease restrictions on the export of advanced AI chips to China. - The departments of Treasury, Defense and State and\n\n[5] Last Week in Review: US CPI, PPI Reports Confirm FOMC Move in December (econoday.com)\nincreases for energy, but food prices accelerated to lift the overall reading. Food prices were up 0.5 percent after no change in September ... higher in October, slowing from the 5.2% month-over-month gain in September.\n\n[6] Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation (cnbc.com)\nthe Bureau of Labor Statistics reported that the producer price index, considered a proxy for wholesale prices, posted a 0.3% increase in October, which was slightly less than expected, but also indicated a 6.5% annual gain, the highest since November\n\n[7] Fed likely to need to raise rates amid worsening inflation: Daly By Reuters (investing.com)\nNov 13 (Reuters) - San Francisco Federal Reserve President Mary Daly said on Friday that her \"bias\" is that the central bank will need to increase its policy rate, particularly with services inflation moving in the wrong direction and some signs of inflation persistence. \"We’re going to need to, in all likelihood, raise rates; I will deliberate this with my colleagues in December at our meeting and in all future meetings and make the collective decision that we judge is most appropriate for the economy that is evolving,\" Daly said at a University of Nevada, Las Vegas Center for Business and …\n\n[8] Stock market today: S&P 500, Nasdaq turn lower as wholesale inflation rises, Nvidia stock falls (finance.yahoo.com)\n, according to the producer price index. The reading was less than the 0.4% economists expected, but the annual rate of ... , which likely keeps the Federal Reserve on track to hike interest rates next month.\n\n[9] Fed turns hawkish as CPI beats and officials back further rate hikes By Investing.com (ca.investing.com)\nunless noted) | Actual | Forecast | Previous | | --- | --- | --- | --- | | CPI m/m | 0.4% | 0.3% | 0.6% | | Core CPI m/m | 0.3% | 0.2% | 0.3% | | PPI m/m | 0.3% | 0.4% | 1.4% | | PPI y/y | 6.5% | 6.6% | 6.3%\n\n[10] The Fed chief said AI would tame inflation. His colleagues disagree. (washingtonpost.com)\nThis week, Fed governor Michelle Bowman, a Trump appointee who like Warsh once predicted AI would help push inflation down, conceded that is not yet happening. She said the AI buildout accounts for roughly a quarter of the excess inflation the Fed is fighting, about as much as the pressure from tariffs or energy prices. Fed governor Christopher Waller, who said a big interest rate hike should be on the table in December, on Tuesday pointed to research by Fed economists on AI and high energy prices. Their findings, the Trump appointee said, “do not encourage me to think that",
+  "hash": "9b997b8ffbb79b8a986fc417f352a00e0deb38bee22bc7261d2e3394234fe771",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 13, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-13T21:04:42+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Live updates: Trump tells Vance to shift focus from Iran to ‘corruption' at home | AP News",
+    "url": "https://apnews.com/live/trump-vance-iran-congress-midterms-politics-news-updates-11-13-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Updated 1:41 PM MST, November 13, 2026 Here’s what we’re following: - The Supreme Court agreed Friday to consider President Donald Trump’s ban on asylum at the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive order banning asylum applications is illegal. - Democrats are preparing an onslaught of probes into the Trump administration. Investigations into the federal government’s purchase of an immigration detention facility in Minnesota, whether Robert F. Kennedy Jr. lied to Congress about his 2019 trip to Samoa and several others have been"
+   },
+   {
+    "title": "Morning Edition for November 13, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-6013686/morning-edition-for-november-13-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Colette Kress becomes Nvidia's interim CEO after Jensen Huang resigns by A Martínez, John Ruwitch ### Nvidia's interim CEO inherits risky AI bets and a legal mess by Michel Martin, Majd Al-Waheidi 4 min #### Nvidia's CEO resigns after alleged spy"
+   },
+   {
+    "title": "The News Roundup For November 13, 2026 : 1A : NPR",
+    "url": "https://www.npr.org/2026/11/13/nx-s1-6040038/the-news-roundup-for-november-13-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "Democrats had a feeling that the midterms would go well for their candidates. But few would ... that traditionally red states like Mississippi would flip. Now, Scott ... Secretary Defense Secretary Pete Hegseth this week. Republican Rep. Thomas"
+   },
+   {
+    "title": "Live updates: Chris Van Hollen to vie for Senate leader; Microsoft Outlook returns",
+    "url": "https://thehill.com/homenews/administration/6217922-live-updates-trump-senate-midterm-elections/",
+    "source": "thehill.com",
+    "published": "",
+    "excerpt": "The Supreme Court on Friday said it would take up a lawsuit challenging the Trump administration’s asylum restrictions. The court will rule by July on whether the ban is legal. ... Mary Peltola and Sen. Dan Sullivan remains uncalled, with Peltola gaining"
+   },
+   {
+    "title": "Trump tells Vance to shift focus from Iran to targeting ‘corruption and crime’ at home, Nvidia scandal fallout on AI boom, romance scam victims",
+    "url": "https://apnews.com/newsletter/morning-wire/november-13-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "President Donald Trump on Thursday directed Vice President JD Vance to shift his focus away from the Iran war and instead devote himself to fighting what the president says is corruption and crime in Democratic-controlled cities and states. Read more."
+   },
+   {
+    "title": "The Latest: Supreme Court to consider Trump’s order suspending asylum access at southern border",
+    "url": "https://apnews.com/article/trump-congress-elections-fallout-3ed27e89abf3b0489d463fd30dacf37d",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Democrats have now won 256 House races, a gain of 41 seats. Ten races that will finalize the balance of power have not been called. The party has now surpassed the ... ’s resignation. In the Senate, Democrats have gained eight additional seats with one"
+   },
+   {
+    "title": "Headlines for November 13, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/11/13/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "challenge New York’s Chuck Schumer for Senate majority leader when Democrats retake control of both chambers of Congress in January. This follows historic gains for Democrats in last week’s midterm elections. They’ll now control at least 255 seats in the"
+   },
+   {
+    "title": "Live updates: Potential 2028 Democratic contenders discuss what’s next after midterm victories",
+    "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-congress-2026-midterm-elections-nvidia-live-updates-rcna609111",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "## Van Hollen says he won't run for president in 2028 Sen. Chris Van Hollen, D-Md., told reporters this afternoon that he was \"no longer pursuing\" a 2028 presidential campaign and instead will focus on his effort to become Senate Democrats' next majority leader. “I believe that the size and scale of these majorities provides an opportunity for the United States Senate to answer the call with the American people,” Van Hollen said, later definitively adding, \"I'm not running in 2028.\" Van Hollen, who officially announced his bid for majority leader yesterday, had previously told NBC News that he was still \"kicking the tires\" on a potential 2028 run. He said today that he spoke to Minority Leader Chuck Schumer, D-N.Y., and that the pair understand \"this will be a competition\" as Schumer tries to earn another stint of leading the caucus. \"I think it's important to give Senate Democrats a choice,\" Van Hollen said. \"That's what we just gave voters all over the country, a choice. They chose change, and I think that the Democratic Caucus needs to be open to new ideas.\" Van Hollen called himself the \"underdog in this race,\" adding that the \"majority leader has lots of powers of incumbency to try to, you know, make deals or agreements with people.\" \"That's actually part of the problem with the process,\" he said. \"But I can tell you that a lot of my colleagues want to see a whole different approach to governing in the United States Senate and in the Senate Democratic Caucus.\" Van Hollen, who said in an interview with MS NOW last night that \"over 10\" senators have privately backed him for the role, told reporters today that \"I'm not going to put out a number,\" but that he had just heard from more senators who will support his bid. He specifically noted the endorsement of Sen.-elect Peggy Flanagan of Minnesota, who wrote in a post on X today that Van Hollen is \"the leader and fighter we need to bring about real change, so no American is left behind.\" Sen.-elect Abdul El-Sayed of Michigan, another newcomer to the Senate, also pledged his support to Van Hollen last night. \"As you well know, the majority of the new members, fresh off the campaign trail, fresh off listening to their constituents, have said they will not support the current majority leader for re-election, and they are answering the call of the American people for change,\" Van Hollen said."
+   },
+   {
+    "title": "Trump's Cabinet secretaries get some bad press",
+    "url": "https://www.washingtonpost.com/politics/2026/11/13/trumps-cabinet-secretaries-get-some-bad-press/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "a way to end the war. He started out this week by saying that military operations against Iran were “effectively over.” Vice President JD Vance had started talking to leaders in ... Pete Hegseth over his handling of the Iran war. It was quickly shut down"
+   },
+   {
+    "title": "Republicans dazed by midterm election defeats grapple with what went wrong - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/11/13/republicans-trump-midterms-congress/8d1ccd5a-df5b-11f1-912c-4fbb80d73f7f_story.html",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "— Rep. Richard Hudson wanted a triumphant return to Capitol Hill this week after steering Republicans to another majority. Instead, the North Carolina Republican is facing the reality that he and dozens of colleagues will soon clear out their offices."
+   }
+  ],
+  "text": "[1] Live updates: Trump tells Vance to shift focus from Iran to ‘corruption' at home | AP News (apnews.com)\nUpdated 1:41 PM MST, November 13, 2026 Here’s what we’re following: - The Supreme Court agreed Friday to consider President Donald Trump’s ban on asylum at the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive order banning asylum applications is illegal. - Democrats are preparing an onslaught of probes into the Trump administration. Investigations into the federal government’s purchase of an immigration detention facility in Minnesota, whether Robert F. …\n\n[2] Morning Edition for November 13, 2026 : NPR (npr.org)\n### Colette Kress becomes Nvidia's interim CEO after Jensen Huang resigns by A Martínez, John Ruwitch ### Nvidia's interim CEO inherits risky AI bets and a legal mess by Michel Martin, Majd Al-Waheidi 4 min #### Nvidia's CEO resigns after alleged spy\n\n[3] The News Roundup For November 13, 2026 : 1A : NPR (npr.org)\nDemocrats had a feeling that the midterms would go well for their candidates. But few would ... that traditionally red states like Mississippi would flip. Now, Scott ... Secretary Defense Secretary Pete Hegseth this week. Republican Rep. Thomas\n\n[4] Live updates: Chris Van Hollen to vie for Senate leader; Microsoft Outlook returns (thehill.com)\nThe Supreme Court on Friday said it would take up a lawsuit challenging the Trump administration’s asylum restrictions. The court will rule by July on whether the ban is legal. ... Mary Peltola and Sen. Dan Sullivan remains uncalled, with Peltola gaining\n\n[5] Trump tells Vance to shift focus from Iran to targeting ‘corruption and crime’ at home, Nvidia scandal fallout on AI boom, romance scam victims (apnews.com)\nPresident Donald Trump on Thursday directed Vice President JD Vance to shift his focus away from the Iran war and instead devote himself to fighting what the president says is corruption and crime in Democratic-controlled cities and states. Read more.\n\n[6] The Latest: Supreme Court to consider Trump’s order suspending asylum access at southern border (apnews.com)\nDemocrats have now won 256 House races, a gain of 41 seats. Ten races that will finalize the balance of power have not been called. The party has now surpassed the ... ’s resignation. In the Senate, Democrats have gained eight additional seats with one\n\n[7] Headlines for November 13, 2026 | Democracy Now! (democracynow.org)\nchallenge New York’s Chuck Schumer for Senate majority leader when Democrats retake control of both chambers of Congress in January. This follows historic gains for Democrats in last week’s midterm elections. They’ll now control at least 255 seats in the\n\n[8] Live updates: Potential 2028 Democratic contenders discuss what’s next after midterm victories (nbcnews.com)\n## Van Hollen says he won't run for president in 2028 Sen. Chris Van Hollen, D-Md., told reporters this afternoon that he was \"no longer pursuing\" a 2028 presidential campaign and instead will focus on his effort to become Senate Democrats' next majority leader. “I believe that the size and scale of these majorities provides an opportunity for the United States Senate to answer the call with the American people,” Van Hollen said, later definitively adding, \"I'm not running in 2028.\" Van Hollen, who officially announced his bid for majority leader yesterday, had previously told NBC News that …\n\n[9] Trump's Cabinet secretaries get some bad press (washingtonpost.com)\na way to end the war. He started out this week by saying that military operations against Iran were “effectively over.” Vice President JD Vance had started talking to leaders in ... Pete Hegseth over his handling of the Iran war. It was quickly shut down\n\n[10] Republicans dazed by midterm election defeats grapple with what went wrong - The Washington Post (washingtonpost.com)\n— Rep. Richard Hudson wanted a triumphant return to Capitol Hill this week after steering Republicans to another majority. Instead, the North Carolina Republican is facing the reality that he and dozens of colleagues will soon clear out their offices.",
+  "hash": "1fa151741df46f28a4b25cd14247e5560c692ab1802961e958d49b31c1c7c002",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 13, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-13T21:04:57+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "New Music Friday November 13: U2, Dolly Parton, Enrique Iglesias, Offset, Wiz Khalifa, Fall Out Boy and More | Entertainment Tonight",
+    "url": "https://www.etonline.com/new-music-friday-november-13-u2-dolly-parton-enrique-iglesias-offset-wiz-khalifa-fall-out-boy-and",
+    "source": "etonline.com",
+    "published": "",
+    "excerpt": "Published: 8:17 AM PST, November 13, 2026 ## Check out some of ET's favorite new music of the week! Happy New Music Friday! The weekend is here, which means more streaming, new playlists and the best that music has to offer -- and ET has you covered for everything in between. U2 and Dolly Parton's new song and Dolly's final recording \"Torn\" is out now from U2's 16th studio album, Carnaval De Luz. The song was co-written by U2, Dolly and Johnny McDaid and is a tender country song detailing broken family ties that holds wider resonances. Dolly recorded the song in Nashville in June this year, making it her final recorded vocal performance prior to her passing in August. Ahead of the track's release, a country version titled 'Torn' (Kent Wells Version) premiered on country radio on November 12. The Country Music Association and ABC have announced more performers for The 60th Annual CMA Awards. Taylor Swift will be performing, marking her much-anticipated return 13 years since her last performance. Luke Combs, Vince Gill, Megan Moroney, Mumford & Sons, Chris Stapleton, Lainey Wilson and Stephen Wilson Jr. have also been added to the lineup. Brothers Osborne, Luke Bryan, Halestorm, HARDY and Marcus King will come together to celebrate Brooks & Dunn, this year's recipients of the CMA Willie Nelson Lifetime Achievement Award. Country Music's Biggest Night will air live on November 18 on ABC and Disney+ and next day on Hulu. P!NK has announced her first ever Las Vegas residency at Sphere, becoming the first solo female artist to headline Sphere. Promoted by Live Nation, she will bring perform at Sphere beginning September 29. ... Rosalía made history at Latin GRAMMY Awards again as she won Album of the Year for her album, Lux, marking the third time she has taken home the honor and making her the first woman to win the award as a lead artist that many times. Janet Jackson made a surprise appearance presenting Daddy Yankee with the Person of the Year award. Daddy Yankee was also honored at the 2026 Latin Recording Academy Person of the Year Gala and recognized for his nearly three-decade career as a driving force behind the globalization of reggaeton and for his humanitarian efforts. ... Olivia Dean was announced as Apple Music's Artist of the Year, recognizing her undeniable leap to stardom. She is the first UK artist to receive this honor. Olivia shared, \"I love making music. It's the best thing in the world. I think being Apple's Artist of the Year feels really amazing. To be recognized as an artist that's made an impact is really cool.\" Alex Warren has announced his Finding (More) Family On The Road 2027 World Tour with special guests Bebe Stockwell and Faouzia. Alex made the announcement in a video with Eric Stonestreet declaring he is adding 26 more shows. Promoted by Live Nation, the 26-city North American leg kicks off on April 5 at Paycom Center in Oklahoma City, making stops in New York, Tampa, Raleigh and more before wrapping up in Birmingham, AL on May 16. ... Fall Out Boy released a new song \"ACES\" which marks their first new original single in over three years. They also announced a new global headline tour, Twilight of the Punks, which will be the biggest tour of their career with 36 dates performing at stadiums and arenas across Europe, the UK and North America in 2027. Promoted by Live Nation, the tour kicks off May 17 at Prague's O2 Arena. To celebrate their tour announcement, Fall Out Boy gave a surprise pop up show at Koreatown in Los Angeles this week. Thousands of fans showed up for the eight-song set including the live debut of their new single \"ACES.\""
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4006310-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Nicolas Cage so fully transformed ‌himself ​into NFL legend John Madden for the new biopic “Madden” that co-star Kathryn Hahn says she spent an entire production with him ‌without ever feeling she had met the real Cage."
+   },
+   {
+    "title": "Wake Up With BroadwayWorld November 13, 2026",
+    "url": "https://www.broadwayworld.com/article/Wake-Up-With-BroadwayWorld-November-13-2026-20261113",
+    "source": "broadwayworld.com",
+    "published": "",
+    "excerpt": "Lots of new Broadway energy was in the air. Andrew Rannells, Megan Hilty, Tituss Burgess, Lisa Rinna, Harry Hamlin, and director Jerry Zaks shared what it ... to bring It's a Wonderful Life to the stage just in time for the holidays,"
+   },
+   {
+    "title": "What To Watch On TV And Streaming Friday, November 13, 2026",
+    "url": "https://www.tvline.com/2314568/what-to-watch-november-13-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "On TV this Friday: \"Avengers Endgame: Encore\" hits Disney+, Anthony Mackie and Jamie Dornan headline Apple's \"12 12 12,\" and Amy Acker searches for a \"Christmas Cowboy.\" ... Revisit \"Avengers: Endgame\" with this extended version of the 2019 blockbuster,"
+   },
+   {
+    "title": "Salon News Today — November 13, 2026 — SalonNews.com",
+    "url": "https://salonnews.com/news/daily-signal-20261113",
+    "source": "salonnews.com",
+    "published": "",
+    "excerpt": "is also experiencing its own share of triumphs and creative breakthroughs. At the Thessaloniki Industry Awards, two emerging films took ... honors: the Georgian road movie 'The Crossroad' and the North Macedonian drama 'They Bloom at Dawn"
+   },
+   {
+    "title": "Amelia's Bits & Bytes 11/13: Avatar New Christmas Tune, QOTSA Steamy Music Video, Download Festival Announces Line Up, Carrell And Reilly Are The Odd Couple, More GTA VI Hype, Go Fund Me For Family Of Murdered Music Professor's Family And More Pop Culture News | 98 Rock Online",
+    "url": "https://www.98online.com/amelias-bits-bytes-11-13-avatar-new-christmas-tune-qotsa-steamy-music-video-download-festival-announces-line-up-carrell-and-reilly-are-the-odd-couple-more-gta-vi-hype-go-fund-me-for-f",
+    "source": "98online.com",
+    "published": "",
+    "excerpt": "Queens Of The Stone Age release steamy video for From The Cliff. Bullet For My Valentine have a new tune I Don’t Trust Tomorrow. ... Steve Carell and John C Reilly star in the Odd Couple on Broadway."
+   },
+   {
+    "title": "AP Entertainment SummaryBrief at 11:31 a.m. EST | Ap | timesargus.com",
+    "url": "https://www.timesargus.com/ap/entertainment/ap-entertainment-summarybrief-at-5-48-a-m-est/article_cc05144e-ebba-556d-96bb-ab18615ccded.html",
+    "source": "timesargus.com",
+    "published": "",
+    "excerpt": "- Nov 13, 2026 - Nov 13, 2026 Updated 11 mins ago After 8 nominations without a win, Glenn Close is 'overwhelmed' by honorary Oscar Glenn Close is receiving an honorary Oscar on Sunday at the Governors Awards. The 79-year-old actor has been nominated for eight competitive acting Oscars but never won. It's a distinction shared only by Peter O'Toole. Close tells The Associated Press that her first thought was that she didn't need a consolation prize. But Close has come to appreciate the unique opportunity that the honorary Oscar presents. At the untelevised ceremony where there are no “losers,” she and her friends and collaborators have the time to reflect on her body of work as a whole. UK police launch sex offense investigation into children’s author and comedian David Walliams LONDON (AP) — London police say they are investigating children’s author and comedian David Walliams for serious sexual offenses after news outlets reported allegations of misconduct. The Metropolitan Police said it had received a number of allegations of abuse in the past after a joint investigation by ITV News and the Guardian newspaper. The allegations are different from those reported by the news outlets, police said. But they will also look into the news stories to see if there is evidence of other crimes. Meet the new 'Bachelor,' a quarterback for the Washington Commanders ABC has announced that Washington Commanders quarterback Sam Hartman will be the next lead on “The Bachelor.” The 30th season of the reality dating show premieres March 21. The 27-year-old Hartman appeared on “Good Morning America” on Friday to discuss his new role. He joked about the challenge of dating 30 women at once. Hartman follows in the footsteps of other NFL players who have starred on the show. This move breaks from the usual casting of past contestants. The network did that with Taylor Frankie Paul on “The Bachelorette,” but that season ended up scrubbed. The franchise has been on hiatus since summer 2025's “Bachelor in Paradise.” Macy's Thanksgiving Day Parade will soon celebrate its 100th edition: Which stars are in the lineup? NEW YORK (AP) — The 100th Macy’s Thanksgiving Day Parade promises a spectacular celebration with Megan Moroney, Teddy Swims, Queen Latifah, Keke Palmer, Jimmy Fallon & The Roots and JoJo among the performers. The parade will feature a record-breaking 100 inflatables, including Bluey, Mickey Mouse and Hello Kitty. It kicks off at 8:30 a.m. on Thanksgiving in all time zones. A tribute to Dolly Parton, led by Megan Hilty, and special appearances by Melissa Joan Hart and others are planned. NBC and Peacock will broadcast the event, with a Spanish-language simulcast on Telemundo. New balloons and floats will join iconic characters from past parades. ... Rosalía wins album of the year 2026 at the Latin Grammy Awards for 'Lux,' capping a thrilling night Rosalía has won album and song of the year at the 27th annual Latin Grammy Awards. She also opened the Thursday night show. Juanes won the first award for best pop/rock album. Performers at this year’s bash included Karol G, Anitta, Jorge Drexler and Silvana Estrada. The 2026 Latin Grammy Awards’ person of the year was Daddy Yankee. He became the first Latin urbano artist to receive the honor. He ripped through his biggest hits an hour into the evening, treating the award show stage like a stadium floor. Edgar Barrera became the most awarded person in the show’s history with 30 career wins. ... Star Chinese pianist Lang Lang has recorded all five Beethoven piano concertos after more than 25 years on the ... Deutsche Grammophon announced on Friday the release for March 5, featuring recordings with conductor Andris Nelsons and the Leipzig Gewandhaus Orchestra. The release coincides with the 200th anniversary of Beethoven's death."
+   },
+   {
+    "title": "Entertainment news roundup: 13 November 2026 | SVCZZ",
+    "url": "https://svczz.com/articles/entertainment-news-roundup-13-november-2026",
+    "source": "svczz.com",
+    "published": "",
+    "excerpt": "Arnold Vosloo has confirmed he is back as Imhotep in The Mummy: Book of the Dead. Iron Boy debuted at 100 percent on Rotten Tomatoes, Victorian Psycho opened at 75 percent, and two screen veterans are ... from its first wave of reviews, alongside an 84 on"
+   },
+   {
+    "title": "Week Ending 11/13/26",
+    "url": "https://www.heyhaveyouseen.com/week-ending-11-13-26/",
+    "source": "heyhaveyouseen.com",
+    "published": "",
+    "excerpt": "## Opening Buffalo-area theaters 11/13/26 - • Donga Naa Koduku at Regal Elmwood ... • Avengers: Endgame – Encore (Disney+) – 11/13 • Being Heumann (Apple TV) – 11/13 • The End of Oak Street (HBO Max) – 11/13 • Heartland"
+   },
+   {
+    "title": "Culture News Today — November 13, 2026 — CultureNews.com",
+    "url": "https://culturenews.com/news/daily-signal-20261113",
+    "source": "culturenews.com",
+    "published": "",
+    "excerpt": "legends Dolly Parton and Bono have come together for a powerful duet, 'Torn,' on U2's new album, a collaboration ... is sure to heal the soul and resonate with fans worldwide. Meanwhile, Fall Out Boy's Patrick Stump and Pete Wentz"
+   }
+  ],
+  "text": "[1] New Music Friday November 13: U2, Dolly Parton, Enrique Iglesias, Offset, Wiz Khalifa, Fall Out Boy and More | Entertainment Tonight (etonline.com)\nPublished: 8:17 AM PST, November 13, 2026 ## Check out some of ET's favorite new music of the week! Happy New Music Friday! The weekend is here, which means more streaming, new playlists and the best that music has to offer -- and ET has you covered for everything in between. U2 and Dolly Parton's new song and Dolly's final recording \"Torn\" is out now from U2's 16th studio album, Carnaval De Luz. The song was co-written by U2, Dolly and Johnny McDaid and is a tender country song detailing broken family ties that holds wider resonances. Dolly recorded the song in Nashville in June this year, …\n\n[2] Reuters Entertainment News Summary | International (devdiscourse.com)\nNicolas Cage so fully transformed ‌himself ​into NFL legend John Madden for the new biopic “Madden” that co-star Kathryn Hahn says she spent an entire production with him ‌without ever feeling she had met the real Cage.\n\n[3] Wake Up With BroadwayWorld November 13, 2026 (broadwayworld.com)\nLots of new Broadway energy was in the air. Andrew Rannells, Megan Hilty, Tituss Burgess, Lisa Rinna, Harry Hamlin, and director Jerry Zaks shared what it ... to bring It's a Wonderful Life to the stage just in time for the holidays,\n\n[4] What To Watch On TV And Streaming Friday, November 13, 2026 (tvline.com)\nOn TV this Friday: \"Avengers Endgame: Encore\" hits Disney+, Anthony Mackie and Jamie Dornan headline Apple's \"12 12 12,\" and Amy Acker searches for a \"Christmas Cowboy.\" ... Revisit \"Avengers: Endgame\" with this extended version of the 2019 blockbuster,\n\n[5] Salon News Today — November 13, 2026 — SalonNews.com (salonnews.com)\nis also experiencing its own share of triumphs and creative breakthroughs. At the Thessaloniki Industry Awards, two emerging films took ... honors: the Georgian road movie 'The Crossroad' and the North Macedonian drama 'They Bloom at Dawn\n\n[6] Amelia's Bits & Bytes 11/13: Avatar New Christmas Tune, QOTSA Steamy Music Video, Download Festival Announces Line Up, Carrell And Reilly Are The Odd Couple, More GTA VI Hype, Go Fund Me For Family Of Murdered Music Professor's Family And More Pop Culture News | 98 Rock Online (98online.com)\nQueens Of The Stone Age release steamy video for From The Cliff. Bullet For My Valentine have a new tune I Don’t Trust Tomorrow. ... Steve Carell and John C Reilly star in the Odd Couple on Broadway.\n\n[7] AP Entertainment SummaryBrief at 11:31 a.m. EST | Ap | timesargus.com (timesargus.com)\n- Nov 13, 2026 - Nov 13, 2026 Updated 11 mins ago After 8 nominations without a win, Glenn Close is 'overwhelmed' by honorary Oscar Glenn Close is receiving an honorary Oscar on Sunday at the Governors Awards. The 79-year-old actor has been nominated for eight competitive acting Oscars but never won. It's a distinction shared only by Peter O'Toole. Close tells The Associated Press that her first thought was that she didn't need a consolation prize. But Close has come to appreciate the unique opportunity that the honorary Oscar presents. At the untelevised ceremony where there are no “losers,” …\n\n[8] Entertainment news roundup: 13 November 2026 | SVCZZ (svczz.com)\nArnold Vosloo has confirmed he is back as Imhotep in The Mummy: Book of the Dead. Iron Boy debuted at 100 percent on Rotten Tomatoes, Victorian Psycho opened at 75 percent, and two screen veterans are ... from its first wave of reviews, alongside an 84 on\n\n[9] Week Ending 11/13/26 (heyhaveyouseen.com)\n## Opening Buffalo-area theaters 11/13/26 - • Donga Naa Koduku at Regal Elmwood ... • Avengers: Endgame – Encore (Disney+) – 11/13 • Being Heumann (Apple TV) – 11/13 • The End of Oak Street (HBO Max) – 11/13 • Heartland\n\n[10] Culture News Today — November 13, 2026 — CultureNews.com (culturenews.com)\nlegends Dolly Parton and Bono have come together for a powerful duet, 'Torn,' on U2's new album, a collaboration ... is sure to heal the soul and resonate with fans worldwide. Meanwhile, Fall Out Boy's Patrick Stump and Pete Wentz",
+  "hash": "f22b48d5cc8edb7ca061dc28f37451d974c08ac0a636d9622a52ae4f87ab09b8",
+  "notes": []
+ }
+}
