@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-14T13:04:21+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 14, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-14T13:04:21+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian",
+    "url": "https://www.theguardian.com/theguardian/2026/nov/14",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "- ### Police launch investigation into David Walliams over alleged serious sexual offences Met police say allegations are separate from those made by multiple women in Guardian and ITV investigation ... - ### ‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech António Guterres says climate action central to every aspect of UN’s work, as leaders depart Cop31 and talks go on ... - ### Russia strikes hospital in central Kyiv after SpaceX system falters again"
+   },
+   {
+    "title": "Morning Briefing: Nov. 14, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "Anadolu’s recap of top stories from around the globe Merve Aydogan 14 November 2026• Update: 14 November 2026 HAMILTON, Canada Here's a rundown of all the news you need to know for Saturday, including Türkiye and Qatar signing five agreements, including a mutual defense pact, during the 12th meeting of the Türkiye-Qatar High Strategic Committee in Istanbul; the US Federal Aviation Administration lifting a nationwide flight ground stop after a telecommunications outage; and US President Donald Trump set to hold trilateral talks with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen next week, according to the White House. Türkiye and Qatar signed five agreements, including a mutual defense pact, during the 12th meeting of the Türkiye-Qatar High Strategic Committee in Istanbul, with the signing ceremony held at the Presidential Dolmabahce Office in the presence of President Recep Tayyip Erdogan and Qatari Emir Sheikh Tamim bin Hamad Al Thani. Erdogan and Sheikh Tamim signed the mutual defense agreement, while the other deals cover consumer protection, education, and cooperation on peace, reconciliation and conflict resolution. Foreign Minister Hakan Fidan and Qatari Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman Al Thani signed the memorandum on peace, reconciliation and conflict resolution, along with a joint declaration marking the committee’s 12th meeting. - US FAA lifts nationwide flight ground stop after telecommunications outage The US Federal Aviation Administration lifted a nationwide ground stop at airports after a telecommunications outage affecting Air Route Traffic Control Centers prompted authorities to halt flights as a precaution, with Transportation Secretary Sean Duffy describing the problem as a \"communication issue\" and \"an emergency.\" Homeland Security Secretary Markwayne Mullin told reporters at the White House that the public was \"never\" in danger and that there was \"no indication as of yet that this was a nefarious attack.\" \"We’re not ruling out anything,\" Mullin said when asked about a possible cyberattack, while the FAA said every flight had been accounted for and international flights would be handled case by case. Separately, Microsoft said it had \"no indication\" the ground stop was related to any of its services, while FlightAware said more than 10,000 flights were delayed or canceled. - Trump to hold trilateral talks with Xi, Putin in China next week: White House US President Donald Trump will meet Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen next week on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit, with assistant White House spokeswoman Olivia Wales saying he will discuss reducing nuclear weapons, whose proliferation Trump believes is \"very dangerous.\" A senior US official said Washington does not expect an agreement, calling the talks \"the entry point, the first conversation\" at the leader level, and said Trump plans to raise Iran but not Ukraine because China is not part of the separate US-Russia track. Trump will leave Washington on Monday for Manila for a Quad leaders’ meeting and the US-ASEAN Special Summit, then travel to Shenzhen on Wednesday, where he will hold a meeting and working lunch with Xi on Thursday before the trilateral meeting. Another senior US official described the Trump-Xi session as an \"implementation check-in” on the trade agreement, with no tariff changes expected. Tesla and SpaceX CEO Elon Musk will join Trump for parts of his visit to China but will not participate in official meetings, according to US officials. ... - The Pan American Health Organization has revoked the US measles elimination status after outbreaks in several states and 5,400 cases reported in 2026, with health experts blaming low vaccination coverage."
+   },
+   {
+    "title": "Latest India & World News Today LIVE updates: Trump, Putin and Xi to hold trilateral, FAA lifts nationwide ground stop",
+    "url": "https://www.wionews.com/world/live-blog-live-blog-latest-india-world-news-today-live-updates-november-14-trump-putin-xi-meeting-faa-flight-disruption-drone-scare-microsoft-1794632305210",
+    "source": "wionews.com",
+    "published": "",
+    "excerpt": "A tanker struck the American Heritage river cruise boat on the Mississippi River in New Orleans on Friday, causing it to capsize. All approximately 180 people aboard were accounted for. The cruise vessel had been docked for nearly two hours before the collision."
+   },
+   {
+    "title": "Saturday (11/14) News Roundup: \"You cannot build peace on a burning planet\"; \"Democrats Order Musk to Preserve Records Over Ukraine Starlink Access\" - Blue Virginia",
+    "url": "https://bluevirginia.us/2026/11/saturday-11-14-news-roundup/",
+    "source": "bluevirginia.us",
+    "published": "",
+    "excerpt": "- ‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech (“António Guterres says climate action central to every aspect of UN’s work ... a new European security framework floated by US could benefit Putin - Democrats Order"
+   },
+   {
+    "title": "World news digest for November 14, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-14",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "Iran's Revolutionary Guards claimed to have struck a US early-warning radar ... first such claim since early September, hours after President Trump removed Vice President JD Vance from ... gas carrier had hit a naval mine and exploded while crossing an"
+   },
+   {
+    "title": "Daily World Briefing, Nov. 14-Xinhua",
+    "url": "https://english.news.cn/20261114/29ab40daef2043c084f16bc7766e2c36/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "The 25th round of ocean discharge of nuclear-contaminated wastewater from Japan's crippled Fukushima Daiichi Nuclear Power Plant was completed on Friday, bringing the cumulative volume released ... number of confirmed Ebola cases has surpassed 11,000 with"
+   },
+   {
+    "title": "HT morning news brief November 14: US briefly grounds flights; Delhi records ‘very poor’ AQI | India News",
+    "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-14-us-briefly-grounds-flights-delhi-records-very-poor-aqi-jensen-huang-nvidia-david-warner-top-news-101794627561257.html",
+    "source": "hindustantimes.com",
+    "published": "",
+    "excerpt": "poor' category on Saturday, with seven of the national capital's 59 ... Transportation Secretary Sean Duffy saying a communications issue affected the regional air traffic control centres that direct planes between airports nationwide. Check the"
+   },
+   {
+    "title": "Xinhua world news summary at 0030 GMT, Nov. 14 -Xinhua",
+    "url": "https://english.news.cn/20261114/57ba5c403b874615a747d1e2bdbe5e93/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "tanker collided with a docked river cruise vessel on the Mississippi River near the Port of New Orleans at around 12:30 ... .m. local time on Friday, officials said. The collision caused the cruise vessel to capsize, triggering a major rescue operation."
+   },
+   {
+    "title": "Global News, 14 Nov 2026: Hour by Hour | NewsCura",
+    "url": "https://newscura.com/global/timeline/2026-11-14",
+    "source": "newscura.com",
+    "published": "",
+    "excerpt": "record, Tunisia lose to Libya in AFCON qualifier Salah breaks Egypt's all-time international scoring record during AFCON tournament qualifiers. ... UK and EU agree on airport-style border checks at Eurotunnel to"
+   },
+   {
+    "title": "Politics News November 14, 2026: US flight delays persist",
+    "url": "https://dailysummaryof.com/politics/2026-11-14",
+    "source": "dailysummaryof.com",
+    "published": "",
+    "excerpt": "while officials pressed for major air traffic control investment. President Trump is set to hold a first trilateral meeting with Vladimir Putin and Xi Jinping ... China, with nuclear arms reductions expected to be discussed. The US also lost its measles"
+   }
+  ],
+  "text": "[1] Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian (theguardian.com)\n- ### Police launch investigation into David Walliams over alleged serious sexual offences Met police say allegations are separate from those made by multiple women in Guardian and ITV investigation ... - ### ‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech António Guterres says climate action central to every aspect of UN’s work, as leaders depart Cop31 and talks go on ... - ### Russia strikes hospital in central Kyiv after SpaceX system falters again\n\n[2] Morning Briefing: Nov. 14, 2026 (aa.com.tr)\nAnadolu’s recap of top stories from around the globe Merve Aydogan 14 November 2026• Update: 14 November 2026 HAMILTON, Canada Here's a rundown of all the news you need to know for Saturday, including Türkiye and Qatar signing five agreements, including a mutual defense pact, during the 12th meeting of the Türkiye-Qatar High Strategic Committee in Istanbul; the US Federal Aviation Administration lifting a nationwide flight ground stop after a telecommunications outage; and US President Donald Trump set to hold trilateral talks with Chinese President Xi Jinping and Russian President Vladimir …\n\n[3] Latest India & World News Today LIVE updates: Trump, Putin and Xi to hold trilateral, FAA lifts nationwide ground stop (wionews.com)\nA tanker struck the American Heritage river cruise boat on the Mississippi River in New Orleans on Friday, causing it to capsize. All approximately 180 people aboard were accounted for. The cruise vessel had been docked for nearly two hours before the collision.\n\n[4] Saturday (11/14) News Roundup: \"You cannot build peace on a burning planet\"; \"Democrats Order Musk to Preserve Records Over Ukraine Starlink Access\" - Blue Virginia (bluevirginia.us)\n- ‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech (“António Guterres says climate action central to every aspect of UN’s work ... a new European security framework floated by US could benefit Putin - Democrats Order\n\n[5] World news digest for November 14, 2026 | World Watch (worldwatch.media)\nIran's Revolutionary Guards claimed to have struck a US early-warning radar ... first such claim since early September, hours after President Trump removed Vice President JD Vance from ... gas carrier had hit a naval mine and exploded while crossing an\n\n[6] Daily World Briefing, Nov. 14-Xinhua (english.news.cn)\nThe 25th round of ocean discharge of nuclear-contaminated wastewater from Japan's crippled Fukushima Daiichi Nuclear Power Plant was completed on Friday, bringing the cumulative volume released ... number of confirmed Ebola cases has surpassed 11,000 with\n\n[7] HT morning news brief November 14: US briefly grounds flights; Delhi records ‘very poor’ AQI | India News (hindustantimes.com)\npoor' category on Saturday, with seven of the national capital's 59 ... Transportation Secretary Sean Duffy saying a communications issue affected the regional air traffic control centres that direct planes between airports nationwide. Check the\n\n[8] Xinhua world news summary at 0030 GMT, Nov. 14 -Xinhua (english.news.cn)\ntanker collided with a docked river cruise vessel on the Mississippi River near the Port of New Orleans at around 12:30 ... .m. local time on Friday, officials said. The collision caused the cruise vessel to capsize, triggering a major rescue operation.\n\n[9] Global News, 14 Nov 2026: Hour by Hour | NewsCura (newscura.com)\nrecord, Tunisia lose to Libya in AFCON qualifier Salah breaks Egypt's all-time international scoring record during AFCON tournament qualifiers. ... UK and EU agree on airport-style border checks at Eurotunnel to\n\n[10] Politics News November 14, 2026: US flight delays persist (dailysummaryof.com)\nwhile officials pressed for major air traffic control investment. President Trump is set to hold a first trilateral meeting with Vladimir Putin and Xi Jinping ... China, with nuclear arms reductions expected to be discussed. The US also lost its measles",
+  "hash": "076d06404ed35bdcd9b174fda03bbb0ddf72e6631cf8b659b138a2cf05fdca24",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 14, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-14T13:04:37+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Strong Growth, Rising Prices and a Fed Behind the Curve | The Daily Spark",
+    "url": "https://www.apollo.com/institutional/insights-news/insights/daily-spark/strong-growth-rising-prices-and-a-fed-behind-the-curve",
+    "source": "apollo.com",
+    "published": "",
+    "excerpt": "November 14, 2026 # Strong Growth, Rising Prices and a Fed Behind the Curve About the Author Torsten Slok Partner, Chief Economist October nonfarm payrolls and CPI were strong, the AI spending boom continues and the Atlanta Fed estimates fourth-quarter GDP growth at 3.5%, significantly above the 2% potential growth rate. At the same time, regional Fed surveys of prices paid, shifted six months forward, point to a continued strong uptrend in inflation, with PCE inflation moving towards 6%, see chart below. The bottom line is that strong demand, combined with ongoing supply shocks to imports, labor and energy, raises the risk that the Fed is falling behind the curve and will have to raise rates much more than markets currently expect."
+   },
+   {
+    "title": "Wholesale food prices are on the rise",
+    "url": "https://www.axios.com/2026/11/14/grocery-wholesale-inflation-vegetables",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "# Wholesale food prices are on the rise - Courtenay Brown ... Food prices are rising sharply even before they reach supermarket shelves. Why it matters: Americans are already paying more for groceries. New inflation data this week suggests that the pressure is not letting up. - Wholesale fresh and dry vegetable prices surged 27% last month, adding to a 31% price jump the previous month. - These are the prices paid by food distributors, grocery chains and other businesses to farmers and other producers for eventual sale to consumers. - Wholesale food prices overall are up 1.7% from a year earlier, ending a three-month streak of annual price declines. Zoom in: Unusually warm weather, crop disease and insect infestations have reduced lettuce and other leafy green harvests in California. - The Iran war, meanwhile, has driven up the cost of fertilizer and fuel, making it more expensive to grow and transport food. - A regional grocery chain recently told Federal Reserve officials that it now costs more to transport a head of lettuce from California than to buy the lettuce itself, citing high diesel fuel prices. - Truck freight costs are up almost 25% over the past year, the largest annual increase since 2022 and on par with the surge seen during the pandemic-era inflation shock. The big picture: It's unclear how much of the surge in producer prices will be passed along to consumers. But steeper price increases were already showing up at supermarket checkout counters last month. - Grocery prices rose 0.4%, the biggest monthly increase in 6 months, driven by higher prices for meat, dairy products and snack foods. - Fresh vegetable prices climbed 2%, including a nearly 8% jump in lettuce prices."
+   },
+   {
+    "title": "Fed’s Jefferson says he is taking his policy cues from inflation By Reuters",
+    "url": "https://www.investing.com/news/economy-news/feds-jefferson-says-he-is-taking-his-policy-cues-from-inflation-5026805",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Published Nov 13, 2026, 07:03 PM Updated Nov 13, 2026, 07:12 PM ... Nov 13 (Reuters) - Federal Reserve Vice Chair Philip Jefferson said on Friday that, with the economy growing and the labor market stabilized, he is taking his policy cues from inflation, a remark that suggests he may support further interest-rate hikes to bring it under control. Jefferson joined the 10-2 majority of Fed policymakers who voted at their October meeting to wait for more data to accumulate before considering a rate hike. \"Data received since that meeting have been consistent with economic activity and labor market conditions remaining broadly solid, while inflation readings show persistent price pressures,\" Jefferson said in remarks prepared for delivery at the University of California, San Diego. \"Accordingly, I see the trajectory of inflation as providing the more important signal for determining the appropriate stance of monetary policy.\" Other Fed policymakers in recent weeks have been explicit that elevated and persistent inflation means they would likely support rate hikes that are bigger or come in quicker succession than the single quarter-point increase the Fed delivered in September. Jefferson gave no such guidance. \"Going forward, I believe that further policy adjustments should be determined by carefully examining trends in the data, the evolving outlook, and the balance of risks,\" he said."
+   },
+   {
+    "title": "Bessent, Fed’s Goolsbee divided on role of energy shock in inflation By Reuters",
+    "url": "https://www.investing.com/news/economy-news/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-to-iran-war-5025640",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Published Nov 13, 2026, 09:02 AM Updated Nov 13, 2026, 10:42 AM © Reuters. WASHINGTON, Nov 13 (Reuters) - US Treasury Secretary Scott Bessent said on Friday that the Federal Reserve should not hike rates because of inflation driven by an \"energy supply shock\" tied to the Iran war, comments made to CNBC and promptly contradicted on the network by Chicago Fed President Austan Goolsbee, who said price pressures were building far beyond what could be explained by high oil prices. \"I think the Fed should understand that this is an energy supply shock,\" while the underlying US economy is very strong, Bessent said in an interview on CNBC. \"So I think that to hike too much into an energy supply shock when it’s coming down, these are very noisy numbers...You know, the Fed’s supposed to look into the future, not look in the rearview mirror.\" Shortly afterwards, the network hosted Goolsbee, a regular guest on CNBC’s morning Squawk Box show, who said that inflation was not just due to energy, but had spread to the service sector and areas like medical care that are not usually responsive to the price of oil, and was also elevated through strong demand tied to the AI data center buildout. \"I respect the secretary and I am trying to figure out the same thing he is trying to figure out, which is how persistent is this inflation? The tariff inflation and oil price shock were supposed to have gone away by now and it hasn’t,\" Goolsbee said. \"One puzzle is why have those supply shocks been as persistent as they have been. A second thing is if demand is overheating and that is contributing to inflation, that is more worrisome... Services inflation, which is probably not coming from tariffs or oil, is one of the more troubling aspects of the inflation reports we have been getting.\" While not committing to a rate hike, he said the Fed \"has definitely got work to do to continue to reestablish its credibility.\" The two interviews highlighted competing narratives about aspects of the US economy that figured heavily in midterm elections that centered on high inflation as well as the ... Fed policymakers were open to the possibility they could \"look through\" supply-driven inflation at the start of the US war with Iran. But as inflation remained lodged above the Fed’s target, concern about it grew, as did support for rate hikes. Research meanwhile opened a different window on the relationship between oil prices and US inflation. Because the US is an energy exporter, higher global oil prices can filter through to the economy in the form of higher corporate profits and wages, providing a source of inflation beyond supply issues that can’t be easily ignored by the central bank. Recent stronger-than-expected jobs and inflation reports have further bolstered the case for more Federal Reserve interest rate hikes, and even prompted some officials to discuss the need for a larger-than-typical half-percentage-point increase at the central bank’s coming December 8-9 meeting. \"We have had signs of trouble now for several months in a row if you look at how broad-based the inflation is,\" Goolsbee said. \"In categories that are not driven by oil prices and not driven by tariffs, you are still seeing stalled progress and in some cases going the wrong way ... That is not going away no matter what happens to the price of oil.\" \"Are we on a path back to 2%? My feeling right now is we are not and we’ve got to deal with that,\" Goolsbee said. \"Conventional wisdom says do everything you can to prevent demand overheating,\" Goolsbee said, with coming data on inflation the key to whether the Fed needs a faster pace of rate increases."
+   },
+   {
+    "title": "Goolsbee Says Broader Inflation Could Prompt a Tougher Fed Response | EconoTimes",
+    "url": "https://econotimes.com/Goolsbee-Says-Broader-Inflation-Could-Prompt-a-Tougher-Fed-Response-1776696",
+    "source": "econotimes.com",
+    "published": "",
+    "excerpt": "By Miriam Hart Nov 14, 2026, 9:50 AM UTC Updated Nov 14, 2026, 9:50 AM UTC 2 min read ... Chicago Fed President Austan Goolsbee said Friday that worsening inflation data could require a more forceful Federal Reserve response, as U.S. policymakers assess whether price pressures are spreading beyond energy. Goolsbee made the remarks in a Nov. 13 interview on CNBC’s Squawk Box, which the Chicago Fed lists on its media appearances page. He said inflation had reached categories not driven by energy. His response was conditional on incoming data, and he did not commit to a rate increase. The U.S. Bureau of Labor Statistics (BLS) reported that the Consumer Price Index for All Urban Consumers (CPI) rose 0.4% in October, after a 0.6% increase in September. Core CPI, which excludes food and energy, rose 0.3% month over month in August, September and October. Because the BLS did not collect October 2025 data during the lapse in appropriations, it could not publish 12-month changes for most CPI series. EconoTimes previously covered October’s CPI report and Goolsbee’s comments on services inflation. Producer prices also rose. The BLS said its final-demand Producer Price Index (PPI) increased 0.3% in October and 6.5% over the 12 months through October. That annual increase was the largest since November 2022, when it was 7.4%. The CPI figures provide monthly comparisons, while the missing October 2025 data prevent most annual comparisons in the latest consumer-price release. The Fed’s longer-run inflation goal is 2%, measured using annual changes in the personal consumption expenditures (PCE) price index. On Oct. 28, the Federal Open Market Committee (FOMC) kept its federal funds target range at 3.75% to 4.00%; two members preferred a quarter-point increase. Minutes from the Oct. 27-28 meeting are due Nov. 18. The FOMC’s next meeting is scheduled for Dec. 8-9, and the BLS is scheduled to release November CPI data Dec. 10 at 8:30 a.m. ET."
+   },
+   {
+    "title": "CPI Release, PPI at 6.5%: Inflation Data Week in Review | Macra Digest",
+    "url": "https://macradigest.com/cpi-release-ppi-inflation-week-review/",
+    "source": "macradigest.com",
+    "published": "",
+    "excerpt": "| --- | --- | | US consumer prices (CPI) | October | +0. ... The producer price index followed on Friday. Wholesale prices rose 0.3% in October, which put the annual rate at 6.5%, the highest in nearly four years, according to CNBC."
+   },
+   {
+    "title": "New Inflation Data Offers Terrible News for President Donald Trump's Economy and the AI-Driven Bull Market | The Motley Fool",
+    "url": "https://www.fool.com/investing/2026/11/14/new-inflation-data-offers-terrible-news-donald-trump-economy-and-ai-driven-bull-market/",
+    "source": "fool.com",
+    "published": "",
+    "excerpt": "the Fed's preferred inflation gauge -- is headed in the wrong direction. After rising from a reported 3.4 ... to 3.6% in September, the Cleveland Fed's inflation tool expects PCE to ascend to 3.77% in October"
+   },
+   {
+    "title": "Inside discouraging October inflation report as rate spikes amid raging Iran war - Politics - News - Daily Express US",
+    "url": "https://www.the-express.com/news/politics/219502/inside-discouraging-october-inflation-report",
+    "source": "the-express.com",
+    "published": "",
+    "excerpt": "The Labor Department reported Tuesday that the consumer price index climbed 0.4% between September and October, a decrease from the prior month's 0.6%. Due to last year's government shutdown preventing October 2025 data collection, no annual inflation figure was provided. When stripping out the unpredictable food and energy sectors, core prices increased 0.3%, matching the previous month's rise. Both measurements came in a tenth of a percentage point above projections."
+   },
+   {
+    "title": "Inflation jumps to 3.7% as gas, diesel prices squeeze consumers",
+    "url": "https://www.nbcnews.com/business/economy/inflation-jumped-september-gas-diesel-prices-squeezed-consumers-ahead-rcna603202",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "The Bureau of Labor Statistics said Wednesday that overall prices rose 3.7% from a year ago and 0.6% from August. Categories including housing, clothing, and restaurant and takeout food all saw price ... . Only three major categories saw price declines:"
+   },
+   {
+    "title": "Trump was trying to force prices lower ahead of the midterms. But Iran gets a vote, too | CNN Business",
+    "url": "https://www.cnn.com/2026/10/14/economy/prices-inflation-iran-midterms",
+    "source": "cnn.com",
+    "published": "",
+    "excerpt": "Gas prices rose 9.1% over the course of the month and ended September more than 34% higher than the same time last year. Fuel oil prices rose 15.3% last month and surged more than 74% over the course of the past year."
+   }
+  ],
+  "text": "[1] Strong Growth, Rising Prices and a Fed Behind the Curve | The Daily Spark (apollo.com)\nNovember 14, 2026 # Strong Growth, Rising Prices and a Fed Behind the Curve About the Author Torsten Slok Partner, Chief Economist October nonfarm payrolls and CPI were strong, the AI spending boom continues and the Atlanta Fed estimates fourth-quarter GDP growth at 3.5%, significantly above the 2% potential growth rate. At the same time, regional Fed surveys of prices paid, shifted six months forward, point to a continued strong uptrend in inflation, with PCE inflation moving towards 6%, see chart below. The bottom line is that strong demand, combined with ongoing supply shocks to imports, …\n\n[2] Wholesale food prices are on the rise (axios.com)\n# Wholesale food prices are on the rise - Courtenay Brown ... Food prices are rising sharply even before they reach supermarket shelves. Why it matters: Americans are already paying more for groceries. New inflation data this week suggests that the pressure is not letting up. - Wholesale fresh and dry vegetable prices surged 27% last month, adding to a 31% price jump the previous month. - These are the prices paid by food distributors, grocery chains and other businesses to farmers and other producers for eventual sale to consumers. - Wholesale food prices overall are up 1.7% from a year …\n\n[3] Fed’s Jefferson says he is taking his policy cues from inflation By Reuters (investing.com)\nPublished Nov 13, 2026, 07:03 PM Updated Nov 13, 2026, 07:12 PM ... Nov 13 (Reuters) - Federal Reserve Vice Chair Philip Jefferson said on Friday that, with the economy growing and the labor market stabilized, he is taking his policy cues from inflation, a remark that suggests he may support further interest-rate hikes to bring it under control. Jefferson joined the 10-2 majority of Fed policymakers who voted at their October meeting to wait for more data to accumulate before considering a rate hike. \"Data received since that meeting have been consistent with economic activity and labor …\n\n[4] Bessent, Fed’s Goolsbee divided on role of energy shock in inflation By Reuters (investing.com)\nPublished Nov 13, 2026, 09:02 AM Updated Nov 13, 2026, 10:42 AM © Reuters. WASHINGTON, Nov 13 (Reuters) - US Treasury Secretary Scott Bessent said on Friday that the Federal Reserve should not hike rates because of inflation driven by an \"energy supply shock\" tied to the Iran war, comments made to CNBC and promptly contradicted on the network by Chicago Fed President Austan Goolsbee, who said price pressures were building far beyond what could be explained by high oil prices. \"I think the Fed should understand that this is an energy supply shock,\" while the underlying US economy is very …\n\n[5] Goolsbee Says Broader Inflation Could Prompt a Tougher Fed Response | EconoTimes (econotimes.com)\nBy Miriam Hart Nov 14, 2026, 9:50 AM UTC Updated Nov 14, 2026, 9:50 AM UTC 2 min read ... Chicago Fed President Austan Goolsbee said Friday that worsening inflation data could require a more forceful Federal Reserve response, as U.S. policymakers assess whether price pressures are spreading beyond energy. Goolsbee made the remarks in a Nov. 13 interview on CNBC’s Squawk Box, which the Chicago Fed lists on its media appearances page. He said inflation had reached categories not driven by energy. His response was conditional on incoming data, and he did not commit to a rate increase. The U.S. …\n\n[6] CPI Release, PPI at 6.5%: Inflation Data Week in Review | Macra Digest (macradigest.com)\n| --- | --- | | US consumer prices (CPI) | October | +0. ... The producer price index followed on Friday. Wholesale prices rose 0.3% in October, which put the annual rate at 6.5%, the highest in nearly four years, according to CNBC.\n\n[7] New Inflation Data Offers Terrible News for President Donald Trump's Economy and the AI-Driven Bull Market | The Motley Fool (fool.com)\nthe Fed's preferred inflation gauge -- is headed in the wrong direction. After rising from a reported 3.4 ... to 3.6% in September, the Cleveland Fed's inflation tool expects PCE to ascend to 3.77% in October\n\n[8] Inside discouraging October inflation report as rate spikes amid raging Iran war - Politics - News - Daily Express US (the-express.com)\nThe Labor Department reported Tuesday that the consumer price index climbed 0.4% between September and October, a decrease from the prior month's 0.6%. Due to last year's government shutdown preventing October 2025 data collection, no annual inflation figure was provided. When stripping out the unpredictable food and energy sectors, core prices increased 0.3%, matching the previous month's rise. Both measurements came in a tenth of a percentage point above projections.\n\n[9] Inflation jumps to 3.7% as gas, diesel prices squeeze consumers (nbcnews.com)\nThe Bureau of Labor Statistics said Wednesday that overall prices rose 3.7% from a year ago and 0.6% from August. Categories including housing, clothing, and restaurant and takeout food all saw price ... . Only three major categories saw price declines:\n\n[10] Trump was trying to force prices lower ahead of the midterms. But Iran gets a vote, too | CNN Business (cnn.com)\nGas prices rose 9.1% over the course of the month and ended September more than 34% higher than the same time last year. Fuel oil prices rose 15.3% last month and surged more than 74% over the course of the past year.",
+  "hash": "ba9ffe2c1d0e13e0611f475f30c24bb10e1c1cc84e56e901242e31dd76135eaa",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 14, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-14T13:04:51+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Nvidia scandal hits Trump's political vulnerabilities after Democratic sweep",
+    "url": "https://www.washingtonpost.com/politics/2026/11/14/nvidia-scandal-hits-trumps-political-vulnerabilities-after-democratic-sweep/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "Sex. Money. Power. Espionage. As Washington scandals go, this one has everything. But what really makes ex-Nvidia CEO Jensen Huang’s affair with a suspected Chinese spy an explosive political problem for the White House is that it brings together the very issues that propelled Democrats to their largest congressional majority since 1990. Voters revolted against President Donald Trump’s handling of the economy, with widespread concerns about artificial intelligence, data centers, competition from China, and special access and favors for billionaires. ... Those concerns vaulted the Nvidia scandal atop Democrats’ list for investigating the Trump administration, according to Rep. Stephen F. Lynch"
+   },
+   {
+    "title": "Weekend Edition Saturday for November 14, 2026 : NPR",
+    "url": "https://www.npr.org/programs/weekend-edition-saturday/nx-s1-6023839/weekend-edition-saturday-for-november-14-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Week in Politics: Battle for Senate leader; young and independent midterm turnout by Scott Simon, Ron Elving ### ExxonMobil eyes Venezuela return as reality tests Trump's oil deal promises ... backlash over plan to sell public lands to states and"
+   },
+   {
+    "title": "A potential 2028 candidate takes himself out of the running, as others gear up",
+    "url": "https://www.washingtonpost.com/politics/2026/11/14/potential-2028-candidate-is-out-running-others-gear-up/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "Sen. Chris Van Hollen (D-Maryland), believed to be a likely 2028 contender, said Friday that he will not launch a presidential bid after deciding to challenge Sen. Chuck Schumer (D-New York) to lead the Democrats in their new Senate majority. ... He added that Schumer represented an outdated style of politics. “We can’t go back to business as usual,” said Van Hollen. Vice President JD Vance is seen as a leading contender for the 2028 GOP presidential nomination. But this week, several other potential 2028 Republican candidates used the midterm’s blue wave to remind voters that Vance is not yet the"
+   },
+   {
+    "title": "Texas's Democratic gov.-elect vows to trade GOP culture wars for moderation",
+    "url": "https://www.washingtonpost.com/nation/2026/11/14/texass-democratic-gov-elect-vows-trade-gop-culture-wars-moderation/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "AUSTIN — GOP Gov. Greg Abbott and conservative state lawmakers tried to label incoming Democratic governor Gina Hinojosa a closet progressive, warning that she’ll turn the deeply red state socialist. But after Hinojosa’s historic upset win amid a blue wave that swept every state office, Texas’s first Latina governor-elect vowed during an interview with The Washington Post at the state Capitol on Friday to avoid culture wars in favor of something Texas hasn’t seen in a generation: moderation. On a number of key issues facing her state — affordability, border security, data centers and school vouchers — Hinojosa is staking out what she"
+   },
+   {
+    "title": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
+    "url": "https://apnews.com/article/trump-iran-talks-strikes-limbo-02378df1ec3073d2c0f8f162e697d181",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — President Donald Trump has had a lot to say about his thinking on the way ahead in the Iran war since Republicans were trounced in last week's midterm elections. In exchanges with reporters, broadcast interviews and social media posts since Election Day, he's somehow managed to back away from carrying out additional strikes while also backing away from the prospect of additional talks with the Islamic Republic's negotiators on ending the 8-month-old conflict. The president acknowledged on the day after the midterms that the war and the global economic tumult it's caused were partly to blame for Republicans'"
+   },
+   {
+    "title": "Week in Politics: Battle for Senate leader; young and independent midterm turnout : NPR",
+    "url": "https://www.npr.org/2026/11/14/nx-s1-6040156/week-in-politics-battle-for-senate-leader-young-and-independent-midterm-turnout",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "November 14, 2026 7:40 AM ET Heard on Weekend Edition Saturday ... The battle over the next majority leader in the U.S. Senate reflects the turnout by younger and independent voters in the midterm elections."
+   },
+   {
+    "title": "Saturday (11/14) News Roundup: \"You cannot build peace on a burning planet\"; \"Democrats Order Musk to Preserve Records Over Ukraine Starlink Access\" - Blue Virginia",
+    "url": "https://bluevirginia.us/2026/11/saturday-11-14-news-roundup/",
+    "source": "bluevirginia.us",
+    "published": "",
+    "excerpt": "- U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands (“The Pan American Health Organization, an international health body, ... six months (“Work requirements were set to go into effect on Jan. 1 for"
+   },
+   {
+    "title": "Live updates: Trump tells Vance to shift focus from Iran to ‘corruption' at home | AP News",
+    "url": "https://apnews.com/live/trump-vance-iran-congress-midterms-politics-news-updates-11-13-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "at the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the ... that he will run for Senate Majority Leader, challenging Democratic"
+   },
+   {
+    "title": "AP News Summary at 7:05 a.m. EST | National | guardonline.com",
+    "url": "https://www.guardonline.com/news/national/ap-news-summary-at-7-05-a-m-est/article_784117bc-983d-58ec-96ee-cb948998bb00.html",
+    "source": "guardonline.com",
+    "published": "",
+    "excerpt": "— Alaska voters have elected a Democrat for governor for the first time since 1998. Jonathan Kreiss- ... , defeated three Republicans. One of those, Bernadette Wilson, was endorsed by ... Trump. Kreiss-Tomkins’ victory is part of a national landslide"
+   },
+   {
+    "title": "Catch me Up: Trump is now at war as a lame duck, plus Hegseth under fire",
+    "url": "https://www.scrippsnews.com/shows/catch-me-up/catch-me-up-trump-is-now-at-war-as-a-lame-duck-plus-hegseth-under-fire",
+    "source": "scrippsnews.com",
+    "published": "",
+    "excerpt": "Then, President Trump is a lame duck at war — with Democrats who just swept Congress, with the Justice Department he's ordered to investigate the winners, and with his own concession that his immigration crackdown may have gone too far. And, he’s now"
+   }
+  ],
+  "text": "[1] Nvidia scandal hits Trump's political vulnerabilities after Democratic sweep (washingtonpost.com)\nSex. Money. Power. Espionage. As Washington scandals go, this one has everything. But what really makes ex-Nvidia CEO Jensen Huang’s affair with a suspected Chinese spy an explosive political problem for the White House is that it brings together the very issues that propelled Democrats to their largest congressional majority since 1990. Voters revolted against President Donald Trump’s handling of the economy, with widespread concerns about artificial intelligence, data centers, competition from China, and special access and favors for billionaires. ... Those concerns vaulted the Nvidia …\n\n[2] Weekend Edition Saturday for November 14, 2026 : NPR (npr.org)\n### Week in Politics: Battle for Senate leader; young and independent midterm turnout by Scott Simon, Ron Elving ### ExxonMobil eyes Venezuela return as reality tests Trump's oil deal promises ... backlash over plan to sell public lands to states and\n\n[3] A potential 2028 candidate takes himself out of the running, as others gear up (washingtonpost.com)\nSen. Chris Van Hollen (D-Maryland), believed to be a likely 2028 contender, said Friday that he will not launch a presidential bid after deciding to challenge Sen. Chuck Schumer (D-New York) to lead the Democrats in their new Senate majority. ... He added that Schumer represented an outdated style of politics. “We can’t go back to business as usual,” said Van Hollen. Vice President JD Vance is seen as a leading contender for the 2028 GOP presidential nomination. But this week, several other potential 2028 Republican candidates used the midterm’s blue wave to remind voters that Vance is not …\n\n[4] Texas's Democratic gov.-elect vows to trade GOP culture wars for moderation (washingtonpost.com)\nAUSTIN — GOP Gov. Greg Abbott and conservative state lawmakers tried to label incoming Democratic governor Gina Hinojosa a closet progressive, warning that she’ll turn the deeply red state socialist. But after Hinojosa’s historic upset win amid a blue wave that swept every state office, Texas’s first Latina governor-elect vowed during an interview with The Washington Post at the state Capitol on Friday to avoid culture wars in favor of something Texas hasn’t seen in a generation: moderation. On a number of key issues facing her state — affordability, border security, data centers and school …\n\n[5] With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead (apnews.com)\nWASHINGTON (AP) — President Donald Trump has had a lot to say about his thinking on the way ahead in the Iran war since Republicans were trounced in last week's midterm elections. In exchanges with reporters, broadcast interviews and social media posts since Election Day, he's somehow managed to back away from carrying out additional strikes while also backing away from the prospect of additional talks with the Islamic Republic's negotiators on ending the 8-month-old conflict. The president acknowledged on the day after the midterms that the war and the global economic tumult it's caused were …\n\n[6] Week in Politics: Battle for Senate leader; young and independent midterm turnout : NPR (npr.org)\nNovember 14, 2026 7:40 AM ET Heard on Weekend Edition Saturday ... The battle over the next majority leader in the U.S. Senate reflects the turnout by younger and independent voters in the midterm elections.\n\n[7] Saturday (11/14) News Roundup: \"You cannot build peace on a burning planet\"; \"Democrats Order Musk to Preserve Records Over Ukraine Starlink Access\" - Blue Virginia (bluevirginia.us)\n- U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands (“The Pan American Health Organization, an international health body, ... six months (“Work requirements were set to go into effect on Jan. 1 for\n\n[8] Live updates: Trump tells Vance to shift focus from Iran to ‘corruption' at home | AP News (apnews.com)\nat the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the ... that he will run for Senate Majority Leader, challenging Democratic\n\n[9] AP News Summary at 7:05 a.m. EST | National | guardonline.com (guardonline.com)\n— Alaska voters have elected a Democrat for governor for the first time since 1998. Jonathan Kreiss- ... , defeated three Republicans. One of those, Bernadette Wilson, was endorsed by ... Trump. Kreiss-Tomkins’ victory is part of a national landslide\n\n[10] Catch me Up: Trump is now at war as a lame duck, plus Hegseth under fire (scrippsnews.com)\nThen, President Trump is a lame duck at war — with Democrats who just swept Congress, with the Justice Department he's ordered to investigate the winners, and with his own concession that his immigration crackdown may have gone too far. And, he’s now",
+  "hash": "b0fbec0598b9c8f973cfc76dab0f3397f44dce0710903db60a0b7d73747dea75",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 14, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-14T13:05:13+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "What To Watch On TV And Streaming Saturday, November 14, 2026",
+    "url": "https://www.tvline.com/2315797/what-to-watch-november-14-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "On TV this Saturday: John Mulaney returns to Studio 8H, Tyler Hynes stars in Hallmark's \"The Nights Before Christmas,\" and Alex Warren hosts Nickelodeon's Kids' Choice Awards. ... The song-filled, stop-motion holiday special follows Penny Proud after she"
+   },
+   {
+    "title": "AP Entertainment SummaryBrief at 12:16 a.m. EST | Lifestyles | tuscolatoday.com",
+    "url": "https://www.tuscolatoday.com/lifestyles/ap-entertainment-summarybrief-at-12-16-a-m-est/article_0e964488-c69c-55e1-95d1-bf532241228e.html",
+    "source": "tuscolatoday.com",
+    "published": "",
+    "excerpt": "- AP - Nov 14, 2026 - Nov 14, 2026 Updated 6 hrs ago Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage LOS ANGELES (AP) — The Rock & Roll Hall of Fame induction ceremony on Saturday may feel like an '80s night. New members include Billy Idol, Phil Collins, Sade, Queen Latifah, New Order, Luther Vandross, and Iron Maiden. The ceremony takes place at the Peacock Theater in Los Angeles, but many inductees won’t perform or appear. The show won't be streaming live this year. An edited version airs on ABC and Disney+ on Dec. 9. Hip-hop could be the highlight with Wu-Tang Clan, Queen Latifah, and MC Lyte expected to perform. The show is in Los Angeles for the second straight year. Bobby Pulido is a member-elect for the U.S. House of Representatives who has also recently won the Latin Grammy for best Tejano album. He accepted the award Thursday at a ceremony in Las Vegas that reflected a broader trend of political advocacy in music. Pulido recently won a competitive race to flip Texas’ 15th Congressional District. He announced his retirement from music onstage and other artists called for unity and representation. Daddy Yankee and Anitta highlighted issues in Puerto Rico and Brazil. Political references had long been dormant from the awards. ... Pop-punk icon Avril Lavigne has announced she is now a mom. She revealed on Instagram on Friday that she has welcomed her first child, a baby girl. Lavigne shared three images, including one of her holding the baby and another of a skateboard with baby Vans shoes. She hasn't disclosed her partner's identity or the baby's name. ... ABC has announced that Washington Commanders quarterback Sam Hartman will be the next lead on “The Bachelor.” The 30th season of the reality dating show premieres March 21."
+   },
+   {
+    "title": "Sony’s new deal in China, TikTok signing Daddy Yankee… it’s MBW’s Weekly Round-Up - Music Business Worldwide",
+    "url": "https://www.musicbusinessworldwide.com/from-tiktoks-daddy-yankee-deal-to-youtubes-billboard-comeback-its-mbws-weekly-round-up/",
+    "source": "musicbusinessworldwide.com",
+    "published": "",
+    "excerpt": "November 14, 2026 By Rafaela Fornitani ... This week, Sony Music announced a fresh licensing agreement with NetEase Cloud Music in China. The agreement is NCM’s third confirmed deal with a major in 2026, following previous announcements with Universal Music Group and Warner Music Group. Meanwhile, TikTok’s SoundOn struck what it calls its biggest artist partnership to date, teaming up with Daddy Yankee to distribute and promote his new album, La Postal. ... Sony Music Entertainment has renewed its licensing agreement with Chinese streaming platform NetEase Cloud Music. The multi-year deal, announced on Friday (November 13), means NetEase Cloud Music has now re-signed with all three major music companies in 2026. Universal Music Group struck a new multi-year deal with the platform in January, followed by Warner Music Group in July. (MBW) Daddy Yankee‘s new album, La Postal, was released in partnership with TikTok‘s distribution and promotion platform, SoundOn, in what TikTok calls SoundOn’s “biggest artist partnership to date.” TikTok announced the partnership on Tuesday (November 10). The 15-track album came out on October 30 through DY Records, with SoundOn supporting its global distribution, artist services, and promotion, according to the company. The deal is the latest sign of SoundOn working with established stars. TikTok launched the platform in 2022, describing it as designed “to empower new and undiscovered artists.” (MBW) ... DistroKid has launched DistroKid Publishing, a publishing administration ... The service, announced on Wednesday (November 11), lets eligible DistroKid users collect publishing royalties through their DistroKid accounts. ... ###### 4. Billboard changes ‘free’ vs. paid streaming formula on charts – and YouTube is bringing its data back. YouTube is returning to Billboard‘s US charts. The move follows a change by Billboard to how it weights paid subscription streams against ad-supported streams – the issue that led YouTube to withdraw its data from the charts in January. Billboard announced the change on Monday (November 9), and YouTube confirmed its return later the same day. (MBW) ###### 5. Symphonic inks deal to bring 'hundreds of thousands' of songs to Roblox – with artists paid royalties for all plays Symphonic has signed a deal with Roblox to bring “hundreds of thousands of curated songs” distributed by the company to the gaming and creation platform. The Tampa-headquartered music technology and services company announced the agreement on Thursday (November 12). According to Symphonic, artists will receive royalties for all plays of their music on Roblox. (MBW)"
+   },
+   {
+    "title": "Entertainment news roundup: 14 November 2026 | SVCZZ",
+    "url": "https://svczz.com/articles/entertainment-news-roundup-14-november-2026",
+    "source": "svczz.com",
+    "published": "",
+    "excerpt": "## Trailers and first looks Sony Pictures Classics has released the official US teaser trailer for Iron Boy, Louis Clichy’s hand-drawn animated feature and winner of the Special Jury Prize in Un Certain Regard at Cannes. The film opens in limited release on 4 December 2026, with a nationwide release on 22 January 2027. Keerthy Suresh plays Savithiri, a lawyer fighting to save her husband, in the trailer for Sathyavan Savithiri, out now ahead of the film’s 20 November 2026 theatrical release. Mysskin plays a major part. Bhuvan Bam is back as Titu Mama in the Dhindora season 2 trailer, with Sanjeeda Sheikh joining the cast as Kavita Mami. The new season premieres on Netflix on 20 November 2026. A young man who moves to Kathmandu to change his life after being unable to succeed in his studies is the subject of Gobar Ganesh, whose trailer is out. The Nepali film is directed by Marichman Shrestha and stars Balchhi and Barsha Siwakoti. It reaches cinemas on Magh 1. Dhiraaj Rajbanshi’s Himalayan Gold has a second trailer out, ahead of its 20 November 2026 cinema release. Sunil Thapa, Karma, Parikshya Limbu and Rahul Mukhia star. Dhanush and Mammootty share the screen for the first time in the OM: Chapter 1 trailer, out now. Rajkumar Periasamy directs, and the film opens in theatres worldwide on 20 November 2026. Christopher Briney and Michelle Randolph star in Clashing Through the Snow, whose first trailer is out. The holiday road-trip romantic comedy, directed by Carlson Young, premieres on Prime Video on 23 November 2026. The 1960 plot to assassinate Fidel Castro during his United Nations visit is the subject of Killing Castro, whose official trailer Lionsgate has released. Produced by Curtis “50 Cent” Jackson and DJ Khaled, it opens in cinemas on 11 December 2026 and arrives on digital on 18 December. D Gukesh, R Praggnanandhaa, R Vaishali, Arjun Erigaisi and Vidit Gujrathi are the subjects of CANDIDATES, a six-episode series whose official trailer Dopamine Media has released. It premieres on the Dopamine Media YouTube channel on 22 November 2026. ## Casting and production Cristiano Ronaldo has begun production on Day 1s, his first television show. The scripted drama follows a fictional elite football agency and comes from UR-Marv, with Ronaldo executive producing and expected to make his acting debut. No platform or release date has been announced. School Spirits has confirmed its season 4 cast, with 12 stars returning and one promoted to series regular. Christian Weissmann, Katharine Isabella, Clara Alexandrova and Briana Buckmaster join as guest stars, and production is under way. Vishwambhara, Chiranjeevi’s fantasy adventure known during production as Mega 156, has begun its regular shoot. The film is directed by Vassishta and produced by UV Creations, and is billed as the costliest film of Chiranjeevi’s career. Isla Fisher and Blake Ritson have joined Al Pacino in Captivated, Dito Montiel’s thriller about the kidnapping of John Paul Getty III, with Jackson Kelly also joining the cast. Production is under way in Calabria and Rome in Italy. Apple TV has promoted Samba Schutte to series regular for Pluribus season 2. His Mr. Diabate returns with an expanded presence after two guest episodes in season 1. No premiere date has been announced. Netflix has announced Pushpak Vimaan, a crime-caper comedy series from Sudip Sharma starring Jaideep Ahlawat, Abhishek Banerjee and Barun Sobti. No premiere date was given with the announcement. Kai Cech is to voice Shanti in Lost in Mandala, the first global animated feature from Nepal’s Incessant Rain Studios. The film is directed by former Disney visual effects supervisor Kiran Bhakta Joshi, with a screenplay by Zack Stentz, and is now in pre-production with no release date announced. MobLand season 3 starts production next week. Helen Mirren confirmed the start on the A Talent for Murder red carpet, with Tom Hardy and Pierce Brosnan returning. The season 2 finale airs on 20 November 2026. Freya Allan is to lead System, a horror film from director Joachim Ronning. Filming is under way in abandoned London Underground stations and tunnels, with Denzel Baidoo and Felix Edwards co-starring. ## Box office and streaming Ramayana: Rise of a Legend has crossed $100 million worldwide in seven days, with Rs 944.55 crore reported by Sacnilk. CNBC TV18 reports it as the first film outside China to reach the mark in 2026. The Kannada dubbed version of Ramayana: Part 1 has crossed Rs 50 crore net in India, the first Bollywood film to do so. It took Rs 48.95 crore in its eight-day opening week plus Rs 1.17 crore on day 9, and the Karnataka gross across all languages has passed Rs 100 crore. Paper Tiger has debuted at 85 percent on Rotten Tomatoes from 114 reviews. The James Gray crime drama stars Adam Driver, Miles Teller and Scarlett Johansson, and opened in limited release on 13 November 2026. Hulu has set 13 January 2027 as the premiere date for The Spot, an A24 psychological thriller starring Claire Danes and Ewan McGregor as a surgeon and her schoolteacher husband who suspect she caused a child’s hit-and-run death. First-look images were released on 12 November 2026. ... Christian Cousins, who played Dominic Palmieri in Kindergarten Cop alongside his twin brother Joseph, has died aged 43. He also played Bobby Gibson in Knots Landing. He died in October 2026, his brother Jonas Roeser announced on Instagram, saying Cousins had been very sick with liver disease."
+   },
+   {
+    "title": "Africa Entertainment News Archive: November 14, 2026 | AfricaFrontPage",
+    "url": "https://www.africafrontpage.com/archive/2026-11-14/entertainment",
+    "source": "africafrontpage.com",
+    "published": "",
+    "excerpt": "162 headlines from Africa Entertainment on November 14, 2026, each ... - U2 releases first new studio album in a decade, 'Caranaval de Luz' Modern Ghana · ... Don welcomes second child years after split from Burna Boy, Tiwa Savage reacts Legit · 12:07"
+   },
+   {
+    "title": "K-pop News Today (Nov 14, 2026): ATEEZ UP, KPop Demon Hunters Tour, TXT",
+    "url": "https://seolnotes.com/k-pop/kpop-news-2026-11-14/",
+    "source": "seolnotes.com",
+    "published": "",
+    "excerpt": "ATEEZ released their 15th mini album “GOLDEN HOUR : Part.6” and title track “UP” on Nov. 13 at 2 p.m. KST, and the music video had 8,690,307 views on KQ ENTERTAINMENT’s official channel when we checked ... , and plans more than 150 shows in about 50 cities"
+   },
+   {
+    "title": "Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian",
+    "url": "https://www.theguardian.com/theguardian/2026/nov/14",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "- ### ‘So lovely’: Stevie Wonder surprises Stalybridge restaurant with late-night visit and £1,000 tip Singer, 76, was in Manchester with his band for penultimate UK show of his Songs in the Key of Life anniversary tour"
+   },
+   {
+    "title": "Indian Idol Legends Return: Neha Kakkar and Mika Singh set to reunite for a musical celebration on Sony TV - Breaking",
+    "url": "https://www.tellychakkar.com/tv/tv-news/indian-idol-legends-return-neha-kakkar-and-mika-singh-set-reunite-musical-celebration?amp=",
+    "source": "tellychakkar.com",
+    "published": "",
+    "excerpt": "Sony Entertainment Television is all set to recreate that nostalgia with its upcoming musical offering, Indian ... has exclusively learnt that popular singers Neha Kakkar and Mika Singh will be gracing an upcoming episode"
+   },
+   {
+    "title": "Saturday, November 14, 2026 | Earl's Music Network",
+    "url": "https://www.earlsmusic.net/day/2026-11-14",
+    "source": "earlsmusic.net",
+    "published": "",
+    "excerpt": "Sony Music renews multi-year licensing deal with China’s NetEase Cloud Music ... ), means NetEase Cloud Music has now re-signed with all three major music companies in 2026 Source... ... inks deal to bring ‘hundreds of thousands’ of songs to Roblox –"
+   },
+   {
+    "title": "Music News Today — November 14, 2026 — MusicNewsletter.com",
+    "url": "https://musicnewsletter.com/news/daily-signal-20261114",
+    "source": "musicnewsletter.com",
+    "published": "",
+    "excerpt": "industry is abuzz with a mix of business moves, artist updates, and notable performances. On the business side, Diplo and Andrew Bergman have launched Bison Music ... has inked a deal with Downtown, highlighting the ongoing shifts in the music"
+   }
+  ],
+  "text": "[1] What To Watch On TV And Streaming Saturday, November 14, 2026 (tvline.com)\nOn TV this Saturday: John Mulaney returns to Studio 8H, Tyler Hynes stars in Hallmark's \"The Nights Before Christmas,\" and Alex Warren hosts Nickelodeon's Kids' Choice Awards. ... The song-filled, stop-motion holiday special follows Penny Proud after she\n\n[2] AP Entertainment SummaryBrief at 12:16 a.m. EST | Lifestyles | tuscolatoday.com (tuscolatoday.com)\n- AP - Nov 14, 2026 - Nov 14, 2026 Updated 6 hrs ago Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage LOS ANGELES (AP) — The Rock & Roll Hall of Fame induction ceremony on Saturday may feel like an '80s night. New members include Billy Idol, Phil Collins, Sade, Queen Latifah, New Order, Luther Vandross, and Iron Maiden. The ceremony takes place at the Peacock Theater in Los Angeles, but many inductees won’t perform or appear. The show won't be streaming live this year. An edited version airs on ABC and Disney+ on Dec. 9. Hip-hop could be the …\n\n[3] Sony’s new deal in China, TikTok signing Daddy Yankee… it’s MBW’s Weekly Round-Up - Music Business Worldwide (musicbusinessworldwide.com)\nNovember 14, 2026 By Rafaela Fornitani ... This week, Sony Music announced a fresh licensing agreement with NetEase Cloud Music in China. The agreement is NCM’s third confirmed deal with a major in 2026, following previous announcements with Universal Music Group and Warner Music Group. Meanwhile, TikTok’s SoundOn struck what it calls its biggest artist partnership to date, teaming up with Daddy Yankee to distribute and promote his new album, La Postal. ... Sony Music Entertainment has renewed its licensing agreement with Chinese streaming platform NetEase Cloud Music. The multi-year deal, …\n\n[4] Entertainment news roundup: 14 November 2026 | SVCZZ (svczz.com)\n## Trailers and first looks Sony Pictures Classics has released the official US teaser trailer for Iron Boy, Louis Clichy’s hand-drawn animated feature and winner of the Special Jury Prize in Un Certain Regard at Cannes. The film opens in limited release on 4 December 2026, with a nationwide release on 22 January 2027. Keerthy Suresh plays Savithiri, a lawyer fighting to save her husband, in the trailer for Sathyavan Savithiri, out now ahead of the film’s 20 November 2026 theatrical release. Mysskin plays a major part. Bhuvan Bam is back as Titu Mama in the Dhindora season 2 trailer, with …\n\n[5] Africa Entertainment News Archive: November 14, 2026 | AfricaFrontPage (africafrontpage.com)\n162 headlines from Africa Entertainment on November 14, 2026, each ... - U2 releases first new studio album in a decade, 'Caranaval de Luz' Modern Ghana · ... Don welcomes second child years after split from Burna Boy, Tiwa Savage reacts Legit · 12:07\n\n[6] K-pop News Today (Nov 14, 2026): ATEEZ UP, KPop Demon Hunters Tour, TXT (seolnotes.com)\nATEEZ released their 15th mini album “GOLDEN HOUR : Part.6” and title track “UP” on Nov. 13 at 2 p.m. KST, and the music video had 8,690,307 views on KQ ENTERTAINMENT’s official channel when we checked ... , and plans more than 150 shows in about 50 cities\n\n[7] Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian (theguardian.com)\n- ### ‘So lovely’: Stevie Wonder surprises Stalybridge restaurant with late-night visit and £1,000 tip Singer, 76, was in Manchester with his band for penultimate UK show of his Songs in the Key of Life anniversary tour\n\n[8] Indian Idol Legends Return: Neha Kakkar and Mika Singh set to reunite for a musical celebration on Sony TV - Breaking (tellychakkar.com)\nSony Entertainment Television is all set to recreate that nostalgia with its upcoming musical offering, Indian ... has exclusively learnt that popular singers Neha Kakkar and Mika Singh will be gracing an upcoming episode\n\n[9] Saturday, November 14, 2026 | Earl's Music Network (earlsmusic.net)\nSony Music renews multi-year licensing deal with China’s NetEase Cloud Music ... ), means NetEase Cloud Music has now re-signed with all three major music companies in 2026 Source... ... inks deal to bring ‘hundreds of thousands’ of songs to Roblox –\n\n[10] Music News Today — November 14, 2026 — MusicNewsletter.com (musicnewsletter.com)\nindustry is abuzz with a mix of business moves, artist updates, and notable performances. On the business side, Diplo and Andrew Bergman have launched Bison Music ... has inked a deal with Downtown, highlighting the ongoing shifts in the music",
+  "hash": "eb7ff2f055cf21f5cdb710c0e9fdc6bf56d5eea45c61bef3f415fe9818b6835f",
+  "notes": []
+ }
+}
