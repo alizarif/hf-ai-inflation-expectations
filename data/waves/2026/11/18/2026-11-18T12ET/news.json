@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-18T17:04:04+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 18, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-18T17:04:04+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "The 7 things to know for Wednesday, November 18 - The Washington Post",
+    "url": "https://www.washingtonpost.com/the-seven/2026/11/18/7-things-know-wednesday-november-18/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "# Catch up quickly: Alaska Senate race; measles resurgence; ‘GTA VI’ Today’s seven most important and interesting stories. ... Democrat Mary Peltola defeated Republican Dan Sullivan in the Senate race in Alaska."
+   },
+   {
+    "title": "Top news of the day: November 18, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/top-news-of-the-day-november-18-2026/article71715923.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "#### No mandate only women personnel can ‘handle’ women in crowd-control operations, Delhi Police to SC The Delhi Police has told the Supreme Court there is no strict rule that only women police officers must “handle” women in crowd-control operations. The police was responding to allegations of manhandling women protestors and journalists by male police officers during widespread protests demanding the resignation of Chief Election Commissioner (CEC) Gyanesh Kumar. #### Xi, Putin meet ahead of historic Trump trilateral summit Chinese leader Xi Jinping and Russian counterpart Vladimir Putin began talks in Shenzhen on Wednesday (November 18, 2026), a day ahead of a historic three-way summit with Donald Trump in the southern Chinese city. Thursday’s (November 19) trilateral has triggered fears that the three powerful men could decide the fate of Ukraine over the heads of Kyiv and Europe, and seek to carve up the world into 21st-century spheres of influence."
+   },
+   {
+    "title": "AP Top Stories November 18 - Yahoo News Canada",
+    "url": "https://ca.news.yahoo.com/ap-top-stories-november-18-110903921.html",
+    "source": "ca.news.yahoo.com",
+    "published": "",
+    "excerpt": "a historic three-way meeting with Russia's Putin and China's Xi. Xi says Asia-Pacific needs open trade ... condemns sanctions as Trump heads to China. Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan. After a"
+   },
+   {
+    "title": "Morning Edition for November 18, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5998981/morning-edition-for-november-18-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Trump to meet with Russia's Putin and China's Xi for historic joint meeting by Jennifer Pak, A Martínez #### Trump to meet with Russia's Putin and China's Xi for historic joint meeting ... U.S. ambassador on Trump's joint summit with leaders of"
+   },
+   {
+    "title": "Headlines for November 18, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/11/18/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "## NSA Claims “Temporary Degradation” Behind Outage of Classified Internal Network Nov 18, 2026 The National Security Agency — the largest spy agency in the U.S. — says a “temporary degradation” is behind an outage of its classified internal network. The network, known as NSANet, has been down since at least early Tuesday morning, and some NSA staff have been unable to access their workplace systems, prompting the agency to stagger arrival times for personnel. U.S. officials tell CBS News that so far there is no evidence of a cyberattack. ## Apple and Google Hit by Widespread Service Outages Nov 18, 2026 Apple on Tuesday confirmed widespread service outages on many of its iPhone apps, including Apple Pay and iCloud. Meanwhile, thousands of Gmail users reported disruptions that Google later said were not related to any broad internal system interruptions. This comes amidst a series of other disruptions to air travel, banking and technology infrastructure, including a massive outage at Microsoft last week that disrupted communication for millions of people across at least 74 countries. ... ## Alaska’s Former Democratic Congressmember Peltola Defeats Incumbent GOP Senator Sullivan Nov 18, 2026 In Alaska, former Democratic Congressmember Mary Peltola has defeated incumbent Republican Senator Dan Sullivan. Peltola becomes the first Indigenous woman from Alaska elected to the U.S. Senate. She won with 50.1% of the vote to Sullivan’s 45.8%. Her win brings the Democratic majority in the Senate to 56 seats."
+   },
+   {
+    "title": "The Christian Science Monitor Daily for November 18, 2026",
+    "url": "https://www.csmonitor.com/Daily/2026/20261118",
+    "source": "csmonitor.com",
+    "published": "",
+    "excerpt": "President Donald Trump landed in China. He is seeking to reinforce the U.S. as a leading tech power at a gathering of Asia- ... construction in the occupied West Bank and against an Israeli activist group that blocked aid from reaching the Gaza Strip. The"
+   },
+   {
+    "title": "Video. Latest news bulletin | November 18th, 2026 – Morning | Euronews",
+    "url": "https://www.euronews.com/video/2026/11/18/latest-news-bulletin-november-18th-2026-morning",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "beyond in this Euronews news bulletin. In just a few minutes, ... ## Amazon's Jeff Bezos, RFK Jr and Hollywood celebrities comment on Robert Pattinson casting as James Bond ## Huge plume of gas erupts from Los Angeles landfill after drilling accident"
+   },
+   {
+    "title": "News 18 November 2026 - Archive Euronews",
+    "url": "https://www.euronews.com/2026/11/18",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "- USA Waymo pulls driverless taxis off US highways after California ban Regulators called the robotaxis an \"imminent hazard\" after one tried to overtake police cars and three others drove into a live roadworks"
+   },
+   {
+    "title": "Reuters World News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4009110-reuters-world-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Trump says US wraps up 'very big trade deal' with Philippines President Donald Trump said on Wednesday the United States had concluded a \"very big trade deal\" with the Philippines, but offered no details, while Manila said the two countries had reached only an understanding on economic cooperation. \"We've just consummated a very big trade deal, the biggest trade deal we've ever made so far, and it is a fair ​deal for both countries,\" Trump told a state lunch event at the Philippine presidential palace. Operation Vivaldi: Ukraine melds man and machine to repel Russians ... EU proposes €45 billion ​Ukraine loan, to be repaid after Russia pays reparations The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine to help fill a funding gap of €70 billion for next year as Kyiv continues its fight against Russia's 2022 invasion. European Commission President Ursula von der Leyen said Ukraine would only need to repay the loan after Russia had paid reparations for damage caused by the war."
+   },
+   {
+    "title": "Early Edition: November 18, 2026",
+    "url": "https://www.justsecurity.org/165038/early-edition-november-18-2026/",
+    "source": "justsecurity.org",
+    "published": "",
+    "excerpt": "Iran early today launched strikes against Kuwait and Bahrain. Iran said it targeted Kuwait’s Ali Al Salem Air Base, which hosts U.S. forces, after the United States struck Qeshm Island in ... Street Journal; Enas Alashray and Nayera Abdallah report for"
+   }
+  ],
+  "text": "[1] The 7 things to know for Wednesday, November 18 - The Washington Post (washingtonpost.com)\n# Catch up quickly: Alaska Senate race; measles resurgence; ‘GTA VI’ Today’s seven most important and interesting stories. ... Democrat Mary Peltola defeated Republican Dan Sullivan in the Senate race in Alaska.\n\n[2] Top news of the day: November 18, 2026 - The Hindu (thehindu.com)\n#### No mandate only women personnel can ‘handle’ women in crowd-control operations, Delhi Police to SC The Delhi Police has told the Supreme Court there is no strict rule that only women police officers must “handle” women in crowd-control operations. The police was responding to allegations of manhandling women protestors and journalists by male police officers during widespread protests demanding the resignation of Chief Election Commissioner (CEC) Gyanesh Kumar. #### Xi, Putin meet ahead of historic Trump trilateral summit Chinese leader Xi Jinping and Russian counterpart Vladimir Putin …\n\n[3] AP Top Stories November 18 - Yahoo News Canada (ca.news.yahoo.com)\na historic three-way meeting with Russia's Putin and China's Xi. Xi says Asia-Pacific needs open trade ... condemns sanctions as Trump heads to China. Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan. After a\n\n[4] Morning Edition for November 18, 2026 : NPR (npr.org)\n### Trump to meet with Russia's Putin and China's Xi for historic joint meeting by Jennifer Pak, A Martínez #### Trump to meet with Russia's Putin and China's Xi for historic joint meeting ... U.S. ambassador on Trump's joint summit with leaders of\n\n[5] Headlines for November 18, 2026 | Democracy Now! (democracynow.org)\n## NSA Claims “Temporary Degradation” Behind Outage of Classified Internal Network Nov 18, 2026 The National Security Agency — the largest spy agency in the U.S. — says a “temporary degradation” is behind an outage of its classified internal network. The network, known as NSANet, has been down since at least early Tuesday morning, and some NSA staff have been unable to access their workplace systems, prompting the agency to stagger arrival times for personnel. U.S. officials tell CBS News that so far there is no evidence of a cyberattack. ## Apple and Google Hit by Widespread Service Outages …\n\n[6] The Christian Science Monitor Daily for November 18, 2026 (csmonitor.com)\nPresident Donald Trump landed in China. He is seeking to reinforce the U.S. as a leading tech power at a gathering of Asia- ... construction in the occupied West Bank and against an Israeli activist group that blocked aid from reaching the Gaza Strip. The\n\n[7] Video. Latest news bulletin | November 18th, 2026 – Morning | Euronews (euronews.com)\nbeyond in this Euronews news bulletin. In just a few minutes, ... ## Amazon's Jeff Bezos, RFK Jr and Hollywood celebrities comment on Robert Pattinson casting as James Bond ## Huge plume of gas erupts from Los Angeles landfill after drilling accident\n\n[8] News 18 November 2026 - Archive Euronews (euronews.com)\n- USA Waymo pulls driverless taxis off US highways after California ban Regulators called the robotaxis an \"imminent hazard\" after one tried to overtake police cars and three others drove into a live roadworks\n\n[9] Reuters World News Summary | International (devdiscourse.com)\nTrump says US wraps up 'very big trade deal' with Philippines President Donald Trump said on Wednesday the United States had concluded a \"very big trade deal\" with the Philippines, but offered no details, while Manila said the two countries had reached only an understanding on economic cooperation. \"We've just consummated a very big trade deal, the biggest trade deal we've ever made so far, and it is a fair ​deal for both countries,\" Trump told a state lunch event at the Philippine presidential palace. Operation Vivaldi: Ukraine melds man and machine to repel Russians ... EU proposes €45 …\n\n[10] Early Edition: November 18, 2026 (justsecurity.org)\nIran early today launched strikes against Kuwait and Bahrain. Iran said it targeted Kuwait’s Ali Al Salem Air Base, which hosts U.S. forces, after the United States struck Qeshm Island in ... Street Journal; Enas Alashray and Nayera Abdallah report for",
+  "hash": "0a59db2bf4f67fc0901b20d5bf0f472c05bb48527d6416ce1c707c0d48a6516e",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 18, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-18T17:04:17+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+    "url": "https://www.cnbc.com/amp/2026/11/18/federal-reserve-governor-christopher-waller.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Published Wed, Nov 18 2026 7:20 AM EST Updated 2 Hours Ago ... KEY POINTS - The Federal Reserve's Christopher Waller said a half percentage point increase in the central bank's benchmark rate is probably necessary at its December meeting. - Alternatively, the Fed could raise rates by a quarter point and signal another move was coming in January, Waller told CNBC, though this runs contrary to how Fed Chairman Kevin Warsh has preferred to communicate plans. - Inflation is \"headed in the wrong direction, and it's spreading out,\" Waller told CNBC. Federal Reserve Governor Christopher Waller on Wednesday called for aggressive action against inflation, saying the central bank needs to \"shock people\" as prices continue to rise more than he expected. In the near term, the policymaker told CNBC in a live interview that a half percentage point increase in the Fed's benchmark rate is probably necessary at the Dec. 8-9 meeting of the Federal Open Market Committee. He said the central bank needs to reverse the three quarter-point reductions from last year and may need to do more. \"I'm very, very concerned about inflation. It's kind of headed in the wrong direction, and it's spreading out,\" Waller told CNBC's Steve Liesman during a \" Squawk Box\" interview. \"If you really want to get it down, you've got to start taking more aggressive actions.\" \"You might need to, like, shock people,\" he said. Futures prices are fully pricing in a quarter percentage point hike at the FOMC's December meeting. They also are anticipating another move in January, followed by at least one additional increase before the end of 2027, according to the CME Group's FedWatch gauge. Waller said the Fed wouldn't necessarily have to approve a half-point hike in December if it raised rates by a quarter point and signaled another move coming in January. However, Fed Chairman Kevin Warsh has been against that kind of forward guidance on grounds that it ties policymakers' hands. \"If you're not going to signal this very clearly to markets, you're going in January, my view is then you have to go 50 [basis points] in December to put it in place and get it done,\" he said. Recent statements from other central bankers indicate a range of opinions, though most agree that more policy tightening is needed to bring down inflation. In a speech Tuesday, St. Louis Fed President Alberto Musalem suggested as many as four hikes by the spring of 2027. Some Fed officials, including regional Presidents Beth Hammack of Cleveland and Lorie Logan of Dallas, have endorsed more gradual tightening. However, continued inflation above the Fed's 2% target might push officials into a more aggressive stance. The FOMC approved its first interest rate hike in more than three years in September, and then held rates steady at its October meeting. While inflation has continued to run hot since then, other Fed officials seem less eager to drop the policy hammer as heavily as Waller. \"I don't think the situation calls for dramatic action,\" New York Fed President John Williams said Tuesday in a conversation with Axios. \"I think what we've been doing over the last past few months is ... working well. We're collecting the data, analyzing it, having the debate and making a decision.\" The Fed in 2025 approved three rate cuts amid worries over the labor market and the belief that inflation would continue to moderate toward the central bank's 2% goal. However, inflation reignited earlier this year after the strikes the U.S. and Israel launched against Iran in late February. Energy prices spiked while tariff impacts lingered, keeping most inflation readings above 3%. \"First of all, you've got to take back the three insurance cuts we put in last year,\" Waller said. \"If the policy rate last summer in 2025 wasn't bringing inflation down, getting back to that isn't going to bring it down. So we may have to go above ... three hikes plus maybe some more to get it to start actually coming back down.\""
+   },
+   {
+    "title": "Waller says on CNBC the Fed needs to get more aggressive in inflation response By Reuters",
+    "url": "https://www.investing.com/news/economy-news/waller-says-on-cnbc-the-fed-needs-to-get-more-aggressive-in-inflation-response-5036212",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Published Nov 18, 2026, 08:52 AM Updated Nov 18, 2026, 08:54 AM ... By Howard Schneider WASHINGTON, Nov 18 (Reuters) - US Federal Reserve governor Christopher Waller said on Wednesday the central bank needs to get more aggressive in its response to inflation that he fears is changing public psychology about prices, and either approve a half-point hike at the December meeting or communicate a faster pace of hikes in 2027. Inflation is \"heading in the wrong direction and it is spreading out,\" Waller said on CNBC, noting that many of the items with faster-rising prices now are in the services sector and largely beyond the influence of high oil costs and other temporary factors. \"If you really want to get it down you’ve got to start taking aggressive actions,\" either through a larger half-point increase at the coming December 8-9 meeting, or using the post-meeting statement or Chairman Kevin Warsh’s press conference to set market expectations for further hikes. Recent inflation has been running in excess of 3% on an annualized basis and may be accelerating, Waller said, and he fears that business leaders are coming to treat that level as normal and what should be passed through to consumers. \"You are starting to hear some of that — ’we put through 3% because we think we can get it’ — and that’s when you start having problems trying to get inflation down,\" Waller said. \"So you might need to shock people to say, wait a minute, 3% is not the number you should be thinking about going forward ... That’s the kind of psychology we need to start breaking ... We can’t wait. We can’t do this in like the next two years.\" Recent inflation data exceeded a benchmark Waller said he felt would warrant a half-point rate hike at the Fed’s next meeting. He said he felt the choice now was between taking that action, and upending market expectations for only a quarter point hike, or saying very clearly that the Fed would also raise rates again in January and continue higher from there. That could be done in the Fed’s post-meeting statement, or \"the chair could actually talk about it ... in the press conference. But we’ve got to do something,\" Waller said, otherwise \"then you have to go 50 in December. Put it in place and get it done.\" \"It’s just starting to spread around and people are starting to accept it more than we want them to,\" Waller said. Warsh has said he wants to avoid \"forward guidance\" as much as possible, but Waller said he felt this was a moment when the central bank needed to use strong communications to its benefit and help keep inflation psychology in check. \"The Chair has his way of wanting to communicate. That’s fine. Those are his preferences,\" Waller said. \"I’ve been in this game a long time ... You want to use communications as one of your tools ... We should be using communication to do what we want, to get the markets to help us do our job.\" The Fed held its policy rate steady in October in a range of from 3.75% to 4%. Minutes of that session will be released today at 2pm EDT and provide more detail on the debate."
+   },
+   {
+    "title": "Dollar holds near 19-month high as data supports case for rate hikes",
+    "url": "https://www.cnbc.com/2026/11/18/dollar-holds-near-19-month-high-as-data-supports-case-for-rate-hikes.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "The dollar strengthened to a fresh 19-month high on Wednesday as hawkish commentary from influential US Federal Reserve Governor Christopher Waller ​and recent economic data cemented expectations for ​an interest rate hike next month. Fed Chair ​Kevin Warsh's refusal to offer forward guidance has made investors more dependent on economic data and commentary from other policymakers to gauge the Fed's next move. Waller said on CNBC that if the central bank wants to get inflation down it needs to take more \"aggressive ⁠action\" ‌either through a half-point increase at the December meeting, or using the post-meeting ⁠statement to set market expectations for further hikes. Hotter-than-expected inflation data last week have left markets fully pricing a 25-basis-point rate hike in December, and seeing a small chance of a 50-bp rise, the CME Group's FedWatch Tool showed. Data on Tuesday showed US retail sales increased moderately in October, reinforcing expectations for a rate ‌hike next month."
+   },
+   {
+    "title": "U.S. Firms’ Year-Ahead Inflation Expectations Rise to 2.5% in November | TokenPost",
+    "url": "https://www.tokenpost.com/news/business/60598",
+    "source": "tokenpost.com",
+    "published": "",
+    "excerpt": "By John Kim Published Nov 18, 2026, 10:48 AM EST ... U.S. businesses’ expectations for inflation over the coming year rose to 2.5% in November, while a separate measure of expected unit costs remained above its prepandemic average. The year-ahead business inflation expectation increased from 2.3% in October, a rise of 0.2 percentage point. The unit-cost measure stayed above its 2.0% prepandemic average. The 2.5% reading is for business inflation expectations; the 2.0% figure is the prepandemic average for unit-cost expectations. The November results were released Wednesday, Nov. 18."
+   },
+   {
+    "title": "📰 Daily Macro Roundup: 2026-11-18",
+    "url": "https://macrosoup.com/daily-macro-roundup-2026-11-18/",
+    "source": "macrosoup.com",
+    "published": "",
+    "excerpt": "Fed Governor Christopher Waller wants a 50 basis point hike in December. Housing has already taken the hit: permits fell 7.4%, builder sentiment dropped to 25 and the 30-year mortgage rate climbed to 7.35%."
+   },
+   {
+    "title": "Oil prices fall as higher U.S. crude stocks temper supply risks",
+    "url": "https://www.cnbc.com/2026/11/18/oil-prices-fall-as-higher-us-crude-stocks-temper-supply-risks.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Published Tue, Nov 17 2026 10:01 PM EST Updated 5 Hours Ago Oil prices fell on Wednesday on data showing an increase in U.S. crude and fuel inventories last week, although ongoing U.S.-Iran attacks and disruptions to shipping through the Strait of Hormuz limited losses. ... US West Texas Intermediate futures Add To Watchlist fell 94 cents, or 1.1%, to $85.07 a barrel, while Brent crude futures Add To Watchlist were trading down 42 cents, or 0.5%, at $92.72 a barrel. Crude stocks rose by 5.28 million barrels in the week ended November 13, market sources said on Tuesday, citing data from the American Petroleum Institute, while gasoline stocks rose by 5.12 million barrels and distillate inventories by 351,000 barrels. But continued tensions between the US and Iran and ongoing risks to shipping through the Strait of Hormuz kept price declines limited. Bahrain's defence force said on Wednesday that it had intercepted Iranian aerial attacks on the country, which hosts the US Navy's Fifth Fleet, marking another escalation in the conflict a day after the US and ... Both oil benchmarks had settled higher on Tuesday as the US-Iran conflict intensified, even as talks continued between Iran and mediators Oman and Qatar. Attacks on ships transiting the Strait of Hormuz also stoked continued supply worries."
+   },
+   {
+    "title": "Newsquawk Daily Economic Releases - 18th November 2026 | Newsquawk",
+    "url": "https://www.newsquawk.com/headlines/newsquawk-daily-economic-releases---18th-november-2026",
+    "source": "newsquawk.com",
+    "published": "",
+    "excerpt": "- Data: UK Inflation (Oct), US Building Permits (Oct), Atlanta Fed GDPNow (Q4) - Events: FOMC Minutes; APEC Leaders’ Summit (18-19 Nov) - Speakers: ECB’s Lagarde; BoC’s Gravelle; Fed’s Daly, Williams, ... - Earnings: Palo Alto, Target, TJX - Supply:"
+   },
+   {
+    "title": "August Inflation ticked up, setting stage for Fed to hike rates",
+    "url": "https://www.nbcnews.com/business/economy/august-inflation-interest-rates-affordability-rcna597095",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "even before renewed conflict in the Middle East sent oil prices soaring again. The consumer price index rose by 0.4% for the month — an annual rate of 3.4% — with significant jumps in the technology, airfare and communication sectors leading the way."
+   },
+   {
+    "title": "America In Focus: key inflation gauge remains high; Fed's Warsh signals rate hikes may be needed | AP News",
+    "url": "https://apnews.com/article/inflation-economy-iran-trump-fed-warsh-31077ff3bc27f6639689cf099f4c1160",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "The Commerce Department’s Wednesday report showed that prices rose 3.7% in July compared ... as June. Inflation has worsened since the U.S. and Israel attacked Iran in late February, when it stood at 2.9%. It’s noticeably above the Fed’s target of 2%."
+   },
+   {
+    "title": "Inflation picked up, gas prices jumped last month in wake of Iran war – NBC10 Philadelphia",
+    "url": "https://www.nbcphiladelphia.com/news/national-international/inflation-rises-august-gas-prices-iran-war/4461470/",
+    "source": "nbcphiladelphia.com",
+    "published": "",
+    "excerpt": "price index rose 3.4% last month compared with a year ago, the Labor Department said Friday, the same as in July. But on a monthly basis, inflation quickened, as costs jumped 0.4% from July to August, up from an increase of just 0.1% the previous month."
+   }
+  ],
+  "text": "[1] Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike (cnbc.com)\nPublished Wed, Nov 18 2026 7:20 AM EST Updated 2 Hours Ago ... KEY POINTS - The Federal Reserve's Christopher Waller said a half percentage point increase in the central bank's benchmark rate is probably necessary at its December meeting. - Alternatively, the Fed could raise rates by a quarter point and signal another move was coming in January, Waller told CNBC, though this runs contrary to how Fed Chairman Kevin Warsh has preferred to communicate plans. - Inflation is \"headed in the wrong direction, and it's spreading out,\" Waller told CNBC. Federal Reserve Governor Christopher Waller on …\n\n[2] Waller says on CNBC the Fed needs to get more aggressive in inflation response By Reuters (investing.com)\nPublished Nov 18, 2026, 08:52 AM Updated Nov 18, 2026, 08:54 AM ... By Howard Schneider WASHINGTON, Nov 18 (Reuters) - US Federal Reserve governor Christopher Waller said on Wednesday the central bank needs to get more aggressive in its response to inflation that he fears is changing public psychology about prices, and either approve a half-point hike at the December meeting or communicate a faster pace of hikes in 2027. Inflation is \"heading in the wrong direction and it is spreading out,\" Waller said on CNBC, noting that many of the items with faster-rising prices now are in the services …\n\n[3] Dollar holds near 19-month high as data supports case for rate hikes (cnbc.com)\nThe dollar strengthened to a fresh 19-month high on Wednesday as hawkish commentary from influential US Federal Reserve Governor Christopher Waller ​and recent economic data cemented expectations for ​an interest rate hike next month. Fed Chair ​Kevin Warsh's refusal to offer forward guidance has made investors more dependent on economic data and commentary from other policymakers to gauge the Fed's next move. Waller said on CNBC that if the central bank wants to get inflation down it needs to take more \"aggressive ⁠action\" ‌either through a half-point increase at the December meeting, or …\n\n[4] U.S. Firms’ Year-Ahead Inflation Expectations Rise to 2.5% in November | TokenPost (tokenpost.com)\nBy John Kim Published Nov 18, 2026, 10:48 AM EST ... U.S. businesses’ expectations for inflation over the coming year rose to 2.5% in November, while a separate measure of expected unit costs remained above its prepandemic average. The year-ahead business inflation expectation increased from 2.3% in October, a rise of 0.2 percentage point. The unit-cost measure stayed above its 2.0% prepandemic average. The 2.5% reading is for business inflation expectations; the 2.0% figure is the prepandemic average for unit-cost expectations. The November results were released Wednesday, Nov. 18.\n\n[5] 📰 Daily Macro Roundup: 2026-11-18 (macrosoup.com)\nFed Governor Christopher Waller wants a 50 basis point hike in December. Housing has already taken the hit: permits fell 7.4%, builder sentiment dropped to 25 and the 30-year mortgage rate climbed to 7.35%.\n\n[6] Oil prices fall as higher U.S. crude stocks temper supply risks (cnbc.com)\nPublished Tue, Nov 17 2026 10:01 PM EST Updated 5 Hours Ago Oil prices fell on Wednesday on data showing an increase in U.S. crude and fuel inventories last week, although ongoing U.S.-Iran attacks and disruptions to shipping through the Strait of Hormuz limited losses. ... US West Texas Intermediate futures Add To Watchlist fell 94 cents, or 1.1%, to $85.07 a barrel, while Brent crude futures Add To Watchlist were trading down 42 cents, or 0.5%, at $92.72 a barrel. Crude stocks rose by 5.28 million barrels in the week ended November 13, market sources said on Tuesday, citing data from the …\n\n[7] Newsquawk Daily Economic Releases - 18th November 2026 | Newsquawk (newsquawk.com)\n- Data: UK Inflation (Oct), US Building Permits (Oct), Atlanta Fed GDPNow (Q4) - Events: FOMC Minutes; APEC Leaders’ Summit (18-19 Nov) - Speakers: ECB’s Lagarde; BoC’s Gravelle; Fed’s Daly, Williams, ... - Earnings: Palo Alto, Target, TJX - Supply:\n\n[8] August Inflation ticked up, setting stage for Fed to hike rates (nbcnews.com)\neven before renewed conflict in the Middle East sent oil prices soaring again. The consumer price index rose by 0.4% for the month — an annual rate of 3.4% — with significant jumps in the technology, airfare and communication sectors leading the way.\n\n[9] America In Focus: key inflation gauge remains high; Fed's Warsh signals rate hikes may be needed | AP News (apnews.com)\nThe Commerce Department’s Wednesday report showed that prices rose 3.7% in July compared ... as June. Inflation has worsened since the U.S. and Israel attacked Iran in late February, when it stood at 2.9%. It’s noticeably above the Fed’s target of 2%.\n\n[10] Inflation picked up, gas prices jumped last month in wake of Iran war – NBC10 Philadelphia (nbcphiladelphia.com)\nprice index rose 3.4% last month compared with a year ago, the Labor Department said Friday, the same as in July. But on a monthly basis, inflation quickened, as costs jumped 0.4% from July to August, up from an increase of just 0.1% the previous month.",
+  "hash": "a02da7f2a3ca5b1aad6dfa535311c5132713dbb5380b6b308511f3d558574ac7",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 18, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-18T17:04:26+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Peltola’s Alaska win ‘a gift for all America,’ says Schumer – US politics live",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "## House Democrats nominate Hakeem Jeffries to be first Black speaker House Democrats have nominated current minority leader Hakeem Jeffries as their candidate for speaker in the next Congress. My colleague Chris Stein reports that, according to a person familiar, Jeffries received 251 yes votes of 262 cast. 11 members voted no on his nomination. Jeffries faced no opposition in his candidacy to lead the House, and will face a full chamber vote in the new year, when Republicans will be in the minority. ... ## Mullin defends move to take government plane to college football game amid nationwide grounding in House hearing During today’s hearing Markwayne Mullin defended his decision to take a government plane to attend a football game between Louisiana State University and the University of Texas on Saturday, while thousands of flights had been cancelled and the airspace closed during the Federal Aviation Administration (FAA) nationwide grounding over the weekend. “You want to"
+   },
+   {
+    "title": "Democrat Mary Peltola wins US Senate race in Alaska, US loses its measles-free status | AP News",
+    "url": "https://apnews.com/newsletter/morning-wire/november-18-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "## Democrat Mary Peltola wins US Senate race in Alaska Democrat Mary Peltola defeated two-term Republican Sen. Dan Sullivan in Alaska, a state President Donald Trump repeatedly won by wide margins, giving Democrats a 56-44 Senate majority after they flipped nine GOP-held seats to retake the chamber. Read more. What to know: - Peltola previously held the state’s lone House seat, and was the first Alaska Native to serve in Congress. She lost her bid for a second full term in 2024, but she became central to Democrats’ plans to retake the Senate in 2026. In the campaign’s final stretch, however, she"
+   },
+   {
+    "title": "Leading House Democrat targets Trump's inner circle for first investigations",
+    "url": "https://www.washingtonpost.com/politics/2026/11/18/leading-house-democrat-targets-trumps-inner-circle-first-investigations/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "The top Democrat on the House Oversight Committee demanded Wednesday that** **President Donald Trump’s sons, closest advisers, and top administration officials — including Vice President JD Vance — preserve documents and provide additional information related to what he** **alleges is corruption and misconduct, teeing up what is likely to be a fierce fight next year over congressional efforts to investigate Trump. The dozen notices were issued by Rep. Robert Garcia (D-California) and lay out his early investigative priorities for when Democrats take control of the House next year.** **Garcia is expected to lead the House Oversight Committee in the new session, and"
+   },
+   {
+    "title": "US news | US news | The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/18/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "Trump administration continues to award deals to private contractor CSI Aviation and agreed to remove ICE flights from tracking websites ... Jeffries as first Black House speaker despite progressives’ concerns Jeffries is set to become one of Trump’s"
+   },
+   {
+    "title": "The Latest: Mullin faces Congress over flight disruptions, football trip and immigration",
+    "url": "https://apnews.com/article/trump-xi-marcos-apec-china-philippines-9994c430b2b12b16c03685b981c4830d",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "and private sector are “not a coordinated or state-sponsored ... Democrats nominated Hakeem Jeffries on Wednesday to be speaker of the House, as he brushed past skeptics and was on track to make history as the nation’s first Black American with the gavel."
+   },
+   {
+    "title": "Morning Edition for November 18, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5998981/morning-edition-for-november-18-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Trump to meet with Russia's Putin and China's Xi for historic joint meeting ... #### Trump to meet with Russia's Putin and China's Xi for historic joint meeting ... ### Former U.S. ambassador on Trump's joint summit with leaders of China and Russia"
+   },
+   {
+    "title": "The 7 things to know for Wednesday, November 18 - The Washington Post",
+    "url": "https://www.washingtonpost.com/the-seven/2026/11/18/7-things-know-wednesday-november-18/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "# Catch up quickly: Alaska Senate race; measles resurgence; ‘GTA VI’ ... ## 1 Democrat Mary Peltola defeated Republican Dan Sullivan in the Senate race in Alaska. Mary Peltola is the first Alaska Native woman elected to the Senate. (Lindsey Wasson/AP)"
+   },
+   {
+    "title": "Headlines for November 18, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/11/18/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "In Alaska, former Democratic Congressmember Mary Peltola has defeated incumbent Republican Senator Dan Sullivan. Peltola becomes the first Indigenous ... to the U.S. Senate. She won with 50.1% of the vote to Sullivan’s 45.8%. Her win brings the Democratic"
+   },
+   {
+    "title": "Trump in Asia live updates: President arrives in China, greeted by Xi | AP News",
+    "url": "https://apnews.com/live/trump-asia-china-xi-putin-ai-news-updates-11-18-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Homeland Security Secretary Markwayne Mullin is appearing at a congressional hearing about threats facing the country at a time of looming questions over cyber infrastructure, the ... t and his decision to fly to the LSU-Texas college football game as"
+   },
+   {
+    "title": "National and International News in Focus: Nov. 18 | National | wktv.com",
+    "url": "https://www.wktv.com/news/national/national-and-international-news-in-focus-nov-18/article_8850e6c9-ea91-5375-a40f-8c1f12e74ca3.html",
+    "source": "wktv.com",
+    "published": "",
+    "excerpt": "(AP) — Democrats have nominated Hakeem Jeffries to be speaker of the ... past skeptics and is on track to make history as the nation’s ... 's gavel. Jeffries secured the nod Wednesday during closed-door voting, 251-11, ahead of a full House vote when the"
+   }
+  ],
+  "text": "[1] Peltola’s Alaska win ‘a gift for all America,’ says Schumer – US politics live (theguardian.com)\n## House Democrats nominate Hakeem Jeffries to be first Black speaker House Democrats have nominated current minority leader Hakeem Jeffries as their candidate for speaker in the next Congress. My colleague Chris Stein reports that, according to a person familiar, Jeffries received 251 yes votes of 262 cast. 11 members voted no on his nomination. Jeffries faced no opposition in his candidacy to lead the House, and will face a full chamber vote in the new year, when Republicans will be in the minority. ... ## Mullin defends move to take government plane to college football game amid nationwide …\n\n[2] Democrat Mary Peltola wins US Senate race in Alaska, US loses its measles-free status | AP News (apnews.com)\n## Democrat Mary Peltola wins US Senate race in Alaska Democrat Mary Peltola defeated two-term Republican Sen. Dan Sullivan in Alaska, a state President Donald Trump repeatedly won by wide margins, giving Democrats a 56-44 Senate majority after they flipped nine GOP-held seats to retake the chamber. Read more. What to know: - Peltola previously held the state’s lone House seat, and was the first Alaska Native to serve in Congress. She lost her bid for a second full term in 2024, but she became central to Democrats’ plans to retake the Senate in 2026. In the campaign’s final stretch, however, …\n\n[3] Leading House Democrat targets Trump's inner circle for first investigations (washingtonpost.com)\nThe top Democrat on the House Oversight Committee demanded Wednesday that** **President Donald Trump’s sons, closest advisers, and top administration officials — including Vice President JD Vance — preserve documents and provide additional information related to what he** **alleges is corruption and misconduct, teeing up what is likely to be a fierce fight next year over congressional efforts to investigate Trump. The dozen notices were issued by Rep. Robert Garcia (D-California) and lay out his early investigative priorities for when Democrats take control of the House next year.** **Garcia …\n\n[4] US news | US news | The Guardian (theguardian.com)\nTrump administration continues to award deals to private contractor CSI Aviation and agreed to remove ICE flights from tracking websites ... Jeffries as first Black House speaker despite progressives’ concerns Jeffries is set to become one of Trump’s\n\n[5] The Latest: Mullin faces Congress over flight disruptions, football trip and immigration (apnews.com)\nand private sector are “not a coordinated or state-sponsored ... Democrats nominated Hakeem Jeffries on Wednesday to be speaker of the House, as he brushed past skeptics and was on track to make history as the nation’s first Black American with the gavel.\n\n[6] Morning Edition for November 18, 2026 : NPR (npr.org)\n### Trump to meet with Russia's Putin and China's Xi for historic joint meeting ... #### Trump to meet with Russia's Putin and China's Xi for historic joint meeting ... ### Former U.S. ambassador on Trump's joint summit with leaders of China and Russia\n\n[7] The 7 things to know for Wednesday, November 18 - The Washington Post (washingtonpost.com)\n# Catch up quickly: Alaska Senate race; measles resurgence; ‘GTA VI’ ... ## 1 Democrat Mary Peltola defeated Republican Dan Sullivan in the Senate race in Alaska. Mary Peltola is the first Alaska Native woman elected to the Senate. (Lindsey Wasson/AP)\n\n[8] Headlines for November 18, 2026 | Democracy Now! (democracynow.org)\nIn Alaska, former Democratic Congressmember Mary Peltola has defeated incumbent Republican Senator Dan Sullivan. Peltola becomes the first Indigenous ... to the U.S. Senate. She won with 50.1% of the vote to Sullivan’s 45.8%. Her win brings the Democratic\n\n[9] Trump in Asia live updates: President arrives in China, greeted by Xi | AP News (apnews.com)\nHomeland Security Secretary Markwayne Mullin is appearing at a congressional hearing about threats facing the country at a time of looming questions over cyber infrastructure, the ... t and his decision to fly to the LSU-Texas college football game as\n\n[10] National and International News in Focus: Nov. 18 | National | wktv.com (wktv.com)\n(AP) — Democrats have nominated Hakeem Jeffries to be speaker of the ... past skeptics and is on track to make history as the nation’s ... 's gavel. Jeffries secured the nod Wednesday during closed-door voting, 251-11, ahead of a full House vote when the",
+  "hash": "ad038532679924e5bd536d98e512870b4f10326b07b93e7c8c47d16312dc3d67",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 18, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-18T17:04:41+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "What To Watch On TV And Streaming Wednesday, November 18, 2026",
+    "url": "https://www.tvline.com/2316769/what-to-watch-november-18-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "On TV this Wednesday: Taylor Swift returns to the CMAs stage, Nicolas Cage plays \"Madden\" on Prime Video, and Netflix invites competitors to \"Win the Mall.\" ... ### Madden Prime Video Movie Premiere Nicolas Cage stars as legendary football coach and commentator John Madden, chronicling his Super Bowl-winning partnership with Raiders owner Al Davis (Christian Bale), broadcasting career, and creation of the Madden NFL video game franchise."
+   },
+   {
+    "title": "Celebrity Photos Updated Daily: David Beckham, Victoria Beckham, Elle Fanning and More",
+    "url": "https://people.com/star-tracks-wednesday-november-18-2026-new-celebrity-photos-updated-daily-12261507",
+    "source": "people.com",
+    "published": "",
+    "excerpt": "have been everywhere this week. In Paris, Victoria and David Beckham support their son Romeo’s acting debut at the premiere of Forty Love, while sisters Elle and Dakota Fanning attend the trailer launch event for their upcoming film The Nightingale in New"
+   },
+   {
+    "title": "News 18 November 2026 - Archive Euronews",
+    "url": "https://www.euronews.com/2026/11/18",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "- Cinema The Dardenne Brothers: 'We need to ensure that there remains a sense of humanity in cinema' Jean-Pierre and Luc Dardenne will receive the European Lifetime Achievement Award from the European Film Academy, in recognition of their body of work."
+   },
+   {
+    "title": "Jeff Bezos was 'heavily involved' in Robert Pattinson's casting as Bond",
+    "url": "https://www.bbc.com/news/articles/cm5y1eejk292o",
+    "source": "bbc.com",
+    "published": "",
+    "excerpt": "Jeff Bezos has said he was \"heavily involved\" in casting Robert Pattinson as the new James Bond. Speaking at an event in California, the Amazon chairman said he was originally \"biased against\" Pattinson - who starred in many blockbuster films like Batman and the Twilight series - \"because he's already so famous\". The role of 007 has typically gone to an actor who is not as well known at the time of casting. But Bezos said in screen tests, \"it was so obvious he is James Bond\". This will be the first 007 film in the official series not under the creative control of the Broccoli family, who had overseen the franchise since the first movie in 1962. Amazon purchased MGM, which co-owns the franchise, in 2022. \"There was something special about Rob\", Bezos said at Semafor Silicon Valley & The World Event on Tuesday. Pattinson was unveiled as the franchise's seventh James Bond on Monday, taking over from actor Daniel Craig. He will star in the 26th Bond movie, due to be released in 2028. In a statement, the London-born actor said: \"James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honour of a lifetime.\" The next Bond film will be directed by Denis Villeneuve, but its title and exact release date have not yet been announced."
+   },
+   {
+    "title": "Wednesday round-up: Latest news, deals & hires | News | Broadcast",
+    "url": "https://www.broadcastnow.co.uk/broadcast-international/wednesday-round-up-latest-news-deals-and-hires/5222509.article",
+    "source": "broadcastnow.co.uk",
+    "published": "",
+    "excerpt": "Canada's CBC and BBC set A Passage to India cast The BBC and Canada's CBC have confirmed an adaptation of EM Forster's novel A Passage to India, with Ali Fazal, Tom Mison and Fiona Shaw starring. Richie Mehta has written the five-part show, which was first revealed in summer 2025. The series is co-produced by Parti Productions (The Boy with the Topknot), Universal Global Television-owned Working Title Television and Richie Mehta’s A Passage Post. Global sales will be handled by NBCUniversal Global TV Distribution. ... Pamela Smart, once dubbed the ‘most hated woman in America’ and who stood trial for her husband’s murder, is the subject of an upcoming Netflix doc from Curious Films, Broadcast can reveal. A Deadly Affair: The Pamela Smart Story recounts how in 1991, Gregg Smart was gunned down in the home he shared with his wife Pamela. In a matter of months, she and her teenage boyfriend Billy Flynn stood accused of his murder, with Pamela quickly becoming the face of a case that transfixed the US. The film will feature Smart providing her own account of her husband’s death and her subsequent trial, as well as police archive, courtroom footage, news coverage and decades of interviews."
+   },
+   {
+    "title": "Daily Music Headlines November 18, 2026 - Daily Music Headlines | Acast",
+    "url": "https://shows.acast.com/daily-music-headlines/episodes/daily-music-headlines-november-18-2026",
+    "source": "shows.acast.com",
+    "published": "",
+    "excerpt": "Wednesday, November 18, 2026 The 60th CMA Awards take place tonight at 8 p.m. Eastern on ABC and Disney+, hosted by Lainey Wilson for the third time. Ella Langley leads with nine nominations, followed by Miranda Lambert with seven. Taylor Swift returns to the CMA stage for the first time in over a decade, joining Langley, Lambert, Kacey Musgraves, Tim McGraw, Zach Top, and The Red Clay Strays. The show also features a Dolly Parton tribute and the presentation of the Willie Nelson Lifetime Achievement Award to Brooks & Dunn. 2026 CMA Awards Preview Ella Langley’s “Choosin’ Texas” has spent a record 28 weeks at number one on the Billboard Hot 100. It also has 49 weeks atop Hot Country Songs, just two shy of that chart’s record, and drew 17.8 million streams this week. The Vans Warped Tour returns in 2027 with four stops: Washington, D.C. (June 19–20), Long Beach (July 24–25), Mexico City (September 11–12), and Orlando (November 13–14). U.S. tickets go on sale November 20. 2027 Tour Dates When We Were Young returns October 16, 2027, in Las Vegas, with Blink-182 and Pierce the Veil headlining. Third Eye Blind, Limp Bizkit, Michelle Branch, Natasha Bedingfield, 5 Seconds of Summer, Simple Plan, and All Time Low are also on the bill. 2027 Lineup The Bob Dylan Center celebrates the 30th anniversary of Time Out of Mind with a January 29 tribute concert in Tulsa. Marc Maron hosts, with Jason Isbell, Elvis Costello, Steve Earle, Margo Price, Diana Krall, Angelique Kidjo, and Oscar Isaac appearing. ... Julien Baker has announced This World or the Next, her new album arriving February 12 on Matador. The self-produced album's opening track, “Hound,” is out now. ... Spotify has launched Artist Profile Protection for all artists. The tool alerts musicians when releases are submitted under their names and lets them remove unauthorized music or require approval before releases go live."
+   },
+   {
+    "title": "Rushes | Pattinson Plays Bond, Brand Enters Prison, Zoomers Revive Cinemagoing on Notebook | MUBI",
+    "url": "https://mubi.com/en/notebook/posts/rushes-pattinson-plays-bond-brand-enters-prison-zoomers-revive-cinemagoing",
+    "source": "mubi.com",
+    "published": "",
+    "excerpt": "- Robert Pattinson has been cast as the latest James Bond. He marks the eighth actor who has played the character onscreen, and he will bring him to life in the first Bond film produced by Amazon MGM, set to be directed by Denis Villeneuve."
+   },
+   {
+    "title": "Music News Today — November 18, 2026 — MusicNewsletter.com",
+    "url": "https://musicnewsletter.com/news/daily-signal-20261118",
+    "source": "musicnewsletter.com",
+    "published": "",
+    "excerpt": "world of entertainment is buzzing with exciting announcements and fresh developments. In music news, fans are already looking ahead to Glastonbury 2027, with a star-studded lineup that includes Harry Styles, Billie Eilish, and the legendary"
+   },
+   {
+    "title": "Wake Up With BroadwayWorld November 18, 2026- CHICAGO Celebrates 30 Years on Broadway and More",
+    "url": "https://www.broadwayworld.com/article/Wake-Up-With-BroadwayWorld-November-18-2026--CHICAGO-Celebrates-30-Years-on-Broadway-and-More-20261118",
+    "source": "broadwayworld.com",
+    "published": "",
+    "excerpt": "Rise and shine, BroadwayWorld! It is November 18, 2026 and it's time to catch up on all of the theatrical happenings you may have missed in the last ... . The big news on the front page is the Broadway grosses for the week ending"
+   },
+   {
+    "title": "Breaking News | TheFutonCritic.com - The Web's Best Television Resource",
+    "url": "http://www.thefutoncritic.com/news/2026/11/18/",
+    "source": "thefutoncritic.com",
+    "published": "",
+    "excerpt": "BET Announces Freddie Jackson Tribute from R&B Legend El Debarge at the \"Soul Train Awards ... performed by country trailblazer Mickey Guyton and genre-defying singer-songwriter ... for \"The 60th Annual CMA Awards\" Hosted by Lainey Wilson, the"
+   }
+  ],
+  "text": "[1] What To Watch On TV And Streaming Wednesday, November 18, 2026 (tvline.com)\nOn TV this Wednesday: Taylor Swift returns to the CMAs stage, Nicolas Cage plays \"Madden\" on Prime Video, and Netflix invites competitors to \"Win the Mall.\" ... ### Madden Prime Video Movie Premiere Nicolas Cage stars as legendary football coach and commentator John Madden, chronicling his Super Bowl-winning partnership with Raiders owner Al Davis (Christian Bale), broadcasting career, and creation of the Madden NFL video game franchise.\n\n[2] Celebrity Photos Updated Daily: David Beckham, Victoria Beckham, Elle Fanning and More (people.com)\nhave been everywhere this week. In Paris, Victoria and David Beckham support their son Romeo’s acting debut at the premiere of Forty Love, while sisters Elle and Dakota Fanning attend the trailer launch event for their upcoming film The Nightingale in New\n\n[3] News 18 November 2026 - Archive Euronews (euronews.com)\n- Cinema The Dardenne Brothers: 'We need to ensure that there remains a sense of humanity in cinema' Jean-Pierre and Luc Dardenne will receive the European Lifetime Achievement Award from the European Film Academy, in recognition of their body of work.\n\n[4] Jeff Bezos was 'heavily involved' in Robert Pattinson's casting as Bond (bbc.com)\nJeff Bezos has said he was \"heavily involved\" in casting Robert Pattinson as the new James Bond. Speaking at an event in California, the Amazon chairman said he was originally \"biased against\" Pattinson - who starred in many blockbuster films like Batman and the Twilight series - \"because he's already so famous\". The role of 007 has typically gone to an actor who is not as well known at the time of casting. But Bezos said in screen tests, \"it was so obvious he is James Bond\". This will be the first 007 film in the official series not under the creative control of the Broccoli family, who had …\n\n[5] Wednesday round-up: Latest news, deals & hires | News | Broadcast (broadcastnow.co.uk)\nCanada's CBC and BBC set A Passage to India cast The BBC and Canada's CBC have confirmed an adaptation of EM Forster's novel A Passage to India, with Ali Fazal, Tom Mison and Fiona Shaw starring. Richie Mehta has written the five-part show, which was first revealed in summer 2025. The series is co-produced by Parti Productions (The Boy with the Topknot), Universal Global Television-owned Working Title Television and Richie Mehta’s A Passage Post. Global sales will be handled by NBCUniversal Global TV Distribution. ... Pamela Smart, once dubbed the ‘most hated woman in America’ and who stood …\n\n[6] Daily Music Headlines November 18, 2026 - Daily Music Headlines | Acast (shows.acast.com)\nWednesday, November 18, 2026 The 60th CMA Awards take place tonight at 8 p.m. Eastern on ABC and Disney+, hosted by Lainey Wilson for the third time. Ella Langley leads with nine nominations, followed by Miranda Lambert with seven. Taylor Swift returns to the CMA stage for the first time in over a decade, joining Langley, Lambert, Kacey Musgraves, Tim McGraw, Zach Top, and The Red Clay Strays. The show also features a Dolly Parton tribute and the presentation of the Willie Nelson Lifetime Achievement Award to Brooks & Dunn. 2026 CMA Awards Preview Ella Langley’s “Choosin’ Texas” has spent a …\n\n[7] Rushes | Pattinson Plays Bond, Brand Enters Prison, Zoomers Revive Cinemagoing on Notebook | MUBI (mubi.com)\n- Robert Pattinson has been cast as the latest James Bond. He marks the eighth actor who has played the character onscreen, and he will bring him to life in the first Bond film produced by Amazon MGM, set to be directed by Denis Villeneuve.\n\n[8] Music News Today — November 18, 2026 — MusicNewsletter.com (musicnewsletter.com)\nworld of entertainment is buzzing with exciting announcements and fresh developments. In music news, fans are already looking ahead to Glastonbury 2027, with a star-studded lineup that includes Harry Styles, Billie Eilish, and the legendary\n\n[9] Wake Up With BroadwayWorld November 18, 2026- CHICAGO Celebrates 30 Years on Broadway and More (broadwayworld.com)\nRise and shine, BroadwayWorld! It is November 18, 2026 and it's time to catch up on all of the theatrical happenings you may have missed in the last ... . The big news on the front page is the Broadway grosses for the week ending\n\n[10] Breaking News | TheFutonCritic.com - The Web's Best Television Resource (thefutoncritic.com)\nBET Announces Freddie Jackson Tribute from R&B Legend El Debarge at the \"Soul Train Awards ... performed by country trailblazer Mickey Guyton and genre-defying singer-songwriter ... for \"The 60th Annual CMA Awards\" Hosted by Lainey Wilson, the",
+  "hash": "cade439802f127fa27ac8a3fced2ea9c4e038e69f05f195d288f74e3b2caf25d",
+  "notes": []
+ }
+}
