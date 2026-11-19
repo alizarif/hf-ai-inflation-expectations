@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-19T09:05:13+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 19, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-19T09:05:13+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Kyodo News Digest: Nov. 19",
+    "url": "https://english.kyodonews.net/articles/-/91909",
+    "source": "english.kyodonews.net",
+    "published": "",
+    "excerpt": "held their third in-person talks this year in southern China's Shenzhen, Chinese state-run media said, aiming to stabilize bilateral relations amid intensifying rivalry in such areas as trade and technology."
+   },
+   {
+    "title": "Daily World Briefing, Nov. 19-Xinhua",
+    "url": "https://english.news.cn/20261119/6753e5392cb54036b5b5c89268acafa7/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "050 others injured in armed violence in Haiti between Jan. 1 and Oct. 31, 2026, the Office of the United Nations High Commissioner for Human Rights (OHCHR ... NASA's Voyager 1 spacecraft reached a distance of one light-day from"
+   },
+   {
+    "title": "The Hindu Morning Digest: November 19, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/morning-digest-november-19-2026/article71717709.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "Canada could be announcing a defence agreement during Prime Minister Narendra Modi’s official visit in December, according to the country’s High Commissioner to Ottawa, Dinesh K. Patnaik. Both countries are also in the final stages of negotiations of a"
+   },
+   {
+    "title": "HT Morning News Brief Nov 19: Trump-Xi-Putin trilateral, Cyclone Akvan approaches, GTA 6 out and more | India News",
+    "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-nov-19-trump-xi-putin-trilateral-apec-summit-cyclone-akvan-approaches-gta-6-out-india-new-zealand-test-top-news-101795058102458.html",
+    "source": "hindustantimes.com",
+    "published": "",
+    "excerpt": "over the west-central and adjoining central parts of the south Bay of Bengal during the six hours ending 11.30 pm on November 18, the India Meteorological Department (IMD) said. As per IMD, the landfall"
+   },
+   {
+    "title": "News in 90 Seconds November 19",
+    "url": "https://www.1news.co.nz/2026/11/19/news-in-90-seconds-november-19/",
+    "source": "1news.co.nz",
+    "published": "",
+    "excerpt": "A broom stored on a truck’s trailer caused its brakes to lock on a rail crossing, with the driver jumping free just moments before a freight train smashed into it. After a 13-year wait, Grand Theft Auto 6 finally launched overnight. US President Donald"
+   },
+   {
+    "title": "AP News in Brief at 12:04 a.m. EST | wusa9.com",
+    "url": "https://www.wusa9.com/article/syndication/associatedpress/ap-news-in-brief-at-1204-am-est/616-9298dfa3-a4d5-4f2d-b6eb-f00106438773",
+    "source": "wusa9.com",
+    "published": "",
+    "excerpt": "SHENZHEN, China (AP) — When President Donald Trump meets Thursday with China’s Xi Jinping and Russia’s Vladimir Putin, it could mark a pivot in world history — or become a quickly forgotten photo op. Trump, who will test his reputation as an expert dealmaker in the trilateral meeting, has promoted his time with Xi and Putin — two of America's leading rivals — as a chance to hash out rules for controlling nuclear arms and to start resolving the wars in Ukraine and Iran. Experts have kept expectations low for major breakthroughs. ... Anthropic to debut on Wall Street with a $1.5 trillion valuation in the biggest IPO of all time OAKLAND, Calif. (AP) — Anthropic priced its initial public offering at $83 per share Wednesday, valuing the artificial intelligence giant at $1.5 trillion in the biggest Wall Street debut of all time. The pricing above the range initially projected by the company signals broad investor enthusiasm for AI stocks even amid some uncertainty in the market stemming from the ouster of Nvidia's CEO and worries about an AI bubble. Anthropic said the offering consists of 980 million shares, roughly 956 million sold by the company and the rest by selling stockholders. Proceeds totaling $81 billion put Anthropic's IPO ahead of SpaceX, which raised about $75 billion in June."
+   },
+   {
+    "title": "World news digest for November 19, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-19",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "said no American personnel were wounded in the attempted Iranian attacks on Gulf ... 5 In the Democratic Republic of Congo, the WHO said the Ebola outbreak has passed six months without control, with more than 11,000 people infected and over 5,400 dead."
+   },
+   {
+    "title": "News Archives for Latest - 2026-11-19 - DAWN.COM",
+    "url": "https://www.dawn.com/latest-news/2026-11-19",
+    "source": "dawn.com",
+    "published": "",
+    "excerpt": "of Bangladesh shut down in protests by Hasina's party, ex-leader Yunus's home set ablaze To deter violence, 97 platoons of the Bangladesh Border Guard have fanned out across seven districts, including Gopalganj and Faridpur. Updated 19 Nov, 2026"
+   },
+   {
+    "title": "World News on November 19, 2026 | Daily Summary Of",
+    "url": "https://dailysummaryof.com/world/2026-11-19",
+    "source": "dailysummaryof.com",
+    "published": "",
+    "excerpt": "## Dozens missing after boat carrying 100 migrants sinks off Senegal A boat reportedly carrying about 100 migrants capsized off Senegal's coast around 02:00 local time, with personal belongings found on the damaged vessel near Yenne. Initial reports said one person had died, but some local media reported at least four bodies had been recovered, and dozens remain missing. Search operations continued throughout Wednesday and were due to resume Thursday. President Diomaye Faye ordered a report on the dangerous journeys. ... ## Riyadh ... A loud blast was heard early Thursday in Riyadh after Saudi civil defence warned of potential danger. The Saudi-led coalition said it addressed a Houthi missile threat toward the capital and initial assessment indicated debris impact. Witnesses said the 80-storey Public Investment Fund Tower was damaged across several floors, with windows blown out."
+   },
+   {
+    "title": "News Archive for November 19, 2026 | The Indian Express",
+    "url": "https://indianexpress.com/archive/2026/11/19/",
+    "source": "indianexpress.com",
+    "published": "",
+    "excerpt": "- India Cyclone Akvan set to make landfall in Odisha tomorrow; schools shut, curbs at beaches - World Muhammad Yunus’s house set on fire in Bangladesh amid Sheikh Hasina’s return buzz ... ‘Use resources for people, not self-aggrandisement’: India slams"
+   }
+  ],
+  "text": "[1] Kyodo News Digest: Nov. 19 (english.kyodonews.net)\nheld their third in-person talks this year in southern China's Shenzhen, Chinese state-run media said, aiming to stabilize bilateral relations amid intensifying rivalry in such areas as trade and technology.\n\n[2] Daily World Briefing, Nov. 19-Xinhua (english.news.cn)\n050 others injured in armed violence in Haiti between Jan. 1 and Oct. 31, 2026, the Office of the United Nations High Commissioner for Human Rights (OHCHR ... NASA's Voyager 1 spacecraft reached a distance of one light-day from\n\n[3] The Hindu Morning Digest: November 19, 2026 - The Hindu (thehindu.com)\nCanada could be announcing a defence agreement during Prime Minister Narendra Modi’s official visit in December, according to the country’s High Commissioner to Ottawa, Dinesh K. Patnaik. Both countries are also in the final stages of negotiations of a\n\n[4] HT Morning News Brief Nov 19: Trump-Xi-Putin trilateral, Cyclone Akvan approaches, GTA 6 out and more | India News (hindustantimes.com)\nover the west-central and adjoining central parts of the south Bay of Bengal during the six hours ending 11.30 pm on November 18, the India Meteorological Department (IMD) said. As per IMD, the landfall\n\n[5] News in 90 Seconds November 19 (1news.co.nz)\nA broom stored on a truck’s trailer caused its brakes to lock on a rail crossing, with the driver jumping free just moments before a freight train smashed into it. After a 13-year wait, Grand Theft Auto 6 finally launched overnight. US President Donald\n\n[6] AP News in Brief at 12:04 a.m. EST | wusa9.com (wusa9.com)\nSHENZHEN, China (AP) — When President Donald Trump meets Thursday with China’s Xi Jinping and Russia’s Vladimir Putin, it could mark a pivot in world history — or become a quickly forgotten photo op. Trump, who will test his reputation as an expert dealmaker in the trilateral meeting, has promoted his time with Xi and Putin — two of America's leading rivals — as a chance to hash out rules for controlling nuclear arms and to start resolving the wars in Ukraine and Iran. Experts have kept expectations low for major breakthroughs. ... Anthropic to debut on Wall Street with a $1.5 trillion …\n\n[7] World news digest for November 19, 2026 | World Watch (worldwatch.media)\nsaid no American personnel were wounded in the attempted Iranian attacks on Gulf ... 5 In the Democratic Republic of Congo, the WHO said the Ebola outbreak has passed six months without control, with more than 11,000 people infected and over 5,400 dead.\n\n[8] News Archives for Latest - 2026-11-19 - DAWN.COM (dawn.com)\nof Bangladesh shut down in protests by Hasina's party, ex-leader Yunus's home set ablaze To deter violence, 97 platoons of the Bangladesh Border Guard have fanned out across seven districts, including Gopalganj and Faridpur. Updated 19 Nov, 2026\n\n[9] World News on November 19, 2026 | Daily Summary Of (dailysummaryof.com)\n## Dozens missing after boat carrying 100 migrants sinks off Senegal A boat reportedly carrying about 100 migrants capsized off Senegal's coast around 02:00 local time, with personal belongings found on the damaged vessel near Yenne. Initial reports said one person had died, but some local media reported at least four bodies had been recovered, and dozens remain missing. Search operations continued throughout Wednesday and were due to resume Thursday. President Diomaye Faye ordered a report on the dangerous journeys. ... ## Riyadh ... A loud blast was heard early Thursday in Riyadh after …\n\n[10] News Archive for November 19, 2026 | The Indian Express (indianexpress.com)\n- India Cyclone Akvan set to make landfall in Odisha tomorrow; schools shut, curbs at beaches - World Muhammad Yunus’s house set on fire in Bangladesh amid Sheikh Hasina’s return buzz ... ‘Use resources for people, not self-aggrandisement’: India slams",
+  "hash": "4c2099f46ca61c8d0b523ba32b3f75c065a4a475663e89ced62955ce1f431d18",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 19, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-19T09:05:27+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Fed minutes October 2026: Officials expect more rate hikes, worry about AI",
+    "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Federal Reserve officials expressed confidence in October that further interest rate increases will be needed to stem inflation, though they decided to hold off while gathering more information, according to meeting minutes released Wednesday. Policymakers put artificial intelligence at the core of their discussions, indicating that demand associated with the technology would be \"a material source of inflation risk.\" More broadly, officials said \"inflation pressures in the economy were broad based\" and would warrant action, with \"some\" policymakers advocating for a quarter percentage point hike at the meeting. A couple of participants even noted the possibility that a larger increase might be needed at the next policy meeting in December. The meeting summary said \"almost all participants judged that, under their baseline outlooks for inflation and the labor market, further action to raise the target range for the federal funds rate … would likely be appropriate, in order to ensure a timely return of inflation to the 2 percent objective.\""
+   },
+   {
+    "title": "The US Fed's next move could be bigger as inflation refuses to retreat, minutes show - The Economic Times",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/the-us-feds-next-move-could-be-bigger-as-inflation-refuses-to-retreat-minutes-show/articleshow/135976098.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "",
+    "excerpt": "Washington: Federal Reserve officials saw a growing risk last month that they might need to intensify ... \"Almost all\" policymakers agreed that further rate hikes would be needed if the economy evolved as they expected, the minutes said, while a few said inflation could prove more persistent and require \"a shift to a more restrictive policy stance\" than currently expected. \"A couple\" of them went further and argued that the Fed might have to resort to a half-percentage-point increase \"if incoming inflation data were unfavorable,\" a benchmark met in recent releases that showed prices rising faster than anticipated. Among those who supported keeping the policy rate steady in the 3.75%-4.00% range in October, \"a few ... indicated that they viewed the decision as a close call,\" and joined a larger group in urging that the Fed be clear that \"the decision to maintain the target range did not reflect a weakening\" of the commitment to hit the US central bank's 2% inflation target. At the end of the two-day session, only Fed Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented in favor of lifting the policy rate by a quarter of a percentage point. But the debate highlighted a growing sense at the Fed that inflation will not ease enough on its own for the target to be reached quickly enough."
+   },
+   {
+    "title": "U.S. dollar nears 19-month high, Aussie falls after soft jobs data",
+    "url": "https://www.cnbc.com/2026/11/19/us-dollar-currency-bonds-eu-asia-price.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Published Wed, Nov 18 2026 10:24 PM EST ... s strength were hawkish signals from the Fed. Officials saw a growing risk last month that they might need to intensify their efforts to control inflation, even as they agreed to keep rates steady for the moment,"
+   },
+   {
+    "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+    "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "In the near term, the policymaker told CNBC in a live interview that a half percentage point increase in the Fed ... Dec. 8-9 meeting of the Federal Open Market Committee. He said the central bank ... reductions from last year and may need to do more."
+   },
+   {
+    "title": "Waller says on CNBC the Fed needs to get more aggressive in inflation response By Reuters",
+    "url": "https://www.investing.com/news/economy-news/waller-says-on-cnbc-the-fed-needs-to-get-more-aggressive-in-inflation-response-5036212",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Inflation is \"heading in the wrong direction and it is spreading out,\" Waller said ... CNBC, noting that many of the items with faster-rising prices now are in ... sector and largely beyond the influence of high oil costs and other temporary factors."
+   },
+   {
+    "title": "US consumer prices rise briskly for third straight month | Reuters",
+    "url": "https://www.reuters.com/5f374b32b07b/world/us/us-consumer-prices-rise-above-expectations-october-2026-11-10/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": ".4% last month after advancing 0.6% in September, the ... said. It was the third consecutive month of ​gains of 0.4% or more. Economists polled by Reuters ... 3% over the month. The BLS did not publish year-over-year inflation readings because last year's"
+   },
+   {
+    "title": "Core inflation is 0.5 point lower by CPI than by PCE, and Fed minutes call it unusual | FinanceInTime",
+    "url": "https://financeintime.com/news/2026/11/19/core-inflation-is-0-5-point-lower-by-cpi-than-by-pce-and-fed-minutes-call-it",
+    "source": "financeintime.com",
+    "published": "",
+    "excerpt": "## Total inflation barely differs, core inflation does The Bureau of Labor Statistics (BLS) said the consumer price index (CPI) rose 3.7% in the 12 months to September, after 3.4% in the 12 months to August. The Bureau of Economic Analysis (BEA) said the PCE price index, its measure of prices for personal consumption expenditures, rose 3.6% from a year earlier in September, after 3.4% in August. Excluding food and energy, the picture splits. Core CPI rose 2.6% over the year to September, following 2.4% in August. Core PCE rose 3.1% in September, after 3.0% in August. Subtracting, the core CPI ran 0.5 percentage point below core PCE in September and 0.6 point below in August (computed from the four published rates). Total CPI was 0.1 point above total PCE in September and equal to it in August (computed). The Fed sets its 2% goal in PCE terms: the Committee judges that inflation at 2% \"as measured by the annual change in the price index for personal consumption expenditures\" fits its mandate over the longer run. So the measure with the higher core reading is the one the Committee targets. ## What the monthly figures show The gap is not a story of one month. In September the CPI rose 0.6% on the month, seasonally adjusted, and the PCE price index rose 0.5%. Both core measures rose 0.3% in September. In August, core CPI rose 0.3% while core PCE rose 0.2%, the BEA said. Energy was the main driver of the headline. The BLS said gasoline rose 9.1% in September and accounted for over half of the monthly increase in the all-items index, and the energy index rose 5.2% on the month and 20.4% over the 12 months to September. Energy carries a different weight in each index, and the releases do not state the weights, so the data here do not show how much of the headline similarity comes from energy. ... The October CPI report shows the CPI rose 0.4% on the month after 0.6% in September, with core prices up 0.3% for a third month. The BLS said it did not collect survey data for October 2025 because of a lapse in appropriations, so it cannot publish 12-month changes for October 2026 for indexes where October 2025 data are unavailable. The annual CPI comparison with PCE therefore stops at September until November data arrive; the BEA's October PCE release is due on November 25, 2026, at 8:30 a.m. EST, according to its September release. ## What Fed officials said about the discrepancy The minutes of the Fed's October 27-28 meeting, released on November 18, show the staff estimated PCE inflation of 3.6% in September and core PCE of 3.1%, and attributed higher inflation largely to earlier tariff increases, higher energy prices and upward pressure on goods prices tied to the AI buildout. Some participants raised the gap directly. A few cautioned that market-based inflation expectations, derived from the pricing of securities indexed to the CPI, \"might be difficult to interpret\" given \"an unusual discrepancy between CPI and PCE inflation rates.\" The minutes do not say what causes the discrepancy. Participants also pointed to elevated inflation in market-based core nonhousing services and to measures of underlying inflation that remained above 2%. Almost all judged that further action to raise the target range would likely be appropriate, and a couple said an increase of more than 25 basis points could warrant consideration at the next meeting if inflation data were unfavorable. That meeting is on December 8-9."
+   },
+   {
+    "title": "Economic commentary: Inflation broadens as AI investment risk rises |",
+    "url": "https://www.northmarq.com/insights/research/november-economic-commentary-inflation-broadens-ai-investment-risk-rises",
+    "source": "northmarq.com",
+    "published": "",
+    "excerpt": "(PPI) has also firmed, pushing its year over year increase to the highest level since 2022. Energy prices, particularly diesel, remain ... second quarter. On a year-over-year basis, however, GDP growth was 2.1%, down slightly from 2.2% in second quarter."
+   },
+   {
+    "title": "Global inflation calls for monetary policy tightening in many economies, IMF head says By Reuters",
+    "url": "https://www.investing.com/news/economy-news/global-inflation-calls-for-monetary-policy-tightening-in-many-economies-imf-head-says-5037605",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": ", China, Nov 19 (Reuters) - International Monetary Fund Managing Director Kristalina Georgieva said on Thursday that energy supply shocks and Artificial Intelligence demand were accelerating global inflation to 4.7%, calling for a tightening of"
+   },
+   {
+    "title": "As higher prices seep into broader economy, Fed officials consider faster hikes",
+    "url": "https://apnews.com/article/inflation-gas-federal-reserve-prices-1318a1694472e2926e0a4ab5d8ca6457",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "(AP) — More evidence this week of hot inflation in the U.S. was unpleasant news for the Federal Reserve ... not to mention consumers: Rising prices may be spreading beyond the one-time shocks from ... high gas prices into the wider economy, meaning that"
+   }
+  ],
+  "text": "[1] Fed minutes October 2026: Officials expect more rate hikes, worry about AI (cnbc.com)\nFederal Reserve officials expressed confidence in October that further interest rate increases will be needed to stem inflation, though they decided to hold off while gathering more information, according to meeting minutes released Wednesday. Policymakers put artificial intelligence at the core of their discussions, indicating that demand associated with the technology would be \"a material source of inflation risk.\" More broadly, officials said \"inflation pressures in the economy were broad based\" and would warrant action, with \"some\" policymakers advocating for a quarter percentage point …\n\n[2] The US Fed's next move could be bigger as inflation refuses to retreat, minutes show - The Economic Times (economictimes.indiatimes.com)\nWashington: Federal Reserve officials saw a growing risk last month that they might need to intensify ... \"Almost all\" policymakers agreed that further rate hikes would be needed if the economy evolved as they expected, the minutes said, while a few said inflation could prove more persistent and require \"a shift to a more restrictive policy stance\" than currently expected. \"A couple\" of them went further and argued that the Fed might have to resort to a half-percentage-point increase \"if incoming inflation data were unfavorable,\" a benchmark met in recent releases that showed prices rising …\n\n[3] U.S. dollar nears 19-month high, Aussie falls after soft jobs data (cnbc.com)\nPublished Wed, Nov 18 2026 10:24 PM EST ... s strength were hawkish signals from the Fed. Officials saw a growing risk last month that they might need to intensify their efforts to control inflation, even as they agreed to keep rates steady for the moment,\n\n[4] Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike (cnbc.com)\nIn the near term, the policymaker told CNBC in a live interview that a half percentage point increase in the Fed ... Dec. 8-9 meeting of the Federal Open Market Committee. He said the central bank ... reductions from last year and may need to do more.\n\n[5] Waller says on CNBC the Fed needs to get more aggressive in inflation response By Reuters (investing.com)\nInflation is \"heading in the wrong direction and it is spreading out,\" Waller said ... CNBC, noting that many of the items with faster-rising prices now are in ... sector and largely beyond the influence of high oil costs and other temporary factors.\n\n[6] US consumer prices rise briskly for third straight month | Reuters (reuters.com)\n.4% last month after advancing 0.6% in September, the ... said. It was the third consecutive month of ​gains of 0.4% or more. Economists polled by Reuters ... 3% over the month. The BLS did not publish year-over-year inflation readings because last year's\n\n[7] Core inflation is 0.5 point lower by CPI than by PCE, and Fed minutes call it unusual | FinanceInTime (financeintime.com)\n## Total inflation barely differs, core inflation does The Bureau of Labor Statistics (BLS) said the consumer price index (CPI) rose 3.7% in the 12 months to September, after 3.4% in the 12 months to August. The Bureau of Economic Analysis (BEA) said the PCE price index, its measure of prices for personal consumption expenditures, rose 3.6% from a year earlier in September, after 3.4% in August. Excluding food and energy, the picture splits. Core CPI rose 2.6% over the year to September, following 2.4% in August. Core PCE rose 3.1% in September, after 3.0% in August. Subtracting, the core CPI …\n\n[8] Economic commentary: Inflation broadens as AI investment risk rises | (northmarq.com)\n(PPI) has also firmed, pushing its year over year increase to the highest level since 2022. Energy prices, particularly diesel, remain ... second quarter. On a year-over-year basis, however, GDP growth was 2.1%, down slightly from 2.2% in second quarter.\n\n[9] Global inflation calls for monetary policy tightening in many economies, IMF head says By Reuters (investing.com)\n, China, Nov 19 (Reuters) - International Monetary Fund Managing Director Kristalina Georgieva said on Thursday that energy supply shocks and Artificial Intelligence demand were accelerating global inflation to 4.7%, calling for a tightening of\n\n[10] As higher prices seep into broader economy, Fed officials consider faster hikes (apnews.com)\n(AP) — More evidence this week of hot inflation in the U.S. was unpleasant news for the Federal Reserve ... not to mention consumers: Rising prices may be spreading beyond the one-time shocks from ... high gas prices into the wider economy, meaning that",
+  "hash": "b9b6b5b50358b9fe6378c9fe460b4630ba87d7e9b3a5302d6fbc8ebd84125d95",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 19, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-19T09:05:36+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Republicans lose hope in Reconciliation 3.0",
+    "url": "https://www.axios.com/2026/11/19/republicans-reconciliation-defense-spending",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "The Senate GOP's last-ditch effort to pass a defense-heavy, $350 billion reconciliation package is dead on arrival without accompanying spending cuts, House Republicans tell Axios. Why it matters: House Republicans have just 16 days left in session before Democrats take control in January. Many don't want to spend their final days in power adding to the national debt. - \"My concern is we squander these very few days we have left on something that won't get out of the House,\" outgoing House Budget Chair Jodey Arrington (R-Texas) told Axios of the Senate's emerging plan. - Republicans have already passed two party-line reconciliation bills this Congress: The \"one big, beautiful bill\" in the summer of 2025, and nearly $70 billion for immigration enforcement in the summer of 2026. Zoom in: Finding spending offsets could reopen some of the most contentious fights from the GOP's first reconciliation package. - Arrington told Axios that Senate Republicans worry that finding cost savings in health care spending could open the door to amendment votes that undo Medicaid cuts in the One Big, Beautiful Bill Act. - But Arrington, who didn't run for reelection in 2026, told Axios he doesn't believe the Senate's proposal has the votes to pass the House without offsets. State of play: Arrington said he raised his concerns with Senate Budget Chair Ron Johnson (R-Wis.), and argued Republicans shouldn't let the risks deter them from pursuing additional spending cuts. - \"Some Republican members of the Senate might go rogue and might decide to, I don't know, repeal some of the reforms that we put in the 'big, beautiful bill.' Maybe they do it out of spite for President Trump,\" he said. - \"The midterms have passed us. We lost, but we still have this window to do what we think is right,\" he said. Between the lines: Senate Republicans haven't committed to moving forward with another reconciliation package. - Leaving a Wednesday night meeting on reconciliation, Sen. Johnson told reporters the Senate \"probably\" won't move forward this week, but a reconciliation bill isn't \"off the table.\" - Senate Majority Leader John Thune (R-S.D.) told reporters he wants to explore working with Democrats on the funding, but that reconciliation remains an \"option\" Wednesday night. What they're saying: \"It needs to have offsets,\" Rep. Andrew Clyde (R-Ga.), a member of the conservative House Freedom Caucus, told Axios. - Rep. Eli Crane (R-Ariz.), another HFC member, also expressed skepticism about the proposal and its chances of passage. \"It's not that I don't want to fund the Department of Defense, but it's always, 'Hey, are we just going to add this to the debt, add this to the deficit,'\" he told Axios. The intrigue: Even if the two chambers can strike a deal, House GOP leaders are struggling to get their own members to show up for votes. - GOP leaders were forced to pull a procedural rule vote Wednesday after 14 Republicans failed to show up, leaving leadership without the votes needed to move forward. - Rep. Dan Meuser (R-Pa.) told Axios his colleagues need to return to Washington: \"I mean, they're getting paid until Jan. 3.\" What's next: The House departs Thursday for Thanksgiving recess."
+   },
+   {
+    "title": "Chinese officials block Bloomberg reporter from three-way meeting after she asked a question at earlier Trump-Xi session",
+    "url": "https://apnews.com/article/trump-xi-putin-nuclear-ukraine-iran-a04dc76ed8e786b087e2c1ea9598783a",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Trump has promoted his time with Xi and Putin — two of America's leading rivals — as a chance to hash out rules for controlling nuclear arms and to start resolving the wars in Ukraine and Iran. Experts have kept expectations low for major breakthroughs. “We are really making history,” Trump said. “The United States, Russia and China are uniquely positioned to discuss how to reduce the number of nuclear weapons on Earth and also to lessen the risk of those weapons being used.\" “We will be having discussions on the theme of promoting world peace,” Xi said at the start of"
+   },
+   {
+    "title": "AP Top U.S. News at 2:06 a.m. EST - AccessNorthGA",
+    "url": "https://accessnorthga.com/ap_article/ap-top-u-s-news-at-1213-a-m-est-3",
+    "source": "accessnorthga.com",
+    "published": "",
+    "excerpt": ". ESTThe Associated Press Peltola says Alaska voters want relief from high prices and did not elect her to be partisan Mississippi saw a spike in 'inactive' voters for the midterms. Democrats want answers"
+   },
+   {
+    "title": "AP News Summary at 2:53 a.m. EST | National | guardonline.com",
+    "url": "https://www.guardonline.com/news/national/ap-news-summary-at-2-53-a-m-est/article_ebd409ac-53f4-5db1-ac17-80dde02f7e6d.html",
+    "source": "guardonline.com",
+    "published": "",
+    "excerpt": "elections — an increase of about 60,000 since the presidential election two years ago. The shift apparently was caused by the integration of data from a major credit reporting agency, Experian, into the voter roll maintenance process. Democrats are"
+   },
+   {
+    "title": "Trump, China's Xi, and Russia's Putin meet for historic summit, with Iran on agenda | The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog-november-19-2026/",
+    "source": "timesofisrael.com",
+    "published": "",
+    "excerpt": "struck the bridge linking Russia and Crimea for the third time in a week, forcing a suspension of train services across it, Russian authorities say. ... Thursday, Russia’s transport ministry says nobody was hurt in the Ukrainian attack on the Black"
+   },
+   {
+    "title": "Whether Congress should investigate the Trump administration, Jensen Huang, and more: November 13-16, 2026 Economist / YouGov Poll",
+    "url": "https://yougov.com/en-us/articles/56009-whether-congress-should-investigate-trump-administration-jensen-huang-november-13-16-2026-economist-yougov-poll",
+    "source": "yougov.com",
+    "published": "",
+    "excerpt": "- 71% of Americans say things in this country these days are out of control, ... - 17% of Americans have a great deal or quite a lot of confidence in Congress, the lowest share for any of nine institutions asked about. Compared to last month, before the 2026 midterm elections, the share who are confident is up to 22% from 11% among Democrats and down to 19% from 33% among Republicans - 90% of Americans say it is very or somewhat important for Congress to conduct oversight of the executive branch, including 97% of Democrats and 83% of Republicans. 80% of Democrats say it is very important, compared with 30% of Republicans"
+   },
+   {
+    "title": "Trump meets Putin and Xi as trilateral US, Russia, China talks begin | Politics News | Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks",
+    "source": "aljazeera.com",
+    "published": "",
+    "excerpt": "The talks between the leaders of the world’s largest nuclear powers are unlikely to produce major agreements, analysts say, given deep differences over Ukraine, Iran, nuclear weapons and trade. But the meeting has unnerved smaller countries that fear their"
+   },
+   {
+    "title": "Headlines for Thursday, November 19, 2026 | Faithful Herald",
+    "url": "https://faithfulherald.com/news/day/2026-11-19",
+    "source": "faithfulherald.com",
+    "published": "",
+    "excerpt": "- Trump's massive DC triumphal arch project dealt another blow by federal judge· Fox News ... Elon Musk says record spending on US midterms was 'pretty foolish'· ... - Judge issues 14-day extension order blocking Trump’s DC memorial arch· New York Post"
+   },
+   {
+    "title": "Politics News November 19, 2026: Trump meets Xi | Daily Summary Of",
+    "url": "https://dailysummaryof.com/politics/2026-11-19",
+    "source": "dailysummaryof.com",
+    "published": "",
+    "excerpt": "Ukraine strikes, drawing German rebuke U.S. under secretary of defense Elbridge Colby criticized Ukraine's long-range strikes on Russia at NATO talks, saying they have not been effective and probably hardened the Russian public's resolve. German Defense"
+   },
+   {
+    "title": "The Hindu Morning Digest: November 19, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/morning-digest-november-19-2026/article71717709.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "in Venezuela, said the two countries have signed an agreement to re-establish military ties, from training to intelligence sharing. ... S. military, the country “has gone from our most aggressive regional threat to a compliant security partner.” Mr."
+   }
+  ],
+  "text": "[1] Republicans lose hope in Reconciliation 3.0 (axios.com)\nThe Senate GOP's last-ditch effort to pass a defense-heavy, $350 billion reconciliation package is dead on arrival without accompanying spending cuts, House Republicans tell Axios. Why it matters: House Republicans have just 16 days left in session before Democrats take control in January. Many don't want to spend their final days in power adding to the national debt. - \"My concern is we squander these very few days we have left on something that won't get out of the House,\" outgoing House Budget Chair Jodey Arrington (R-Texas) told Axios of the Senate's emerging plan. - Republicans have …\n\n[2] Chinese officials block Bloomberg reporter from three-way meeting after she asked a question at earlier Trump-Xi session (apnews.com)\nTrump has promoted his time with Xi and Putin — two of America's leading rivals — as a chance to hash out rules for controlling nuclear arms and to start resolving the wars in Ukraine and Iran. Experts have kept expectations low for major breakthroughs. “We are really making history,” Trump said. “The United States, Russia and China are uniquely positioned to discuss how to reduce the number of nuclear weapons on Earth and also to lessen the risk of those weapons being used.\" “We will be having discussions on the theme of promoting world peace,” Xi said at the start of\n\n[3] AP Top U.S. News at 2:06 a.m. EST - AccessNorthGA (accessnorthga.com)\n. ESTThe Associated Press Peltola says Alaska voters want relief from high prices and did not elect her to be partisan Mississippi saw a spike in 'inactive' voters for the midterms. Democrats want answers\n\n[4] AP News Summary at 2:53 a.m. EST | National | guardonline.com (guardonline.com)\nelections — an increase of about 60,000 since the presidential election two years ago. The shift apparently was caused by the integration of data from a major credit reporting agency, Experian, into the voter roll maintenance process. Democrats are\n\n[5] Trump, China's Xi, and Russia's Putin meet for historic summit, with Iran on agenda | The Times of Israel (timesofisrael.com)\nstruck the bridge linking Russia and Crimea for the third time in a week, forcing a suspension of train services across it, Russian authorities say. ... Thursday, Russia’s transport ministry says nobody was hurt in the Ukrainian attack on the Black\n\n[6] Whether Congress should investigate the Trump administration, Jensen Huang, and more: November 13-16, 2026 Economist / YouGov Poll (yougov.com)\n- 71% of Americans say things in this country these days are out of control, ... - 17% of Americans have a great deal or quite a lot of confidence in Congress, the lowest share for any of nine institutions asked about. Compared to last month, before the 2026 midterm elections, the share who are confident is up to 22% from 11% among Democrats and down to 19% from 33% among Republicans - 90% of Americans say it is very or somewhat important for Congress to conduct oversight of the executive branch, including 97% of Democrats and 83% of Republicans. 80% of Democrats say it is very important, …\n\n[7] Trump meets Putin and Xi as trilateral US, Russia, China talks begin | Politics News | Al Jazeera (aljazeera.com)\nThe talks between the leaders of the world’s largest nuclear powers are unlikely to produce major agreements, analysts say, given deep differences over Ukraine, Iran, nuclear weapons and trade. But the meeting has unnerved smaller countries that fear their\n\n[8] Headlines for Thursday, November 19, 2026 | Faithful Herald (faithfulherald.com)\n- Trump's massive DC triumphal arch project dealt another blow by federal judge· Fox News ... Elon Musk says record spending on US midterms was 'pretty foolish'· ... - Judge issues 14-day extension order blocking Trump’s DC memorial arch· New York Post\n\n[9] Politics News November 19, 2026: Trump meets Xi | Daily Summary Of (dailysummaryof.com)\nUkraine strikes, drawing German rebuke U.S. under secretary of defense Elbridge Colby criticized Ukraine's long-range strikes on Russia at NATO talks, saying they have not been effective and probably hardened the Russian public's resolve. German Defense\n\n[10] The Hindu Morning Digest: November 19, 2026 - The Hindu (thehindu.com)\nin Venezuela, said the two countries have signed an agreement to re-establish military ties, from training to intelligence sharing. ... S. military, the country “has gone from our most aggressive regional threat to a compliant security partner.” Mr.",
+  "hash": "45dc0d49e1f6702e22f06e342c70708c2b6b48d71f2ca662e7ab6d381af97fb2",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 19, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-19T09:05:49+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4009219-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Skydance names ‌film chiefs ​for Paramount, Warner Bros labels Skydance named Don Granger and Kira Goldberg presidents of the Motion Picture Group at Paramount Pictures, while promoting Jesse Ehrman to president of the Motion Picture Group at Warner Bros Pictures, outlining the leadership structure for its combined film business. The changes come as Skydance seeks to build a company capable of delivering 30 films a year, with Paramount Pictures and Warner Bros Pictures retaining separate identities and distinct creative mandates, according to an internal memo to staff on Tuesday from Skydance Motion Picture Group co-chairs Dana Goldberg and Josh Greenstein. ... 'GTA VI' to supercharge Sony — just not in Japan The global launch of \"Grand Theft Auto VI\" on Thursday is expected to provide a major boost to PlayStation maker Sony -- albeit not in its home market of ‌Japan, where the franchise is a niche pursuit. The long-awaited open-world crime action game from Take-Two Interactive's Rockstar Games is rolling out across the world and has been met with rave reviews and fans taking time off work to play. Harry Styles, Billie Eilish and Cher to headline UK's Glastonbury in 2027 Harry Styles, Sam Fender, Billie Eilish and Cher will headline Britain's Glastonbury next year, the organisers said on their website on Wednesday, as the sold-out festival returns after taking a year off in 2026. British singer Harry Styles, who recently completed a 30-show residency at Madison Square Garden in New York, will play the festival for the first time, while Cher will take the legends slot at the age of 81. ... Spain's High Court opens investigation into women's allegations against Julio Iglesias A Spanish High Court judge has opened a criminal investigation into singer Julio Iglesias after a complaint filed by two former employees alleging sexual offences, assault and degrading treatment, court records showed. The complaint was filed by ⁠rights group Women's Link Worldwide on behalf of two women who said they worked in Iglesias' Caribbean residences for 10 months in 2021, following an investigation by US broadcaster Univision and Spanish outlet elDiario.es. Ariana Grande and Ben Stiller feud in 'Focker In-Law' with flipped roles A battle of wits pits singer and actor Ariana Grande against Hollywood star and filmmaker Ben Stiller in \"Focker In-Law\". The fourth installment in the \"Fockers\" comedy film franchise comes 26 years after Stiller and Robert De Niro introduced audiences ⁠to ​quarrelling male nurse Greg Focker and retired CIA operative Jack Byrnes in \"Meet the Parents\"."
+   },
+   {
+    "title": "Site Map November 19 2026",
+    "url": "https://www.eonline.com/sitemap/2026-11-19",
+    "source": "eonline.com",
+    "published": "",
+    "excerpt": "## November 19, 2026 CMA Awards 2026: See the Complete Winners List (Live Updates) Ryan ... at CMA Awards Taylor Swift Brings Surprise Guest for “Our Song” Mashup at First CMA Awards Performance in 13 Years See Taylor Swift"
+   },
+   {
+    "title": "Entertainment News Live Updates Today (November 19, 2026): Alia Bhatt On ‘Unequal’ Marriage With Ranbir Kapoor | Mysskin Left Keerthy Suresh Uncomfortable At Sathyavan Savithiri Press Conference | Ramayana Box Office Update - Filmibeat",
+    "url": "https://www.filmibeat.com/bollywood/news/2026/entertainment-news-live-updates-november-19-alia-bhatt-on-unequal-marriage-keerthy-mysskin-controver-538535.html",
+    "source": "filmibeat.com",
+    "published": "",
+    "excerpt": "Keerthy Suresh is gearing up for the release of her upcoming film Sathyavan Savithiri, which is scheduled to hit theatres on November 20, 2026. The film also features Mysskin in a lead role. ... ## Ramayana Box Office Collection Day 14 Ramayana has surpassed Aditya Dhar's Dhurandhar at the Indian box office within just two weeks of its release. According to Sacnilk, the film earned Rs. 23.20 crore net in India on Day 14, taking its total domestic net collection to Rs. 844.40 crore. Its India gross collection has now reached Rs. 1,009.05 crore. With this, Ramayana has moved ahead of Dhurandhar, which had collected Rs. 840.20 crore net in India after its release in December last year. The achievement comes just 14 days into Ramayana's theatrical run. However, the film's overseas performance appears to be slowing down. It added Rs. 8 crore gross from international markets on Day 14, taking its overseas gross collection to Rs. 510 crore. Meanwhile, its worldwide gross collection has reached Rs. 1,519.05 crore. Speaking to TIME magazine as part of its TIME100 Next India feature, Alia Bhatt addressed the online discussions about her marriage to Ranbir Kapoor and the claims that she is in an ‘unequal marriage’. The actress called such assumptions offensive, saying people were reducing her to someone who would silently suffer in an imaginary situation. Alia also suggested that the speculation could stem from the fact that her relationship does not follow conventional ideas of marriage. Explaining what makes her bond with Ranbir special, she said, \"The bedrock of any relationship is when you feel seen without putting any effort, and feel heard without saying anything—that’s Ranbir for me, and that’s our reality.\" ... In the clip, Mysskin is"
+   },
+   {
+    "title": "First Day, First Show Newsletter | Latest Movies & Entertainment - The Hindu",
+    "url": "https://www.thehindu.com/newsletter/first-day-first-show/",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "’ is an engaging gothic horror until the final fumble 6) ‘Black Doves’ Season ... , Keira Knightley and Ben Whishaw spy thriller, continues to swing between gore, grit and giggles 7) ‘Bass X Machina’ is an exhilarating genre"
+   },
+   {
+    "title": "Chris Pratt to Star in Paramount Pictures' 'The Traveler'",
+    "url": "https://deadline.com/2026/11/chris-pratt-the-traveler-paramount-pictures-1237228625/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "is set to headline Paramount Pictures’ adaptation of The Traveler, based on the novel by Joseph Eckert. ... project is part of the Guardians of the Galaxy star’s first-look three-year producing deal with the"
+   },
+   {
+    "title": "What To Watch On TV And Streaming Thursday, November 19, 2026",
+    "url": "https://www.tvline.com/2318435/what-to-watch-november-19-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "### The Altruists Netflix Eight-Episode Binge Anthony Boyle and Julia Garner star as Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye... before they were accused of stealing $8 billion."
+   },
+   {
+    "title": "News from Thursday, 19 November 2026 · NewsMarkets",
+    "url": "https://newsmarkets.org/archive/2026-11-19",
+    "source": "newsmarkets.org",
+    "published": "",
+    "excerpt": ". Miranda Lambert, Ella Langley Perform 'Snakeskin Boots' at CMA Awards Music · 2 sources ... Lainey Wilson Debuts New Song 'Just a Woman' at CMA Awards ... Kacey Musgraves and Miranda Lambert Perform 'Horses and Divorces' at CMA Awards Culture · 2"
+   },
+   {
+    "title": "Bangkok Post - New movies out this week: Nov 19–25",
+    "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3356469/new-movies-out-this-week-nov-1925",
+    "source": "bangkokpost.com",
+    "published": "",
+    "excerpt": "Four new releases that hit cinemas in Thailand this week The Hunger Games: Sunrise On The Reaping Directed by Francis Lawrence. Who’s in it? Joseph Zada, Mckenna Grace, Jennifer Lawrence and Ralph Fiennes. What’s it about? Revisit the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell. ... Khun Yai Woranat (Inherit) Directed by Banjong Pisanthanakun. Who’s in it? Davika Hoorne, Thitiya Jirapornsilp and Sinjai Plengpanich. What’s it about? Follows a wealthy family whose polished exterior begins to crack when an ancient centipede spirit infiltrates their bloodline. Why watch it? A modern reimagining of the classic Thai television folklore and novel Thayat Asun (The Demon's Heir) by Tri Aphirum. Nebâ Afutâ Dâku (Never After Dark) Directed by Dave Boyle. Who’s in it? Moeka Hoshi, Kurumi Inagaki and Kento Kaku. What’s it about? A travelling psychic who helps lost souls cross over encounters a powerful entity at a remote house. While investigating its origins, she uncovers dark secrets and faces a deadly threat from an unexpected source. Why watch it? Mirrors play a pivotal role in the film. In Japanese cultural beliefs, mirrors reveal the truth of a thing, exposing its real nature. Premieres on Nov 21 BTS World Tour Arirang In Kaohsiung: Live Viewing"
+   },
+   {
+    "title": "Pierce Brosnan Welcomes Robert Pattinson Into James Bond Role",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/pierce-brosnan-robert-pattinson-james-bond-welcome-1235660808/",
+    "source": "rollingstone.com",
+    "published": "",
+    "excerpt": "has officially welcomed Robert Pattinson into the James Bond club. The actor, who play the spy in four films from 1995-2002, shared a photo of Pattison on Instagram along with a personal message for his former co-star from 2010 romantic drama Remember"
+   },
+   {
+    "title": "Robert Pattinson Named New James Bond as Taylor Swift Returns to CMAs and Global Pop Charts Dominate – namhoangnguyen.com",
+    "url": "https://namhoangnguyen.com/2026/11/18/robert-pattinson-named-new-james-bond-as-taylor-swift-returns-to-cmas-and-global-pop-charts-dominate/",
+    "source": "namhoangnguyen.com",
+    "published": "",
+    "excerpt": "- K-pop: CL releases her first solo single in five years, “Iconic,” on Nov. 20 via The Black Label (reuniting with producer Teddy) and is set to perform at the MAMA Awards. Jennie (BLACKPINK) received Grammy nominations including Record of the Year for"
+   }
+  ],
+  "text": "[1] Reuters Entertainment News Summary | International (devdiscourse.com)\nSkydance names ‌film chiefs ​for Paramount, Warner Bros labels Skydance named Don Granger and Kira Goldberg presidents of the Motion Picture Group at Paramount Pictures, while promoting Jesse Ehrman to president of the Motion Picture Group at Warner Bros Pictures, outlining the leadership structure for its combined film business. The changes come as Skydance seeks to build a company capable of delivering 30 films a year, with Paramount Pictures and Warner Bros Pictures retaining separate identities and distinct creative mandates, according to an internal memo to staff on Tuesday from Skydance …\n\n[2] Site Map November 19 2026 (eonline.com)\n## November 19, 2026 CMA Awards 2026: See the Complete Winners List (Live Updates) Ryan ... at CMA Awards Taylor Swift Brings Surprise Guest for “Our Song” Mashup at First CMA Awards Performance in 13 Years See Taylor Swift\n\n[3] Entertainment News Live Updates Today (November 19, 2026): Alia Bhatt On ‘Unequal’ Marriage With Ranbir Kapoor | Mysskin Left Keerthy Suresh Uncomfortable At Sathyavan Savithiri Press Conference | Ramayana Box Office Update - Filmibeat (filmibeat.com)\nKeerthy Suresh is gearing up for the release of her upcoming film Sathyavan Savithiri, which is scheduled to hit theatres on November 20, 2026. The film also features Mysskin in a lead role. ... ## Ramayana Box Office Collection Day 14 Ramayana has surpassed Aditya Dhar's Dhurandhar at the Indian box office within just two weeks of its release. According to Sacnilk, the film earned Rs. 23.20 crore net in India on Day 14, taking its total domestic net collection to Rs. 844.40 crore. Its India gross collection has now reached Rs. 1,009.05 crore. With this, Ramayana has moved ahead of …\n\n[4] First Day, First Show Newsletter | Latest Movies & Entertainment - The Hindu (thehindu.com)\n’ is an engaging gothic horror until the final fumble 6) ‘Black Doves’ Season ... , Keira Knightley and Ben Whishaw spy thriller, continues to swing between gore, grit and giggles 7) ‘Bass X Machina’ is an exhilarating genre\n\n[5] Chris Pratt to Star in Paramount Pictures' 'The Traveler' (deadline.com)\nis set to headline Paramount Pictures’ adaptation of The Traveler, based on the novel by Joseph Eckert. ... project is part of the Guardians of the Galaxy star’s first-look three-year producing deal with the\n\n[6] What To Watch On TV And Streaming Thursday, November 19, 2026 (tvline.com)\n### The Altruists Netflix Eight-Episode Binge Anthony Boyle and Julia Garner star as Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye... before they were accused of stealing $8 billion.\n\n[7] News from Thursday, 19 November 2026 · NewsMarkets (newsmarkets.org)\n. Miranda Lambert, Ella Langley Perform 'Snakeskin Boots' at CMA Awards Music · 2 sources ... Lainey Wilson Debuts New Song 'Just a Woman' at CMA Awards ... Kacey Musgraves and Miranda Lambert Perform 'Horses and Divorces' at CMA Awards Culture · 2\n\n[8] Bangkok Post - New movies out this week: Nov 19–25 (bangkokpost.com)\nFour new releases that hit cinemas in Thailand this week The Hunger Games: Sunrise On The Reaping Directed by Francis Lawrence. Who’s in it? Joseph Zada, Mckenna Grace, Jennifer Lawrence and Ralph Fiennes. What’s it about? Revisit the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell. ... Khun Yai Woranat (Inherit) Directed by Banjong Pisanthanakun. Who’s in it? Davika Hoorne, Thitiya Jirapornsilp and Sinjai Plengpanich. What’s it about? Follows a wealthy family whose polished …\n\n[9] Pierce Brosnan Welcomes Robert Pattinson Into James Bond Role (rollingstone.com)\nhas officially welcomed Robert Pattinson into the James Bond club. The actor, who play the spy in four films from 1995-2002, shared a photo of Pattison on Instagram along with a personal message for his former co-star from 2010 romantic drama Remember\n\n[10] Robert Pattinson Named New James Bond as Taylor Swift Returns to CMAs and Global Pop Charts Dominate – namhoangnguyen.com (namhoangnguyen.com)\n- K-pop: CL releases her first solo single in five years, “Iconic,” on Nov. 20 via The Black Label (reuniting with producer Teddy) and is set to perform at the MAMA Awards. Jennie (BLACKPINK) received Grammy nominations including Record of the Year for",
+  "hash": "2232165acc8fda0301bed6d1b56caa960eaf284a5b1109641b820ce643f2b8e1",
+  "notes": []
+ }
+}
