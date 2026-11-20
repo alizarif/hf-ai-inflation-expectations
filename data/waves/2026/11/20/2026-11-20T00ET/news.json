@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-20T05:04:19+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 20, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-20T05:04:19+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Morning Briefing: Nov. 20, 2026",
+    "url": "https://aa.com.tr/en/world/morning-briefing-nov-20-2026/4131638",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "Here's a rundown of all the news you need to start your Friday, including Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin holding unprecedented trilateral talks in Shenzhen, China, Turkish President Recep Tayyip Erdogan announcing that Türkiye's homegrown Kizilelma unmanned fighter jet has entered the Turkish Armed Forces' inventory after years of development, the UN's top court ruling that Myanmar committed genocide against Rohingya Muslims in 2017, marking the first time it has held a state responsible for genocide, and reports that Grand Theft Auto VI has received widespread acclaim following its global release. Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin met for unprecedented trilateral talks in Shenzhen, China. The three leaders delivered remarks during a media session lasting approximately 15 minutes before proceeding to closed-door discussions. Their public remarks addressed nuclear disarmament, global security and the Russia-Ukraine war, among other issues. Trump said the US, Russia and China are \"uniquely positioned\" to discuss reducing nuclear weapons and lowering the risk of their use during trilateral talks with the Chinese and Russian presidents. Xi said that \"positive interactions\" among China, the US and Russia were not an \"option but a must\" as he met with his US and Russian counterparts. In the meeting, Putin said the three powers could contribute to strengthening global stability if they cooperate constructively. In a joint statement titled \"Declaration toward Peace\" following the talks, the Chinese, Russian and US presidents agreed to engage in dialogue on reducing nuclear risks and preventing the proliferation of nuclear weapons. ... - UN court rules Myanmar committed genocide against Rohingya in 1st such ruling against a state The UN's top court ruled that Myanmar committed genocide against Rohingya Muslims in 2017, marking the first time it has held a state responsible for genocide. The International Court of Justice (ICJ) found Myanmar responsible for genocide during military operations in northern Rakhine State by a vote of 9-6. Reading the judgment, International Court of Justice President Judge Yuji Iwasawa said Myanmar \"has committed genocide against the Rohingya group in northern Rakhine State, in violation of its obligations under the Convention on the Prevention and Punishment of the Crime of Genocide.\" UN Secretary-General Antonio Guterres welcomed the landmark ruling."
+   },
+   {
+    "title": "Kyodo News Digest: Nov. 20",
+    "url": "https://english.kyodonews.net/articles/-/92073",
+    "source": "english.kyodonews.net",
+    "published": "",
+    "excerpt": "U.S., China, Russia leaders vow to safeguard world peace in 1st summit SHENZHEN, China - The leaders of the United States, China and Russia on Thursday expressed their commitment to maintaining international peace and security as permanent U.N. Security Council members in a joint declaration issued after their first-ever summit in the southern Chinese city of Shenzhen. U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin reaffirmed that \"a nuclear war cannot be won and must never be fought,\" according to the declaration issued by the Chinese Foreign Ministry. SHENZHEN, China - The inaugural trilateral summit of U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin, held in China on Thursday, focused on optics rather than substance, as observers had expected, amid the countries' divergent interests. The summit did not produce concrete agreements on specific issues such as nuclear disarmament, although the three leaders, who met on the fringes of the Asia-Pacific Economic Cooperation forum gathering in the southern Chinese city of Shenzhen, vowed to maintain international security in a joint peace declaration. ... court, headed by President Yuji Iwasawa of Japan, also decided that the Southeast Asian country must make restitution such as by facilitating a \"safe, voluntary and dignified\" return of the Muslim minority to their former places of residence, and the return or replacement of their property that has been lost or damaged."
+   },
+   {
+    "title": "The Hindu Morning Digest: November 20, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/morning-digest-november-20-2026/article71721983.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "#### Cyclone Akvan: Landfall process begins The land interaction commenced as the sheared cloud mass associated with the cyclonic storm ‘Akvan’ entered into the north Andhra Pradesh-south Odisha coasts early on Friday, says the India Meteorological Department (IMD). “Latest satellite imagery indicates the land interaction commenced as the sheared cloud mass associated with the Cyclonic Storm ‘Akvan’ entered into the north Andhra Pradesh-south Odisha coasts,” informed IMD on Friday (November 20, 2026). ... #### In a first, Japanese forces will use Indian facilities for live-fire training India and Japan on Thursday (November 19, 2026) held a “two-plus-two” Foreign and Defence Ministers’ dialogue in Tokyo, where the two sides welcomed the signing of a Letter of Intent (LoI) that will, for the first time, allow Japan’s Self-Defence Forces to use Indian test ranges for “live-fire training..., including those involving surface-to-ship missiles”. The two sides also indicated forward movement towards India receiving the Unified Complex Radio Antenna, or UNICORN, naval radar system from Japan, and discussed the ongoing revisions in Japan’s national security and defence policies. ... #### Anthropic shares close 17% higher on first day of trading Anthropic shares closed 17% higher in their record Nasdaq debut on Thursday (November 19, 2026), defying a broad Wall Street sell-off as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to back the AI giant. The shares ended at around $97, up from the $83 at which the company"
+   },
+   {
+    "title": "Daily World Briefing, Nov. 20-Xinhua",
+    "url": "https://english.news.cn/20261120/e22a023701a84e82af8c6b239be62eca/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "no rush to decide on further military action against Iran and would wait until ... \"I am not rushing into any decision (on Iran). We will see what happens after the beginning of the year,\" Trump told Axios in a brief phone interview aboard Air Force One"
+   },
+   {
+    "title": "HT Morning News Brief Nov 20: Cyclone Akvan's landfall process underway, Trump puts fresh Iran strikes ‘on hold’ and more | India News",
+    "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-nov-20-cyclone-akvan-landfall-process-underway-trump-puts-fresh-iran-strikes-on-hold-and-more-101795145556636.html",
+    "source": "hindustantimes.com",
+    "published": "",
+    "excerpt": "## Cyclone Akvan’s landfall process begins Cyclone Akvan began making landfall near Odisha's Gopalpur coast on Friday morning as the state government evacuated around three lakh people, including more than 4,000 pregnant women, from vulnerable areas to safer locations. The landfall is expected to be completed between 10 am and 11 am, India Meteorological Department (IMD) Regional Director Manorama Mohanty said. Follow live updates related to the cyclonic storm here."
+   },
+   {
+    "title": "World news digest for November 20, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-20",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": ", and it called on the International Criminal Court not to abuse its powers.⁠ ... For its part, Iran says its recent attacks on US facilities in Bahrain and Kuwait were a response to US drone surveillance and an"
+   },
+   {
+    "title": "Trump, Xi and Putin agree a nuclear war must never be fought | Midday News Bulletin 20 November 2026 | SBS News",
+    "url": "https://www.sbs.com.au/news/podcast-episode/trump-xi-and-putin-agree-nuclear-weapons-must-never-be-used-midday-news-bulletin-20-november-2026/9ltngxq9z",
+    "source": "sbs.com.au",
+    "published": "",
+    "excerpt": "The United Nations has welcomed a declaration by the leaders of the United States, China and Russia that a nuclear war must never be fought. The pledge was made after historic ... . The three leaders also agreed to work together to reduce nuclear risks."
+   },
+   {
+    "title": "India news Live Updates, 20 November 2026: Dawood aide Naseem Durrani killed in Bulandshahr encounter; Cyclone Akvan hits Odisha coast; Nikhil Gupta sentencing in US today | India News - The Indian Express",
+    "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-20-november-2026-gangster-naseem-durrani-encounter-delhi-aqi-cyclone-akvan-nikhil-gupta-sentencing-accident-pollution-south-weather-odisha-chennai-10970814/",
+    "source": "indianexpress.com",
+    "published": "",
+    "excerpt": "16 murder of Sameer, who was shot dead outside Delhi Law Minister Kapil Mishra’s ... ## Cyclone Akvan changes course and hits Odisha coast Severe cyclonic storm ‘Akvan’ has altered its trajectory and made landfall along the Odisha coast after authorities"
+   },
+   {
+    "title": "While You Were Sleeping: 5 stories you might have missed, Nov 20, 2026 | The Straits Times",
+    "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-20-2026",
+    "source": "straitstimes.com",
+    "published": "",
+    "excerpt": "18. Washington and Manila will also pursue more than US$2 billion in US financing for Philippine defence purchases, with the United States providing US$400 million to support military operations in the South China Sea, it said"
+   },
+   {
+    "title": "NZ Herald Morning Headlines | Friday, November 20, 2026 - NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/nz-herald-morning-headlines-friday-november-20-2026/43IJ3J6NGWWZMOHMPM2GENZYP4/",
+    "source": "nzherald.co.nz",
+    "published": "",
+    "excerpt": "### Awanui Labs strike prompts Auckland GP to advise delaying routine blood tests A GP practice is encouraging patients to delay routine blood tests as unionised Awanui Labs workers walk off the job in protest over low pay."
+   }
+  ],
+  "text": "[1] Morning Briefing: Nov. 20, 2026 (aa.com.tr)\nHere's a rundown of all the news you need to start your Friday, including Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin holding unprecedented trilateral talks in Shenzhen, China, Turkish President Recep Tayyip Erdogan announcing that Türkiye's homegrown Kizilelma unmanned fighter jet has entered the Turkish Armed Forces' inventory after years of development, the UN's top court ruling that Myanmar committed genocide against Rohingya Muslims in 2017, marking the first time it has held a state responsible for genocide, and reports that Grand Theft …\n\n[2] Kyodo News Digest: Nov. 20 (english.kyodonews.net)\nU.S., China, Russia leaders vow to safeguard world peace in 1st summit SHENZHEN, China - The leaders of the United States, China and Russia on Thursday expressed their commitment to maintaining international peace and security as permanent U.N. Security Council members in a joint declaration issued after their first-ever summit in the southern Chinese city of Shenzhen. U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin reaffirmed that \"a nuclear war cannot be won and must never be fought,\" according to the declaration issued by the Chinese Foreign …\n\n[3] The Hindu Morning Digest: November 20, 2026 - The Hindu (thehindu.com)\n#### Cyclone Akvan: Landfall process begins The land interaction commenced as the sheared cloud mass associated with the cyclonic storm ‘Akvan’ entered into the north Andhra Pradesh-south Odisha coasts early on Friday, says the India Meteorological Department (IMD). “Latest satellite imagery indicates the land interaction commenced as the sheared cloud mass associated with the Cyclonic Storm ‘Akvan’ entered into the north Andhra Pradesh-south Odisha coasts,” informed IMD on Friday (November 20, 2026). ... #### In a first, Japanese forces will use Indian facilities for live-fire training India …\n\n[4] Daily World Briefing, Nov. 20-Xinhua (english.news.cn)\nno rush to decide on further military action against Iran and would wait until ... \"I am not rushing into any decision (on Iran). We will see what happens after the beginning of the year,\" Trump told Axios in a brief phone interview aboard Air Force One\n\n[5] HT Morning News Brief Nov 20: Cyclone Akvan's landfall process underway, Trump puts fresh Iran strikes ‘on hold’ and more | India News (hindustantimes.com)\n## Cyclone Akvan’s landfall process begins Cyclone Akvan began making landfall near Odisha's Gopalpur coast on Friday morning as the state government evacuated around three lakh people, including more than 4,000 pregnant women, from vulnerable areas to safer locations. The landfall is expected to be completed between 10 am and 11 am, India Meteorological Department (IMD) Regional Director Manorama Mohanty said. Follow live updates related to the cyclonic storm here.\n\n[6] World news digest for November 20, 2026 | World Watch (worldwatch.media)\n, and it called on the International Criminal Court not to abuse its powers.⁠ ... For its part, Iran says its recent attacks on US facilities in Bahrain and Kuwait were a response to US drone surveillance and an\n\n[7] Trump, Xi and Putin agree a nuclear war must never be fought | Midday News Bulletin 20 November 2026 | SBS News (sbs.com.au)\nThe United Nations has welcomed a declaration by the leaders of the United States, China and Russia that a nuclear war must never be fought. The pledge was made after historic ... . The three leaders also agreed to work together to reduce nuclear risks.\n\n[8] India news Live Updates, 20 November 2026: Dawood aide Naseem Durrani killed in Bulandshahr encounter; Cyclone Akvan hits Odisha coast; Nikhil Gupta sentencing in US today | India News - The Indian Express (indianexpress.com)\n16 murder of Sameer, who was shot dead outside Delhi Law Minister Kapil Mishra’s ... ## Cyclone Akvan changes course and hits Odisha coast Severe cyclonic storm ‘Akvan’ has altered its trajectory and made landfall along the Odisha coast after authorities\n\n[9] While You Were Sleeping: 5 stories you might have missed, Nov 20, 2026 | The Straits Times (straitstimes.com)\n18. Washington and Manila will also pursue more than US$2 billion in US financing for Philippine defence purchases, with the United States providing US$400 million to support military operations in the South China Sea, it said\n\n[10] NZ Herald Morning Headlines | Friday, November 20, 2026 - NZ Herald (nzherald.co.nz)\n### Awanui Labs strike prompts Auckland GP to advise delaying routine blood tests A GP practice is encouraging patients to delay routine blood tests as unionised Awanui Labs workers walk off the job in protest over low pay.",
+  "hash": "1edef9956359aed4a1015d03d0bb52656cf46d1263850b686778d19cb7c89239",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 20, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-20T05:04:36+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Fed's Paulson signals more rate hikes, says inflation remains too high - The Economic Times",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-paulson-signals-more-rate-hikes-says-inflation-remains-too-high/articleshow/136012871.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "",
+    "excerpt": ", ETMarkets.com Last Updated: Nov 20, 2026, 09:58:00 AM IST Synopsis Philadelphia Fed President Anna Paulson called for further US interest rate hikes to bring inflation under control, citing strong economic growth and a resilient labour market. Her hawkish remarks come ahead of the Fed's December policy meeting. Agencies Philadelphia Fed's Anna Paulson backs further rate hikes as inflation remains stubborn. Federal Reserve Bank of Philadelphia President Anna Paulson said the US central bank needs to raise interest rates further to bring inflation under control, arguing that price pressures remain too high despite an otherwise robust economy. Speaking after a speech at an event organised by the Money Marketeers of New York University on Thursday, Paulson said stronger economic growth and a labour market at full employment meant inflation should remain the priority for monetary policymakers."
+   },
+   {
+    "title": "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says - CBS News",
+    "url": "https://www.cbsnews.com/news/ai-boom-inflation-chicago-fed-goolsbee/",
+    "source": "cbsnews.com",
+    "published": "",
+    "excerpt": "Updated on: November 19, 2026 / 6:40 PM EST / CBS News The boom in AI data center construction is adding to the nation's \"borderline disturbingly high\" inflation, with the sector's massive business investment indirectly contributing to rising service prices, Federal Reserve Bank of Chicago President Austan Goolsbee told reporters on Thursday. \"The AI boom is contributing to the potential of overheating in the economy,\" Goolsbee said. \"I find it hard to look at it any other way when you are getting major business investment, almost an unprecedented level of business investment.\" Goolsbee, who will become a voting member of the interest rate-setting Federal Open Market Committee in January, declined to forecast the central bank's next moves on interest rates. But he said the Fed's decisions will be determined by whether U.S. inflation is on track to return to the central bank's annual 2% target. \"The evidence does not suggest we are on a path back to 2%,\" Goolsbee added."
+   },
+   {
+    "title": "Higher fuel prices seep into core inflation - Dallasfed.org",
+    "url": "https://www.dallasfed.org/research/economics/2026/1119",
+    "source": "dallasfed.org",
+    "published": "",
+    "excerpt": "Alexander Chudik, Lutz Kilian and Xiaoqing Zhou November 19, 2026 Fuel prices have been on a wild ride since late February 2026, when military strikes on Iran set off sharp moves in oil and fuel markets. Retail gasoline prices aside, the U.S. retail diesel price reached an all-time high, the jet fuel price is near its previous peak, and the heating oil price has set a new record. The U.S. price of natural gas, meanwhile, has barely budged. The fuel price surge has been very uneven. Diesel prices in particular moved sharply higher. Diesel is the fuel of the freight economy. Trucks, trains, ships and farm equipment run on it, which means its price may potentially touch the cost of moving nearly everything consumers buy. The price gap between diesel and gasoline has widened significantly in recent months. On Sept. 22, 2026, the national average retail price of diesel reached $6.53 per gallon, about 70 percent above its level at the end of February (compared with a 50 percent rise for retail gasoline). The diesel rise surpassed the fuel’s previous record set in 2022 (Chart 1). Prices have eased only modestly, to about $6.31 as of the end of October. Consumers experience these prices directly at the pump and indirectly on their utility bills. But fuel prices may also work their way into the prices of other goods and services, from airline tickets to paper towels. Economists call these \"second-round effects,\" and they matter for the Federal Reserve because they show up in core inflation, an inflation measure that excludes food and energy. Policymakers watch core inflation closely to gauge underlying price pressures. Our estimates suggest that higher fuel prices added between 20 and 60 basis points to 12-month core inflation, as measured by the personal consumption expenditures (PCE) price index, as of September 2026. If fuel prices simply held at their current levels, that contribution would gradually decline by about 30 basis points by the end of 2027."
+   },
+   {
+    "title": "Cutting through the Noise: A Fresh Look at Trimmed Mean PCE Inflation - Federal Reserve Bank of Boston",
+    "url": "https://www.bostonfed.org/publications/current-policy-perspectives/2026/fresh-look-at-trimmed-mean-pce-inflation.aspx",
+    "source": "bostonfed.org",
+    "published": "",
+    "excerpt": "in the Federal Reserve’s preferred price index, was 3.1 percent year-over-year in September 2026. Core inflation, as opposed to headline inflation, excludes food and energy prices, which tend to be volatile. By omitting such noisy data, core inflation can"
+   },
+   {
+    "title": "Jefferson: Inflation must return to 2% before Fed changes target | American Banker",
+    "url": "https://www.americanbanker.com/news/jefferson-inflation-must-return-to-2-before-fed-changes-target",
+    "source": "americanbanker.com",
+    "published": "",
+    "excerpt": ". I think that’s critical for finding a nominal anchor, and it’s key to our accountability and our credibility. I would not be interested in entertaining discussion of some ... unless we achieve that 2% target for a durable and extended period of time.”"
+   },
+   {
+    "title": "Fed vice chair warns AI buildout hikes prices",
+    "url": "https://thehill.com/business/6231715-federal-reserve-ai-inflation/",
+    "source": "thehill.com",
+    "published": "",
+    "excerpt": ", the average price of a gallon of regular gas is roughly 63 cents higher than it was a year ago, AAA ... .7 percent from September to October, after rising by ... percent from August to September, according to data from the Bureau of Labor Statistics."
+   },
+   {
+    "title": "Fed’s Jefferson says AI boosting inflation, productivity impact possible ’in the future’ By Reuters",
+    "url": "https://www.investing.com/news/economy-news/feds-jefferson-says-ai-boosting-inflation-productivity-impact-possible-in-the-future-5039268",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 19 (Reuters) - The rapid artificial intelligence buildout is putting upward pressure on US inflation through its impact on demand, Federal Reserve Vice Chair Philip Jefferson said on Thursday, with possible productivity gains that could help ease price pressures only coming \"in the future.\" In prepared remarks to a Brazilian central bank conference, Jefferson said the AI boom is the sort of shock that could influence both demand and supply, but at different points in time. \"On the demand side, optimism about the technology has been boosting business investment in data centers, advanced computing equipment, and related products,\" Jefferson said. \"Currently, the AI buildout is exerting upward pressure on demand and inflation.\" Productivity improvements from the new technology could put downward pressure on prices, but only \"in the future,\" Jefferson said, without estimating a timeline. Jefferson’s prepared remarks did not mention his current interest-rate outlook."
+   },
+   {
+    "title": "US consumer prices rise briskly for third straight month | Reuters",
+    "url": "https://www.reuters.com/5f374b32b07b/world/us/us-consumer-prices-rise-above-expectations-october-2026-11-10/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": "The CPI increased 0.4% last month after advancing 0.6% in September, the department's Bureau of Labor Statistics said. It was the third consecutive month of ​gains of 0.4% or more. Economists polled by Reuters had forecast the CPI would climb 0.3% over the month. The BLS did not publish year-over-year inflation readings because last year's federal government ⁠shutdown prevented the collection of consumer price data in October 2025, leaving no comparison base."
+   },
+   {
+    "title": "PCE price index excluding energy goods | FRED Blog",
+    "url": "https://fred.stlouisfed.org/blog/2026/11/pce-price-index-excluding-energy-goods",
+    "source": "fred.stlouisfed.org",
+    "published": "",
+    "excerpt": ". There is an alternative measure of underlying inflation that removes only energy goods from headline PCE. This preserves the desirable ... representative index, by removing a substantially lower share of expenditures than the core version. About 2."
+   },
+   {
+    "title": "CPI inflation report: October 2026",
+    "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Stripping out volatile food and energy, so-called core CPI increased 0.3% against the forecast for a 0.2% gain. The ... , the president of the Philadelphia Fed, listed tariffs, energy prices, and the AI buildout as the \"main factors have been keeping"
+   }
+  ],
+  "text": "[1] Fed's Paulson signals more rate hikes, says inflation remains too high - The Economic Times (economictimes.indiatimes.com)\n, ETMarkets.com Last Updated: Nov 20, 2026, 09:58:00 AM IST Synopsis Philadelphia Fed President Anna Paulson called for further US interest rate hikes to bring inflation under control, citing strong economic growth and a resilient labour market. Her hawkish remarks come ahead of the Fed's December policy meeting. Agencies Philadelphia Fed's Anna Paulson backs further rate hikes as inflation remains stubborn. Federal Reserve Bank of Philadelphia President Anna Paulson said the US central bank needs to raise interest rates further to bring inflation under control, arguing that price pressures …\n\n[2] AI is fueling \"disturbingly high\" inflation, Chicago Fed president says - CBS News (cbsnews.com)\nUpdated on: November 19, 2026 / 6:40 PM EST / CBS News The boom in AI data center construction is adding to the nation's \"borderline disturbingly high\" inflation, with the sector's massive business investment indirectly contributing to rising service prices, Federal Reserve Bank of Chicago President Austan Goolsbee told reporters on Thursday. \"The AI boom is contributing to the potential of overheating in the economy,\" Goolsbee said. \"I find it hard to look at it any other way when you are getting major business investment, almost an unprecedented level of business investment.\" Goolsbee, who …\n\n[3] Higher fuel prices seep into core inflation - Dallasfed.org (dallasfed.org)\nAlexander Chudik, Lutz Kilian and Xiaoqing Zhou November 19, 2026 Fuel prices have been on a wild ride since late February 2026, when military strikes on Iran set off sharp moves in oil and fuel markets. Retail gasoline prices aside, the U.S. retail diesel price reached an all-time high, the jet fuel price is near its previous peak, and the heating oil price has set a new record. The U.S. price of natural gas, meanwhile, has barely budged. The fuel price surge has been very uneven. Diesel prices in particular moved sharply higher. Diesel is the fuel of the freight economy. Trucks, trains, …\n\n[4] Cutting through the Noise: A Fresh Look at Trimmed Mean PCE Inflation - Federal Reserve Bank of Boston (bostonfed.org)\nin the Federal Reserve’s preferred price index, was 3.1 percent year-over-year in September 2026. Core inflation, as opposed to headline inflation, excludes food and energy prices, which tend to be volatile. By omitting such noisy data, core inflation can\n\n[5] Jefferson: Inflation must return to 2% before Fed changes target | American Banker (americanbanker.com)\n. I think that’s critical for finding a nominal anchor, and it’s key to our accountability and our credibility. I would not be interested in entertaining discussion of some ... unless we achieve that 2% target for a durable and extended period of time.”\n\n[6] Fed vice chair warns AI buildout hikes prices (thehill.com)\n, the average price of a gallon of regular gas is roughly 63 cents higher than it was a year ago, AAA ... .7 percent from September to October, after rising by ... percent from August to September, according to data from the Bureau of Labor Statistics.\n\n[7] Fed’s Jefferson says AI boosting inflation, productivity impact possible ’in the future’ By Reuters (investing.com)\nWASHINGTON, Nov 19 (Reuters) - The rapid artificial intelligence buildout is putting upward pressure on US inflation through its impact on demand, Federal Reserve Vice Chair Philip Jefferson said on Thursday, with possible productivity gains that could help ease price pressures only coming \"in the future.\" In prepared remarks to a Brazilian central bank conference, Jefferson said the AI boom is the sort of shock that could influence both demand and supply, but at different points in time. \"On the demand side, optimism about the technology has been boosting business investment in data centers, …\n\n[8] US consumer prices rise briskly for third straight month | Reuters (reuters.com)\nThe CPI increased 0.4% last month after advancing 0.6% in September, the department's Bureau of Labor Statistics said. It was the third consecutive month of ​gains of 0.4% or more. Economists polled by Reuters had forecast the CPI would climb 0.3% over the month. The BLS did not publish year-over-year inflation readings because last year's federal government ⁠shutdown prevented the collection of consumer price data in October 2025, leaving no comparison base.\n\n[9] PCE price index excluding energy goods | FRED Blog (fred.stlouisfed.org)\n. There is an alternative measure of underlying inflation that removes only energy goods from headline PCE. This preserves the desirable ... representative index, by removing a substantially lower share of expenditures than the core version. About 2.\n\n[10] CPI inflation report: October 2026 (cnbc.com)\nStripping out volatile food and energy, so-called core CPI increased 0.3% against the forecast for a 0.2% gain. The ... , the president of the Philadelphia Fed, listed tariffs, energy prices, and the AI buildout as the \"main factors have been keeping",
+  "hash": "07910f150e5ffa1edc0c80485877f58333042b5ff4dcc73806382882db4a8f00",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 20, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-20T05:04:50+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "The 120th Congress Shapes Up - RealClearPolitics",
+    "url": "https://www.realclearpolitics.com/congress/articles/the-120th-congress-shapes-up-2026-11-20",
+    "source": "realclearpolitics.com",
+    "published": "",
+    "excerpt": "Published Nov. 20, 2026 • Read time: 6m ... In the final weeks before the holidays, members of Congress are packing up their offices and delivering their final floor speeches. Democrats are war-gaming the next two years amid caution not to rest on their laurels; Republican frustrations are bubbling into shouting matches on the Senate floor. And both parties are already grappling with how to handle the power swap coming in January. Incumbent Democrats appear to be already preparing for executive branch investigations. House Oversight Committee ranking member Rep. Robert Garcia of California is expected to lead the powerful committee starting in January. This week, he sent letters to a baker’s dozen of Trump allies and family members warning them to preserve documents. In a press release, he described his actions as “just the beginning.” But the White House is already pushing back. White House Counsel Will Scharf wrote a letter, first obtained by Politico, back to Garcia reminding him that minority members cannot enforce document requests. He also didn’t appreciate the tone. He cited one letter from Rep. Richard Blumenthal that he said accused Homeland Security Secretary Markwayne Mullin of “unprecedented violence.” Another from Rep. Robert Scott to Labor Secretary Keith Sonderling suggested that employees are burning documents before Democrats take control. “All drip with an animus or pettiness revealing that the purpose of those letters is not legitimate oversight but to harass and aggrandize,” Scharf wrote. But the tables will turn in January. Scharf said the White House would comply with the law about responding to committee chairs, but he left open a potential loophole. He said the White House would work requests “in furtherance of a legitimate legislative purpose.” “Our commitment in this respect, though, is of course colored and qualified by the ‘pettiness’ promised by one potential incoming Chair and numerous other similar statements, which we believe indicate that you and your colleagues may inappropriately seek to use oversight investigations to harass individuals with meritless claims,” he concluded. Scharf also sent a memo to the entire administration ordering federal workers to first receive permission from the Office of White House Counsel or the Office of Legislative Affairs before appearing before any congressional committee. But incoming Democrats say they’ll be less focused on investigations and toeing the party line, whatever it turns out to be. ... Senate Democrats are already wading through the first wave of party infighting in their leadership elections. Sen. Chris Van Hollen of Maryland is challenging Sen. Chuck Schumer to be the Senate majority leader. If he wins, it could be a referendum on the establishment within the party. But either leader will inherit a sizeable majority and even broader ideological differences, all the way from moderate Democrats in red states to Democrat Socialists. On the other side of the aisle, Republicans are equally divided on how they will handle their minority. Reporters could hear outgoing Sen. John Cornyn yelling at fellow Texas Sen. Ted Cruz, apparently over Cornyn’s opposition to a federal judge nominee. But the ire spilled into someone “for ending my career!” Cornyn shouted, according to The Washington Sun. Cornyn will leave the halls next month, but Cruz will remain. And he’s gearing up for battle. “You know, it’s amazing on the campaign trail the Democrats talked about affordability all day long, and the day after the election, they immediately turned to nonstop political warfare,” Cruz told reporters on Wednesday. “I think the people of Texas and the people of this country are in two very difficult years because of the radicals.” Sen. Ron Johnson told reporters he was aggravated at Democrats being “obnoxiously obstructionist” this week. Next year, the GOP will be the professional thorn in the majority’s side. Sen. Katie Britt of Alabama urged a different approach. She told RealClearPolitics her main tactic will be to look for compromises and restore some measure of good faith between the parties. Her negotiations during the government shutdown last year might work in her favor."
+   },
+   {
+    "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska – as it happened | Nvidia | The Guardian",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": ", a Michigan Democrat, has endorsed her colleague Chris Van Hollen in his bid to replace Chuck Schumer as the party’s leader in the Senate when Democrats ... that that she has been “vocal for many, many years about"
+   },
+   {
+    "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's US Senate race",
+    "url": "https://apnews.com/article/alaska-senate-peltola-sullivan-certification-justice-department-8b47f0b452442933bdc2bda9cbc6d915",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": ", Alaska (AP) — The Trump administration on Thursday moved to ... one of his political rivals from taking office. The legal challenge centered around the presence on the ballot of a second candidate with the same name as the incumbent, Republican Sen"
+   },
+   {
+    "title": "Senate approves bill to speed up permitting reviews, force data centers to pay for energy costs",
+    "url": "https://apnews.com/article/energy-permitting-data-center-power-grid-trump-b41c2017e4a9fe2e6de92ec77a4cdd0a",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — The Senate approved bipartisan legislation Thursday aimed at speeding up permitting reviews to build power plants, transmission lines and other energy infrastructure as lawmakers seek to increase the nation’s energy supplies to meet surging demand and lower electricity prices. The legislation’s sweeping changes would shorten the timeline to start big energy projects and make sure data centers pay for the energy they use. Anger over data centers and rising electricity prices helped usher in a wave of Democrats pledging to clamp down on the energy-hungry behemoths. The 62-33 vote is the first major action by Congress since midterm"
+   },
+   {
+    "title": "White House national cyber director is leaving after tech outages hit companies and agencies",
+    "url": "https://www.nbcnews.com/politics/white-house/national-cyber-director-sean-cairncross-leaving-kirsten-davies-replaci-rcna610329",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "both the private and public sectors. Cairncross will be replaced by Kirsten A. Davies, who currently serves as the chief information officer at the Defense Department, a source close to the White House"
+   },
+   {
+    "title": "NBC Nightly News Full Episode - Nov. 19",
+    "url": "https://www.nbcnews.com/nightly-news-netcast/video/nbc-nightly-news-full-episode-nov-19-273864773986",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "Nov. 20, 2026 19:02 # Nov. 19: Trump’s historic summit in China, flash flooding rescues nationwide ... ’s historic summit with Xi, Putin; Flash flood rescues on both coasts; National cyber director to leave Trump administration; and more on tonight's"
+   },
+   {
+    "title": "Senate Republicans block latest Democratic effort to end the war in Iran - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/11/19/iran-war-trump-senate-war-powers/5cde8a48-e456-11f1-a99e-b3e3805c6b8b_story.html",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "WASHINGTON — Senate Republicans on Thursday blocked a Democratic effort to end the war in Iran, weighing in on the conflict for the first time since their party’s sweeping losses in the midterm elections."
+   },
+   {
+    "title": "Republicans MIA are a problem for House leaders in the lame-duck session - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/11/19/republicans-mia-are-problem-house-leaders-lame-duck-session/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "“Attendance is a great frustration for me right now. We’ll be addressing that with members,” he told reporters Thursday morning. “It’ ... agenda unless the members are here doing their job.” Many of the missing lawmakers lost in this"
+   },
+   {
+    "title": "Reuters US Domestic News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4009803-reuters-us-domestic-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Backing Trump, US Senate Republicans block Iran war resolution US Senate Republicans ⁠on Thursday rejected legislation directing President Donald Trump to end the war in Iran or obtain Congress' approval to continue, backing the president weeks after sweeping defeats in midterm elections largely tied to Americans' frustration with the conflict. The Senate voted 51 to 48, largely along party lines, to defeat a war powers resolution that had previously passed the House of Representatives."
+   },
+   {
+    "title": "Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine | AP News",
+    "url": "https://apnews.com/live/trump-xi-putin-china-politics-news-updates-11-19-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "NATO-like security guarantees for Ukraine to end the war as it nears the five-year mark. Kushner’s statement ... Thursday, hours after U.S. President Donald Trump wrapped rare three-way talks with Russian President Vladimir Putin and Chinese"
+   }
+  ],
+  "text": "[1] The 120th Congress Shapes Up - RealClearPolitics (realclearpolitics.com)\nPublished Nov. 20, 2026 • Read time: 6m ... In the final weeks before the holidays, members of Congress are packing up their offices and delivering their final floor speeches. Democrats are war-gaming the next two years amid caution not to rest on their laurels; Republican frustrations are bubbling into shouting matches on the Senate floor. And both parties are already grappling with how to handle the power swap coming in January. Incumbent Democrats appear to be already preparing for executive branch investigations. House Oversight Committee ranking member Rep. Robert Garcia of California is …\n\n[2] Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska – as it happened | Nvidia | The Guardian (theguardian.com)\n, a Michigan Democrat, has endorsed her colleague Chris Van Hollen in his bid to replace Chuck Schumer as the party’s leader in the Senate when Democrats ... that that she has been “vocal for many, many years about\n\n[3] Trump administration moves to have lawsuit dismissed in challenge to Alaska's US Senate race (apnews.com)\n, Alaska (AP) — The Trump administration on Thursday moved to ... one of his political rivals from taking office. The legal challenge centered around the presence on the ballot of a second candidate with the same name as the incumbent, Republican Sen\n\n[4] Senate approves bill to speed up permitting reviews, force data centers to pay for energy costs (apnews.com)\nWASHINGTON (AP) — The Senate approved bipartisan legislation Thursday aimed at speeding up permitting reviews to build power plants, transmission lines and other energy infrastructure as lawmakers seek to increase the nation’s energy supplies to meet surging demand and lower electricity prices. The legislation’s sweeping changes would shorten the timeline to start big energy projects and make sure data centers pay for the energy they use. Anger over data centers and rising electricity prices helped usher in a wave of Democrats pledging to clamp down on the energy-hungry behemoths. The 62-33 …\n\n[5] White House national cyber director is leaving after tech outages hit companies and agencies (nbcnews.com)\nboth the private and public sectors. Cairncross will be replaced by Kirsten A. Davies, who currently serves as the chief information officer at the Defense Department, a source close to the White House\n\n[6] NBC Nightly News Full Episode - Nov. 19 (nbcnews.com)\nNov. 20, 2026 19:02 # Nov. 19: Trump’s historic summit in China, flash flooding rescues nationwide ... ’s historic summit with Xi, Putin; Flash flood rescues on both coasts; National cyber director to leave Trump administration; and more on tonight's\n\n[7] Senate Republicans block latest Democratic effort to end the war in Iran - The Washington Post (washingtonpost.com)\nWASHINGTON — Senate Republicans on Thursday blocked a Democratic effort to end the war in Iran, weighing in on the conflict for the first time since their party’s sweeping losses in the midterm elections.\n\n[8] Republicans MIA are a problem for House leaders in the lame-duck session - The Washington Post (washingtonpost.com)\n“Attendance is a great frustration for me right now. We’ll be addressing that with members,” he told reporters Thursday morning. “It’ ... agenda unless the members are here doing their job.” Many of the missing lawmakers lost in this\n\n[9] Reuters US Domestic News Summary | International (devdiscourse.com)\nBacking Trump, US Senate Republicans block Iran war resolution US Senate Republicans ⁠on Thursday rejected legislation directing President Donald Trump to end the war in Iran or obtain Congress' approval to continue, backing the president weeks after sweeping defeats in midterm elections largely tied to Americans' frustration with the conflict. The Senate voted 51 to 48, largely along party lines, to defeat a war powers resolution that had previously passed the House of Representatives.\n\n[10] Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine | AP News (apnews.com)\nNATO-like security guarantees for Ukraine to end the war as it nears the five-year mark. Kushner’s statement ... Thursday, hours after U.S. President Donald Trump wrapped rare three-way talks with Russian President Vladimir Putin and Chinese",
+  "hash": "a89ad8570dffbdde80898c28e631d1015aeb7d49b91a8dcda3399e2a47ccba74",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 20, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-20T05:05:05+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Celeb roundup: JAZZWRLD, Tyla, Nemzzz and Beyoncé lead this week’s entertainment news",
+    "url": "https://thenational.co.za/culture/2026-11-20-celeb-roundup-jazzwrld-tyla-nemzzz-and-beyonce-lead-this-week-s-entertainment-news/",
+    "source": "thenational.co.za",
+    "published": "",
+    "excerpt": "## 1. JAZZWRLD and GL CEEJAY celebrate Grammy recognition with Davido South African producer JAZZWRLD and musician GL CEEJAY have found themselves part of a Grammy conversation that extends well beyond local music, with their contributions to Davido’s album ORIADÉ earning recognition on the international stage. The 13-track album, released on July 31, 2026, has been nominated for Best Global Music Album at the 69th Annual Grammy Awards. Its mix of international collaborators reflects Afrobeats’ continued reach across borders, with the two South Africans among those credited on the project. ... ## 9. Beyoncé reaches 100 Grammy nominations Beyoncé has added another historic milestone to an already record-breaking Grammy career, becoming the first artist to reach 100 nominations. Her latest recognition comes for Morning Dew (Donk), which has been nominated for Best R&B Solo Performance at the 2027 Grammy Awards. The song was released in July ahead of the 20th anniversary of her album “B’Day”. The milestone adds to a career that began collecting Grammy recognition with Destiny’s Child in 2000, when the group earned nominations for “Bills, Bills, Bills”. Beyoncé remains the most-awarded artist in Grammy history with 35 wins. She will compete in the R&B Solo Performance category against Kehlani for “Out the Window”, Victoria Monét for “Let Me”, Jill Scott for “Pressha” and Tems for “What You Need”. The 2027 ceremony is scheduled for February 7 in Los Angeles."
+   },
+   {
+    "title": "New Music Friday: Take That, Stereophonics, GTA VI, Elton John, Hawkstone Farmers Choir, Jamie Miller, beebadoobee, Phoebe Bridgers and more | Official Charts",
+    "url": "https://www.officialcharts.com/chart-news/new-music-friday-20-november-2026/",
+    "source": "officialcharts.com",
+    "published": "",
+    "excerpt": "It's finally here. After years of waiting, 13 to be exact, GTA VI has arrived - and we couldn't be happier. Accompanying the release is GTA VI: The Album, a bumper soundtrack containing new and original tracks from the likes of Travis Scott, Dua Lipa, Burna Boy, JENNIE, Zara Larsson, and many more. Happy gaming (and listening), people! Releasing their milestone tenth studio album is Take That with Dreamers. The album is laden with modernistic pop-disco hits that celebrates Take That's musicianship and musical evolution. ... Elton John's 1975 classic Rock of the Westies will receive a bumper 50th anniversary reissue, available on multiple formats, including 2LP, 2CD and 1LP, with the expanded editions featuring previously unreleased Piano & Vocal versions from the original album sessions. The album originally peaked at Number 5 in 1976. ... - Ultimate Collection 96-26, a new 30-track ... A month on from releasing her fourth studio album Pylon - which shot straight to Number 1 - beebadoobee has dropped a fresh tune titled No Punctuation. The single is the first from her newly announced fifth LP, Bananas 4 Cats."
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4009753-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "'Choosin' Texas' singer Langley beats Taylor Swift on way to Country Music Awards sweep Ella Langley and her unstoppable hit \"Choosin' Texas\" dominated the Country ⁠Music Association awards on Wednesday at a ceremony that also featured Taylor Swift's first performance at the CMAs in 13 years. Swift, who began her career in country music before finding megastardom in pop, went into the show in Nashville with one nomination for \"I Knew It, I Knew You\" from the \"Toy Story 5\" movie soundtrack. ... A Spanish High Court judge has opened a criminal investigation into singer Julio Iglesias after ​a complaint filed by two former employees alleging sexual offences, assault and degrading treatment, court records showed. The complaint was filed by rights group Women's Link Worldwide on behalf of two women who said they worked in Iglesias' Caribbean residences for 10 months in 2021, following an investigation by US broadcaster Univision and Spanish outlet elDiario.es."
+   },
+   {
+    "title": "Breaking News | TheFutonCritic.com - The Web's Best Television Resource",
+    "url": "http://www.thefutoncritic.com/news/2026/11/20/",
+    "source": "thefutoncritic.com",
+    "published": "",
+    "excerpt": "\" Is Now Streaming Exclusively in the U.S. on Wonder Project The ... , a 23-year-old Delhi street artist from a poor, \"untouchable\" family, who sets off in ... ,000-mile cross-continent journey with just a handful of paintbrushes and a second-hand bicycle."
+   },
+   {
+    "title": "News Archive | November 2026 | Louder",
+    "url": "https://www.loudersound.com/news/archive/2026/11",
+    "source": "loudersound.com",
+    "published": "",
+    "excerpt": "# News archive - November 20 - - The Beatles launch In My Life video starring Adolescence actor Owen Cooper - Carlos Santana adds North American dates to Planet of Free Will Global Tour - November 19 - - Previously unseen footage of Led Zeppelin rocking"
+   },
+   {
+    "title": "Morning Briefing: Nov. 20, 2026",
+    "url": "https://aa.com.tr/en/world/morning-briefing-nov-20-2026/4131638",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "at the Country Music Association Awards, becoming the first artist to achieve the feat in a single year. Langley surpassed the ceremony's previous record of five victories at the 60th ... , held at Bridgestone Arena in Nashville, Tennessee, with country"
+   },
+   {
+    "title": "La playlist RTL au 20 Novembre 2026",
+    "url": "https://www.rtl.fr/culture/musique/la-playlist-rtl-au-20-novembre-2026-7900697557",
+    "source": "rtl.fr",
+    "published": "",
+    "excerpt": "Premier extrait de son quatrième album studio, « The Girl of Your Dreams » est sorti le 16 Octobre dernier. **Pascal Obispo & David Hallyday \"Ceux qui restent\"** Duo inédit ... Obispo \"Héritage volume 1\" sorti le 23 Octobre dernier. **Axelle Red \"Chanter"
+   },
+   {
+    "title": "Movies Coming Out November 20, 2026",
+    "url": "https://www.movieinsider.com/movies/november/2026/20",
+    "source": "movieinsider.com",
+    "published": "",
+    "excerpt": "### The Hunger Games: Sunrise on the Reaping PG-13 The Hunger Games: ... revisits the world of Panem and follows young Haymitch ... (Joseph Zada) twenty-four years before the events of The Hunger Games, starting on the morning of the reaping of"
+   },
+   {
+    "title": "2026年11月20日の映画ニュース - 映画.com",
+    "url": "https://secure.eiga.com/news/20261120/",
+    "source": "secure.eiga.com",
+    "published": "",
+    "excerpt": "## 庵野秀明「ゴジラ－0.0」にカメオ出演！ 神木隆之介＆浜辺美波とのオフショット初披露 2026年11月20日 12:00 ... ## 劇場版「VIVANT」チケット異例の売れ行きで公開3日間で興収28億円突破が確実に 2026年11月20日 11:05 ## ピアース・ブロスナン、「007」次期ボンドのロバート・パティンソンを歓迎 2026年11月20日 ... 「アザー・マミー」本日公開！恐怖凝縮の特別映像、ジェイソン・ブラム＆ジェームズ・ワンがコメント披露"
+   },
+   {
+    "title": "What to Watch This Weekend (Nov 20–22): O.M, Dhindora 2, Hunger Games, Vvaan — Full Cinema + OTT Guide",
+    "url": "https://filmverse.in/what-to-watch-weekend-november-20-2026-cinemas-ott-guide-om-dhindora-hunger-games/",
+    "source": "filmverse.in",
+    "published": "",
+    "excerpt": "Friday, November 20 is the most crowded release day of the month — five notable films in cinemas and at least seven new titles on streaming, all landing while Ramayana plays its third weekend and the 57th IFFI opens in Goa. ... In cinemas today The headline Indian release is O.M: Operation Mole, Rajkumar Periasamy’s Tamil action thriller with Dhanush as an undercover officer, Mammootty as a smuggling kingpin, Sai Pallavi as an IPS officer and Sreeleela — releasing in Tamil, Telugu and Hindi. Its advance booking closed at a reported Rs 16.56 crore, the strongest pre-sales of any new release this week; our full advance-booking report is here: https://filmverse.in/om-operation-mole-advance-booking-16-56-crore-dhanush-mammootty-november-20/ Sharing the day is Dulquer Salmaan’s Telugu drama Aakasamlo Oka Tara, in which Satvika Veeravalli plays Kalpana, a district topper whose astronaut dream survives an early marriage. In Tamil, Keerthy Suresh’s courtroom drama Sathyavan Savithiri arrives with a U/A certificate — our release-eve report is here: https://filmverse.in/sathyavan-savithiri-release-november-20-keerthy-suresh-mysskin-ua-certificate/ The Hindi belt gets Amit Sadh’s crime drama Pratap and the comedy Party Animals, while horror fans have Jackie Shroff and Sharad Kelkar in Kaali Kheti. Hollywood brings two event films: The Hunger Games: Sunrise on the Reaping and Japan’s Godzilla Minus Zero, delayed from November 6 — though premium-format shows for both are limited because Ramayana still holds most IMAX screens in India. On OTT today | Title | Platform | What it is | | --- | --- | --- | | Dhindora Season 2 | Netflix | Bhuvan Bam’s comedy returns, now a Netflix original | | The Vvaan: Force of the Forrest | Prime Video | Sidharth Malhotra’s film, free for subscribers from today after a rental window | | Anbil Avan | SonyLIV | Tamil romantic thriller, streaming in five languages | | Crazy Kalyanam | aha | Telugu romantic comedy | | Teen Tigada | ZEE5 | Hindi youth drama series | | Percy Jackson Season 3 | JioHotstar | The Titan’s Curse adaptation begins | | Haiku | Netflix | Tamil film premiere |"
+   }
+  ],
+  "text": "[1] Celeb roundup: JAZZWRLD, Tyla, Nemzzz and Beyoncé lead this week’s entertainment news (thenational.co.za)\n## 1. JAZZWRLD and GL CEEJAY celebrate Grammy recognition with Davido South African producer JAZZWRLD and musician GL CEEJAY have found themselves part of a Grammy conversation that extends well beyond local music, with their contributions to Davido’s album ORIADÉ earning recognition on the international stage. The 13-track album, released on July 31, 2026, has been nominated for Best Global Music Album at the 69th Annual Grammy Awards. Its mix of international collaborators reflects Afrobeats’ continued reach across borders, with the two South Africans among those credited on the project. …\n\n[2] New Music Friday: Take That, Stereophonics, GTA VI, Elton John, Hawkstone Farmers Choir, Jamie Miller, beebadoobee, Phoebe Bridgers and more | Official Charts (officialcharts.com)\nIt's finally here. After years of waiting, 13 to be exact, GTA VI has arrived - and we couldn't be happier. Accompanying the release is GTA VI: The Album, a bumper soundtrack containing new and original tracks from the likes of Travis Scott, Dua Lipa, Burna Boy, JENNIE, Zara Larsson, and many more. Happy gaming (and listening), people! Releasing their milestone tenth studio album is Take That with Dreamers. The album is laden with modernistic pop-disco hits that celebrates Take That's musicianship and musical evolution. ... Elton John's 1975 classic Rock of the Westies will receive a bumper …\n\n[3] Reuters Entertainment News Summary | International (devdiscourse.com)\n'Choosin' Texas' singer Langley beats Taylor Swift on way to Country Music Awards sweep Ella Langley and her unstoppable hit \"Choosin' Texas\" dominated the Country ⁠Music Association awards on Wednesday at a ceremony that also featured Taylor Swift's first performance at the CMAs in 13 years. Swift, who began her career in country music before finding megastardom in pop, went into the show in Nashville with one nomination for \"I Knew It, I Knew You\" from the \"Toy Story 5\" movie soundtrack. ... A Spanish High Court judge has opened a criminal investigation into singer Julio Iglesias after ​a …\n\n[4] Breaking News | TheFutonCritic.com - The Web's Best Television Resource (thefutoncritic.com)\n\" Is Now Streaming Exclusively in the U.S. on Wonder Project The ... , a 23-year-old Delhi street artist from a poor, \"untouchable\" family, who sets off in ... ,000-mile cross-continent journey with just a handful of paintbrushes and a second-hand bicycle.\n\n[5] News Archive | November 2026 | Louder (loudersound.com)\n# News archive - November 20 - - The Beatles launch In My Life video starring Adolescence actor Owen Cooper - Carlos Santana adds North American dates to Planet of Free Will Global Tour - November 19 - - Previously unseen footage of Led Zeppelin rocking\n\n[6] Morning Briefing: Nov. 20, 2026 (aa.com.tr)\nat the Country Music Association Awards, becoming the first artist to achieve the feat in a single year. Langley surpassed the ceremony's previous record of five victories at the 60th ... , held at Bridgestone Arena in Nashville, Tennessee, with country\n\n[7] La playlist RTL au 20 Novembre 2026 (rtl.fr)\nPremier extrait de son quatrième album studio, « The Girl of Your Dreams » est sorti le 16 Octobre dernier. **Pascal Obispo & David Hallyday \"Ceux qui restent\"** Duo inédit ... Obispo \"Héritage volume 1\" sorti le 23 Octobre dernier. **Axelle Red \"Chanter\n\n[8] Movies Coming Out November 20, 2026 (movieinsider.com)\n### The Hunger Games: Sunrise on the Reaping PG-13 The Hunger Games: ... revisits the world of Panem and follows young Haymitch ... (Joseph Zada) twenty-four years before the events of The Hunger Games, starting on the morning of the reaping of\n\n[9] 2026年11月20日の映画ニュース - 映画.com (secure.eiga.com)\n## 庵野秀明「ゴジラ－0.0」にカメオ出演！ 神木隆之介＆浜辺美波とのオフショット初披露 2026年11月20日 12:00 ... ## 劇場版「VIVANT」チケット異例の売れ行きで公開3日間で興収28億円突破が確実に 2026年11月20日 11:05 ## ピアース・ブロスナン、「007」次期ボンドのロバート・パティンソンを歓迎 2026年11月20日 ... 「アザー・マミー」本日公開！恐怖凝縮の特別映像、ジェイソン・ブラム＆ジェームズ・ワンがコメント披露\n\n[10] What to Watch This Weekend (Nov 20–22): O.M, Dhindora 2, Hunger Games, Vvaan — Full Cinema + OTT Guide (filmverse.in)\nFriday, November 20 is the most crowded release day of the month — five notable films in cinemas and at least seven new titles on streaming, all landing while Ramayana plays its third weekend and the 57th IFFI opens in Goa. ... In cinemas today The headline Indian release is O.M: Operation Mole, Rajkumar Periasamy’s Tamil action thriller with Dhanush as an undercover officer, Mammootty as a smuggling kingpin, Sai Pallavi as an IPS officer and Sreeleela — releasing in Tamil, Telugu and Hindi. Its advance booking closed at a reported Rs 16.56 crore, the strongest pre-sales of any new release …",
+  "hash": "679936cfb8100d1dd1dc8b697f7a6669b3fd926d2e66dac9adc916288c800a5f",
+  "notes": []
+ }
+}
