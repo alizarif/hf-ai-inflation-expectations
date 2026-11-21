@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-21T01:04:05+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 20, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-21T01:04:05+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "The 7 things you need to know for Friday, November 20 - The Washington Post",
+    "url": "https://www.washingtonpost.com/the-seven/2026/11/20/7-things-you-need-know-friday-november-20/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "quickly: Summit outcomes; 2028 contenders; Bigfoot sightings Today’s seven most important and interesting stories. Today at 6:15 a.m. EST By ... Izin Akhabau ## 1 President Donald Trump had little to say after yesterday’s historic three-way summit."
+   },
+   {
+    "title": "The News Roundup For November 20, 2026 : 1A : NPR",
+    "url": "https://www.npr.org/2026/11/20/nx-s1-6048777/the-news-roundup-for-november-20-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "A string of national technical outages has Americans questioning the strength of the country’s digital infrastructure. Critical systems hooked into banking, air travel, email, and security all failed in some capacity this week and last. In Alaska, Democrat Mary Peltola defeated Republican incumbent Dan Sullivan to win a seat in the Senate, pushing the Democrats’ numbers in the chamber to 56. And the IPO for Anthropic went live this week, boasting the largest offering ever with shares trading around $100. And, in global news, after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin, President Donald Trump is now suggesting he may meet with North Korean leader Kim Jong Un to discuss nuclear disarmament and the Iran war. The Pentagon is warning Ukraine that drone strikes targeting areas deep within Russian territory are “counterproductive.” Allies in Europe say this advisory doesn’t make a lot of sense. And Defense Secretary Pete Hegseth made an unannounced trip to Venezuela to meet with the country’s interim leader, Delcy Rodriguez."
+   },
+   {
+    "title": "Morning Edition for November 20, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5995729/morning-edition-for-november-20-2026?showDate=2026-11-20",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Fight over funding for Iran war could put the government at risk of a shutdown ... GOP Sen. Johnson rejects tying government funding to an end to the Iran war ... ### Critics are worried about Anthropic's influence after first day of public trading"
+   },
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/20",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "Updated 3 hours ago - Politics & Policy ## Second judge to block Trump's contested D.C. arch ... & Policy ## Trump floats taxing U.S. companies constructing data centers overseas ... ## Trump secretary's Christian messages to staff went \"too far,\" judge"
+   },
+   {
+    "title": "Morning Briefing: Nov. 20, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-20-2026/4131638",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "cooperate constructively. In a joint statement titled \"Declaration toward Peace\" following the talks, the Chinese, Russian and US presidents agreed to engage in dialogue on reducing nuclear risks and preventing the proliferation of nuclear weapons."
+   },
+   {
+    "title": "Headlines for November 20, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/11/20/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "## Senate Rejects War Powers Resolution to Limit Trump’s Attacks on Iran Nov 20, 2026 The Senate rejected a war powers resolution on Thursday that would have directed President Trump to seek congressional approval before resuming attacks on Iran. The resolution failed on a vote of 51-48. Three Republicans voted in favor, while Pennsylvania Democratic Senator John Fetterman voted in opposition. The House approved the resolution in September. Both the House and Senate previously approved a war powers resolution back in June, but President Trump largely ignored it. Thursday’s failed vote in the Senate came after Democratic House leader Hakeem Jeffries suggested he would not block funding for attacks on Iran in the government funding package due by December 11. Meanwhile, a Pentagon official said Thursday the cost of the war on Iran has topped $48 billion. That figure does not include damage to U.S. bases, the cost of providing healthcare to hundreds of injured troops or the tens of billions of dollars in higher fuel costs triggered by the war. ## Senate Passes Permitting Reform Bill with Support of 14 Democrats, Including Leader Chuck Schumer Nov 20, 2026 The Senate has approved a permitting reform bill that would weaken environmental laws to speed approval of new housing, roads, energy projects and other infrastructure. While the bill would make it easier to build new transmission lines and wind and solar farms, it would also speed construction of fossil fuel power plants and new data centers, including on public lands. Meanwhile, Native leaders and advocacy groups strongly opposed the legislation, saying it would weaken tribal sovereignty and threaten cultural and sacred sites. This is Oregon Democratic Senator Jeff Merkley, who voted “no.” ... Despite those objections, the Bipartisan American Affordability and Jobs Act, known as BAAJA, passed on a vote of 62-33 with 14 Democrats in favor, including Senate Democratic Leader Chuck Schumer. In a statement, Food & Water Watch said, “Sen. ... The bill now goes to the House and is expected to be voted on the week after next. ## Climate Activists Condemn “Slimmed-Down” COP31 Draft Text That Makes No Reference to Fossil Fuels Nov 20, 2026 Here at the COP31 U.N. climate summit, negotiators published a “slimmed-down” draft text on Thursday that stripped out any reference to fossil fuels, or ending their use. Instead, the document promotes carbon capture and storage, an unproven technology that critics say will never have a meaningful impact on the climate crisis. Activists at the COP are demanding more financing to help poorer countries adapt to a warming world. This ... ## Russian Attacks Kill 8 After Ukraine Bombs Bridge Connecting Russia to Occupied Crimea Nov 20, 2026 In Ukraine, officials say eight people were killed and dozens injured overnight, as Russia launched a massive drone and missile attack. In Kyiv, Russian bombs struck three ⁠bridges over the Dnipro River. Meanwhile, in Kharkiv, a Russian drone damaged a hospital, wounding four people. The Russian attacks came after Ukraine bombed the Kerch Bridge, the only link between mainland Russia and Russian-annexed Crimea. Engineers say it could take years for Russia to repair the damage. Ukrainian President Volodymyr Zelensky defended the bridge strike and warned of further action. ... But every time, Russia chooses a new escalation.”"
+   },
+   {
+    "title": "Trump claims Putin wants to end war with Ukraine | AP News",
+    "url": "https://apnews.com/live/trump-politics-news-updates-11-20-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "pushing back against claims of progress made by U.S. envoy Jared Kushner on ... trip to Asia and trilateral meeting with Chinese President Xi Jinping and Putin. ... believes Russia is “comfortable” with NATO-like security guarantees for postwar Ukraine"
+   },
+   {
+    "title": "News 20 November 2026 - Archive Euronews",
+    "url": "https://www.euronews.com/2026/11/20",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "Germany: Berlin student protest targets rearmament and compulsory service Thousands of students marched through Berlin, on ... 2026, protesting against the country's rapid military rearmament and fears of a return to compulsory military service. Their"
+   },
+   {
+    "title": "Trump says Iran wants a deal, Saudi Arabia and Yemen's Houthis exchange fire and other Mideast news",
+    "url": "https://apnews.com/article/saudi-yemen-war-iran-iraq-november-20-2026-16c39c487a23b53b73c5eabb7f0fd57a",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "backed Houthis in Yemen said Friday that its forces struck targets used by the rebels to smuggle and transport weapons, while the rebels attacked neighboring Saudi Arabia. The exchanges came days after the Saudi-led coalition launched a major air campaign."
+   },
+   {
+    "title": "World news digest for November 20, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-20",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "Summary The first trilateral meeting of the leaders of the United States, ... 1 2 The declaration also pledged to boost refined oil supplies and to pursue United Nations reform, and it called on the International Criminal Court not to abuse its powers."
+   }
+  ],
+  "text": "[1] The 7 things you need to know for Friday, November 20 - The Washington Post (washingtonpost.com)\nquickly: Summit outcomes; 2028 contenders; Bigfoot sightings Today’s seven most important and interesting stories. Today at 6:15 a.m. EST By ... Izin Akhabau ## 1 President Donald Trump had little to say after yesterday’s historic three-way summit.\n\n[2] The News Roundup For November 20, 2026 : 1A : NPR (npr.org)\nA string of national technical outages has Americans questioning the strength of the country’s digital infrastructure. Critical systems hooked into banking, air travel, email, and security all failed in some capacity this week and last. In Alaska, Democrat Mary Peltola defeated Republican incumbent Dan Sullivan to win a seat in the Senate, pushing the Democrats’ numbers in the chamber to 56. And the IPO for Anthropic went live this week, boasting the largest offering ever with shares trading around $100. And, in global news, after meeting with Chinese President Xi Jinping and Russian …\n\n[3] Morning Edition for November 20, 2026 : NPR (npr.org)\n### Fight over funding for Iran war could put the government at risk of a shutdown ... GOP Sen. Johnson rejects tying government funding to an end to the Iran war ... ### Critics are worried about Anthropic's influence after first day of public trading\n\n[4] Axios (axios.com)\nUpdated 3 hours ago - Politics & Policy ## Second judge to block Trump's contested D.C. arch ... & Policy ## Trump floats taxing U.S. companies constructing data centers overseas ... ## Trump secretary's Christian messages to staff went \"too far,\" judge\n\n[5] Morning Briefing: Nov. 20, 2026 (aa.com.tr)\ncooperate constructively. In a joint statement titled \"Declaration toward Peace\" following the talks, the Chinese, Russian and US presidents agreed to engage in dialogue on reducing nuclear risks and preventing the proliferation of nuclear weapons.\n\n[6] Headlines for November 20, 2026 | Democracy Now! (democracynow.org)\n## Senate Rejects War Powers Resolution to Limit Trump’s Attacks on Iran Nov 20, 2026 The Senate rejected a war powers resolution on Thursday that would have directed President Trump to seek congressional approval before resuming attacks on Iran. The resolution failed on a vote of 51-48. Three Republicans voted in favor, while Pennsylvania Democratic Senator John Fetterman voted in opposition. The House approved the resolution in September. Both the House and Senate previously approved a war powers resolution back in June, but President Trump largely ignored it. Thursday’s failed vote in the …\n\n[7] Trump claims Putin wants to end war with Ukraine | AP News (apnews.com)\npushing back against claims of progress made by U.S. envoy Jared Kushner on ... trip to Asia and trilateral meeting with Chinese President Xi Jinping and Putin. ... believes Russia is “comfortable” with NATO-like security guarantees for postwar Ukraine\n\n[8] News 20 November 2026 - Archive Euronews (euronews.com)\nGermany: Berlin student protest targets rearmament and compulsory service Thousands of students marched through Berlin, on ... 2026, protesting against the country's rapid military rearmament and fears of a return to compulsory military service. Their\n\n[9] Trump says Iran wants a deal, Saudi Arabia and Yemen's Houthis exchange fire and other Mideast news (apnews.com)\nbacked Houthis in Yemen said Friday that its forces struck targets used by the rebels to smuggle and transport weapons, while the rebels attacked neighboring Saudi Arabia. The exchanges came days after the Saudi-led coalition launched a major air campaign.\n\n[10] World news digest for November 20, 2026 | World Watch (worldwatch.media)\nSummary The first trilateral meeting of the leaders of the United States, ... 1 2 The declaration also pledged to boost refined oil supplies and to pursue United Nations reform, and it called on the International Criminal Court not to abuse its powers.",
+  "hash": "2efa546b04ada5555cbb26020d685615a35ceb730037ad66b3ab6e7966f3416b",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 20, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-21T01:04:15+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Fed’s Cook says rate hikes needed to lower high inflation By Reuters",
+    "url": "https://www.investing.com/news/economy-news/feds-cook-says-rate-hikes-needed-to-lower-high-inflation-5042321",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Nov 20 (Reuters) - Federal Reserve Governor Lisa Cook on Friday made a case for more interest rate hikes, saying the US central bank’s current policy rate is not high enough to deal with inflation levels she views with \"great concern.\" \"In a different environment, the (Federal Open Market) Committee could afford to be patient, but I continue to believe that in this economic climate we do not have that luxury,\" given how high inflation is and for how long it has been above the Fed’s 2% target, Cook said in the text of a speech to be presented at a central bank conference in Chile. Cook said the quarter-percentage-point rate hike the Fed delivered at its September 15-16 policy meeting was not enough to moderate current levels of inflation. What’s more, \"inflation data received since the September rate increase, including reports last week, fail to provide me with sufficient evidence that inflation is returning to a sustainable path,\" she said. \"There is little evidence inflation is declining.\" Cook, who voted for a rate hike at that meeting, was one of two Fed officials who dissented over the Fed’s decision last month to leave its policy rate in the 3.75%-4.00% range. Officials at the October 27-28 meeting signaled that inflation remained too high then even as they refrained from action. Regarding her dissent in October, Cook said, \"My vote reflected the urgency I feel to tackle inflation,\" which \"has been above target for more than five and a half years, and every additional day poses greater risk that price- and wage-setters will adjust their inflation expectations upward.\" RATE HIKE EXPECTED IN DECEMBER A wide range of Fed officials in recent weeks have signaled support for more rate hikes, and financial markets broadly expect the Fed to raise rates at its December 8-9 meeting and to follow that move with more increases next year. Most Fed officials have made a case for gradual action to lower inflation, arguing that doing so would give the economy time to adjust to the rise in borrowing costs. But some, concerned with the most recent inflation data, have speculated that aggressive moves may be needed to bring price pressures to heel. Cook on Friday said the risk of not acting fast enough to lower inflation could bring more pain later. \"Waiting longer to implement rate increases risks getting behind the curve,\" she said. \"If we fall behind, additional and larger rate increases may be required later to catch up, which could increase stress on our financial system and have unnecessarily damaging effects on American households.\" The Fed governor noted that financial conditions remain accommodative and are not providing the needed level of restraint on the economy. Cook, however, was upbeat on the economy. She said growth is \"strong and accelerating\" and that the job market remains \"solid.\""
+   },
+   {
+    "title": "Core inflation measures can't escape high energy prices",
+    "url": "https://www.marketplace.org/story/2026/11/20/core-inflation-measures-cant-escape-high-energy-prices",
+    "source": "marketplace.org",
+    "published": "",
+    "excerpt": "Somewhere between 0.2% and 0.6% of inflation in core PCE over the past year is the product of high energy costs, according to a Dallas Fed report. ... Core personal consumption expenditures (PCE) is an inflation measure that is supposed to strip out the cost of food and energy because they’re so volatile — something the U.S. has been experiencing for a while now. But a new report from the Federal Reserve Bank of Dallas shows that higher energy prices are showing up even in core PCE. It’s 3.1% higher than a year ago. Fed economists estimate that between 0.2% and 0.6% of that are the knock-on effects of high fuel prices. “Ultimately, energy costs have to work their way through the entire ecosystem,” said Rob Haworth, senior investment strategy director at U.S. Bank. “There's not much that shows up at our house or at our store without requiring a fossil fuel to get there.” Often, energy costs permeate the ecosystem through producer prices — the costs businesses charge each other. “If the transportation company or the the maker of the product — or ultimately the the retail store at the end — if they think they can raise prices and still sell as many units of of whatever, they will pass that cost along,” Haworth said. Diesel — which has been especially expensive — is a major contributor, according to Ed Hirs, an economics lecturer the University of Houston. “Typically, no one can can eat the increased cost of fuel — especially diesel — because it permeates the economy,” Hirs said. “It is passed through all the time.” The price of transportation services has been particularly sensitive to fuel costs. ... “You have to think about airfares. You have to think about buses and rail. Ultimately, they need energy.”"
+   },
+   {
+    "title": "PCE to confirm the inflation problem, labor pulse still strong - RBC Economics",
+    "url": "https://www.rbc.com/en/economics/us-week-ahead/pce-to-confirm-the-inflation-problem-labor-pulse-still-strong/",
+    "source": "rbc.com",
+    "published": "",
+    "excerpt": "PCE deflators to confirm what we’ve already seen this month – inflation is re-accelerating. We forecast both headline and core PCE will rise 0.3% m/m, pushing the y/y pace up to 3.8% and 3.3% respectively. While the direction of travel"
+   },
+   {
+    "title": "Fed governor admits people see higher inflation as normal, vows to break that ‘kind of psychology’ | Fortune",
+    "url": "https://fortune.com/2026/11/20/fed-rate-hikes-higher-inflation-expectations-unanchored-chris-waller/",
+    "source": "fortune.com",
+    "published": "",
+    "excerpt": "In a CNBC interview on Wednesday, Waller warned that inflation is spreading beyond the areas most affected by higher energy prices or tariffs, including into so-called core services. He ... that’s what he thinks his customers can swallow. “And"
+   },
+   {
+    "title": "Fed signals and data: what happened the week of Nov. 16–20, 2026 By Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/fed-signals-and-data-what-happened-the-week-of-nov-1620-2026-93CH-5042523",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": ". - Inflation expectations are the doves’ best card. One-year expectations fell to 3.7% from 4.7%, and five-year expectations eased to 3.3%. Hawks worry about unanchored expectations, and this reading eases that worry."
+   },
+   {
+    "title": "Lisa Cook warns the Fed could get behind the curve if it doesn't raise rates now",
+    "url": "https://finance.yahoo.com/economy/policy/article/lisa-cook-warns-the-fed-could-get-behind-the-curve-if-it-doesnt-raise-rates-now-171832457.html",
+    "source": "finance.yahoo.com",
+    "published": "",
+    "excerpt": "s favored inflation measure — the Personal Consumption Expenditures index — rose 3.8% in October. Stripping out volatile ... and energy prices, she estimates PCE rose an estimated 3.2% on a \"core\" basis."
+   },
+   {
+    "title": "Treasury yields move sharply lower as investors flee to safe havens",
+    "url": "https://www.cnbc.com/2026/11/20/treasury-yields-bonds-inflation.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": ". Treasury yields tumbled on Friday as a sell-off in stocks drove investors into safe-haven assets. The 10-year Treasury yield Add ... for mortgages, student loans and credit card debt — was down 12 basis points to 4.932%. The 2-year Treasury note yield"
+   },
+   {
+    "title": "Fed’s Cook says September rate hike likely insufficient to curb price pressures By Investing.com",
+    "url": "https://www.investing.com/news/economy-news/feds-cook-says-september-rate-hike-likely-insufficient-to-curb-price-pressures-5042348",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": ". U.S. gross domestic product accelerated to a 3.4% annualized pace in the third quarter, bolstered by a 3.8% rise in real household spending and a massive wave of capital expenditure tied to artificial intelligence"
+   },
+   {
+    "title": "Dollar falls as Fed-fueled rally stalls; lower U.S. yields help yen",
+    "url": "https://www.cnbc.com/2026/11/20/dollar-price-currency-euro-yen.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "The ‌dollar index Add To Watchlist fell 0.1% to 103.80, just short of the 103.9 level it touched in the previous session, its highest since April 2025. The index was on track to snap an eight-session winning streak and is up 1.7% so far this month."
+   },
+   {
+    "title": "U.S. stocks slump into correction territory amid tech and AI worries",
+    "url": "https://www.washingtonpost.com/business/2026/11/20/us-stock-market-slumps-amid-rising-tech-ai-worries/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "some encouraging economic indicators this week, such as stronger-than-expected retail sales and gasoline prices that continued their ride under $4 a gallon. The national average Friday was $3.69 a gallon, according to AAA. A month ago, it was $4.28."
+   }
+  ],
+  "text": "[1] Fed’s Cook says rate hikes needed to lower high inflation By Reuters (investing.com)\nNov 20 (Reuters) - Federal Reserve Governor Lisa Cook on Friday made a case for more interest rate hikes, saying the US central bank’s current policy rate is not high enough to deal with inflation levels she views with \"great concern.\" \"In a different environment, the (Federal Open Market) Committee could afford to be patient, but I continue to believe that in this economic climate we do not have that luxury,\" given how high inflation is and for how long it has been above the Fed’s 2% target, Cook said in the text of a speech to be presented at a central bank conference in Chile. Cook said …\n\n[2] Core inflation measures can't escape high energy prices (marketplace.org)\nSomewhere between 0.2% and 0.6% of inflation in core PCE over the past year is the product of high energy costs, according to a Dallas Fed report. ... Core personal consumption expenditures (PCE) is an inflation measure that is supposed to strip out the cost of food and energy because they’re so volatile — something the U.S. has been experiencing for a while now. But a new report from the Federal Reserve Bank of Dallas shows that higher energy prices are showing up even in core PCE. It’s 3.1% higher than a year ago. Fed economists estimate that between 0.2% and 0.6% of that are the knock-on …\n\n[3] PCE to confirm the inflation problem, labor pulse still strong - RBC Economics (rbc.com)\nPCE deflators to confirm what we’ve already seen this month – inflation is re-accelerating. We forecast both headline and core PCE will rise 0.3% m/m, pushing the y/y pace up to 3.8% and 3.3% respectively. While the direction of travel\n\n[4] Fed governor admits people see higher inflation as normal, vows to break that ‘kind of psychology’ | Fortune (fortune.com)\nIn a CNBC interview on Wednesday, Waller warned that inflation is spreading beyond the areas most affected by higher energy prices or tariffs, including into so-called core services. He ... that’s what he thinks his customers can swallow. “And\n\n[5] Fed signals and data: what happened the week of Nov. 16–20, 2026 By Investing.com (investing.com)\n. - Inflation expectations are the doves’ best card. One-year expectations fell to 3.7% from 4.7%, and five-year expectations eased to 3.3%. Hawks worry about unanchored expectations, and this reading eases that worry.\n\n[6] Lisa Cook warns the Fed could get behind the curve if it doesn't raise rates now (finance.yahoo.com)\ns favored inflation measure — the Personal Consumption Expenditures index — rose 3.8% in October. Stripping out volatile ... and energy prices, she estimates PCE rose an estimated 3.2% on a \"core\" basis.\n\n[7] Treasury yields move sharply lower as investors flee to safe havens (cnbc.com)\n. Treasury yields tumbled on Friday as a sell-off in stocks drove investors into safe-haven assets. The 10-year Treasury yield Add ... for mortgages, student loans and credit card debt — was down 12 basis points to 4.932%. The 2-year Treasury note yield\n\n[8] Fed’s Cook says September rate hike likely insufficient to curb price pressures By Investing.com (investing.com)\n. U.S. gross domestic product accelerated to a 3.4% annualized pace in the third quarter, bolstered by a 3.8% rise in real household spending and a massive wave of capital expenditure tied to artificial intelligence\n\n[9] Dollar falls as Fed-fueled rally stalls; lower U.S. yields help yen (cnbc.com)\nThe ‌dollar index Add To Watchlist fell 0.1% to 103.80, just short of the 103.9 level it touched in the previous session, its highest since April 2025. The index was on track to snap an eight-session winning streak and is up 1.7% so far this month.\n\n[10] U.S. stocks slump into correction territory amid tech and AI worries (washingtonpost.com)\nsome encouraging economic indicators this week, such as stronger-than-expected retail sales and gasoline prices that continued their ride under $4 a gallon. The national average Friday was $3.69 a gallon, according to AAA. A month ago, it was $4.28.",
+  "hash": "edadb4a06192f7d550870c666178a05987a713c2a037842835f067c39ed5fa4e",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 20, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-21T01:04:26+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/20",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "Updated 3 hours ago - Politics & Policy ## Second judge to block Trump's contested D.C. arch ... ## Congress gets a historic overhaul from every direction - Julianna Bragg Updated 6 hours ago - ... & Policy ## Trump floats taxing U.S. companies"
+   },
+   {
+    "title": "Tracking Trump: Trump defends Huang; judge blocks Trump's arch; Trump demands domestic data centers; and more",
+    "url": "https://www.washingtonpost.com/the-seven-trump/2026/11/20/tracking-trump-trump-defends-huang-judge-blocks-trumps-arch-trump-demands-domestic-data-centers-more/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "official.** **A judge ruled the Agriculture secretary’s “proselytizing” is unconstitutional.** **A lawmaker asked Trump officials to stop using disappearing ... **DOJ dropped its appeal to delay certification of the Alaska Senate race.**"
+   },
+   {
+    "title": "The News Roundup For November 20, 2026 : 1A : NPR",
+    "url": "https://www.npr.org/2026/11/20/nx-s1-6048777/the-news-roundup-for-november-20-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "of the country’s digital infrastructure. Critical systems hooked into banking, air ... last. In Alaska, Democrat Mary Peltola defeated Republican incumbent Dan Sullivan to win a seat in the Senate, pushing the Democrats’ numbers in the chamber to 56"
+   },
+   {
+    "title": "Morning Edition for November 20, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5995729/morning-edition-for-november-20-2026?showDate=2026-11-20",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### GOP Sen. Johnson rejects tying government funding to an end to the Iran war by Leila Fadel, Majd Al-Waheidi ... Sen. Ron Johnson on efforts to avert government shutdown ... ### Can incoming Democratic-run Congress circumvent Trump's veto threats?"
+   },
+   {
+    "title": "Trump claims Putin wants to end war with Ukraine | AP News",
+    "url": "https://apnews.com/live/trump-politics-news-updates-11-20-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "- U.S. President Donald Trump told reporters Friday that Russian President Vladimir Putin wants to end Russia’s war against Ukraine, despite Moscow pushing back against claims of progress made by U.S. envoy Jared Kushner on Thursday. Trump"
+   },
+   {
+    "title": "Up First briefing: Iran war funding; Trump and Xi Jinping; Lead azide : NPR",
+    "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "service members in the region. N.C. Republican Sen. Thom Tillis tells ... alternatives if Democrats push for a shutdown. That could include using reconciliation to pass legislation without Democratic votes."
+   },
+   {
+    "title": "The 7 things you need to know for Friday, November 20 - The Washington Post",
+    "url": "https://www.washingtonpost.com/the-seven/2026/11/20/7-things-you-need-know-friday-november-20/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "up quickly: Summit outcomes; 2028 contenders; Bigfoot sightings Today’s ... Today at 6:15 a.m. EST By Jamie Ross and Izin Akhabau ## 1 President Donald Trump had little to say after yesterday’s historic three-way summit. President Donald Trump"
+   },
+   {
+    "title": "Morning news brief : NPR",
+    "url": "https://www.npr.org/2026/11/20/nx-s1-6042290/morning-news-brief",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "Steve Inskeep Leila Fadel Without funding deal, the government could shut down next month, Silicon Valley and national security community bump heads on efforts to restrict U.S. tech to China, Army delays detonation in Iowa."
+   },
+   {
+    "title": "Trump, while wielding veto threat, sees possible deals with incoming Dem majority | Roll Call",
+    "url": "https://rollcall.com/2026/11/20/trump-while-wielding-veto-threat-sees-possible-deals-with-incoming-dem-majority",
+    "source": "rollcall.com",
+    "published": "",
+    "excerpt": "President Donald Trump said Friday he might get more accomplished with Democrats running the House and Senate than he did in a Republican-led Congress, but his legislative to-do list differs significantly from the incoming majority party. After previously suggesting he could strike a bipartisan immigration deal with Democrats, Trump on Friday added several items to his wish list after returning Thursday night from a swing across Asia, including several that have support with Democrats with whom he’s bitterly clashed before. Speaking in a stuffy James A. Brady Briefing Room for just shy of 90 minutes, the GOP president contended, without naming a single Democratic leader or lawmaker, that members of the opposition party have called him “about two things in particular,” pointing to health care and immigration. “What's happened is I've been called by a lot of Democrats,” he said of the 17 days since Democrats gained dozens of seats across the two chambers. “But people that matter, people that have a lot to do, and they want to talk to me.” But Trump also reminded Democrats that he is more than willing to veto legislation he doesn’t agree with, calling it one of the “extreme powers” of his office and one he might use to bring them to the bargaining table. “So they’re going to send things my way, and I’m going to veto them. And then they’re going to send more things, and I’m going to veto them,” he said. “I think, after a month or so, they’re going to send things, and I’m going to say, ’I’m going to veto, unless you want to do this and this and this.” He predicted House Minority Leader Hakeem Jeffries, D-N.Y., the likely new speaker of the House, and Sen. Charles E. Schumer, D-N.Y., expected to become majority leader, would seek deals because both are “smart.” ... Trump went as far as to suggest working across the aisle on health care “may be easier than the Republicans trying to ram it through in reconciliation,” a reference to a fast-track process that allows sprawling bills to pass each chamber with a simple majority — legislation typically needs 60 votes to advance in the Senate."
+   },
+   {
+    "title": "Headlines for November 20, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/11/20/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "## Senate Rejects War Powers Resolution to Limit Trump’s Attacks on Iran Nov 20, 2026 The Senate rejected a war powers resolution on Thursday that would have directed President Trump to seek congressional approval before resuming attacks on Iran. The resolution failed on a vote of 51-48. Three Republicans voted in favor, while Pennsylvania Democratic Senator John Fetterman voted in opposition. The House approved the resolution in September. Both the House and Senate previously approved a war powers resolution back in June, but President Trump largely ignored it. Thursday’s failed vote in the Senate came after Democratic House leader Hakeem Jeffries suggested he would not block funding for attacks on Iran in the government funding package due by December 11. Meanwhile, a Pentagon official said Thursday the cost of the war on Iran has topped $48 billion. That figure does not include damage to U.S. bases, the cost of providing healthcare to hundreds of injured troops or the tens of billions of dollars in higher fuel costs triggered by the war. ## Senate Passes Permitting Reform Bill with Support of 14 Democrats, Including Leader Chuck Schumer Nov 20, 2026 The Senate has approved a permitting reform bill that would weaken environmental laws to speed approval of new housing, roads, energy projects and other infrastructure. While the bill would make it easier to build new transmission lines and wind and solar farms, it would also speed construction of fossil fuel power plants and new data centers, including on public lands. Meanwhile, Native leaders and advocacy groups strongly opposed the legislation, saying it would weaken tribal sovereignty and threaten cultural and sacred sites. This is Oregon Democratic Senator Jeff Merkley, who voted “no.” > Sen. Jeff Merkley: “First, it makes it a lot easier to build data centers. Did anybody notice data centers were a big issue in this most recent election? Here we come right in after the election, and we’re going to pass a bill that makes it easier to do data centers by striking down tools that states have when they decide they do not want to have a data center because it threatens key clean air or clean water issues.” Despite those objections, the Bipartisan American Affordability and Jobs Act, known as BAAJA, passed on a vote of 62-33 with 14 Democrats in favor, including Senate Democratic Leader Chuck Schumer. In a statement, Food & Water Watch said, “Sen. ... The bill now goes to the House and is expected to be voted on the week after next."
+   }
+  ],
+  "text": "[1] Axios (axios.com)\nUpdated 3 hours ago - Politics & Policy ## Second judge to block Trump's contested D.C. arch ... ## Congress gets a historic overhaul from every direction - Julianna Bragg Updated 6 hours ago - ... & Policy ## Trump floats taxing U.S. companies\n\n[2] Tracking Trump: Trump defends Huang; judge blocks Trump's arch; Trump demands domestic data centers; and more (washingtonpost.com)\nofficial.** **A judge ruled the Agriculture secretary’s “proselytizing” is unconstitutional.** **A lawmaker asked Trump officials to stop using disappearing ... **DOJ dropped its appeal to delay certification of the Alaska Senate race.**\n\n[3] The News Roundup For November 20, 2026 : 1A : NPR (npr.org)\nof the country’s digital infrastructure. Critical systems hooked into banking, air ... last. In Alaska, Democrat Mary Peltola defeated Republican incumbent Dan Sullivan to win a seat in the Senate, pushing the Democrats’ numbers in the chamber to 56\n\n[4] Morning Edition for November 20, 2026 : NPR (npr.org)\n### GOP Sen. Johnson rejects tying government funding to an end to the Iran war by Leila Fadel, Majd Al-Waheidi ... Sen. Ron Johnson on efforts to avert government shutdown ... ### Can incoming Democratic-run Congress circumvent Trump's veto threats?\n\n[5] Trump claims Putin wants to end war with Ukraine | AP News (apnews.com)\n- U.S. President Donald Trump told reporters Friday that Russian President Vladimir Putin wants to end Russia’s war against Ukraine, despite Moscow pushing back against claims of progress made by U.S. envoy Jared Kushner on Thursday. Trump\n\n[6] Up First briefing: Iran war funding; Trump and Xi Jinping; Lead azide : NPR (npr.org)\nservice members in the region. N.C. Republican Sen. Thom Tillis tells ... alternatives if Democrats push for a shutdown. That could include using reconciliation to pass legislation without Democratic votes.\n\n[7] The 7 things you need to know for Friday, November 20 - The Washington Post (washingtonpost.com)\nup quickly: Summit outcomes; 2028 contenders; Bigfoot sightings Today’s ... Today at 6:15 a.m. EST By Jamie Ross and Izin Akhabau ## 1 President Donald Trump had little to say after yesterday’s historic three-way summit. President Donald Trump\n\n[8] Morning news brief : NPR (npr.org)\nSteve Inskeep Leila Fadel Without funding deal, the government could shut down next month, Silicon Valley and national security community bump heads on efforts to restrict U.S. tech to China, Army delays detonation in Iowa.\n\n[9] Trump, while wielding veto threat, sees possible deals with incoming Dem majority | Roll Call (rollcall.com)\nPresident Donald Trump said Friday he might get more accomplished with Democrats running the House and Senate than he did in a Republican-led Congress, but his legislative to-do list differs significantly from the incoming majority party. After previously suggesting he could strike a bipartisan immigration deal with Democrats, Trump on Friday added several items to his wish list after returning Thursday night from a swing across Asia, including several that have support with Democrats with whom he’s bitterly clashed before. Speaking in a stuffy James A. Brady Briefing Room for just shy of 90 …\n\n[10] Headlines for November 20, 2026 | Democracy Now! (democracynow.org)\n## Senate Rejects War Powers Resolution to Limit Trump’s Attacks on Iran Nov 20, 2026 The Senate rejected a war powers resolution on Thursday that would have directed President Trump to seek congressional approval before resuming attacks on Iran. The resolution failed on a vote of 51-48. Three Republicans voted in favor, while Pennsylvania Democratic Senator John Fetterman voted in opposition. The House approved the resolution in September. Both the House and Senate previously approved a war powers resolution back in June, but President Trump largely ignored it. Thursday’s failed vote in the …",
+  "hash": "4ad52bf964a776f75eb25db07985b96dbf48d69681185563941cf69e41cb7959",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 20, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-21T01:04:44+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Movies | Us/film | The Guardian",
+    "url": "https://www.theguardian.com/film/2026/nov/20/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "in development with Macaulay Culkin returning ... ### Gérard Depardieu and Michel Houellebecq investigated over on-set rape ... assault allegations Actor and author are alleged to have attacked and gang-raped a woman while filming together in 2018"
+   },
+   {
+    "title": "Music News Nov. 20: Grand Theft Auto VI soundtrack, Beabadoobee announces new album",
+    "url": "https://www.thecurrent.org/feature/2026/11/20/music-news-nov-20-beabadoobee-announces-new-album-grand-theft-auto-vi-soundtrack",
+    "source": "thecurrent.org",
+    "published": "",
+    "excerpt": "### Beabadoobee Goes Bananas 4 Cats on New Album and Song (Pitchfork) Beabadoobee released her latest record, Pylon, just two months ago, and she’s already announced that she has another one on the way! It’s called Bananas 4 Cats, and Beabadoobee said in a release that she “just needed to write an album like this after Pylon.” She also said it happened naturally, that she felt inspired, and made another album. The announcement also comes with the release of a new song called “No Punctuation” that she’s shared snippets of on social media over the past couple of years, but only recently started playing live. Bananas 4 Cats will be out February 19. ... ### 60th Anniversary Edition of The Doors’ Iconic Debut Album Loaded with Bonus Tracks (Consequence) The 60th anniversary of The Doors’ debut, self-titled album is on the way, and there will be a special reissue to celebrate the occasion. It will come in many forms, including a 2-CD set, two reel-to-reel editions of the album, a picture disc, a vinyl reissue of the “Light My Fire” single, and a disc tracing the evolution of the songs “I Looked At You,” “Moonlight Drive,” and “Indian Summer.” The original record came out January 4, 1967; the anniversary edition will be out on January 8th. ... ### Lindsey Buckingham, Keith Richards, Jason Sudeikis, PinkPantheress and more confirmed as ‘GTA 6’ radio hosts (NME) Grand Theft Auto VI is officially out, and it has a huge musical component to it. There are multiple radio stations you can listen to in the game, and when you do, you’ll hear some famous voices guiding you along. Lindsey Buckingham from Fleetwood Mac, Weird Al Yankovic, Gloria Estefan, The Dare, PinkPantheress, Keith Richards, Bad Bunny, Lana Del Rey and her husband Jeremy Dufrene, Chilli and T-Boz from TLC, Michael McDonald, Brigitte Nielsen, and Jason Sudeikis are all DJs on various radio stations in the game. There are also five different episodic podcasts that players can listen to as they go on their gaming adventures. ... ### ‘Grand Theft Auto VI: The Album’ Is Here: Stream the Project Featuring Dua Lipa, Playboi Carti, Lana Del Rey, Cardi B & More (Billboard) The new Grand Theft Auto video game also comes with a stellar soundtrack. Grand Theft Auto VI: The Album has 34 tracks on it that spans genres. Dua Lipa, Cardi B, Lana Del Rey, Gunna, Don Toliver, Yung Lean, Future, Metro Boomin, Travis Scott, Fred again.., PinkPantheress, Morgan Wallen, Tame Impala, and more are all featured on the new soundtrack, which is streaming now. Grand Theft Auto VI will also be celebrated with a music festival that is happening IRL. It’s being held in Miami and will have performances from Cardi B, Travis Scott, and others."
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4009988-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "investigation into singer Julio Iglesias after a complaint filed by ⁠two ... , assault and degrading treatment, court records showed. The complaint was filed by rights group Women's Link Worldwide on behalf of two women who said they worked in Iglesias'"
+   },
+   {
+    "title": "New Music Friday November 20: Lainey Wilson, Kacey Musgraves, Gracie Abrams, LISA, TOMORROW X TOGETHER & More | Entertainment Tonight",
+    "url": "https://www.etonline.com/new-music-friday-november-20-lainey-wilson-kacey-musgraves-gracie-abrams-lisa-tomorrow-x-together",
+    "source": "etonline.com",
+    "published": "",
+    "excerpt": "Miranda Lambert earned three wins, Brooks & Dunn were honored with the 2026 Willie Nelson Lifetime Achievement Award and Lainey Wilson and Vince Gill paid tribute to Dolly Parton with a moving performance of \"I Will Always Love You.\" Lainey Wilson hosted for the third time and debuted a new song, \"Just A Woman.\" LISA has released her documentary, Always Lalisa, which is available to stream on YouTube Premium. The documentary offers fans a behind the scenes look at LISA's journey from being in BLACKPINK to becoming a global solo star. She also released a new single \"Leave With Me\" which is featured in the documentary."
+   },
+   {
+    "title": "What To Watch On TV And Streaming Friday, November 20, 2026",
+    "url": "https://www.tvline.com/2320327/what-to-watch-november-20-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": ",\" misunderstood stepsister Lilith (voiced by Ali Wong) accidentally turns her sister Margot (Stephanie ... into a frog and must team up with Cinderella (Amanda Seyfried) to save the kingdom from a scheming villain (Nikki"
+   },
+   {
+    "title": "This Week In Entertainment News 20 November 2026 - MADCAP Global Entertainment",
+    "url": "https://madcapglobalentertainment.com/this-week-in-entertainment-news-20-november-2026/",
+    "source": "madcapglobalentertainment.com",
+    "published": "",
+    "excerpt": ". Ecca Vandal was another major success story, converting seven nominations into four wins, including Michael Gudinski Breakthrough Artist, Best Independent Release and Best ... and “a dream come true”. Denis Villeneuve, who recently directed him in ‘Dune"
+   },
+   {
+    "title": "News 20 November 2026 - Archive Euronews",
+    "url": "https://www.euronews.com/2026/11/20",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "artists and sports stars are big fans of AI. Actor Ashton Kutcher, Black Eyed Peas singer will.i.am and former NBA player Tristan Thompson are among those reported to have made a fortune from backing Anthropic, the US company behind the Claude AI chatbot."
+   },
+   {
+    "title": "Wake Up With BroadwayWorld November 20, 2026- MUCH ADO ABOUT NOTHING Opens On Broadway and More",
+    "url": "https://www.broadwayworld.com/article/Wake-Up-With-BroadwayWorld-November-20-2026--MUCH-ADO-ABOUT-NOTHING-Opens-On-Broadway-and-More-20261120",
+    "source": "broadwayworld.com",
+    "published": "",
+    "excerpt": "Broadway's own Natalie Paris is celebrating a full-circle moment as she returns to the role of Jane Seymour in SIX, a character she helped originate in London's West End. Read more in Natalie Paris Comes Full Circle:"
+   },
+   {
+    "title": "Entertainment news roundup: 20 November 2026 | SvcZZ | SVCZZ",
+    "url": "https://svczz.com/articles/entertainment-news-roundup-20-november-2026",
+    "source": "svczz.com",
+    "published": "",
+    "excerpt": "Jorrybell Agoto, the lead actress of Filipinana, died on Tuesday 17 November at 5.20pm, aged 31, after battling lymphoma. ... No premiere date ... Netflix has confirmed that Ginny and Georgia season 4 premieres on Thursday 21 January 2027, with first-look photos released to mark the announcement. The date was announced on 18 November in the US. ... Tyler Posey has joined Netflix’s Harlan Coben adaptation Myron Bolitar in a recurring role across three episodes, playing the spoiled son of a prominent politician alongside series regulars KJ Apa, Colin Woodell and Diane Guerrero. Posey also confirmed the casting on Instagram. ... Netflix has announced the start of production on Patricia, a domestic violence drama written and directed by Juan Diego Botto and starring Penelope Cruz, who also produces through her company Moonlyon. Cruz plays Patricia, a woman who escapes a 12-year abusive relationship and then faces the courts, fearing for her children, with Goya Toledo, Ramón Barea and Dylan Radley co-starring. The film is Moonlyon’s first narrative feature, and it will play in Spanish cinemas before reaching Netflix. No release date has been announced. The story follows Scott Treder, a father who jumps forward in time every morning, starting with a 24-hour jump, while his son tries to reach him. That is the premise of The Traveler, Joseph Eckert’s novel, which Paramount Pictures is adapting with Chris Pratt to star. Zach Lipovsky and Adam Stein direct from a screenplay by Justin Rhodes, with Adam Rosenberg and Jules Daly producing. The film is part of Pratt’s new three-year first-look producing deal with Paramount through his Indivisible banner, and shooting is expected to begin in 2027. No release date has been announced. Michelle Monaghan and Justin Theroux are to lead Blumhouse Atomic and Universal’s horror film Sleepover, with Jacob Chase directing from a script he co-wrote with Bryce McGuire, based on McGuire’s short story, and Jason Blum producing. Monaghan replaces Parker Posey, who exited the film two weeks after her casting was announced, and the film keeps its theatrical release date of 8 October 2027. Plot details remain under wraps, and the studio describes it as the quintessential sleepover nightmare."
+   },
+   {
+    "title": "Flying Cars Are Real, China Loves ‘A Minecraft Movie,’ and an Eclectic Roundup of New Chinese Music - RADII",
+    "url": "https://radii.co/article/newsletter/flying-cars-are-real-china-loves-a-minecraft-movie-and-an-eclectic-roundup-of-new-chinese-music",
+    "source": "radii.co",
+    "published": "",
+    "excerpt": "# Looking For Your Next Fit? China’s Supermarkets Have You Covered, According to Gen Z - By Mandy Wong - November 20, 2026 # Looking For Your Next ... # Don’t Panic: China’s Youth Has a New Anthem About Not Panicking"
+   }
+  ],
+  "text": "[1] Movies | Us/film | The Guardian (theguardian.com)\nin development with Macaulay Culkin returning ... ### Gérard Depardieu and Michel Houellebecq investigated over on-set rape ... assault allegations Actor and author are alleged to have attacked and gang-raped a woman while filming together in 2018\n\n[2] Music News Nov. 20: Grand Theft Auto VI soundtrack, Beabadoobee announces new album (thecurrent.org)\n### Beabadoobee Goes Bananas 4 Cats on New Album and Song (Pitchfork) Beabadoobee released her latest record, Pylon, just two months ago, and she’s already announced that she has another one on the way! It’s called Bananas 4 Cats, and Beabadoobee said in a release that she “just needed to write an album like this after Pylon.” She also said it happened naturally, that she felt inspired, and made another album. The announcement also comes with the release of a new song called “No Punctuation” that she’s shared snippets of on social media over the past couple of years, but only recently started …\n\n[3] Reuters Entertainment News Summary | International (devdiscourse.com)\ninvestigation into singer Julio Iglesias after a complaint filed by ⁠two ... , assault and degrading treatment, court records showed. The complaint was filed by rights group Women's Link Worldwide on behalf of two women who said they worked in Iglesias'\n\n[4] New Music Friday November 20: Lainey Wilson, Kacey Musgraves, Gracie Abrams, LISA, TOMORROW X TOGETHER & More | Entertainment Tonight (etonline.com)\nMiranda Lambert earned three wins, Brooks & Dunn were honored with the 2026 Willie Nelson Lifetime Achievement Award and Lainey Wilson and Vince Gill paid tribute to Dolly Parton with a moving performance of \"I Will Always Love You.\" Lainey Wilson hosted for the third time and debuted a new song, \"Just A Woman.\" LISA has released her documentary, Always Lalisa, which is available to stream on YouTube Premium. The documentary offers fans a behind the scenes look at LISA's journey from being in BLACKPINK to becoming a global solo star. She also released a new single \"Leave With Me\" which is …\n\n[5] What To Watch On TV And Streaming Friday, November 20, 2026 (tvline.com)\n,\" misunderstood stepsister Lilith (voiced by Ali Wong) accidentally turns her sister Margot (Stephanie ... into a frog and must team up with Cinderella (Amanda Seyfried) to save the kingdom from a scheming villain (Nikki\n\n[6] This Week In Entertainment News 20 November 2026 - MADCAP Global Entertainment (madcapglobalentertainment.com)\n. Ecca Vandal was another major success story, converting seven nominations into four wins, including Michael Gudinski Breakthrough Artist, Best Independent Release and Best ... and “a dream come true”. Denis Villeneuve, who recently directed him in ‘Dune\n\n[7] News 20 November 2026 - Archive Euronews (euronews.com)\nartists and sports stars are big fans of AI. Actor Ashton Kutcher, Black Eyed Peas singer will.i.am and former NBA player Tristan Thompson are among those reported to have made a fortune from backing Anthropic, the US company behind the Claude AI chatbot.\n\n[8] Wake Up With BroadwayWorld November 20, 2026- MUCH ADO ABOUT NOTHING Opens On Broadway and More (broadwayworld.com)\nBroadway's own Natalie Paris is celebrating a full-circle moment as she returns to the role of Jane Seymour in SIX, a character she helped originate in London's West End. Read more in Natalie Paris Comes Full Circle:\n\n[9] Entertainment news roundup: 20 November 2026 | SvcZZ | SVCZZ (svczz.com)\nJorrybell Agoto, the lead actress of Filipinana, died on Tuesday 17 November at 5.20pm, aged 31, after battling lymphoma. ... No premiere date ... Netflix has confirmed that Ginny and Georgia season 4 premieres on Thursday 21 January 2027, with first-look photos released to mark the announcement. The date was announced on 18 November in the US. ... Tyler Posey has joined Netflix’s Harlan Coben adaptation Myron Bolitar in a recurring role across three episodes, playing the spoiled son of a prominent politician alongside series regulars KJ Apa, Colin Woodell and Diane Guerrero. Posey also …\n\n[10] Flying Cars Are Real, China Loves ‘A Minecraft Movie,’ and an Eclectic Roundup of New Chinese Music - RADII (radii.co)\n# Looking For Your Next Fit? China’s Supermarkets Have You Covered, According to Gen Z - By Mandy Wong - November 20, 2026 # Looking For Your Next ... # Don’t Panic: China’s Youth Has a New Anthem About Not Panicking",
+  "hash": "eedca8549c61cb6dbd4f3658d984203a0e592924e45a943d959617d1fead39c3",
+  "notes": []
+ }
+}
