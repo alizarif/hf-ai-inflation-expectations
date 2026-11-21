@@ -194,3 +194,4 @@ wave_id,slot_et,slot_utc,n_trials,n_ok,n_partial,n_failed,n_rescaled,n_corrected
 2026-11-21T00ET,2026-11-21T00:00:00-05:00,2026-11-21T05:00:00+00:00,420,420,0,0,59,0,0.4571,4.6,,71332ee5914e527b,openrouter_exa:10,openrouter_exa:10,openrouter_exa:10,openrouter_exa:10
 2026-11-21T04ET,2026-11-21T04:00:00-05:00,2026-11-21T09:00:00+00:00,420,420,0,0,40,0,0.4273,4.0,,71332ee5914e527b,openrouter_exa:10,openrouter_exa:10,openrouter_exa:10,openrouter_exa:10
 2026-11-21T08ET,2026-11-21T08:00:00-05:00,2026-11-21T13:00:00+00:00,420,420,0,0,26,0,0.434,4.2,,71332ee5914e527b,openrouter_exa:10,openrouter_exa:10,openrouter_exa:10,openrouter_exa:10
+2026-11-21T12ET,2026-11-21T12:00:00-05:00,2026-11-21T17:00:00+00:00,420,420,0,0,27,0,0.4282,4.0,,71332ee5914e527b,openrouter_exa:10,openrouter_exa:10,openrouter_exa:10,openrouter_exa:10
