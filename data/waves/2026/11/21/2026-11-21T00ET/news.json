@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-21T05:04:34+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-21T05:04:34+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian",
+    "url": "https://www.theguardian.com/theguardian/2026/nov/21",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "Saturday 21 November 2026 - Friday 20 November 2026 - ### Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit Agreements reached on food and drink, emissions and to allow young people to move around continent, but may be derailed over student fees ... - ### US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court Reactions to ICJ ruling underline global divisions over court with China raising concerns about judicial overreach"
+   },
+   {
+    "title": "The Hindu Morning Digest: November 21, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/morning-digest-november-21-2026/article71726209.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "#### U.S. court sentences Indian national Nikhil Gupta to 235 months in jail in Pannun murder plot Indian national Nikhil Gupta was sentenced to 235 months in jail by a U.S. court on Friday (November 20, 2026) for his involvement in a murder-for-hire plot against a Sikh extremist on American soil. Gupta, 55, had pleaded guilty earlier this year to charges of murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering, in connection with his efforts to murder Khalistani separatist Gurpatwant Singh Pannun in New York. Judge Victor Marrero of the Southern District of New York announced 235 months prison term to Gupta after an almost 80-minute hearing. #### India ‘takes note’ of Trump-Xi-Putin summit, awaits more details India said it had “taken note” of the trilateral summit of the leaders of the U.S., Russia and China in Shenzhen, held on the sidelines of the Asia-Pacific Economic Conference (APEC). In its first comments on the meeting between U.S. President Donald Trump, Russian President Vladimir Putin and Chinese President Xi Jinping that has been dubbed a “G-3”, the Ministry of External Affairs was non-committal. “We have taken note of this meeting between three APEC member countries,” said the Ministry’s spokesperson Randhir Jaiswal, responding to a question at a briefing on Friday (November 20, 2026). “We await a fuller account of the concrete outcomes of this meeting before offering our assessment,” he added. ... “I believe I have, working with Claude, discovered proof of the Riemann Hypothesis,” Levent Alpoge wrote in a ... The claim has not been independently verified, and the proof has not yet been reviewed by outside experts."
+   },
+   {
+    "title": "Daily news for November 21, 2026 | EL PAÍS in English",
+    "url": "https://english.elpais.com/archive/2026-11-21/",
+    "source": "english.elpais.com",
+    "published": "",
+    "excerpt": "the five armed forces operating in Haiti increases risk to the ... The Haitian government is working to establish a de-escalation office. Alix Didier Fils-Aimé’s popularity is ... , while Nayib Bukele is being hailed by a public tired of living in"
+   },
+   {
+    "title": "World news digest for November 21, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-21",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "# Trump defers Iran strike decision to after New Year ## Summary Trump has pushed any decision on renewed strikes against Iran until after the New Year, while Iran is assembling a tanker convoy to try to break the US naval blockade, turning the standoff in the Strait of Hormuz into a contest of timing.⁠ 1 2 In an interview, Trump said he was not rushing a decision on new strikes and would talk about them after the start of next year, a timeline that extends an earlier suggestion that the question could come to a head after the US midterm elections.⁠ 1 3 Israel continues to press for renewed strikes, while Turkey, Pakistan and Gulf states have stepped up diplomacy with Washington to prevent a wider regional war.⁠ 4 5 With Iran's oil revenue set to hit zero by mid-December, IRGC-linked media and hard-liners are pushing for a tanker convoy to break through the US naval blockade, threatening Persian Gulf oil sites if fired on.⁠ 6 In Myanmar, the International Court of Justice ruled for the first time that a country, Myanmar, is responsible for genocide against the Rohingya, and ordered it to investigate suspects and enable safe returns.⁠ 7 8 In Poland, a Russian X-101 missile fell in a village in Lublin Voivodeship, and the defence minister said no one was injured.⁠ 9 Iran has assigned crews and Iranian flags to more than 14 tankers at Kharg Island, and whether a convoy heads toward the Sea of Oman in the coming days will show how far Iran is willing to test the US blockade.⁠ 2"
+   },
+   {
+    "title": "Saudi-led coalition reports interception of 3 Houthi missiles headed for Riyadh | The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog-november-21-2026/",
+    "source": "timesofisrael.com",
+    "published": "",
+    "excerpt": "capital reported hearing explosions. “Air defenses intercepted and destroyed (3) ballistic ... by the terrorist Houthi militia toward Riyadh,” the coalition says on X. Earlier ... issued an alert saying the city was “under a hostile aerial threat.”"
+   },
+   {
+    "title": "While You Were Sleeping: 5 stories you might have missed, Nov 21, 2026 | The Straits Times",
+    "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-21-2026",
+    "source": "straitstimes.com",
+    "published": "",
+    "excerpt": "## Trump, Xi agree military AI decisions should involve humans US President Donald Trump and Chinese President Xi Jinping agreed humans should always be involved in military decisions that use artificial intelligence technologies, even as the two countries compete for AI supremacy, Treasury Secretary Scott Bessent said on Nov 20. Bessent told CNBC after returning from Trump’s meeting with Xi in Shenzhen, China, that the agreement was among the major achievements of Trump’s trip to Asia. “I think it was very important that President Trump and President Xi agreed that humans should always be involved in any military decisions that SI makes, and the SI should not be allowed to be autonomous for major military actions,” Bessent said - referring to the Trump administration’s preferred term for the technology, “super intelligence.” Bessent said that the US-China agreement on military use of the technology, requiring human involvement and other safeguards, would not be affected by the two countries’ competition for AI supremacy. He added that US AI labs needed to maintain their technological lead as the best defence against “dangerous” Chinese AI models that are being used in cyberattacks. ## Trump says he, Putin had ‘very good’ talks on Ukraine US President Donald Trump said on Nov 20 that he and Russian leader Vladimir Putin held “very good” talks on Ukraine during their meeting in China, but said he didn’t want to discuss security guarantees for Ukraine without a deal. “We’re having very good talks. I think there’s a real good chance that we can get it done,” Trump said at a White House news conference after his trip to Asia, where he met with Putin and Chinese President Xi Jinping. Trump spoke to Putin, whom he called a friend, separately during the Asia-Pacific Economic Cooperation meeting in Shenzhen, China, this week. ## Wall St ends sharply lower on AI selloff ... US stocks extended their rout on Nov 20, and the S&P 500 and the Dow both confirmed corrections after Anthropic’s momentous debut fell flat, exacerbating worries about the AI trade that has driven this year’s stock market rally. All three major US equity indexes ended sharply lower. The Dow and the S&P 500 are now more than 10% below their record closing highs, confirming both indexes have entered a correction."
+   },
+   {
+    "title": "Trump targets offshore data centre projects | Midday News Bulletin 21 November 2026 | SBS News",
+    "url": "https://www.sbs.com.au/news/podcast-episode/trump-targets-offshore-data-centre-projects-midday-news-bulletin-21-november-2026/3co6bo1ot",
+    "source": "sbs.com.au",
+    "published": "",
+    "excerpt": "Two suspected Russian missiles and a drone have hit land in Poland, near a military exercise involving thousands of troops from across Europe. The troops from 37 countries under the so-called Coalition of the Willing are preparing for a potential post-war mission in Ukraine."
+   },
+   {
+    "title": "US news | US news | The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/21/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "- ### Man accused of sparking deadly Los Angeles wildfire found guilty Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury ... who denied US Capitol was attacked on January 6 – as it happened"
+   },
+   {
+    "title": "Daily World Briefing, Nov. 21-Xinhua",
+    "url": "https://english.news.cn/20261121/9c36471339a94cbdb924e54fbdddd6e7/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "others, including three children, were injured in the attacks, without providing details on the locations. The figures could not be independently verified, and there was no immediate comment from Saudi authorities"
+   },
+   {
+    "title": "Top headlines in major S. Korean newspapers | Yonhap News Agency",
+    "url": "https://en.yna.co.kr/view/AEN20261121000500320",
+    "source": "en.yna.co.kr",
+    "published": "",
+    "excerpt": "-- Ruling DP speeds up efforts to adopt plan to seek impeachment of Chief Justice Cho as official party line (Kookmin Daily) -- Ruling party initiates impeachment of Chief Justice Cho Hee-dae, vows to pass impeachment"
+   }
+  ],
+  "text": "[1] Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian (theguardian.com)\nSaturday 21 November 2026 - Friday 20 November 2026 - ### Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit Agreements reached on food and drink, emissions and to allow young people to move around continent, but may be derailed over student fees ... - ### US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court Reactions to ICJ ruling underline global divisions over court with China raising concerns about judicial overreach\n\n[2] The Hindu Morning Digest: November 21, 2026 - The Hindu (thehindu.com)\n#### U.S. court sentences Indian national Nikhil Gupta to 235 months in jail in Pannun murder plot Indian national Nikhil Gupta was sentenced to 235 months in jail by a U.S. court on Friday (November 20, 2026) for his involvement in a murder-for-hire plot against a Sikh extremist on American soil. Gupta, 55, had pleaded guilty earlier this year to charges of murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering, in connection with his efforts to murder Khalistani separatist Gurpatwant Singh Pannun in New York. Judge Victor Marrero of the Southern …\n\n[3] Daily news for November 21, 2026 | EL PAÍS in English (english.elpais.com)\nthe five armed forces operating in Haiti increases risk to the ... The Haitian government is working to establish a de-escalation office. Alix Didier Fils-Aimé’s popularity is ... , while Nayib Bukele is being hailed by a public tired of living in\n\n[4] World news digest for November 21, 2026 | World Watch (worldwatch.media)\n# Trump defers Iran strike decision to after New Year ## Summary Trump has pushed any decision on renewed strikes against Iran until after the New Year, while Iran is assembling a tanker convoy to try to break the US naval blockade, turning the standoff in the Strait of Hormuz into a contest of timing.⁠ 1 2 In an interview, Trump said he was not rushing a decision on new strikes and would talk about them after the start of next year, a timeline that extends an earlier suggestion that the question could come to a head after the US midterm elections.⁠ 1 3 Israel continues to press for renewed …\n\n[5] Saudi-led coalition reports interception of 3 Houthi missiles headed for Riyadh | The Times of Israel (timesofisrael.com)\ncapital reported hearing explosions. “Air defenses intercepted and destroyed (3) ballistic ... by the terrorist Houthi militia toward Riyadh,” the coalition says on X. Earlier ... issued an alert saying the city was “under a hostile aerial threat.”\n\n[6] While You Were Sleeping: 5 stories you might have missed, Nov 21, 2026 | The Straits Times (straitstimes.com)\n## Trump, Xi agree military AI decisions should involve humans US President Donald Trump and Chinese President Xi Jinping agreed humans should always be involved in military decisions that use artificial intelligence technologies, even as the two countries compete for AI supremacy, Treasury Secretary Scott Bessent said on Nov 20. Bessent told CNBC after returning from Trump’s meeting with Xi in Shenzhen, China, that the agreement was among the major achievements of Trump’s trip to Asia. “I think it was very important that President Trump and President Xi agreed that humans should always be …\n\n[7] Trump targets offshore data centre projects | Midday News Bulletin 21 November 2026 | SBS News (sbs.com.au)\nTwo suspected Russian missiles and a drone have hit land in Poland, near a military exercise involving thousands of troops from across Europe. The troops from 37 countries under the so-called Coalition of the Willing are preparing for a potential post-war mission in Ukraine.\n\n[8] US news | US news | The Guardian (theguardian.com)\n- ### Man accused of sparking deadly Los Angeles wildfire found guilty Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury ... who denied US Capitol was attacked on January 6 – as it happened\n\n[9] Daily World Briefing, Nov. 21-Xinhua (english.news.cn)\nothers, including three children, were injured in the attacks, without providing details on the locations. The figures could not be independently verified, and there was no immediate comment from Saudi authorities\n\n[10] Top headlines in major S. Korean newspapers | Yonhap News Agency (en.yna.co.kr)\n-- Ruling DP speeds up efforts to adopt plan to seek impeachment of Chief Justice Cho as official party line (Kookmin Daily) -- Ruling party initiates impeachment of Chief Justice Cho Hee-dae, vows to pass impeachment",
+  "hash": "d33d11f77f0d47624f65a1f723e4daa38a673f0b8e5df1b73fe4ad6e8950900b",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-21T05:04:45+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Fed’s Cook says rate hikes needed to lower high inflation By Reuters",
+    "url": "https://www.investing.com/news/economy-news/feds-cook-says-rate-hikes-needed-to-lower-high-inflation-5042321",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Nov 20 (Reuters) - Federal Reserve Governor Lisa Cook on Friday made a case for more interest rate hikes, saying the US central bank’s current policy rate is not high enough to deal with inflation levels she views with \"great concern.\" \"In a different environment, the (Federal Open Market) Committee could afford to be patient, but I continue to believe that in this economic climate we do not have that luxury,\" given how high inflation is and for how long it has been above the Fed’s 2% target, Cook said in the text of a speech to be presented at a central bank conference in Chile. Cook said the quarter-percentage-point rate hike the Fed delivered at its September 15-16 policy meeting was not enough to moderate current levels of inflation. What’s more, \"inflation data received since the September rate increase, including reports last week, fail to provide me with sufficient evidence that inflation is returning to a sustainable path,\" she said. \"There is little evidence inflation is declining.\""
+   },
+   {
+    "title": "US recession gauges show no alarms on Nov. 20, St. Louis Fed says | EconoTimes",
+    "url": "https://econotimes.com/US-recession-gauges-show-no-alarms-on-Nov-20-St-Louis-Fed-says-1780551",
+    "source": "econotimes.com",
+    "published": "",
+    "excerpt": "was 4.1%, unchanged from its one-year low, the Labor Department said. The gauge has a threshold of 0.0 percentage point above that low in the ... according to the Labor Department. The claims gauge also remained below its recession threshold."
+   },
+   {
+    "title": "US consumer prices rise briskly for third straight month | Reuters",
+    "url": "https://www.reuters.com/5f374b32b07b/world/us/us-consumer-prices-rise-above-expectations-october-2026-11-10/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": "The CPI increased 0.4% last month after advancing 0.6% in September, the department's Bureau of Labor Statistics said. It was the third consecutive month of ​gains of 0.4% or more. Economists polled by Reuters had forecast the CPI would climb 0.3% over the month. The BLS did not publish year-over-year inflation readings because last year's federal government ⁠shutdown prevented the collection of consumer price data in October 2025, leaving no comparison base. ... Others used interpolated levels from independent sources. ... Shelter, which includes rents and hotel and motel rooms, accounted for more than 30% of the monthly increase in the CPI. Shelter costs ​rose 0.3% after climbing 0.4% in September. Food prices surged 0.5% after barely rising in the prior three months. Grocery store prices climbed 0.4%, boosted by a 0.9% jump in the cost of beef. Egg prices rose 0.6%, while fruits and vegetables were 0.6% more expensive. Prices for dairy products increased 0.6%. The cost of"
+   },
+   {
+    "title": "Fed's Cook says inflation has been above target for 67 months and defends her call for a second rise | FinanceInTime",
+    "url": "https://financeintime.com/news/2026/11/21/fed-s-cook-says-inflation-has-been-above-target-for-67-months-and-defends-her",
+    "source": "financeintime.com",
+    "published": "",
+    "excerpt": "Published Nov 21, 2026, 01:11 UTC 3 min read ... Federal Reserve Governor Lisa D. Cook said on Friday that inflation has exceeded the Fed's 2% target for 67 months and that she wanted a second rate increase in October, according to the text of her speech at a Central Bank of Chile conference in Santiago. ## A dissent explained in two reasons Cook spoke at the 29th annual conference of the Central Bank of Chile. She said the views were her own and not necessarily those of her colleagues on the Fed Board or the Federal Open Market Committee (FOMC). The FOMC raised the target range for the federal funds rate in September to 3.75%-4%, Cook said. At its October meeting, the committee voted to hold the rate steady. She dissented and preferred a further quarter-point increase. She gave two reasons. The first was that financial conditions are \"too accommodative\" while inflation is above target. Cook said the current stance of policy \"does not appear to be curtailing the AI buildout\" and that equity prices continue to support consumer spending. The second was urgency: waiting longer, she said, \"risks getting behind the curve,\" and if that happens, \"additional and larger rate increases may be required later to catch up.\" Cook said she is skeptical that September's single quarter-point increase will be enough to change the path of inflation. She added that the number and size of future adjustments should be informed by how the economy reacts to the Fed's actions. ## Inflation at 3.8% and a broad list of prices Based on data released the previous week, Cook said, the 12-month change in the personal consumption expenditures (PCE) price index was estimated at 3.8% in October. Core PCE, which excludes food and energy, was 3.2%. She said the most recent release showed prices rising briskly in a very broad range of categories, including airfare, appliances, furniture, hotels and restaurants. That point matters to her argument that energy is not the only source of pressure: the core measure, she said, \"underscores that, while energy is a significant contributor to inflation, the sources of price pressure facing American families are increasingly varied.\" ## Growth and jobs give her little reason to wait Cook described an economy that is accelerating. GDP rose at a 3.4% annual pace in the third quarter, and real household spending rose at an annualized 3.8%. The unemployment rate was 4.1% in October, and payrolls climbed by 165,000. She tied part of the acceleration to the AI infrastructure buildout. Companies have announced plans for more than $2 trillion in specific data center construction projects in the US, Cook said, and only a fraction of that has been realized so far."
+   },
+   {
+    "title": "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says - CBS News",
+    "url": "https://www.cbsnews.com/news/ai-boom-inflation-chicago-fed-goolsbee/",
+    "source": "cbsnews.com",
+    "published": "",
+    "excerpt": "The boom in AI data center construction is adding to the nation's \"borderline disturbingly high\" inflation, with the sector's massive business investment indirectly contributing to rising service prices, Federal Reserve Bank of Chicago President Austan Goolsbee told reporters on Thursday. \"The AI boom is contributing to the potential of overheating in the economy,\" Goolsbee said. \"I find it hard to look at it any other way when you are getting major business investment, almost an unprecedented level of business investment.\" Goolsbee, who will become a voting member of the interest rate-setting Federal Open Market Committee in January, declined to forecast the central bank's next moves on interest rates. But he said the Fed's decisions will be determined by whether U.S. inflation is on track to return to the central bank's annual 2% target."
+   },
+   {
+    "title": "Fed signals and data: what happened the week of Nov. 16–20, 2026 By Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/fed-signals-and-data-what-happened-the-week-of-nov-1620-2026-93CH-5042523",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "are weakening. Philly Fed prices paid jumped to 58.2 from 43.2, while new ... best card. One-year expectations fell to 3.7% from 4.7%, and five-year expectations eased to 3.3%. Hawks worry about unanchored expectations, and this reading eases that worry."
+   },
+   {
+    "title": "CPI inflation report: October 2026",
+    "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "index, a broad gauge of costs across the U.S. economy, increased a seasonally adjusted ... Stripping out volatile food and energy, so-called core CPI increased 0.3% against the forecast for a 0.2% gain."
+   },
+   {
+    "title": "PCE to confirm the inflation problem, labor pulse still strong - RBC Economics",
+    "url": "https://www.rbc.com/en/economics/us-week-ahead/pce-to-confirm-the-inflation-problem-labor-pulse-still-strong/",
+    "source": "rbc.com",
+    "published": "",
+    "excerpt": "– inflation is re-accelerating. We forecast both headline and core PCE will rise 0.3% ... up to 3.8% and 3.3% respectively. While the direction of travel ... ’s PPI for airfares declined (compared to CPI where they rose – methodological differences are"
+   },
+   {
+    "title": "US economy feels pressure as Iran war drives up fuel, food and inflation costs - [İLKHA] Ilke News Agency",
+    "url": "https://ilkha.com/english/world/us-economy-feels-pressure-as-iran-war-drives-up-fuel-food-and-inflation-costs-538102",
+    "source": "ilkha.com",
+    "published": "",
+    "excerpt": "reached an average of $4.22 per gallon for regular ... s Analytics estimates that US households are now spending an average of $750 more due to war-related economic effects, with roughly $447 of that increase coming directly from higher energy costs."
+   },
+   {
+    "title": "GMT EIGHT - Latest - Federal Reserve Beige Book: U.S. economy expands modestly but inflationary pressures intensify; AI boosts productivity while dampening hiring demand at some firms",
+    "url": "http://www.gmt8press.com/flash/detail/1557012",
+    "source": "gmt8press.com",
+    "published": "",
+    "excerpt": "21/11/2026 Zhito Finance APP has learned that the latest Beige Book on economic conditions released by the Federal Reserve on Wednesday shows that U.S. economic activity generally continued to grow, but performance varied across regions, consumer spending was broadly weak, and the labor market changed little. At the same time, rising energy prices, tariffs, and climbing insurance costs continued to push up business operating costs, further intensifying inflationary pressure in some regions. Notably, as companies increase investment in artificial intelligence (AI), some firms have begun to reduce hiring needs by improving productivity, and AI's impact on the U.S. labor market is gradually emerging."
+   }
+  ],
+  "text": "[1] Fed’s Cook says rate hikes needed to lower high inflation By Reuters (investing.com)\nNov 20 (Reuters) - Federal Reserve Governor Lisa Cook on Friday made a case for more interest rate hikes, saying the US central bank’s current policy rate is not high enough to deal with inflation levels she views with \"great concern.\" \"In a different environment, the (Federal Open Market) Committee could afford to be patient, but I continue to believe that in this economic climate we do not have that luxury,\" given how high inflation is and for how long it has been above the Fed’s 2% target, Cook said in the text of a speech to be presented at a central bank conference in Chile. Cook said …\n\n[2] US recession gauges show no alarms on Nov. 20, St. Louis Fed says | EconoTimes (econotimes.com)\nwas 4.1%, unchanged from its one-year low, the Labor Department said. The gauge has a threshold of 0.0 percentage point above that low in the ... according to the Labor Department. The claims gauge also remained below its recession threshold.\n\n[3] US consumer prices rise briskly for third straight month | Reuters (reuters.com)\nThe CPI increased 0.4% last month after advancing 0.6% in September, the department's Bureau of Labor Statistics said. It was the third consecutive month of ​gains of 0.4% or more. Economists polled by Reuters had forecast the CPI would climb 0.3% over the month. The BLS did not publish year-over-year inflation readings because last year's federal government ⁠shutdown prevented the collection of consumer price data in October 2025, leaving no comparison base. ... Others used interpolated levels from independent sources. ... Shelter, which includes rents and hotel and motel rooms, accounted …\n\n[4] Fed's Cook says inflation has been above target for 67 months and defends her call for a second rise | FinanceInTime (financeintime.com)\nPublished Nov 21, 2026, 01:11 UTC 3 min read ... Federal Reserve Governor Lisa D. Cook said on Friday that inflation has exceeded the Fed's 2% target for 67 months and that she wanted a second rate increase in October, according to the text of her speech at a Central Bank of Chile conference in Santiago. ## A dissent explained in two reasons Cook spoke at the 29th annual conference of the Central Bank of Chile. She said the views were her own and not necessarily those of her colleagues on the Fed Board or the Federal Open Market Committee (FOMC). The FOMC raised the target range for the …\n\n[5] AI is fueling \"disturbingly high\" inflation, Chicago Fed president says - CBS News (cbsnews.com)\nThe boom in AI data center construction is adding to the nation's \"borderline disturbingly high\" inflation, with the sector's massive business investment indirectly contributing to rising service prices, Federal Reserve Bank of Chicago President Austan Goolsbee told reporters on Thursday. \"The AI boom is contributing to the potential of overheating in the economy,\" Goolsbee said. \"I find it hard to look at it any other way when you are getting major business investment, almost an unprecedented level of business investment.\" Goolsbee, who will become a voting member of the interest …\n\n[6] Fed signals and data: what happened the week of Nov. 16–20, 2026 By Investing.com (investing.com)\nare weakening. Philly Fed prices paid jumped to 58.2 from 43.2, while new ... best card. One-year expectations fell to 3.7% from 4.7%, and five-year expectations eased to 3.3%. Hawks worry about unanchored expectations, and this reading eases that worry.\n\n[7] CPI inflation report: October 2026 (cnbc.com)\nindex, a broad gauge of costs across the U.S. economy, increased a seasonally adjusted ... Stripping out volatile food and energy, so-called core CPI increased 0.3% against the forecast for a 0.2% gain.\n\n[8] PCE to confirm the inflation problem, labor pulse still strong - RBC Economics (rbc.com)\n– inflation is re-accelerating. We forecast both headline and core PCE will rise 0.3% ... up to 3.8% and 3.3% respectively. While the direction of travel ... ’s PPI for airfares declined (compared to CPI where they rose – methodological differences are\n\n[9] US economy feels pressure as Iran war drives up fuel, food and inflation costs - [İLKHA] Ilke News Agency (ilkha.com)\nreached an average of $4.22 per gallon for regular ... s Analytics estimates that US households are now spending an average of $750 more due to war-related economic effects, with roughly $447 of that increase coming directly from higher energy costs.\n\n[10] GMT EIGHT - Latest - Federal Reserve Beige Book: U.S. economy expands modestly but inflationary pressures intensify; AI boosts productivity while dampening hiring demand at some firms (gmt8press.com)\n21/11/2026 Zhito Finance APP has learned that the latest Beige Book on economic conditions released by the Federal Reserve on Wednesday shows that U.S. economic activity generally continued to grow, but performance varied across regions, consumer spending was broadly weak, and the labor market changed little. At the same time, rising energy prices, tariffs, and climbing insurance costs continued to push up business operating costs, further intensifying inflationary pressure in some regions. Notably, as companies increase investment in artificial intelligence (AI), some firms have begun to …",
+  "hash": "5c20b8b2cbbcfebe7c718e67c3da3714f6fde1872a9ec3966d4e459f7eee7c6c",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-21T05:04:55+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Democrat-controlled Congress faces task of reforming Trump’s immigration agenda | U.S. | EL PAÍS English",
+    "url": "https://english.elpais.com/usa/2026-11-21/democrat-controlled-congress-faces-task-of-reforming-trumps-immigration-agenda.html",
+    "source": "english.elpais.com",
+    "published": "",
+    "excerpt": "Washington - Nov 21, 2026 - 05:00 CET After the economy, the aggressive immigration policy implemented by the administration of Donald Trump was the main reason U.S. voters punished the Republican Party and gave the Democrats a historic victory in the midterms. The Democratic Party will hold a majority in the United States Congress starting January 3. In the House of Representatives it will occupy at least 256 of the 435 seats after taking 42 seats from the Republicans. In the Senate it will hold 55 seats, eight more than before. The victors face the arduous task of changing an immigration system widely regarded as broken and that Congress has been unable to reform for decades. Amid Democratic euphoria over the win, ending Trump’s anti-immigrant crusade has emerged as one of their legislative priorities. Whether they succeed will not depend solely on them. A Democrat-controlled Congress will coincide with the last two years of Trump’s term. The president, as is typical for him, has sent mixed signals about how he wants to address immigration. Just a week ago he admitted in an interview on CBS’s 60 Minutes that his immigration policy had been too harsh and that people who were taxpaying workers had been deported. Hours after the interview was recorded, however, he promoted the architect of the administration’s most hardline immigration stance, Stephen Miller, to White House chief of staff. In later remarks, Trump clarified that there would be no amnesty and that his policy had not changed. “We’ve seen this time and again. Trump says something moderately reasonable on immigration and then Stephen Miller gives him a dressing-down, after which he comes out with a new commitment to maximalist positions,” says Aaron Reichlin-Melnick, senior researcher at the American Immigration Council and one of the immigration experts who has testified in Congress about the administration’s abuses in this area. But the reality is that the landscape has changed with the Democrats taking control of Congress. Markwayne Mullin, secretary of the Department of Homeland Security (DHS), said Trump encouraged him to work with the Democrats on immigration reform after telling him he had received many calls about the issue. Democratic lawmakers have confirmed the same. “We’ve had some conversations and, without going into details, I think there are common ground points that will allow us to reach an agreement,” said Representative Henry Cuéllar of Texas at a pro-immigration reform event held last week in front of the Capitol. ... Among the immigration bills that have so far failed in the House of Representatives, one stands a better chance of succeeding: the Dream Act, a bill that grants legal residency and opens a path to citizenship for foreigners who arrived undocumented as children. Many are beneficiaries of the DACA program (Deferred Action for Childhood Arrivals) and have grown up, studied, worked and formed families in the only country they consider home. Trump has tried to end the program, created under the Barack Obama administration, during his two terms, but courts have blocked him. The so-called “dreamers” are the migrants with the broadest support across the political spectrum. The bill needs only one more Republican representative’s signature to be brought to the floor of the House. “My American Dream and Promise discharge petition has 217 signatures. 214 Democrats and three Republicans. We just need one more Republican signature to get it to the finish line and force a vote. We cannot wait any longer,” Representative Sylvia García, co-author of the Dream Act, wrote on social media after attending the same event in front of Congress on November 11. ... In addition to the Dream Act, there is another legislative proposal with broad bipartisan support: the Dignity Act, which provides for the legalization of undocumented migrants who have lived in the country for years, while also strengthening border security and reforming visa programs. ... Even if the bills pass both chambers, uncertainty remains over whether Trump — who has the power to veto them — will sign them."
+   },
+   {
+    "title": "US news | US news | The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/21/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "### Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – as it happened Thom Tillis, outgoing senator from North Carolina, placed hold on nomination of Michael LoSapio a day after his"
+   },
+   {
+    "title": "House unconstitutionally passed spending bill in 2022, court rules",
+    "url": "https://www.nbcnews.com/politics/congress/house-unconstitutionally-passed-spending-bill-2022-appeals-court-rules-rcna610529",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "The House of Representatives unconstitutionally passed a $1.7 trillion government funding bill in 2022 through a pandemic-era rule allowing lawmakers to vote by proxy rather than in person, a federal appeals court ruled on Friday. The New Orleans-based 5th U.S. Circuit Court of Appeals voted 9-8 to uphold an injunction that outgoing Republican Texas Attorney General Ken Paxton secured blocking enforcement of a provision of that measure that gave pregnant workers ... Friday’s ruling, powered by the 5th Circuit’s conservative majority, held that the proxy rule violated the U.S. ... While the decision concerns how the entire bill was passed, the relief that the 5th Circuit granted Paxton’s office was narrow, as it barred the U.S."
+   },
+   {
+    "title": "AP News Summary at 9:53 p.m. EST | National News | mankatofreepress.com",
+    "url": "https://www.mankatofreepress.com/news/state_national_news/ap-news-summary-at-7-57-p-m-est/article_0294e39f-47ba-5632-8467-eb48c7a64c51.html",
+    "source": "mankatofreepress.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — A second federal judge has blocked President Donald Trump’s administration from building a ... a previous order that blocked the Trump administration from breaking ground on the arch on a more"
+   },
+   {
+    "title": "Trump orders Justice Department to investigate Democrats over impeachment threats - [İLKHA] Ilke News Agency",
+    "url": "https://ilkha.com/english/world/trump-orders-justice-department-to-investigate-democrats-over-impeachment-threats-574472",
+    "source": "ilkha.com",
+    "published": "",
+    "excerpt": "US President Donald Trump on Saturday directed the Justice Department to investigate Democrats, accusing them of ... and other forms of punishment, without providing evidence to support his allegations. In a social media post, Trump described the"
+   },
+   {
+    "title": "Daily news for November 21, 2026 | EL PAÍS in English",
+    "url": "https://english.elpais.com/archive/2026-11-21/",
+    "source": "english.elpais.com",
+    "published": "",
+    "excerpt": "## What if the United States voted in 2028 the way it did in the midterms? Javier Figueroa| Nov 21, 2026 - 05:00 CET The Democratic wave was driven by sharp shifts among some voter groups. These simulators show what happens if those trends continue"
+   },
+   {
+    "title": "'I'm Going to Veto Unless...': Trump Warns Democrats, Signals Deal-Making with Jeffries | Republic World",
+    "url": "https://www.republicworld.com/world-news/i-m-going-to-veto-unless-trump-warns-democrats-signals-deal-making-with-jeffries-2026-11-21-141503",
+    "source": "republicworld.com",
+    "published": "",
+    "excerpt": ": US President Donald Trump on Friday (local time) indicated that he plans to use his veto power to pressure Democrats ... work with Democratic leader Hakeem Jeffries, who is poised to become the next Speaker of the"
+   },
+   {
+    "title": "Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian",
+    "url": "https://www.theguardian.com/theguardian/2026/nov/21",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "- ### US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court Reactions to ICJ ruling underline global divisions over court with China raising concerns about judicial overreach"
+   },
+   {
+    "title": "Supreme Court Chief Justice John Roberts Temporarily Allows White House Ballroom Construction to Resume - CNNBC",
+    "url": "https://cnnbc.com/supreme-court-chief-justice-john-roberts-temporarily-allows-white-house-ballroom-construction-to-resume",
+    "source": "cnnbc.com",
+    "published": "",
+    "excerpt": "John Roberts issued a temporary administrative stay permitting the Trump administration to resume aboveground work on a contested four hundred million dollar White House ballroom and bunker project while the Supreme Court reviews an emergency appeal over"
+   },
+   {
+    "title": "Trump Administration Moves to Claw Back Nearly $1 Billion in Approved Federal Spending - CNNBC",
+    "url": "https://cnnbc.com/trump-administration-moves-to-claw-back-nearly-1-billion-in-approved-federal-spending",
+    "source": "cnnbc.com",
+    "published": "",
+    "excerpt": "1 Billion in Approved Federal Spending The White House budget office announced the cancellation of nearly $1 billion in previously appropriated spending, prompting objections from congressional Democrats over executive authority and separation of powers."
+   }
+  ],
+  "text": "[1] Democrat-controlled Congress faces task of reforming Trump’s immigration agenda | U.S. | EL PAÍS English (english.elpais.com)\nWashington - Nov 21, 2026 - 05:00 CET After the economy, the aggressive immigration policy implemented by the administration of Donald Trump was the main reason U.S. voters punished the Republican Party and gave the Democrats a historic victory in the midterms. The Democratic Party will hold a majority in the United States Congress starting January 3. In the House of Representatives it will occupy at least 256 of the 435 seats after taking 42 seats from the Republicans. In the Senate it will hold 55 seats, eight more than before. The victors face the arduous task of changing an immigration …\n\n[2] US news | US news | The Guardian (theguardian.com)\n### Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – as it happened Thom Tillis, outgoing senator from North Carolina, placed hold on nomination of Michael LoSapio a day after his\n\n[3] House unconstitutionally passed spending bill in 2022, court rules (nbcnews.com)\nThe House of Representatives unconstitutionally passed a $1.7 trillion government funding bill in 2022 through a pandemic-era rule allowing lawmakers to vote by proxy rather than in person, a federal appeals court ruled on Friday. The New Orleans-based 5th U.S. Circuit Court of Appeals voted 9-8 to uphold an injunction that outgoing Republican Texas Attorney General Ken Paxton secured blocking enforcement of a provision of that measure that gave pregnant workers ... Friday’s ruling, powered by the 5th Circuit’s conservative majority, held that the proxy rule violated the U.S. ... While the …\n\n[4] AP News Summary at 9:53 p.m. EST | National News | mankatofreepress.com (mankatofreepress.com)\nWASHINGTON (AP) — A second federal judge has blocked President Donald Trump’s administration from building a ... a previous order that blocked the Trump administration from breaking ground on the arch on a more\n\n[5] Trump orders Justice Department to investigate Democrats over impeachment threats - [İLKHA] Ilke News Agency (ilkha.com)\nUS President Donald Trump on Saturday directed the Justice Department to investigate Democrats, accusing them of ... and other forms of punishment, without providing evidence to support his allegations. In a social media post, Trump described the\n\n[6] Daily news for November 21, 2026 | EL PAÍS in English (english.elpais.com)\n## What if the United States voted in 2028 the way it did in the midterms? Javier Figueroa| Nov 21, 2026 - 05:00 CET The Democratic wave was driven by sharp shifts among some voter groups. These simulators show what happens if those trends continue\n\n[7] 'I'm Going to Veto Unless...': Trump Warns Democrats, Signals Deal-Making with Jeffries | Republic World (republicworld.com)\n: US President Donald Trump on Friday (local time) indicated that he plans to use his veto power to pressure Democrats ... work with Democratic leader Hakeem Jeffries, who is poised to become the next Speaker of the\n\n[8] Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian (theguardian.com)\n- ### US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court Reactions to ICJ ruling underline global divisions over court with China raising concerns about judicial overreach\n\n[9] Supreme Court Chief Justice John Roberts Temporarily Allows White House Ballroom Construction to Resume - CNNBC (cnnbc.com)\nJohn Roberts issued a temporary administrative stay permitting the Trump administration to resume aboveground work on a contested four hundred million dollar White House ballroom and bunker project while the Supreme Court reviews an emergency appeal over\n\n[10] Trump Administration Moves to Claw Back Nearly $1 Billion in Approved Federal Spending - CNNBC (cnnbc.com)\n1 Billion in Approved Federal Spending The White House budget office announced the cancellation of nearly $1 billion in previously appropriated spending, prompting objections from congressional Democrats over executive authority and separation of powers.",
+  "hash": "625f3d8cb646bcc7b6317f1149bba894f602a49994d69952247a17bc5dd51398",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-21T05:05:07+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "News Summary",
+    "url": "https://www.nst.com.my/newssummary/1566480",
+    "source": "nst.com.my",
+    "published": "",
+    "excerpt": "#SHOWBIZ: Adam Driver, Scarlett Johansson star in New York family crime drama 'Paper Tiger' 21 November 2026, 9:47am - \"Paper Tiger\" is a crime thriller and family drama set in 1980s New York, rooted in filmmaker James Gray's personal history. - Director James Gray's film explores themes of parenthood and family, reflecting his personal experiences with age. - The film was shot using old-school technology, with actors concentrating on embodying characters rather than autobiographical specifics."
+   },
+   {
+    "title": "Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian",
+    "url": "https://www.theguardian.com/theguardian/2026/nov/21",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "- ### Gérard Depardieu and Michel Houellebecq investigated over on-set rape and assault allegations Actor and author are alleged to have attacked and gang-raped a woman while filming together in 2018 Gérard"
+   },
+   {
+    "title": "Daily news for November 21, 2026 | EL PAÍS in English",
+    "url": "https://english.elpais.com/archive/2026-11-21/",
+    "source": "english.elpais.com",
+    "published": "",
+    "excerpt": "## David Koppel, the paparazzo who was punched by Mick Jagger and David Bowie: ‘Nowadays celebrities don’t have that depth or class’ Ixone Arana| Madrid| Nov ... CET The British photographer presents ‘Spotlight’, a collection of photos"
+   },
+   {
+    "title": "Music 101 for Saturday 21 November 2026 Music 101 | RNZ",
+    "url": "https://www.rnz.co.nz/national/programmes/music101/20261121",
+    "source": "rnz.co.nz",
+    "published": "",
+    "excerpt": "### 1:15 Jordyn With a Why & band perform live at RNZ ... It’s been a huge few years for Jordyn with a Why. She’s picked up a Māori Music Award, an APRA Maioha Award, and Best Pacific Music Album for her debut Hibiscus Moon, Love & Justice. Recently her version of Olivia Dean’s 'Man I Need' took te reo Māori to a huge new audience, culminating in Jordyn performing it at Olivia’s sold-out Western Springs show last month. Now she’s released a brand new EP, Where You Water, and she’s here with her full band to perform some of it live."
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4010101-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Saudi Arabia once banned Grand Theft Auto. Now it's got a stake in it Grand Theft Auto, banned in Saudi Arabia until last year, ​is now being embraced not only by its gamers - a category that includes Crown Prince Mohammed bin Salman - but also by its sovereign ​wealth fund, which the prince chairs. This week, gamers in Saudi Arabia joined legions of fans ‌around ​the world to play Grand Theft Auto VI upon launch — the first new release of the top-selling series since a Saudi ban was scrapped in 2025. New 'Hunger Games' prequel traces trauma behind future rebellion The new \"Hunger Games\" prequel explores how young Haymitch Abernathy's ordeal in a deadly televised contest shapes him and helps sow the seeds of the rebellion against his country's oppressive rulers depicted in the later films. The films follow children, called tributes, who are forced ‌to fight to the death in a televised spectacle staged by the rulers of the fictional nation of Panem. Motor racing-Nike to become Formula One's official apparel and uniform partner Formula One's push to turn its rapid global growth into a broader lifestyle business took another step on Thursday with the announcement of a long-term partnership that will make Nike the sport's official apparel and uniform supplier from 2027. Nike will create co-branded uniforms for staff at Formula One events worldwide, as well as footwear, apparel and accessories for fans. Financial terms were not disclosed. ... 'Choosin' Texas' singer Langley beats Taylor Swift on way to Country Music Awards sweep Ella Langley and her unstoppable hit \"Choosin' Texas\" dominated the Country Music Association awards on Wednesday at a ceremony that also featured Taylor Swift's first performance at the CMAs in 13 years. Swift, ⁠who began her career in country music before finding megastardom in pop, went into the show in Nashville with one nomination for \"I Knew It, I Knew You\" from the \"Toy Story 5\" movie soundtrack. Ariana Grande and Ben Stiller feud in 'Focker In-Law' with flipped roles A battle of wits pits ⁠singer and actor Ariana Grande against Hollywood star and filmmaker Ben Stiller in \"Focker ⁠In-Law\". The fourth installment in the \"Fockers\" comedy film franchise comes 26 years after Stiller and Robert De Niro introduced audiences to quarrelling male nurse Greg Focker and retired CIA operative Jack Byrnes in \"Meet the Parents\"."
+   },
+   {
+    "title": "Movies Coming Out November 21, 2026",
+    "url": "https://www.movieinsider.com/movies/november/2026/21",
+    "source": "movieinsider.com",
+    "published": "",
+    "excerpt": "## Saturday, November 21 ### Insidious: Out of the Further PG-13 Amelia Eve stars as Gemma, a young mother raising her daughter in the house she grew up in who discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn’t just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground. Laura Gordon, Jason Blum, Lin Shaye, Jacob Chase, Sam Spruell, Island Austin, Amelia Eve, Maisie Richardson-Sellers Sequel Thriller Suspense Where to Watch: Netflix More Info Buy DVD on Amazon ... ### Cactus Pears Anand, a 30-something city dweller compelled to spend a 10-day mourning period for his father in the rugged countryside of western India, tenderly bonds with a local farmer who is struggling to stay unmarried. As the mourning ends, forcing his return, Anand must decide the fate of his relationship born under duress. Suraaj Suman, Rohan Kanawade, Bhushaan Manoj, Jayshri Jagtap, Nitin Bansode Drama Where to Watch: Limited Theaters More Info Buy tickets at Fandango"
+   },
+   {
+    "title": "Ella Langley, Wham!, Mariah Carey & More: Chart Highlights",
+    "url": "https://www.billboard.com/lists/ella-langley-wham-mariah-carey-chart-highlights-nov-21-2026/",
+    "source": "billboard.com",
+    "published": "",
+    "excerpt": "- ## Ella Langley “Choosin’ Texas” continues for a record-extending 28th week atop the Hot 100. Plus, it breaks out of a tie with Carey’s “All I Want for Christmas Is You” for the most weeks — 27 — achieved at No. 1 on the Streaming Songs chart. - ## Olivia Rodrigo you seem pretty sad for a girl so in love is No. 1 on the Billboard 200 for a fifth week, tying 2021’s Sour for her longest command. - ## Lil Baby He earns his fifth Top R&B/Hip-Hop Albums No. 1 and his eighth Billboard 200 top 10 with Fresh. ... 1, first Top Album Sales leader and third Billboard 200 top 10 with Blow Up."
+   },
+   {
+    "title": "Billboard Hot 100™",
+    "url": "https://www.billboard.com/charts/hot-100/2026-11-21/",
+    "source": "billboard.com",
+    "published": "",
+    "excerpt": "THE WEEK’S MOST POPULAR CURRENT SONGS ACROSS ALL GENRES, RANKED BY STREAMING ACTIVITY DATA BY ONLINE MUSIC SOURCES TRACKED BY LUMINATE, RADIO AIRPLAY AUDIENCE IMPRESSIONS AS MEASURED BY MEDIABASE AND PROVIDED BY LUMINATE AND SALES DATA AS COMPILED BY"
+   },
+   {
+    "title": "Breaking News | TheFutonCritic.com - The Web's Best Television Resource",
+    "url": "http://www.thefutoncritic.com/news/2026/11/21/",
+    "source": "thefutoncritic.com",
+    "published": "",
+    "excerpt": ":00 PM] \"The 60th Annual CMA Awards\" Vaults to Seven-Year High ... for a third consecutive year, \"The 60th Annual CMA Awards\" rose by double digits over last year in both Total Viewers and Adults 18-49, drawing its largest overall audience in seven years"
+   },
+   {
+    "title": "Celebs & TV News Today (Nov 21): Today in Celebs & TV",
+    "url": "https://todayin.email/e/t-celebs-and-tv",
+    "source": "todayin.email",
+    "published": "",
+    "excerpt": "in Celebs & TV (Saturday, November 21, 2026): Today in ... . Also: CMA Awards viewership reaches seven-year high, signaling strong audience interest in country music awards; Rhea Seehorn returns to Apple TV in new series following Ted Lasso's conclusion."
+   }
+  ],
+  "text": "[1] News Summary (nst.com.my)\n#SHOWBIZ: Adam Driver, Scarlett Johansson star in New York family crime drama 'Paper Tiger' 21 November 2026, 9:47am - \"Paper Tiger\" is a crime thriller and family drama set in 1980s New York, rooted in filmmaker James Gray's personal history. - Director James Gray's film explores themes of parenthood and family, reflecting his personal experiences with age. - The film was shot using old-school technology, with actors concentrating on embodying characters rather than autobiographical specifics.\n\n[2] Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian (theguardian.com)\n- ### Gérard Depardieu and Michel Houellebecq investigated over on-set rape and assault allegations Actor and author are alleged to have attacked and gang-raped a woman while filming together in 2018 Gérard\n\n[3] Daily news for November 21, 2026 | EL PAÍS in English (english.elpais.com)\n## David Koppel, the paparazzo who was punched by Mick Jagger and David Bowie: ‘Nowadays celebrities don’t have that depth or class’ Ixone Arana| Madrid| Nov ... CET The British photographer presents ‘Spotlight’, a collection of photos\n\n[4] Music 101 for Saturday 21 November 2026 Music 101 | RNZ (rnz.co.nz)\n### 1:15 Jordyn With a Why & band perform live at RNZ ... It’s been a huge few years for Jordyn with a Why. She’s picked up a Māori Music Award, an APRA Maioha Award, and Best Pacific Music Album for her debut Hibiscus Moon, Love & Justice. Recently her version of Olivia Dean’s 'Man I Need' took te reo Māori to a huge new audience, culminating in Jordyn performing it at Olivia’s sold-out Western Springs show last month. Now she’s released a brand new EP, Where You Water, and she’s here with her full band to perform some of it live.\n\n[5] Reuters Entertainment News Summary | International (devdiscourse.com)\nSaudi Arabia once banned Grand Theft Auto. Now it's got a stake in it Grand Theft Auto, banned in Saudi Arabia until last year, ​is now being embraced not only by its gamers - a category that includes Crown Prince Mohammed bin Salman - but also by its sovereign ​wealth fund, which the prince chairs. This week, gamers in Saudi Arabia joined legions of fans ‌around ​the world to play Grand Theft Auto VI upon launch — the first new release of the top-selling series since a Saudi ban was scrapped in 2025. New 'Hunger Games' prequel traces trauma behind future rebellion The new \"Hunger Games\" …\n\n[6] Movies Coming Out November 21, 2026 (movieinsider.com)\n## Saturday, November 21 ### Insidious: Out of the Further PG-13 Amelia Eve stars as Gemma, a young mother raising her daughter in the house she grew up in who discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn’t just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground. Laura Gordon, Jason Blum, Lin Shaye, Jacob Chase, Sam Spruell, Island …\n\n[7] Ella Langley, Wham!, Mariah Carey & More: Chart Highlights (billboard.com)\n- ## Ella Langley “Choosin’ Texas” continues for a record-extending 28th week atop the Hot 100. Plus, it breaks out of a tie with Carey’s “All I Want for Christmas Is You” for the most weeks — 27 — achieved at No. 1 on the Streaming Songs chart. - ## Olivia Rodrigo you seem pretty sad for a girl so in love is No. 1 on the Billboard 200 for a fifth week, tying 2021’s Sour for her longest command. - ## Lil Baby He earns his fifth Top R&B/Hip-Hop Albums No. 1 and his eighth Billboard 200 top 10 with Fresh. ... 1, first Top Album Sales leader and third Billboard 200 top 10 with Blow Up.\n\n[8] Billboard Hot 100™ (billboard.com)\nTHE WEEK’S MOST POPULAR CURRENT SONGS ACROSS ALL GENRES, RANKED BY STREAMING ACTIVITY DATA BY ONLINE MUSIC SOURCES TRACKED BY LUMINATE, RADIO AIRPLAY AUDIENCE IMPRESSIONS AS MEASURED BY MEDIABASE AND PROVIDED BY LUMINATE AND SALES DATA AS COMPILED BY\n\n[9] Breaking News | TheFutonCritic.com - The Web's Best Television Resource (thefutoncritic.com)\n:00 PM] \"The 60th Annual CMA Awards\" Vaults to Seven-Year High ... for a third consecutive year, \"The 60th Annual CMA Awards\" rose by double digits over last year in both Total Viewers and Adults 18-49, drawing its largest overall audience in seven years\n\n[10] Celebs & TV News Today (Nov 21): Today in Celebs & TV (todayin.email)\nin Celebs & TV (Saturday, November 21, 2026): Today in ... . Also: CMA Awards viewership reaches seven-year high, signaling strong audience interest in country music awards; Rhea Seehorn returns to Apple TV in new series following Ted Lasso's conclusion.",
+  "hash": "fbaa172ff111a8d2478651a3783f18bc770e52397f258ad670c4080e91314909",
+  "notes": []
+ }
+}
