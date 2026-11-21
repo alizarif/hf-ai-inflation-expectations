@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-21T13:04:11+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-21T13:04:11+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Morning Briefing: Nov. 21, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "Here's a rundown of all the news you need to know for Saturday, including US President Donald Trump threatening military action against Iran for a rumored \"dirty bomb\" plot targeting Washington and downplaying a wave of US outages, Denmark expelling the Russian defense attache and halting non-essential visas for Russian citizens, and German Chancellor Friedrich Merz calling for a \"360-degree partnership\" with Qatar. US President Donald Trump threatened military action against Iran for a rumored \"dirty bomb\" plot targeting Washington, saying: \"If they do (that), we’re going to fight.\" He insisted his administration is closely monitoring Tehran and had extensive intelligence on its activities. \"We will not allow that.\" Speaking at his first news conference since returning from Asia, Trump also downplayed a wave of banking, technology, and service outages across the country, attributing many to companies upgrading their systems and saying \"they’re all separate events.\" He blamed air traffic control disruptions on infrastructure that is \"55 years old and older\" and said his administration is seeking $50 billion from Congress to build a new system. ... - Denmark expels Russian defense attache, halts non-essential visas for Russians Denmark has ordered the Russian defense attache to leave within seven days and will halt all non-essential visas for Russian citizens, according to Foreign Minister Lars Lokke Rasmussen. He called the expulsion a strong signal to Moscow, adding \"enough is enough,\" and said Denmark is continuing to support Ukraine. Rasmussen said the government plans to lift the obligation to receive ships linked to Russia and would discuss visa restrictions with other Schengen countries, singling out France, while Denmark will not expel all Russian diplomats as it needs to maintain communication with Moscow. ... - Germany's Merz hails strategic ties with Qatar, seeks '360-degree partnership' German Chancellor Friedrich Merz called for a \"360-degree partnership\" with Qatar, welcoming its pledge to invest an additional €15 billion ($16.5 billion) in Germany and praising its efforts to end the war between the US and Iran. \"Qatar is doing an incredibly valuable job as a mediator between the parties to the conflict,\" he told a news conference in Berlin with Qatari Emir Sheikh Tamim bin Hamad Al Thani. Merz said the leaders agreed to expand cooperation in the economy, energy, defense, and security, and that Syria’s reconstruction remains a shared priority, with the investment expected to strengthen areas such as artificial intelligence, semiconductors, and aviation. Germany and Qatar signed two agreements to strengthen security and defense cooperation. Sheikh Tamim described Germany as an important partner and"
+   },
+   {
+    "title": "Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian",
+    "url": "https://www.theguardian.com/theguardian/2026/nov/21",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "- ### Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit Agreements reached on food and drink, emissions and to allow young people to move around continent, but may be derailed over student fees"
+   },
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/21",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "ago - Politics & Policy ## Black organizers plot the South's next power shift ... Updated 15 hours ago - Politics & Policy ## Second judge to block Trump's contested D.C. arch ... overhaul from every direction - Julianna Bragg Updated 18 hours ago -"
+   },
+   {
+    "title": "Top news of the day November 21, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/top-news-of-the-day-november-21-2026/article71728335.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "#### Iran-U.S. negotiations stalled over uranium enrichment dispute, mediators warn of renewed conflict: reports Negotiations between the United States and Iran have stalled over disagreements concerning Tehran’s enriched uranium stockpile, with mediators warning that they cannot guarantee a return to military escalation in West Asia. Washington is insisting on a clear roadmap and written guarantees from Iran that it will eliminate its enriched uranium stockpile and refrain from resuming uranium enrichment in the future, Al Arabiya English reported, citing a senior source. However, both sides have maintained firm positions on the issue despite several proposals put forward by mediators to bridge their differences, the report said."
+   },
+   {
+    "title": "The Hindu Morning Digest: November 21, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/morning-digest-november-21-2026/article71726209.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": ", 2026) for his involvement in a murder-for ... and conspiracy to commit money laundering, in connection with his efforts to murder Khalistani separatist Gurpatwant Singh Pannun in New York. Judge Victor"
+   },
+   {
+    "title": "Bulletin Quotidien Europe - Content | AGENCE EUROPE",
+    "url": "https://agenceurope.eu/en/bulletin/sommaire/13986",
+    "source": "agenceurope.eu",
+    "published": "",
+    "excerpt": "EXTERNAL ACTION UNITED KINGDOM: one year after reset summit, EU and London taking steps towards further rapprochement MYANMAR: EU welcomes International Court of Justice judgment finding Myanmar guilty of genocide against Rohingya"
+   },
+   {
+    "title": "AP News Summary at 7:23 a.m. EST | National | guardonline.com",
+    "url": "https://www.guardonline.com/news/national/ap-news-summary-at-6-48-a-m-est/article_938da7c4-63ac-51ef-a3bf-cf4262195c44.html",
+    "source": "guardonline.com",
+    "published": "",
+    "excerpt": "KYIV, Ukraine (AP) — A Russian strike on Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, has killed two ... -old boy and a 20-year-old woman were killed in the attack Friday night. The strike damaged apartment buildings, a hospital, schools"
+   },
+   {
+    "title": "Daily news for November 21, 2026 | EL PAÍS in English",
+    "url": "https://english.elpais.com/archive/2026-11-21/",
+    "source": "english.elpais.com",
+    "published": "",
+    "excerpt": "Healthcare workers on the front line of Ebola: ‘One day patients may seem fine and ... next they are dead’ Doctors Without Borders (MSF)| Mongbwalu| ... since the outbreak of the deadliest disease in the history of the Democratic Republic of the"
+   },
+   {
+    "title": "World news digest for November 21, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-21",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "a tanker convoy to try to break the US naval blockade, turning the standoff in the Strait ... , Trump said he was not rushing a decision on new strikes and would talk about them after the start of next year, a timeline that extends an earlier suggestion"
+   },
+   {
+    "title": "Europe Tonight: EU and UK strike post-Brexit reset deal as Russian missiles hit Poland | Euronews",
+    "url": "https://www.euronews.com/2026/11/20/europe-tonight-eu-and-uk-strike-post-brexit-reset-deal-as-russian-missiles-hit-poland",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "issues: a concrete roadmap to phase out fossil fuels, ensuring the 35% by 2035 electrification goal relies on clean energy, delivering climate finance, and guaranteeing a just transition that leaves no one behind"
+   }
+  ],
+  "text": "[1] Morning Briefing: Nov. 21, 2026 (aa.com.tr)\nHere's a rundown of all the news you need to know for Saturday, including US President Donald Trump threatening military action against Iran for a rumored \"dirty bomb\" plot targeting Washington and downplaying a wave of US outages, Denmark expelling the Russian defense attache and halting non-essential visas for Russian citizens, and German Chancellor Friedrich Merz calling for a \"360-degree partnership\" with Qatar. US President Donald Trump threatened military action against Iran for a rumored \"dirty bomb\" plot targeting Washington, saying: \"If they do (that), we’re going to fight.\" He …\n\n[2] Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian (theguardian.com)\n- ### Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit Agreements reached on food and drink, emissions and to allow young people to move around continent, but may be derailed over student fees\n\n[3] Axios (axios.com)\nago - Politics & Policy ## Black organizers plot the South's next power shift ... Updated 15 hours ago - Politics & Policy ## Second judge to block Trump's contested D.C. arch ... overhaul from every direction - Julianna Bragg Updated 18 hours ago -\n\n[4] Top news of the day November 21, 2026 - The Hindu (thehindu.com)\n#### Iran-U.S. negotiations stalled over uranium enrichment dispute, mediators warn of renewed conflict: reports Negotiations between the United States and Iran have stalled over disagreements concerning Tehran’s enriched uranium stockpile, with mediators warning that they cannot guarantee a return to military escalation in West Asia. Washington is insisting on a clear roadmap and written guarantees from Iran that it will eliminate its enriched uranium stockpile and refrain from resuming uranium enrichment in the future, Al Arabiya English reported, citing a senior source. However, both sides …\n\n[5] The Hindu Morning Digest: November 21, 2026 - The Hindu (thehindu.com)\n, 2026) for his involvement in a murder-for ... and conspiracy to commit money laundering, in connection with his efforts to murder Khalistani separatist Gurpatwant Singh Pannun in New York. Judge Victor\n\n[6] Bulletin Quotidien Europe - Content | AGENCE EUROPE (agenceurope.eu)\nEXTERNAL ACTION UNITED KINGDOM: one year after reset summit, EU and London taking steps towards further rapprochement MYANMAR: EU welcomes International Court of Justice judgment finding Myanmar guilty of genocide against Rohingya\n\n[7] AP News Summary at 7:23 a.m. EST | National | guardonline.com (guardonline.com)\nKYIV, Ukraine (AP) — A Russian strike on Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, has killed two ... -old boy and a 20-year-old woman were killed in the attack Friday night. The strike damaged apartment buildings, a hospital, schools\n\n[8] Daily news for November 21, 2026 | EL PAÍS in English (english.elpais.com)\nHealthcare workers on the front line of Ebola: ‘One day patients may seem fine and ... next they are dead’ Doctors Without Borders (MSF)| Mongbwalu| ... since the outbreak of the deadliest disease in the history of the Democratic Republic of the\n\n[9] World news digest for November 21, 2026 | World Watch (worldwatch.media)\na tanker convoy to try to break the US naval blockade, turning the standoff in the Strait ... , Trump said he was not rushing a decision on new strikes and would talk about them after the start of next year, a timeline that extends an earlier suggestion\n\n[10] Europe Tonight: EU and UK strike post-Brexit reset deal as Russian missiles hit Poland | Euronews (euronews.com)\nissues: a concrete roadmap to phase out fossil fuels, ensuring the 35% by 2035 electrification goal relies on clean energy, delivering climate finance, and guaranteeing a just transition that leaves no one behind",
+  "hash": "f19e0e0064c04ec4372693134ba24f1ae3ef5245a9b5902a18076e5f08ae5e67",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-21T13:04:25+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Fed officials consider faster rate hikes | Features | messenger-inquirer.com",
+    "url": "https://www.messenger-inquirer.com/features/fed-officials-consider-faster-rate-hikes/article_bd5b0009-3370-5ca6-9c8e-bff0c8ac5f4b.html",
+    "source": "messenger-inquirer.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — More evidence this week of hot inflation in the U.S. was unpleasant news for the Federal Reserve, not to mention consumers: Rising prices may be spreading beyond the one-time shocks from tariffs and high gas prices into the wider economy, meaning that mortgages, credit cards and other forms of borrowing are likely to become increasingly expensive. Tuesday's consumer price index report showed broadly rising costs across a range of goods and services, some with little connection to more expensive oil and gas or surging investment in artificial intelligence data centers, another factor blamed for worsening inflation. And there is increasing anxiety among Fed officials that higher oil prices stemming from the Iran war may last longer than previously thought."
+   },
+   {
+    "title": "Fed's Cook says rate hikes needed to lower high inflation - The Korea Times",
+    "url": "https://www.koreatimes.co.kr/world/20261121/feds-cook-says-rate-hikes-needed-to-lower-high-inflation",
+    "source": "koreatimes.co.kr",
+    "published": "",
+    "excerpt": "Federal Reserve Governor Lisa Cook on Friday made a case for more interest rate hikes, saying the U.S. central bank's current policy rate is not high enough to deal with inflation levels she views with \"great concern.\" \"In a different environment, the (Federal Open Market) Committee could afford to be patient, but I continue to believe that in this economic climate we do not have that luxury,\" given how high inflation is and for how long it has been above the Fed's 2 percent target, Cook said in the text of a speech to be presented at a central bank conference in Chile. Cook said the quarter-percentage-point rate hike the Fed delivered at its September 15-16 policy meeting was not enough to moderate current levels of inflation. What's more, \"inflation data received since the September rate increase, including reports last week, fail to provide me with sufficient evidence that inflation is returning to a sustainable path,\" she said. \"There is little evidence inflation is declining.\" Cook, who voted for a rate hike at that meeting, was one of two Fed officials who dissented over the Fed's decision last month to leave its policy rate in the 3.75 percent-4.00 percent range. Officials at the October 27-28 meeting signaled that inflation remained too high then even as they refrained from action. Regarding her dissent in October, Cook said, \"My vote reflected the urgency I feel to tackle inflation,\" which \"has been above target for more than five and a half years, and every additional day poses greater risk that price- and wage-setters will adjust their inflation expectations upward.\" ... Cook on Friday said the risk of not acting fast enough to lower inflation could bring more pain later. \"Waiting longer to implement rate increases risks getting behind the curve,\" she said. \"If we fall behind, additional and larger rate increases may be required later to catch up, which could increase stress on our financial system and have unnecessarily damaging effects on American households.\" The Fed governor noted that financial conditions remain accommodative and are not providing the needed level of restraint on the economy. Cook, however, was upbeat on the economy. She said growth is \"strong and accelerating\" and that the job market remains \"solid.\""
+   },
+   {
+    "title": "US recession gauges show no alarms on Nov. 20, St. Louis Fed says | EconoTimes",
+    "url": "https://econotimes.com/US-recession-gauges-show-no-alarms-on-Nov-20-St-Louis-Fed-says-1780551",
+    "source": "econotimes.com",
+    "published": "",
+    "excerpt": "rule stood at 0.00, below its 0.5 ... . The U.S. unemployment rate was 4.1%, unchanged from its one-year low, the Labor Department said. The gauge has a threshold of 0.0 percentage point above that low in the"
+   },
+   {
+    "title": "Fed's Cook says inflation has been above target for 67 months and defends her call for a second rise | FinanceInTime",
+    "url": "https://financeintime.com/news/2026/11/21/fed-s-cook-says-inflation-has-been-above-target-for-67-months-and-defends-her",
+    "source": "financeintime.com",
+    "published": "",
+    "excerpt": "12-month change in the personal consumption expenditures (PCE) ... , was 3.2%. She said the most recent release showed prices rising briskly in a very broad range of categories, including airfare, appliances, furniture, hotels and restaurants. That point"
+   },
+   {
+    "title": "US consumer prices rise briskly for third straight month | Reuters",
+    "url": "https://www.reuters.com/5f374b32b07b/world/us/us-consumer-prices-rise-above-expectations-october-2026-11-10/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": "Labor Statistics said. It was the third consecutive month of ​gains of ... year-over-year inflation readings because last year's federal government ⁠shutdown prevented the collection of consumer price data in October 2025, leaving no comparison base."
+   },
+   {
+    "title": "CPI inflation report: October 2026",
+    "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": ", consumers continue to spend — retail sales rose 0.8% ... A net 37% of businesses responding to the October National Federation of Independent Business survey reported that they plan to raise prices in the next three months, the highest level since July"
+   },
+   {
+    "title": "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says - CBS News",
+    "url": "https://www.cbsnews.com/news/ai-boom-inflation-chicago-fed-goolsbee/",
+    "source": "cbsnews.com",
+    "published": "",
+    "excerpt": "The boom in AI data center construction is adding to the nation's \"borderline disturbingly high\" inflation, with the ... s massive business investment indirectly contributing to rising service prices, Federal Reserve Bank of Chicago President Austan"
+   },
+   {
+    "title": "Fed minutes October 2026: Officials expect more rate hikes, worry about AI",
+    "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Federal Reserve officials expressed confidence in October that further interest rate increases will be needed to stem ... at the core of their discussions, indicating that demand associated with the technology would be \"a material source of"
+   },
+   {
+    "title": "President Donald Trump's Economy and the AI-Driven Stock Market Are in Trouble, Thanks to a Newly Identified Source of Inflation | The Motley Fool",
+    "url": "https://www.fool.com/investing/2026/11/21/donald-trump-economy-ai-driven-stock-market-in-trouble-newly-identified-source-of-inflation/",
+    "source": "fool.com",
+    "published": "",
+    "excerpt": "By Sean Williams – Nov 21, 2026 at 4:06AM EST ... The FOMC's minutes for the June meeting contained the following statement: > Core goods price inflation had risen relative to a year earlier, which the staff judged as largely reflecting the effects of"
+   },
+   {
+    "title": "Austan Goolsbee calls inflation report 'borderline disturbing' as Fed weighs more hikes",
+    "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Wed, Nov 11 2026 8:16 AM EST Updated Wed ... \"It's another distressing report — borderline disturbing,\" Goolsbee said in an interview with \"PBS NewsHour\" on Tuesday. \"We ... inflation issue on our hands that has been developing,\" Goolsbee said. \"We're"
+   }
+  ],
+  "text": "[1] Fed officials consider faster rate hikes | Features | messenger-inquirer.com (messenger-inquirer.com)\nWASHINGTON (AP) — More evidence this week of hot inflation in the U.S. was unpleasant news for the Federal Reserve, not to mention consumers: Rising prices may be spreading beyond the one-time shocks from tariffs and high gas prices into the wider economy, meaning that mortgages, credit cards and other forms of borrowing are likely to become increasingly expensive. Tuesday's consumer price index report showed broadly rising costs across a range of goods and services, some with little connection to more expensive oil and gas or surging investment in artificial intelligence data centers, …\n\n[2] Fed's Cook says rate hikes needed to lower high inflation - The Korea Times (koreatimes.co.kr)\nFederal Reserve Governor Lisa Cook on Friday made a case for more interest rate hikes, saying the U.S. central bank's current policy rate is not high enough to deal with inflation levels she views with \"great concern.\" \"In a different environment, the (Federal Open Market) Committee could afford to be patient, but I continue to believe that in this economic climate we do not have that luxury,\" given how high inflation is and for how long it has been above the Fed's 2 percent target, Cook said in the text of a speech to be presented at a central bank conference in Chile. Cook said the …\n\n[3] US recession gauges show no alarms on Nov. 20, St. Louis Fed says | EconoTimes (econotimes.com)\nrule stood at 0.00, below its 0.5 ... . The U.S. unemployment rate was 4.1%, unchanged from its one-year low, the Labor Department said. The gauge has a threshold of 0.0 percentage point above that low in the\n\n[4] Fed's Cook says inflation has been above target for 67 months and defends her call for a second rise | FinanceInTime (financeintime.com)\n12-month change in the personal consumption expenditures (PCE) ... , was 3.2%. She said the most recent release showed prices rising briskly in a very broad range of categories, including airfare, appliances, furniture, hotels and restaurants. That point\n\n[5] US consumer prices rise briskly for third straight month | Reuters (reuters.com)\nLabor Statistics said. It was the third consecutive month of ​gains of ... year-over-year inflation readings because last year's federal government ⁠shutdown prevented the collection of consumer price data in October 2025, leaving no comparison base.\n\n[6] CPI inflation report: October 2026 (cnbc.com)\n, consumers continue to spend — retail sales rose 0.8% ... A net 37% of businesses responding to the October National Federation of Independent Business survey reported that they plan to raise prices in the next three months, the highest level since July\n\n[7] AI is fueling \"disturbingly high\" inflation, Chicago Fed president says - CBS News (cbsnews.com)\nThe boom in AI data center construction is adding to the nation's \"borderline disturbingly high\" inflation, with the ... s massive business investment indirectly contributing to rising service prices, Federal Reserve Bank of Chicago President Austan\n\n[8] Fed minutes October 2026: Officials expect more rate hikes, worry about AI (cnbc.com)\nFederal Reserve officials expressed confidence in October that further interest rate increases will be needed to stem ... at the core of their discussions, indicating that demand associated with the technology would be \"a material source of\n\n[9] President Donald Trump's Economy and the AI-Driven Stock Market Are in Trouble, Thanks to a Newly Identified Source of Inflation | The Motley Fool (fool.com)\nBy Sean Williams – Nov 21, 2026 at 4:06AM EST ... The FOMC's minutes for the June meeting contained the following statement: > Core goods price inflation had risen relative to a year earlier, which the staff judged as largely reflecting the effects of\n\n[10] Austan Goolsbee calls inflation report 'borderline disturbing' as Fed weighs more hikes (cnbc.com)\nWed, Nov 11 2026 8:16 AM EST Updated Wed ... \"It's another distressing report — borderline disturbing,\" Goolsbee said in an interview with \"PBS NewsHour\" on Tuesday. \"We ... inflation issue on our hands that has been developing,\" Goolsbee said. \"We're",
+  "hash": "2d23830d37f24c18f8b9895a4552ac846edb5c029434108444bd3ed515b6a456",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-21T13:04:34+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/21",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "& Policy ## Second judge to block Trump's contested D.C. arch ... Bragg Updated 18 hours ago - Politics & Policy ## Trump floats taxing U.S. companies constructing data ... ## Trump secretary's Christian messages to staff went \"too far,\" judge rules"
+   },
+   {
+    "title": "Weekend Edition Saturday for November 21, 2026 : NPR",
+    "url": "https://www.npr.org/programs/weekend-edition-saturday/nx-s1-6026206/weekend-edition-saturday-for-november-21-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats by Adam Wagner ... ### Senate permitting bill speeds up renewables, divides greens over oil and gas by Matthew Brown, Scott Simon #### Senate permitting bill speeds up"
+   },
+   {
+    "title": "US news | US news | The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/21/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "### Race to lead Senate Democrats the latest battlefield in party’s tussle over Israel Chris Van Hollen and Chuck Schumer represent conflicting visions on issue that has become ‘litmus test’ for Democratic voters"
+   },
+   {
+    "title": "GOP set to block Trump Pentagon picks as other military moves face headwinds - The Washington Post",
+    "url": "https://www.washingtonpost.com/national-security/2026/11/21/gop-set-block-trump-pentagon-picks-other-military-moves-face-headwinds/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "Senate Republicans are poised to block at least two of President Donald Trump’s nominees for senior Pentagon roles, escalating intense policy disagreements within the GOP, according to current and former officials familiar with the matter."
+   },
+   {
+    "title": "Trump orders federal contractors to notify White House before giving Congress information",
+    "url": "https://www.cnbc.com/2026/11/21/trump-orders-federal-contractors-to-notify-white-house-before-giving-congress-information.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "President Donald Trump on Friday ordered companies with federal contracts to alert the White House before sharing information with Congress and to withhold material the administration deems confidential, expanding his efforts to limit congressional oversight ahead of Democrats taking control of Congress in January. Trump's executive order, issued late on Friday, applies to federal contractors and their subcontractors. Companies that fail to comply could face cancellation of existing contracts or suspension from future federal business, it said. The order is part of a broader effort by the Republican president to control what information reaches Congress and limit Democratic investigations into his administration, setting up a potentially significant battle over presidential power and lawmakers' authority to scrutinize the White House. Democrats, who won control of both chambers of Congress in this month's midterm elections, have vowed to investigate Trump's administration, his family's business dealings and its relationships with private companies. Friday's order follows a directive issued this week by White House Counsel Will Scharf requiring federal agencies to obtain White House approval before employees agree to testify before Congress. Scharf said certain Democratic investigations could amount to criminal conduct, a claim that has raised questions about the administration's attempts to limit congressional oversight. The restrictions could face legal challenges, particularly if contractors are told to withhold information sought through congressional subpoenas. Executive privilege allows presidents to protect certain confidential communications, but courts can intervene in disputes over Congress' authority to obtain information. Democrats are preparing to investigate potential conflicts of interest, federal contracts, immigration enforcement and the administration's handling of the Jeffrey Epstein investigation. Representative Robert Garcia of California, who is set to lead the House Oversight Committee, this week asked 12 of Trump's top allies, former aides and family members to preserve documents related to alleged Trump family corruption and government misconduct. ... The White House defended Friday's order as necessary to protect sensitive government communications, including those involving national security. It said contractors responding independently to congressional requests could expose privileged information and force the administration into costly legal disputes."
+   },
+   {
+    "title": "Morning News Brief - The Center Voter",
+    "url": "https://centervoter.com/p/morning-news-brief-31e",
+    "source": "centervoter.com",
+    "published": "",
+    "excerpt": "a trade that would provide extra defense money in exchange for a ban on funding for the Iran war. The proposal would bar money for new offensive operations unless Congress authorizes the war, with an exception for defense against enemy attack. Democrats"
+   },
+   {
+    "title": "Democrats won big in the midterms. So now what? By Reuters",
+    "url": "https://www.investing.com/news/politics-news/democrats-won-big-in-the-midterms-so-now-what-5043382",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 21 (Reuters) - Democrats basking in their November 3 election wins will soon unveil an ambitious legislative agenda for the first 100 days and beyond, in a test of progressives’ influence and Republicans’ willingness to cooperate, as they take control of the US Congress on January 3. That agenda is likely to be unveiled in early December once a Senate leadership race is settled. It will mark a thunderous reversal of the past two years, when President Donald Trump’s Republicans ruled the Senate and House of Representatives. With their narrow majorities, they rammed through major tax cuts skewed toward the rich and stood by as Trump grabbed their powers over tariffs and spending. Democrats’ new majorities in Congress are anything but narrow. With a 56-44 majority in the Senate they are four votes short of the 60 votes needed to advance most legislation. In the House, their 257-172 force could grow beyond an 85-vote margin once a handful of races are settled. \"This is a realignment,\" said Democratic Senator Raphael Warnock of Georgia in a post-election interview with reporters. But in a warning to Democrats, veteran Republican Senator John Boozman of Arkansas said in an interview that despite his party’s losses across the United States, Trump remains \"a powerful force\" and \"I don’t see any of his vetoes getting overridden\" by Congress during his remaining two years in office. ... For months, Democrats have been plotting a House-Senate coordinated attack to undo Trump’s major accomplishments, according to lawmakers and aides. With the high cost of living the top concern voiced by voters, Democratic leaders are going after the low-hanging fruit that also would help unite their party’s progressives and moderates. Early votes are expected on legislation handcuffing Trump’s ability to wage war on Iran without Congress’ approval, which would help lower gasoline prices. Reversing Republicans’ deep cuts to Medicaid and SNAP food stamp programs would begin helping the poor meet healthcare and grocery costs. Meanwhile, progressives have urged raising the federal minimum wage, which is unchanged since 2009 at $7.25 per hour. Some are pushing for $20 to $25. And in response to voter disgust over Washington ethics breaches, one of the first bills Democrats are expected to present is one barring lawmakers from insider trading of stocks. Republicans face a bind: joining Democrats could anger Trump unless he backs measures, while stonewalling could anger voters."
+   },
+   {
+    "title": "Most new Black Democrats in decades to join US Congress, set to sway policy, party By Reuters",
+    "url": "https://www.investing.com/news/politics-news/most-new-black-democrats-in-decades-to-join-us-congress-set-to-sway-policy-party-5043383",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "The electoral outcome sets up a test of whether increased Black representation can translate into legislative power. Congress will include 13 new Black Democratic members, the largest cohort since 1993, House historian data showed. Four are 34 years old or younger, and more than half of Black House members were first seated in 2021 or later. The influx of Black lawmakers could reshape Congress’ legislative priorities on voting rights, healthcare affordability and economic inequality, while giving a new generation of leaders a greater voice in shaping Democratic policy, political observers say. But the lawmakers’ influence will depend on whether they can translate their growing numbers into powerful committee"
+   },
+   {
+    "title": "Daily news for November 21, 2026 | EL PAÍS in English",
+    "url": "https://english.elpais.com/archive/2026-11-21/",
+    "source": "english.elpais.com",
+    "published": "",
+    "excerpt": "faces task of reforming Trump’s immigration agenda Patricia Caro| Washington| Nov ... The appointment of Stephen Miller as White House chief of staff casts a shadow over hopes of reaching agreements with Republicans and overcoming the president’s"
+   },
+   {
+    "title": "US V-P Vance declines to say he would have ordered Iran strikes | The Straits Times",
+    "url": "https://www.straitstimes.com/world/middle-east/us-vice-president-vance-declines-to-say-he-would-have-ordered-iran-strikes",
+    "source": "straitstimes.com",
+    "published": "",
+    "excerpt": "the decision to attack Iran in February was Trump’s call “and my job is to support the president of the ... The answer underscored the delicate balancing act the Vice-President and his party face as the Iran conflict creates domestic political challenges."
+   }
+  ],
+  "text": "[1] Axios (axios.com)\n& Policy ## Second judge to block Trump's contested D.C. arch ... Bragg Updated 18 hours ago - Politics & Policy ## Trump floats taxing U.S. companies constructing data ... ## Trump secretary's Christian messages to staff went \"too far,\" judge rules\n\n[2] Weekend Edition Saturday for November 21, 2026 : NPR (npr.org)\n### How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats by Adam Wagner ... ### Senate permitting bill speeds up renewables, divides greens over oil and gas by Matthew Brown, Scott Simon #### Senate permitting bill speeds up\n\n[3] US news | US news | The Guardian (theguardian.com)\n### Race to lead Senate Democrats the latest battlefield in party’s tussle over Israel Chris Van Hollen and Chuck Schumer represent conflicting visions on issue that has become ‘litmus test’ for Democratic voters\n\n[4] GOP set to block Trump Pentagon picks as other military moves face headwinds - The Washington Post (washingtonpost.com)\nSenate Republicans are poised to block at least two of President Donald Trump’s nominees for senior Pentagon roles, escalating intense policy disagreements within the GOP, according to current and former officials familiar with the matter.\n\n[5] Trump orders federal contractors to notify White House before giving Congress information (cnbc.com)\nPresident Donald Trump on Friday ordered companies with federal contracts to alert the White House before sharing information with Congress and to withhold material the administration deems confidential, expanding his efforts to limit congressional oversight ahead of Democrats taking control of Congress in January. Trump's executive order, issued late on Friday, applies to federal contractors and their subcontractors. Companies that fail to comply could face cancellation of existing contracts or suspension from future federal business, it said. The order is part of a broader effort by the …\n\n[6] Morning News Brief - The Center Voter (centervoter.com)\na trade that would provide extra defense money in exchange for a ban on funding for the Iran war. The proposal would bar money for new offensive operations unless Congress authorizes the war, with an exception for defense against enemy attack. Democrats\n\n[7] Democrats won big in the midterms. So now what? By Reuters (investing.com)\nWASHINGTON, Nov 21 (Reuters) - Democrats basking in their November 3 election wins will soon unveil an ambitious legislative agenda for the first 100 days and beyond, in a test of progressives’ influence and Republicans’ willingness to cooperate, as they take control of the US Congress on January 3. That agenda is likely to be unveiled in early December once a Senate leadership race is settled. It will mark a thunderous reversal of the past two years, when President Donald Trump’s Republicans ruled the Senate and House of Representatives. With their narrow majorities, they rammed through …\n\n[8] Most new Black Democrats in decades to join US Congress, set to sway policy, party By Reuters (investing.com)\nThe electoral outcome sets up a test of whether increased Black representation can translate into legislative power. Congress will include 13 new Black Democratic members, the largest cohort since 1993, House historian data showed. Four are 34 years old or younger, and more than half of Black House members were first seated in 2021 or later. The influx of Black lawmakers could reshape Congress’ legislative priorities on voting rights, healthcare affordability and economic inequality, while giving a new generation of leaders a greater voice in shaping Democratic policy, political observers …\n\n[9] Daily news for November 21, 2026 | EL PAÍS in English (english.elpais.com)\nfaces task of reforming Trump’s immigration agenda Patricia Caro| Washington| Nov ... The appointment of Stephen Miller as White House chief of staff casts a shadow over hopes of reaching agreements with Republicans and overcoming the president’s\n\n[10] US V-P Vance declines to say he would have ordered Iran strikes | The Straits Times (straitstimes.com)\nthe decision to attack Iran in February was Trump’s call “and my job is to support the president of the ... The answer underscored the delicate balancing act the Vice-President and his party face as the Iran conflict creates domestic political challenges.",
+  "hash": "1d245ef472e0a642e9840b4c0e765e90ccd6ff388ce9c51228d076e24e2b4175",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 21, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-21T13:04:48+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Celebrity Photos Updated Daily: Teri Hatcher, Vanessa Williams, Anderson Cooper and More",
+    "url": "https://people.com/star-tracks-saturday-november-21-2026-new-celebrity-photos-updated-daily-12268555",
+    "source": "people.com",
+    "published": "",
+    "excerpt": "on November 21, 2026 06:00AM EST Celebrities have been everywhere this week. In London, Teri Hatcher and Vanessa Williams are all dressed up for the Royal Variety Performance at the Royal Albert Hall, while Anderson Cooper and Andy Cohen share a smile"
+   },
+   {
+    "title": "From You Can See Everything to Take That: your complete entertainment guide to the week ahead | Culture | The Guardian",
+    "url": "https://www.theguardian.com/culture/2026/nov/21/going-out-staying-in-entertainment-guide-week-ahead-you-can-see-everything-take-that",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "You Can See Everything Out now “Masterpiece” – it’s an overused word, but sometimes, it’s the only word. This funny, tragic, gripping, three-hour sensation (and, yes, masterpiece) arrives in the UK after a record-busting run in the States, where Nathan Fielder and Lance Oppenheim’s portrait of their time immersed in the world of Theranos fraudster Elizabeth Holmes has gripped US audiences. Josephine Out now Winner of the Audience and Grand Jury prizes at Sundance, this drama sees eight-year-old Josephine become witness to a horrific assault on a jogger in San Francisco’s Golden Gate park."
+   },
+   {
+    "title": "Weekend Edition Saturday for November 21, 2026 : NPR",
+    "url": "https://www.npr.org/programs/weekend-edition-saturday/nx-s1-6026206/weekend-edition-saturday-for-november-21-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "Weekend Edition Saturday for November 21, 2026 : NPR ... ### Sophie Okonedo on playing a grieving mother in her new film 'Mouse' by Scott Simon ### World Cup winner Sam Mewis on 5 years of massive growth in NWSL soccer by Scott Simon"
+   },
+   {
+    "title": "Michael Jackson Biopic 'Michael' Skipping BAFTAs",
+    "url": "https://deadline.com/2026/11/michael-jackson-biopic-michael-skipping-baftas-1237230863/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "In a surprise move, the record-breaking box office smash Michael is skipping the BAFTAs, Deadline has confirmed. Antoine Fuqua’s billion-dollar film about the King of Pop won’t be submitted by producers GK Films or distributor Universal, which released internationally for Lionsgate. This takes the likes of Jaafar Jackson, Colman Domingo and the craft team out of the BAFTA equation. Variety first reported the news. Sources cited “multiple factors” behind the decision to us but declined to say what they are. ... It’s not clear whether this played into the decision to avoid this year’s BAFTAs."
+   },
+   {
+    "title": "Entertainment news roundup: 21 November 2026 | SVCZZ",
+    "url": "https://svczz.com/articles/entertainment-news-roundup-21-november-2026",
+    "source": "svczz.com",
+    "published": "",
+    "excerpt": "## Leaving streaming The Resident left Netflix on Friday 20 November, with all six seasons leaving the service. The series stays available on Hulu in the US. ## Renewals, production and trailers Netflix confirmed Tokyo Swindlers season 2 on 20 November, with Go Ayano and Etsushi Toyokawa returning and Hitoshi One directing and writing. Filming is already under way, and a first-look image was released with the announcement. No release date has been announced; the confirmation follows an August report in Tokyo Sports of a quiet renewal. Season 3 of Cross has wrapped filming and is in post-production, creator Ben Watkins told ScreenRant in an interview published 18 November, with editing and scoring under way on the eight-episode season. No release date or premiere window has been announced. Sky and Peacock released the first teaser trailer for The Day of the Jackal season 2. Eddie Redmayne returns as the Jackal, and the season premieres in March 2027. First-look images were released for Grantchester series 11, the eleventh and final series. It airs in January 2027 on ITV and ITVX. ## Casting and new films Auli’i Cravalho has joined Milo Manheim, Whitney Peak and Stephen Kalyn in a new Serendipity film from Amazon MGM Studios and Miramax. Michael Showalter directs. The film updates the setting to the present day rather than rebooting the story. Variety reported the casting on 20 November, and no release date has been announced. Ahan Shetty has joined Vikram Bhatt’s 1920: Cold Winter, the sixth film in the 1920 horror franchise. Filming runs from December 2026 to March 2027 in Ooty and Mumbai. Pooja Sharma and Ashok Darji are to star in Nepali film Seto Coat, officially announced on 20 November. Filming begins on 25 November 2026. Advance booking opened for Paral Ko Aago ahead of its nationwide release on Friday 20 November, with over 100 shows secured. Suhana Thapa, Saugat Malla and Prakash Saput star in the film, inspired by a story by Guru Prasad Mainali. ## Box office Drishyam 3 has closed its theatrical run with Rs 594.89 crore worldwide and Rs 381.32 crore net in India, on a reported Rs 110 crore budget, a return of 246.65 percent. Koimoi ranks it the highest-grossing threequel. The Hunger Games: Sunrise on the Reaping took an estimated $51 million on Friday, including $21 million from Thursday previews. Deadline projects a $110 million domestic opening weekend. Final numbers are due on Monday. ## Deaths E.J. Carroll, the veteran character and voice actor known for The Deuce, Law & Order and Boardwalk Empire, has died aged 66. He died suddenly on Thursday 19 November on his way to a voiceover recording session. His manager confirmed the death to TheWrap, and no cause of death has been determined."
+   },
+   {
+    "title": "What To Watch On TV And Streaming Saturday, November 21, 2026",
+    "url": "https://www.tvline.com/2323637/what-to-watch-november-21-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": ". ### Tony HBO NEW TO CABLE Nineteen-year-old Anthony Bourdain (Dominic Sessa) stumbles into the chaotic world of a Cape Cod restaurant kitchen, setting off a summer that will shape the course of his life; Antonio Banderas and Emilia Jones co-star."
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4010163-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Ella Langley and her unstoppable hit \"Choosin' Texas\" dominated the Country Music ... on Wednesday at a ceremony that also featured Taylor Swift's first performance at the CMAs in 13 years. ... , who ⁠began her career in country music before finding"
+   },
+   {
+    "title": "Egyptian Music Star Mohamed Mounir Gets Biopic – Doha Industry Days",
+    "url": "https://deadline.com/2026/11/egyptian-music-star-mohamed-mounir-biopic-doha-1237230880/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "The life and legacy of legendary Egyptian artist Mohamed Mounir is set to be explored in a biopic spearheaded by The Film Committee at Media City Qatar. The Film Committee has acquired the rights to document Mounir’s life story, with partners on the project set to include a leading regional studio and other partners, which have yet to be unveiled. The project was announced at the Film Committee’s Doha Industry Days, just hours after the Qatari body gave an update on previously announced biopic Caesar, about Syrian whistleblower Farid Al-Madhhan, announcing Taim Hasan as it star. Mounir’s career spans nearly five decades across music, film and television. ... The Film Committee said the biopic will trace Mounir’s journey from his humble beginnings to becoming one of the Arab world’s most celebrated and influential artists, revealing untold details, surprises, stories and anecdotes. ... With development in the early stages, the hunt is now on for an actor to play Mounir."
+   },
+   {
+    "title": "Music News Today — November 21, 2026 — MusicNewsletter.com",
+    "url": "https://musicnewsletter.com/news/daily-signal-20261121",
+    "source": "musicnewsletter.com",
+    "published": "",
+    "excerpt": "Grand Theft Auto 6’-Playing Young Men With Awful ICE Joke (variety.com) • CMA Awards See a 55% Ratings Bump in Key Adult Demo With Taylor Swift’s Return to the Show (variety.com) • Rosalía Calls Taylor Swift a ‘Master Songwriter,’ Reveals Her"
+   },
+   {
+    "title": "‘The Hunger Games: Sunrise On The Reaping’ Album Full Tracklist",
+    "url": "https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-songs-soundtrack-album-1237165820/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "full companion album complete with many original songs inspired by the film and some “Arena Remixes” of certain artists’ hits, the songs in the film narrow down to a sparse five. Find them below: ... by Edgar Allen Poe, Music by Dave Cobb, Performed by"
+   }
+  ],
+  "text": "[1] Celebrity Photos Updated Daily: Teri Hatcher, Vanessa Williams, Anderson Cooper and More (people.com)\non November 21, 2026 06:00AM EST Celebrities have been everywhere this week. In London, Teri Hatcher and Vanessa Williams are all dressed up for the Royal Variety Performance at the Royal Albert Hall, while Anderson Cooper and Andy Cohen share a smile\n\n[2] From You Can See Everything to Take That: your complete entertainment guide to the week ahead | Culture | The Guardian (theguardian.com)\nYou Can See Everything Out now “Masterpiece” – it’s an overused word, but sometimes, it’s the only word. This funny, tragic, gripping, three-hour sensation (and, yes, masterpiece) arrives in the UK after a record-busting run in the States, where Nathan Fielder and Lance Oppenheim’s portrait of their time immersed in the world of Theranos fraudster Elizabeth Holmes has gripped US audiences. Josephine Out now Winner of the Audience and Grand Jury prizes at Sundance, this drama sees eight-year-old Josephine become witness to a horrific assault on a jogger in San Francisco’s Golden Gate park.\n\n[3] Weekend Edition Saturday for November 21, 2026 : NPR (npr.org)\nWeekend Edition Saturday for November 21, 2026 : NPR ... ### Sophie Okonedo on playing a grieving mother in her new film 'Mouse' by Scott Simon ### World Cup winner Sam Mewis on 5 years of massive growth in NWSL soccer by Scott Simon\n\n[4] Michael Jackson Biopic 'Michael' Skipping BAFTAs (deadline.com)\nIn a surprise move, the record-breaking box office smash Michael is skipping the BAFTAs, Deadline has confirmed. Antoine Fuqua’s billion-dollar film about the King of Pop won’t be submitted by producers GK Films or distributor Universal, which released internationally for Lionsgate. This takes the likes of Jaafar Jackson, Colman Domingo and the craft team out of the BAFTA equation. Variety first reported the news. Sources cited “multiple factors” behind the decision to us but declined to say what they are. ... It’s not clear whether this played into the decision to avoid this year’s BAFTAs.\n\n[5] Entertainment news roundup: 21 November 2026 | SVCZZ (svczz.com)\n## Leaving streaming The Resident left Netflix on Friday 20 November, with all six seasons leaving the service. The series stays available on Hulu in the US. ## Renewals, production and trailers Netflix confirmed Tokyo Swindlers season 2 on 20 November, with Go Ayano and Etsushi Toyokawa returning and Hitoshi One directing and writing. Filming is already under way, and a first-look image was released with the announcement. No release date has been announced; the confirmation follows an August report in Tokyo Sports of a quiet renewal. Season 3 of Cross has wrapped filming and is in …\n\n[6] What To Watch On TV And Streaming Saturday, November 21, 2026 (tvline.com)\n. ### Tony HBO NEW TO CABLE Nineteen-year-old Anthony Bourdain (Dominic Sessa) stumbles into the chaotic world of a Cape Cod restaurant kitchen, setting off a summer that will shape the course of his life; Antonio Banderas and Emilia Jones co-star.\n\n[7] Reuters Entertainment News Summary | International (devdiscourse.com)\nElla Langley and her unstoppable hit \"Choosin' Texas\" dominated the Country Music ... on Wednesday at a ceremony that also featured Taylor Swift's first performance at the CMAs in 13 years. ... , who ⁠began her career in country music before finding\n\n[8] Egyptian Music Star Mohamed Mounir Gets Biopic – Doha Industry Days (deadline.com)\nThe life and legacy of legendary Egyptian artist Mohamed Mounir is set to be explored in a biopic spearheaded by The Film Committee at Media City Qatar. The Film Committee has acquired the rights to document Mounir’s life story, with partners on the project set to include a leading regional studio and other partners, which have yet to be unveiled. The project was announced at the Film Committee’s Doha Industry Days, just hours after the Qatari body gave an update on previously announced biopic Caesar, about Syrian whistleblower Farid Al-Madhhan, announcing Taim Hasan as it star. Mounir’s …\n\n[9] Music News Today — November 21, 2026 — MusicNewsletter.com (musicnewsletter.com)\nGrand Theft Auto 6’-Playing Young Men With Awful ICE Joke (variety.com) • CMA Awards See a 55% Ratings Bump in Key Adult Demo With Taylor Swift’s Return to the Show (variety.com) • Rosalía Calls Taylor Swift a ‘Master Songwriter,’ Reveals Her\n\n[10] ‘The Hunger Games: Sunrise On The Reaping’ Album Full Tracklist (deadline.com)\nfull companion album complete with many original songs inspired by the film and some “Arena Remixes” of certain artists’ hits, the songs in the film narrow down to a sparse five. Find them below: ... by Edgar Allen Poe, Music by Dave Cobb, Performed by",
+  "hash": "c1369df169297aa1a853264b6b0a53fa9600c80b4ffff4a9f98f161af7afab16",
+  "notes": []
+ }
+}
