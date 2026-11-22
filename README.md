@@ -3,15 +3,15 @@
 ## Run calendar
 
 <!-- CALENDAR:START -->
-**Next scheduled wave:** **Sat Nov 21, 20:00 New York** (EST) = **Sun Nov 22, 04:30 Tehran**  
-**Completed waves:** 197 · calendar updated Nov 21, 16:11 New York / 00:41 Tehran (it refreshes after every wave)
+**Next scheduled wave:** **Sun Nov 22, 00:00 New York** (EST) = **Sun Nov 22, 08:30 Tehran**  
+**Completed waves:** 198 · calendar updated Nov 21, 20:13 New York / 04:43 Tehran (it refreshes after every wave)
 
 Times in the cells are **Tehran time** for each New York slot. 🟢 completed · 🔴 missed · 🟡 due now · ⏳ next · ⚪ scheduled
 
 | New York date | 00:00 ET | 04:00 ET | 08:00 ET | 12:00 ET | 16:00 ET | 20:00 ET |
 |---|---|---|---|---|---|---|
-| Sun Nov 22 | ⚪ 08:30 | ⚪ 12:30 | ⚪ 16:30 | ⚪ 20:30 | ⚪ 00:30 (+1d) | ⚪ 04:30 (+1d) |
-| Sat Nov 21 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | ⏳ 04:30 (+1d) |
+| Sun Nov 22 | ⏳ 08:30 | ⚪ 12:30 | ⚪ 16:30 | ⚪ 20:30 | ⚪ 00:30 (+1d) | ⚪ 04:30 (+1d) |
+| Sat Nov 21 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
 | Fri Nov 20 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
 | Thu Nov 19 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
 | Wed Nov 18 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
@@ -36,8 +36,8 @@ were shown, every prompt, every raw reply, and the parsed answers.
 **Live website:** https://alizarif.github.io/hf-ai-inflation-expectations/ (all waves over time, each wave in detail, and the method; rebuilt after every wave)
 
 <!-- STATUS:START -->
-**Latest wave:** `2026-11-21T16ET` · 420 trials · 420 fully valid · 34 had a probability list rescaled to 100 · cost $0.429  
-**Waves so far:** 197 · **rows in panel:** 82740 · **total cost:** $84.95
+**Latest wave:** `2026-11-21T20ET` · 420 trials · 420 fully valid · 42 had a probability list rescaled to 100 · cost $0.454  
+**Waves so far:** 198 · **rows in panel:** 83160 · **total cost:** $85.41
 <!-- STATUS:END -->
 
 ## Design
