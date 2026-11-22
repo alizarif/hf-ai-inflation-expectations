@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-22T13:04:10+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-22T13:04:10+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "World news | World | The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/22/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "- ### South Korea education minister resigns after AI cheating scandal engulfs university exams Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing"
+   },
+   {
+    "title": "Morning Briefing: Nov. 22, 2026",
+    "url": "https://www.aa.com.tr/en/anadolu-post/morning-briefing-nov-22-2026/4133301",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "that he intends to secure a “permanent” deal with Iran, insisting that no future American president should be able to allow Tehran to obtain a nuclear weapon. ... 20 years, we have an incompetent president, the agreement I reach will be permanent,” said"
+   },
+   {
+    "title": "Daily World Briefing, Nov. 22-Xinhua",
+    "url": "https://english.news.cn/20261122/6ab658d3db0f45648b3ad5968f84974e/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "In a later statement on social media platform X, U.S. Central Command said Iran did not attack a U.S. F-16 fighter aircraft. \"All U.S. military fighter jets in the Middle East are safe and accounted for,\" said the statement."
+   },
+   {
+    "title": "The Hindu Morning Digest: November 22, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/morning-digest-november-22-2026/article71729431.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "ceiling, COP31 proceedings under way at Antalya in Turkiye also breached upper limits with countries, as of Saturday (November 21, 2026) ... , yet to behold a final text or convene a final plenary meeting to decide on the path forward for climate action."
+   },
+   {
+    "title": "The World Brief, 22 November 2026: 'El Chapo Isidro' captured, Baltic ship hit by drones, Nepal PM in Delhi",
+    "url": "https://theworldbriefnews.com/news/world/world-brief-22-november-2026-top-stories",
+    "source": "theworldbriefnews.com",
+    "published": "",
+    "excerpt": "#### Key points - Mexico captured 'El Chapo Isidro', one of the FBI's Ten Most Wanted; 11 people died in the fighting - A Russian cargo ship caught fire after a drone strike in the Gulf of Finland; Finland says Ukraine was likely behind it - Iran says reopening the Strait of Hormuz is 'not difficult' if the US accepts its conditions - UN talks on 'killer robots' ended without binding rules; work continues to 2028 - Nepal's PM Balendra Shah is in New Delhi and meets PM Modi on Monday Here are the world's top stories from the last 24 ... ## 1. Mexico captures 'El Chapo Isidro' ... Mexican troops captured Fausto Isidro Meza Flores, known as \"El Chapo Isidro\", in Guasave, Sinaloa. He was one of the FBI's Ten Most Wanted fugitives and is accused of running a drug network linked to the Sinaloa Cartel. Mexico's Defence Ministry says seven gunmen and four soldiers were killed in the fighting. ## 2. Drone strike sets Russian cargo ship ablaze in the Gulf of Finland ... The Russian cargo ship Sparta II, bound for Kaliningrad, caught fire after a drone strike and drifted into Finnish waters. Its crew was evacuated to another ship. Finland's Defence Forces say Ukraine was likely behind the attack. ## 3. Iran sets its terms for reopening the Strait of Hormuz Iran's Foreign Minister Abbas Araghchi says reopening the Strait of Hormuz is not difficult, but only if Washington accepts Iran's conditions. Iran says it held talks with Qatari mediators in Tehran. ## 4. UN 'killer robot' talks end without binding rules ... In Geneva, UN talks on AI-powered autonomous weapons ended without binding rules. Countries will keep working on an agreement until 2028. Campaigners called it a watered-down outcome. ## 5. Nepal's PM Balendra Shah arrives in New Delhi ... Nepal's Prime Minister Balendra Shah arrives in New Delhi today on his first visit to India since taking office. He meets Prime Minister Narendra Modi on Monday, with trade, energy and flood rebuilding on the agenda."
+   },
+   {
+    "title": "Latest India & World News Today LIVE Updates Nov 22",
+    "url": "https://www.wionews.com/world/live-blog-latest-india-world-news-today-live-updates-november-22-trump-iran-delhi-aqi-bahrain-mexico-drug-cartel-netanyahu-1795325580882",
+    "source": "wionews.com",
+    "published": "",
+    "excerpt": "has invited Prime Minister Benjamin Netanyahu's Likud party for coalition talks, opening the possibility of a national unity government. The negotiations are ... Eisenkot faces a December deadline to secure a parliamentary majority and replace Netanyahu."
+   },
+   {
+    "title": "World news digest for November 22, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-22",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "deferred any decision on renewed strikes against Iran until after the New Year, but attacks on shipping in the ... of Hormuz have continued and Qatar has stepped in as a mediator.⁠ ... north of the Omani port of Khasab, with no casualties reported.⁠ 2"
+   },
+   {
+    "title": "November 22, 2026 News: Every Story of the Day | LiveDigest",
+    "url": "https://livedigest.news/archive/2026/11/22",
+    "source": "livedigest.news",
+    "published": "",
+    "excerpt": "-jin, resigned on Sunday after an AI-assisted cheating scandal broke in the run-up to the country's university entrance exam. President Lee Jae Myung accepted his resignation, the presidential office said."
+   },
+   {
+    "title": "India News Live Updates, 22 November 2026: Nepal PM Balendra Shah arrives in Delhi, to hold talks with PM Modi tomorrow | India News - The Indian Express",
+    "url": "https://indianexpress.com/article/india/india-breaking-news-today-live-updates-22-november-2026-delhi-mumbai-weather-pollution-gujarat-rajasthan-accident-10973332/",
+    "source": "indianexpress.com",
+    "published": "",
+    "excerpt": "the highest-ever team total in a Test in New Zealand in ... the hosts’ 715/6 against Bangladesh in 2019. KL Rahul (136) and Rishabh ... (128) scored centuries, while Gill (98), Yashasvi Jaiswal (85"
+   },
+   {
+    "title": "Breaking News Live Updates, today's News Headlines, November 22, 2026, PM Narendra Modi, US President Donald Trump, Us-Israel vs Iran War, missiles | India News - News9live",
+    "url": "https://www.news9live.com/india/breaking-news-live-updates-todays-news-headlines-november-22-2026-pm-narendra-modi-us-president-donald-trump-us-israel-vs-iran-war-missiles-3026537",
+    "source": "news9live.com",
+    "published": "",
+    "excerpt": "US President Donald Trump has said his priority is securing a permanent agreement with Iran to end the conflict and ... Tehran from acquiring nuclear weapons, rather than changing its political leadership. In"
+   }
+  ],
+  "text": "[1] World news | World | The Guardian (theguardian.com)\n- ### South Korea education minister resigns after AI cheating scandal engulfs university exams Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing\n\n[2] Morning Briefing: Nov. 22, 2026 (aa.com.tr)\nthat he intends to secure a “permanent” deal with Iran, insisting that no future American president should be able to allow Tehran to obtain a nuclear weapon. ... 20 years, we have an incompetent president, the agreement I reach will be permanent,” said\n\n[3] Daily World Briefing, Nov. 22-Xinhua (english.news.cn)\nIn a later statement on social media platform X, U.S. Central Command said Iran did not attack a U.S. F-16 fighter aircraft. \"All U.S. military fighter jets in the Middle East are safe and accounted for,\" said the statement.\n\n[4] The Hindu Morning Digest: November 22, 2026 - The Hindu (thehindu.com)\nceiling, COP31 proceedings under way at Antalya in Turkiye also breached upper limits with countries, as of Saturday (November 21, 2026) ... , yet to behold a final text or convene a final plenary meeting to decide on the path forward for climate action.\n\n[5] The World Brief, 22 November 2026: 'El Chapo Isidro' captured, Baltic ship hit by drones, Nepal PM in Delhi (theworldbriefnews.com)\n#### Key points - Mexico captured 'El Chapo Isidro', one of the FBI's Ten Most Wanted; 11 people died in the fighting - A Russian cargo ship caught fire after a drone strike in the Gulf of Finland; Finland says Ukraine was likely behind it - Iran says reopening the Strait of Hormuz is 'not difficult' if the US accepts its conditions - UN talks on 'killer robots' ended without binding rules; work continues to 2028 - Nepal's PM Balendra Shah is in New Delhi and meets PM Modi on Monday Here are the world's top stories from the last 24 ... ## 1. Mexico captures 'El Chapo Isidro' ... Mexican …\n\n[6] Latest India & World News Today LIVE Updates Nov 22 (wionews.com)\nhas invited Prime Minister Benjamin Netanyahu's Likud party for coalition talks, opening the possibility of a national unity government. The negotiations are ... Eisenkot faces a December deadline to secure a parliamentary majority and replace Netanyahu.\n\n[7] World news digest for November 22, 2026 | World Watch (worldwatch.media)\ndeferred any decision on renewed strikes against Iran until after the New Year, but attacks on shipping in the ... of Hormuz have continued and Qatar has stepped in as a mediator.⁠ ... north of the Omani port of Khasab, with no casualties reported.⁠ 2\n\n[8] November 22, 2026 News: Every Story of the Day | LiveDigest (livedigest.news)\n-jin, resigned on Sunday after an AI-assisted cheating scandal broke in the run-up to the country's university entrance exam. President Lee Jae Myung accepted his resignation, the presidential office said.\n\n[9] India News Live Updates, 22 November 2026: Nepal PM Balendra Shah arrives in Delhi, to hold talks with PM Modi tomorrow | India News - The Indian Express (indianexpress.com)\nthe highest-ever team total in a Test in New Zealand in ... the hosts’ 715/6 against Bangladesh in 2019. KL Rahul (136) and Rishabh ... (128) scored centuries, while Gill (98), Yashasvi Jaiswal (85\n\n[10] Breaking News Live Updates, today's News Headlines, November 22, 2026, PM Narendra Modi, US President Donald Trump, Us-Israel vs Iran War, missiles | India News - News9live (news9live.com)\nUS President Donald Trump has said his priority is securing a permanent agreement with Iran to end the conflict and ... Tehran from acquiring nuclear weapons, rather than changing its political leadership. In",
+  "hash": "93646f7429bb93c51ccb97b9caa32e0f1c4dfa5c363684bee8629fe5babf1342",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-22T13:04:26+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "CPI inflation report: October 2026",
+    "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "CPI increased 0.3% against the forecast for a 0.2% gain. The ... Though gasoline prices have been falling in recent weeks, the energy index rose 0.7 ... 0.5%, pushed higher by increases of 1% for snacks,"
+   },
+   {
+    "title": "US consumer prices rise briskly for third straight month | Reuters",
+    "url": "https://www.reuters.com/5f374b32b07b/world/us/us-consumer-prices-rise-above-expectations-october-2026-11-10/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 10 (Reuters) - US consumer prices increased more than expected in October amid higher costs for food and accommodation, cementing expectations that the Federal Reserve will raise interest rates next month. The Consumer Price Index report from the Labor Department on Tuesday also showed ​a strong buildup of underlying inflation pressures for a third straight month. It followed data last week showing the labor market regained momentum in October. Inflation is being driven by the US-Israeli war with Iran, which has boosted oil ‌prices, the Trump administration's import tariffs, resilient consumer spending and aggressive business investment in artificial intelligence technology. ... The CPI increased 0.4% last month after advancing 0.6% in September, the department's Bureau of Labor Statistics said. It was the third consecutive month of ​gains of 0.4% or more. Economists polled by Reuters had forecast the CPI would climb 0.3% over the month. The BLS did not publish"
+   },
+   {
+    "title": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
+    "url": "https://finance.yahoo.com/economy/articles/us-consumers-holding-against-inflation-210000941.html",
+    "source": "finance.yahoo.com",
+    "published": "",
+    "excerpt": "Economists estimate inflation-adjusted personal spending rose by 0.1% in October from a month earlier, based on the Bloomberg survey's median estimate ahead of government figures due Wednesday. The modest increase builds on two robust quarters of consumer spending growth. The report, the highlight of a Thanksgiving holiday-shortened trading week, is also expected to show an acceleration in inflation. The personal consumption expenditures price index — the Federal Reserve's preferred inflation metric — is projected to rise 3.8% from October of last year. That's nearly double the Fed's goal and would match May as the biggest annual increase in three years."
+   },
+   {
+    "title": "Inflation, economic growth and the mood of US consumers in focus this week",
+    "url": "https://apnews.com/article/inflation-consumer-confidence-economy-6c207f517113ab0e65c60ac3ee66440e",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": ". The U.S. will release the October personal consumption expenditures report, or PCE, on Wednesday. The data carries a lot of weight because it is the preferred measure of ... used by the Federal Reserve, which is attempting to bring inflation down to its"
+   },
+   {
+    "title": "Hot October CPI Strengthens the Case for Further Fed Tightening",
+    "url": "https://www.conference-board.org/research/global-economy-briefs/cpi-insights-october-2026",
+    "source": "conference-board.org",
+    "published": "",
+    "excerpt": "3.7% in September), with core PCE at 3.3% ... We continue to expect 25 bp hikes in each of December 2026 and March 2027. Governor Waller’s discussion of a possible 50 bp December does not change our expectations,"
+   },
+   {
+    "title": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate By Reuters",
+    "url": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "that the steep US stock market selloff is nearing an end and leading to opportunities ... Stocks tumbled again on Friday, ending the week sharply lower and sending the S&P 500 down 11.6% from its October 6 all-time high. That exceeds the"
+   },
+   {
+    "title": "US economy feels pressure as Iran war drives up fuel, food and inflation costs - [İLKHA] Ilke News Agency",
+    "url": "https://ilkha.com/english/world/us-economy-feels-pressure-as-iran-war-drives-up-fuel-food-and-inflation-costs-538102",
+    "source": "ilkha.com",
+    "published": "",
+    "excerpt": "Households Energy costs have surged since the conflict began. Petrol prices reached an average of $4.22 per gallon for regular fuel, compared to $2.98 before the escalation, according to the American Automobile Association (AAA)."
+   },
+   {
+    "title": "GMT EIGHT - Latest - Federal Reserve Beige Book: U.S. economy expands modestly but inflationary pressures intensify; AI boosts productivity while dampening hiring demand at some firms",
+    "url": "https://www.gmt8press.com/flash/detail/1557012",
+    "source": "gmt8press.com",
+    "published": "",
+    "excerpt": "22/11/2026 Zhito Finance APP has learned that the latest Beige Book on economic conditions released by the Federal Reserve on Wednesday shows that U.S. economic activity generally continued to grow, but performance varied across regions, consumer spending was broadly weak, and the labor market changed little. At the same time, rising energy prices, tariffs, and climbing insurance costs continued to push up business operating costs, further intensifying inflationary pressure in some regions. Notably, as companies increase investment in artificial intelligence (AI), some firms have begun to reduce hiring needs by improving productivity, and AI's impact on the U.S. labor market is gradually emerging."
+   },
+   {
+    "title": "GMT EIGHT - Latest - Fed Chair Warsh gives no signal on October rate move",
+    "url": "https://www.gmt8press.com/flash/detail/1559459",
+    "source": "gmt8press.com",
+    "published": "",
+    "excerpt": "Fed Chair Kevin Warsh did not endorse or push back on recent signals from colleagues that officials aren't in a hurry to raise interest rates this month. Warsh said the Fed no longer gives advance guidance on policy decisions. \"I'm not"
+   },
+   {
+    "title": "Economy - Axios",
+    "url": "https://www.axios.com/economy/2026/11/22",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "President Trump said Saturday he'd gladly work with Democrats to cap interest and fees on credit cards, arguing that card companies simply make too much money now. ... billions of dollars a year, the banking industry is equally adamant that it would deny"
+   }
+  ],
+  "text": "[1] CPI inflation report: October 2026 (cnbc.com)\nCPI increased 0.3% against the forecast for a 0.2% gain. The ... Though gasoline prices have been falling in recent weeks, the energy index rose 0.7 ... 0.5%, pushed higher by increases of 1% for snacks,\n\n[2] US consumer prices rise briskly for third straight month | Reuters (reuters.com)\nWASHINGTON, Nov 10 (Reuters) - US consumer prices increased more than expected in October amid higher costs for food and accommodation, cementing expectations that the Federal Reserve will raise interest rates next month. The Consumer Price Index report from the Labor Department on Tuesday also showed ​a strong buildup of underlying inflation pressures for a third straight month. It followed data last week showing the labor market regained momentum in October. Inflation is being driven by the US-Israeli war with Iran, which has boosted oil ‌prices, the Trump administration's import tariffs, …\n\n[3] US Consumers Are Holding Up Against Inflation Going Into Holiday Season (finance.yahoo.com)\nEconomists estimate inflation-adjusted personal spending rose by 0.1% in October from a month earlier, based on the Bloomberg survey's median estimate ahead of government figures due Wednesday. The modest increase builds on two robust quarters of consumer spending growth. The report, the highlight of a Thanksgiving holiday-shortened trading week, is also expected to show an acceleration in inflation. The personal consumption expenditures price index — the Federal Reserve's preferred inflation metric — is projected to rise 3.8% from October of last year. That's nearly double the Fed's goal and …\n\n[4] Inflation, economic growth and the mood of US consumers in focus this week (apnews.com)\n. The U.S. will release the October personal consumption expenditures report, or PCE, on Wednesday. The data carries a lot of weight because it is the preferred measure of ... used by the Federal Reserve, which is attempting to bring inflation down to its\n\n[5] Hot October CPI Strengthens the Case for Further Fed Tightening (conference-board.org)\n3.7% in September), with core PCE at 3.3% ... We continue to expect 25 bp hikes in each of December 2026 and March 2027. Governor Waller’s discussion of a possible 50 bp December does not change our expectations,\n\n[6] Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate By Reuters (investing.com)\nthat the steep US stock market selloff is nearing an end and leading to opportunities ... Stocks tumbled again on Friday, ending the week sharply lower and sending the S&P 500 down 11.6% from its October 6 all-time high. That exceeds the\n\n[7] US economy feels pressure as Iran war drives up fuel, food and inflation costs - [İLKHA] Ilke News Agency (ilkha.com)\nHouseholds Energy costs have surged since the conflict began. Petrol prices reached an average of $4.22 per gallon for regular fuel, compared to $2.98 before the escalation, according to the American Automobile Association (AAA).\n\n[8] GMT EIGHT - Latest - Federal Reserve Beige Book: U.S. economy expands modestly but inflationary pressures intensify; AI boosts productivity while dampening hiring demand at some firms (gmt8press.com)\n22/11/2026 Zhito Finance APP has learned that the latest Beige Book on economic conditions released by the Federal Reserve on Wednesday shows that U.S. economic activity generally continued to grow, but performance varied across regions, consumer spending was broadly weak, and the labor market changed little. At the same time, rising energy prices, tariffs, and climbing insurance costs continued to push up business operating costs, further intensifying inflationary pressure in some regions. Notably, as companies increase investment in artificial intelligence (AI), some firms have begun to …\n\n[9] GMT EIGHT - Latest - Fed Chair Warsh gives no signal on October rate move (gmt8press.com)\nFed Chair Kevin Warsh did not endorse or push back on recent signals from colleagues that officials aren't in a hurry to raise interest rates this month. Warsh said the Fed no longer gives advance guidance on policy decisions. \"I'm not\n\n[10] Economy - Axios (axios.com)\nPresident Trump said Saturday he'd gladly work with Democrats to cap interest and fees on credit cards, arguing that card companies simply make too much money now. ... billions of dollars a year, the banking industry is equally adamant that it would deny",
+  "hash": "6cb43e55df665486a7351aeac077c99a141ad4c3fedc6a047e82e4cd08c6917e",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-22T13:04:32+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/22",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "Berkowitz 20 hours ago - Business ## Trump says he'd work with Dems to cap credit card interest, fees ... 21 hours ago - Politics & Policy ## Trump says FBI hack might expose Russia \"hoax\" ... 21, 2026 - Politics & Policy ## Black organizers plot"
+   },
+   {
+    "title": "Schumer led Democrats to big Senate win. Now, some say they need a new leader By Reuters",
+    "url": "https://www.investing.com/news/politics-news/schumer-led-democrats-to-big-senate-win-now-some-say-they-need-a-new-leader-5043897",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "By Nolan D. McCaskill WASHINGTON, Nov 22 (Reuters) - Chuck Schumer led Senate Democrats through November’s midterm elections that gave them a decisive 56-seat majority. Progressives responded with a collective \"thank you, next,\" arguing he should now make way for a successor. Critics say Schumer’s decades in Washington, his age and his close ties to the party establishment make him ill-suited to lead a caucus increasingly shaped by younger, anti-establishment lawmakers. \"We write first to thank you,\" leaders of the populist Working Families Party, which backs like-minded Democratic candidates in elections, said in a November 13 letter to Schumer that called for a generational leadership change. \"If you step aside at the height of a victory you helped secure, you would show voters that the Democratic Party heeded their call for change. The new majority can begin its work united and focused on fighting for the people who elected them.\" The top Democrat in the Senate for the past decade, Schumer, who turns 76 on Monday, has projected confidence that his colleagues will choose to keep him as their leader in a secret vote on December 1. \"I will be elected majority leader,\" Schumer, who is strongly favored to win, told reporters matter-of-factly last week. But in the first contested Senate Democratic leadership race since 1994, the New York senator faces a challenge from Senator Chris Van Hollen, 67. While only modestly younger than Schumer, the Maryland lawmaker and his progressive allies outside the Capitol have cast him as an agent of change. Van Hollen has said the 2026 results show voters are demanding the party break with the status quo and adopt a bolder approach that gives new voices, including incoming progressive lawmakers, more influence in the caucus. ’TIME FOR NEW IDEAS’ The Maryland Democrat has run an increasingly public campaign, though the outcome will be determined in private by 56 Senate Democrats. At least 16 Democrats have publicly committed to backing Schumer, while only six have said they will vote for Van Hollen. \"I’m in this to win it,\" Van Hollen said on Thursday. \"That’s my goal. I think if we want to move forward on an ambitious agenda like this, we need new leadership. We need to change the culture of the Democratic caucus. People need to have more input. Our new members need to be at the table.\" Democrats flipped nine Senate seats in November, including in several states President Donald Trump won by double digits in 2024. Many of the incoming freshmen said during their campaigns that they would oppose Schumer for Democratic leader. \"Do I like Chuck Schumer?\" asked Senator-elect Troy Jackson of Maine. \"He’s been great, but I do think it’s time for new ideas.\" In an interview last week on CNN’s \"State of the Union,\" Van Hollen cited a \"hunger for change\" among Senate Democrats and said two incoming senators won despite Schumer’s efforts to back their primary opponents. He criticized Schumer for aligning with powerful pro-Israel and cryptocurrency interests in those races. PROGRESSIVES BACK VAN HOLLEN Senator-elect Abdul El-Sayed of Michigan said Van Hollen stands out because he understands how Washington and the Senate work as a past chair of House and Senate Democrats’ respective campaign arms, and he’s willing to take risks. \"Those two things are what we need right now, and we need to rethink the way we legislate,\" he said, pointing to Van Hollen’s trips to advocate for a wrongly deported migrant and to draw attention to Israel’s war in Gaza as examples of his willingness to take risks. Senator Tim Kaine of Virginia suggested the leadership fight reflected a healthy discussion within the caucus about its future direction. \"And there’s nothing wrong with that,\" he told Reuters. Senate Democratic leader is the only unresolved role among Congress’ top four positions. House Democrats last week nominated Hakeem Jeffries to be speaker in the next Congress, where John Thune will continue to lead Senate Republicans and Representative Jim Jordan will succeed Speaker Mike Johnson as the top House Republican."
+   },
+   {
+    "title": "Biden Criticizes White House Ballroom Project, Trump Sees Upside in FBI Hack and More: This Week in Politics",
+    "url": "https://www.benzinga.com/news/politics/26/11/63516836/weekend-political-news-fbi-hack-social-security-schumer-medicare",
+    "source": "benzinga.com",
+    "published": "",
+    "excerpt": "## Cassidy Says Trump Supports $1.5 Trillion Social Security Plan Sen. Bill Cassidy (R-La.) said a proposed $1.5 trillion investment fund could satisfy as much as 70% of Social Security’s financing needs, warning that lawmakers’ failure to act threatens the program. On CBS News’ “Face the Nation,” he said Trump supported the proposal and cited commitments from Senate Majority Leader John Thune (R-S.D.) and Sen. Mike Crapo (R-Idaho) to schedule a hearing and markup. ... ## Sanders Renews Medicare for All Campaign Sen. Bernie Sanders (I-Vt.) renewed his call for Medicare for All after former President Barack Obama acknowledged limitations in the Affordable Care Act."
+   },
+   {
+    "title": "Trump keeps losing in court. Here’s how he gets what he wants anyway. - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/11/22/trump-keeps-losing-court-heres-how-he-gets-what-he-wants-anyway/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "Judges have ruled against President Donald Trump at an unprecedented clip during his second term, but time and again the administration has ... The Supreme Court killed a suit against Trump’s White House ballroom on a technicality, though Chief Justice John G. Roberts Jr. wrote that the project was “likely unlawful.” Breakneck construction has ensured that the project should be done before any court can stop it."
+   },
+   {
+    "title": "November 2026 Archive | The Country",
+    "url": "https://thecountry.news/archive/2026-11",
+    "source": "thecountry.news",
+    "published": "",
+    "excerpt": "- November 22, 2026 - Van Hollen calls his challenge to Schumer for Senate Democratic leader \"wide open\" as new senators hold back - Trump says Cornyn's \"feelings were hurt\" as the Texas senator blocks his Dallas judge pick and calls Cruz \"fragile\" - ICE"
+   },
+   {
+    "title": "Daily Briefing: November 22, 2026",
+    "url": "https://texianpartisan.com/news/daily-briefing/daily-briefing-sunday-november-22-2026/",
+    "source": "texianpartisan.com",
+    "published": "",
+    "excerpt": "in Collin County district court ending two lawsuits against pediatricians he had accused of violating Senate Bill 14, the 2023 law that bars doctors from prescribing gender-transition hormones to minors, The Texas Tribune reported. One suit named Dr."
+   },
+   {
+    "title": "FBI's national crime database targeted in hack, Trump says - ABC News",
+    "url": "https://abcnews.com/US/fbis-national-crime-database-targeted-hack-trump/story?id=138347810",
+    "source": "abcnews.com",
+    "published": "",
+    "excerpt": "President Donald Trump said in an interview Saturday that the FBI’s National Crime Information Center database was targeted in a hack. Trump made the claim during a phone interview with Fox News. \"Well, we just heard about it, and I will say that it's not good. I don't like that,\" he said during the interview. ... A law enforcement source confirmed to ABC News that the database was hacked. The NCIC is a repository of criminal justice information, including data on criminal record history, current fugitives, stolen property, and missing persons, according to the FBI. The FBI declined to comment. The perpetrators behind the hack and the scale of the intrusion are currently unclear."
+   },
+   {
+    "title": "Of Cyber Scares and Elections - \"The Sunday Political Brunch\" -- November 22, 2026 | Across America, US Patch",
+    "url": "https://patch.com/us/across-america/cyber-scares-elections-sunday-political-brunch-november-22-2026",
+    "source": "patch.com",
+    "published": "",
+    "excerpt": ". Mary Peltola (D). Alaska has been declared the winner of the Senate race, defeating incumbent Sen. Daniel S. Sullivan ... . Democrats now have a 257-172 advantage in the House with 6 races still to be called."
+   },
+   {
+    "title": "Sunday (11/22) News Roundup: COP31 Collapses Due to Fossil Fuel Exporters; \"My Friend\"; \"What China Gets From Its AI Honeypots and Smuggled Chips\" - Blue Virginia",
+    "url": "https://bluevirginia.us/2026/11/sunday-11-22-news-roundup/",
+    "source": "bluevirginia.us",
+    "published": "",
+    "excerpt": "- Video: Rep. Suhas Subramanyam (D-VA10) Talks About Possible “Nuclear Option” – “empower the [U.S. House] sergeant-at- arms to go out and arrest people” who “don’t comply with subpoenas” (“We have to keep all options open. I’m not going to rule it out.”)"
+   },
+   {
+    "title": "AP News Summary at 7:35 a.m. EST | National | guardonline.com",
+    "url": "https://www.guardonline.com/news/national/ap-news-summary-at-6-54-a-m-est/article_cd053843-da1e-5461-ad84-b98ae1f7779b.html",
+    "source": "guardonline.com",
+    "published": "",
+    "excerpt": "and she has a work permit. Immigration and Customs Enforcement said it was targeting someone from Mexico who had overstayed his visa. A woman who intervened was also arrested. The incident caused the Los Angeles-bound Alaska Airlines flight to be delayed."
+   }
+  ],
+  "text": "[1] Axios (axios.com)\nBerkowitz 20 hours ago - Business ## Trump says he'd work with Dems to cap credit card interest, fees ... 21 hours ago - Politics & Policy ## Trump says FBI hack might expose Russia \"hoax\" ... 21, 2026 - Politics & Policy ## Black organizers plot\n\n[2] Schumer led Democrats to big Senate win. Now, some say they need a new leader By Reuters (investing.com)\nBy Nolan D. McCaskill WASHINGTON, Nov 22 (Reuters) - Chuck Schumer led Senate Democrats through November’s midterm elections that gave them a decisive 56-seat majority. Progressives responded with a collective \"thank you, next,\" arguing he should now make way for a successor. Critics say Schumer’s decades in Washington, his age and his close ties to the party establishment make him ill-suited to lead a caucus increasingly shaped by younger, anti-establishment lawmakers. \"We write first to thank you,\" leaders of the populist Working Families Party, which backs like-minded Democratic candidates …\n\n[3] Biden Criticizes White House Ballroom Project, Trump Sees Upside in FBI Hack and More: This Week in Politics (benzinga.com)\n## Cassidy Says Trump Supports $1.5 Trillion Social Security Plan Sen. Bill Cassidy (R-La.) said a proposed $1.5 trillion investment fund could satisfy as much as 70% of Social Security’s financing needs, warning that lawmakers’ failure to act threatens the program. On CBS News’ “Face the Nation,” he said Trump supported the proposal and cited commitments from Senate Majority Leader John Thune (R-S.D.) and Sen. Mike Crapo (R-Idaho) to schedule a hearing and markup. ... ## Sanders Renews Medicare for All Campaign Sen. Bernie Sanders (I-Vt.) renewed his call for Medicare for All after former …\n\n[4] Trump keeps losing in court. Here’s how he gets what he wants anyway. - The Washington Post (washingtonpost.com)\nJudges have ruled against President Donald Trump at an unprecedented clip during his second term, but time and again the administration has ... The Supreme Court killed a suit against Trump’s White House ballroom on a technicality, though Chief Justice John G. Roberts Jr. wrote that the project was “likely unlawful.” Breakneck construction has ensured that the project should be done before any court can stop it.\n\n[5] November 2026 Archive | The Country (thecountry.news)\n- November 22, 2026 - Van Hollen calls his challenge to Schumer for Senate Democratic leader \"wide open\" as new senators hold back - Trump says Cornyn's \"feelings were hurt\" as the Texas senator blocks his Dallas judge pick and calls Cruz \"fragile\" - ICE\n\n[6] Daily Briefing: November 22, 2026 (texianpartisan.com)\nin Collin County district court ending two lawsuits against pediatricians he had accused of violating Senate Bill 14, the 2023 law that bars doctors from prescribing gender-transition hormones to minors, The Texas Tribune reported. One suit named Dr.\n\n[7] FBI's national crime database targeted in hack, Trump says - ABC News (abcnews.com)\nPresident Donald Trump said in an interview Saturday that the FBI’s National Crime Information Center database was targeted in a hack. Trump made the claim during a phone interview with Fox News. \"Well, we just heard about it, and I will say that it's not good. I don't like that,\" he said during the interview. ... A law enforcement source confirmed to ABC News that the database was hacked. The NCIC is a repository of criminal justice information, including data on criminal record history, current fugitives, stolen property, and missing persons, according to the FBI. The FBI declined to …\n\n[8] Of Cyber Scares and Elections - \"The Sunday Political Brunch\" -- November 22, 2026 | Across America, US Patch (patch.com)\n. Mary Peltola (D). Alaska has been declared the winner of the Senate race, defeating incumbent Sen. Daniel S. Sullivan ... . Democrats now have a 257-172 advantage in the House with 6 races still to be called.\n\n[9] Sunday (11/22) News Roundup: COP31 Collapses Due to Fossil Fuel Exporters; \"My Friend\"; \"What China Gets From Its AI Honeypots and Smuggled Chips\" - Blue Virginia (bluevirginia.us)\n- Video: Rep. Suhas Subramanyam (D-VA10) Talks About Possible “Nuclear Option” – “empower the [U.S. House] sergeant-at- arms to go out and arrest people” who “don’t comply with subpoenas” (“We have to keep all options open. I’m not going to rule it out.”)\n\n[10] AP News Summary at 7:35 a.m. EST | National | guardonline.com (guardonline.com)\nand she has a work permit. Immigration and Customs Enforcement said it was targeting someone from Mexico who had overstayed his visa. A woman who intervened was also arrested. The incident caused the Los Angeles-bound Alaska Airlines flight to be delayed.",
+  "hash": "875c2462b3c08e1e30acb89248b6c330a7ceda9083bbe54a477f07e52c68116f",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-22T13:04:49+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "First Day, First Show Newsletter | Latest Movies & Entertainment - The Hindu",
+    "url": "https://www.thehindu.com/newsletter/first-day-first-show/",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "### Bollywood ‘Ramayana’ becomes 11th Indian film to cross र 1000 crore mark at box office Alia Bhatt, Aryan Khan, Theja Rio, Payal Kapadia feature in TIME100 Next India list ... to the Grammys: Inside Devan’s ‘Varuvaaiy’, the first Tamil song to earn"
+   },
+   {
+    "title": "News Archive for November 22, 2026 | The Indian Express",
+    "url": "https://indianexpress.com/archive/2026/11/22/",
+    "source": "indianexpress.com",
+    "published": "",
+    "excerpt": "‘She was frustrated’: Anupam Kher recalls Deepika Padukone’s maid act in acting class ... Rashmika reacts to backlash over Koffee with Karan episode: ‘I’ll go into full warrior mode ... Robert Downey Jr revealed Avengers: Doomsday storyline, but we"
+   },
+   {
+    "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+    "url": "https://www.bbc.com/news/articles/cq8e0p87l89lo",
+    "source": "bbc.com",
+    "published": "",
+    "excerpt": "Miley Cyrus has married her partner of four years Maxx Morando during a ceremony in Palm Springs, California. ... took place by a swimming pool with the pair standing under an arch covered in white flowers. The singer"
+   },
+   {
+    "title": "Entertainment news roundup: 22 November 2026 | SVCZZ",
+    "url": "https://svczz.com/articles/entertainment-news-roundup-22-november-2026",
+    "source": "svczz.com",
+    "published": "",
+    "excerpt": "## Sunrise on the Reaping sets the biggest UK opening day of 2026 The Hunger Games: Sunrise on the Reaping took $8.2 million on its opening day in the UK, the biggest of 2026 so far, passing Spider-Man: Brand New Day at $7.8 million, Fiction Horizon reports. It had already taken $21 million in Thursday previews in the US, and ScreenRant projects more than $120 million domestic for the opening weekend as of Saturday morning, with final numbers due Monday. Yesterday’s roundup carried the $51 million Friday projection; our reviews piece has the critics split at 67% on Rotten Tomatoes. ## O.M Chapter 1 opens with Rs 19.75 crore in India on day 1 O.M Chapter 1 opened with Rs 19.75 crore in India on day 1, 20 November 2026, Dhanush’s biggest opener, Pinkvilla reports from trade estimates. Production house Wunderbar Films announced over Rs 40 crore worldwide gross on day 1. ## Helen Fraser dies aged 84 Helen Fraser, best known as Bad Girls prison officer Sylvia Hollamby in all eight series, has died aged 84, The Sun reports. She died on 10 November 2026 at Yaxley House Care Home in Eye, Suffolk, The Oldham Times reports, and was also a two-time Coronation Street guest. No cause of death was given. ## Robin Varghese dies aged 56 Robin Varghese, the Malayalam actor known as Shelly in the 1992 Mammootty film Johny Walker, has died aged 56, the Times of India reports from Manorama Online, with NewsBytes also reporting the death. He died in the United States on 19 November 2026. No cause of death was given. ## Ronny Hallin dies aged 88 ... ## Onslaught streams on HBO Max from 22 December A24’s Onslaught streams on HBO Max from 22 December 2026, ScreenRant reports, after its 4 September 2026 theatrical run and 6 October 2026 digital debut. The date was announced on 20 November 2026. ## Mission: Cross 2 sets a December 2026 Netflix window Mission: Cross 2 has set a December 2026 Netflix release window after a delay from its Q3 2026 slot, What’s on Netflix reports. Hwang Jung Min and Yeom Jung Ah return, with four cast additions, and no exact date has been announced. ... ## King trailer set for 14 December 2026 Shah Rukh Khan’s King trailer is set for 14 December 2026, ten days before the film’s 24 December 2026 theatrical release, Variety India reports. Another song from Sachin-Jigar is due later in November first. ... ## Killing Castro final trailer out ... ## Bhogi locks a 27 November release date Sharwanand film Bhogi has locked a new worldwide release date of 27 November 2026, Gulte reports, after the CBFC revising committee cleared it with an A certificate. The makers announced the date on 19 November 2026 after its 12 November release was postponed, with a trailer launch and pre-release event reported for today, 22 November. ## Haindava postponed from 27 November ... No new date has been announced and no reason was given."
+   },
+   {
+    "title": "News Archive | November 2026 | Louder",
+    "url": "https://www.loudersound.com/news/archive/2026/11",
+    "source": "loudersound.com",
+    "published": "",
+    "excerpt": "- - Metallica give $200,000 to local charities following Las Vegas Sphere residency - ... - The Who’s Roger Daltrey threatened to throw Iron Maiden drummer Nicko McBrain ... - System Of A Down drummer targets history-making shows at world landmarks: \"I"
+   },
+   {
+    "title": "What To Watch On TV And Streaming Sunday, November 22, 2026",
+    "url": "https://www.tvline.com/2321595/what-to-watch-november-22-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "PREMIERE Identical twins (Rachael Leigh Cook in a dual role) spend Christmas running a bookshop in ... one falls for a neighboring barista (Owain Yeoman) and the ... a dashing lord (Stephen Hagan), leading to mistaken identities and romantic mix-ups."
+   },
+   {
+    "title": "Weekly TV Music Roundup (November 22, 2026) – Film Music Reporter",
+    "url": "https://filmmusicreporter.com/2026/11/22/weekly-tv-music-roundup-november-22-2026/",
+    "source": "filmmusicreporter.com",
+    "published": "",
+    "excerpt": "Premiering in the U.S. today is the British TV series Secret Service based on Tom Bradby’s novel of the same name and starring Gemma Arterton, Rafe Spall, Alex Kingston, Roger Allam, Amaka Okafor, Mark Stanley, Avi Nash, Alma Prelec, Aoife Hinds and Khalid Abdalla. The show’s original music is composed by Samuel Sim (The Dark Crystal: Age of Resistance, The Spanish Princess, The Bay, Anne, The Halcyon, A Cruel Love: The Ruth Ellis Story, Domina, Home Fires). Check out our previous article to learn more about the 5-part thriller, which premiered in the UK earlier this year on ITV and will make its U.S. debut on MGM+. Also premiering today is the documentary Give Me the Ball! directed by Liz Garbus & Elizabeth Wolff, produced by Dominic Crossley-Holland, Dan Cogan, Chris James & Gentry Kirby about world champion tennis trailblazer Billie Jean King. Laura Karpman (American Fiction, Captain America: Brave New World, East of Eden, The Marvels, Miss Marvel, What If…?, Paris Can Wait, Duster, Down Cemetery Road, Marvel Zombies, Set It Up) has composed the film’s original music. Check out our scoring assignment announcement for more information about the movie, which premiered at this year’s Sundance Film Festival and will air on ESPN and stream on Disney+."
+   },
+   {
+    "title": "Miley Cyrus Marries Maxx Morando in Palm Springs Wedding",
+    "url": "https://people.com/miley-cyrus-marries-maxx-morando-11877139",
+    "source": "people.com",
+    "published": "",
+    "excerpt": ", multiple sources confirm to PEOPLE - The “Flowers” singer and the Liily drummer tied the ... The pop star, 33, and the Liily drummer, 28, said “I do” during a ceremony in Palm Springs, Calif., on Saturday, Nov. 21, multiple sources confirm to PEOPLE."
+   },
+   {
+    "title": "Morning Briefing: Avengers, Westlife & Billie's Big Day",
+    "url": "https://www.toledobuzz.com/2026/11/22/morning-briefing-avengers-take-over-vegas-westlifes-msg-debut-billies-bst-headline/",
+    "source": "toledobuzz.com",
+    "published": "",
+    "excerpt": "The Avengers took over the Las Vegas Grand Prix. Chris Evans, Anthony Mackie and Simu Liu reunited Saturday night to kick off the global press tour for Avengers: Doomsday, with a Doomsday-wrapped F1 car trackside and Chris Pratt waving the checkered flag. The film hits theaters Dec. 18. Read the full story Westlife are finally playing Madison Square Garden. Twenty-five years in, the Irish icons announced a 12-date North American anniversary tour for March 2027 — with O-Town opening every show — closing with their first-ever Garden performance on March 19. Read the full story Billie Eilish locked in another huge 2027 headline show. Days after her Glastonbury headline announcement, the 10-time Grammy winner was confirmed for BST Hyde Park on Saturday, July 3, 2027 — her first-ever show at the London festival. General sale opens Thursday, Nov. 26. Read the full story"
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4010501-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "The action-adventure title that sees criminal duo Lucia and Jason blitz through the neon-soaked streets of Vice City sold 32.5 million ‌units pre-release, developer Rockstar Games said on Friday, a day after the game launched to massive fanfare and ... French actor Depardieu and author Houellebecq under investigation for sexual assault The Paris prosecutor's office said on Saturday it had opened a judicial investigation into actor Gerard Depardieu and author Michel Houellebecq over alleged sexual offences after a legal complaint was filed against them. AFP News agency reported on Friday ⁠that the ​men had been jointly accused of the ⁠gang rape and assault of a woman during a 2018 film shoot"
+   }
+  ],
+  "text": "[1] First Day, First Show Newsletter | Latest Movies & Entertainment - The Hindu (thehindu.com)\n### Bollywood ‘Ramayana’ becomes 11th Indian film to cross र 1000 crore mark at box office Alia Bhatt, Aryan Khan, Theja Rio, Payal Kapadia feature in TIME100 Next India list ... to the Grammys: Inside Devan’s ‘Varuvaaiy’, the first Tamil song to earn\n\n[2] News Archive for November 22, 2026 | The Indian Express (indianexpress.com)\n‘She was frustrated’: Anupam Kher recalls Deepika Padukone’s maid act in acting class ... Rashmika reacts to backlash over Koffee with Karan episode: ‘I’ll go into full warrior mode ... Robert Downey Jr revealed Avengers: Doomsday storyline, but we\n\n[3] Miley Cyrus marries Maxx Morando in California ceremony (bbc.com)\nMiley Cyrus has married her partner of four years Maxx Morando during a ceremony in Palm Springs, California. ... took place by a swimming pool with the pair standing under an arch covered in white flowers. The singer\n\n[4] Entertainment news roundup: 22 November 2026 | SVCZZ (svczz.com)\n## Sunrise on the Reaping sets the biggest UK opening day of 2026 The Hunger Games: Sunrise on the Reaping took $8.2 million on its opening day in the UK, the biggest of 2026 so far, passing Spider-Man: Brand New Day at $7.8 million, Fiction Horizon reports. It had already taken $21 million in Thursday previews in the US, and ScreenRant projects more than $120 million domestic for the opening weekend as of Saturday morning, with final numbers due Monday. Yesterday’s roundup carried the $51 million Friday projection; our reviews piece has the critics split at 67% on Rotten Tomatoes. ## O.M …\n\n[5] News Archive | November 2026 | Louder (loudersound.com)\n- - Metallica give $200,000 to local charities following Las Vegas Sphere residency - ... - The Who’s Roger Daltrey threatened to throw Iron Maiden drummer Nicko McBrain ... - System Of A Down drummer targets history-making shows at world landmarks: \"I\n\n[6] What To Watch On TV And Streaming Sunday, November 22, 2026 (tvline.com)\nPREMIERE Identical twins (Rachael Leigh Cook in a dual role) spend Christmas running a bookshop in ... one falls for a neighboring barista (Owain Yeoman) and the ... a dashing lord (Stephen Hagan), leading to mistaken identities and romantic mix-ups.\n\n[7] Weekly TV Music Roundup (November 22, 2026) – Film Music Reporter (filmmusicreporter.com)\nPremiering in the U.S. today is the British TV series Secret Service based on Tom Bradby’s novel of the same name and starring Gemma Arterton, Rafe Spall, Alex Kingston, Roger Allam, Amaka Okafor, Mark Stanley, Avi Nash, Alma Prelec, Aoife Hinds and Khalid Abdalla. The show’s original music is composed by Samuel Sim (The Dark Crystal: Age of Resistance, The Spanish Princess, The Bay, Anne, The Halcyon, A Cruel Love: The Ruth Ellis Story, Domina, Home Fires). Check out our previous article to learn more about the 5-part thriller, which premiered in the UK earlier this year on ITV and will make …\n\n[8] Miley Cyrus Marries Maxx Morando in Palm Springs Wedding (people.com)\n, multiple sources confirm to PEOPLE - The “Flowers” singer and the Liily drummer tied the ... The pop star, 33, and the Liily drummer, 28, said “I do” during a ceremony in Palm Springs, Calif., on Saturday, Nov. 21, multiple sources confirm to PEOPLE.\n\n[9] Morning Briefing: Avengers, Westlife & Billie's Big Day (toledobuzz.com)\nThe Avengers took over the Las Vegas Grand Prix. Chris Evans, Anthony Mackie and Simu Liu reunited Saturday night to kick off the global press tour for Avengers: Doomsday, with a Doomsday-wrapped F1 car trackside and Chris Pratt waving the checkered flag. The film hits theaters Dec. 18. Read the full story Westlife are finally playing Madison Square Garden. Twenty-five years in, the Irish icons announced a 12-date North American anniversary tour for March 2027 — with O-Town opening every show — closing with their first-ever Garden performance on March 19. Read the full story Billie Eilish …\n\n[10] Reuters Entertainment News Summary | International (devdiscourse.com)\nThe action-adventure title that sees criminal duo Lucia and Jason blitz through the neon-soaked streets of Vice City sold 32.5 million ‌units pre-release, developer Rockstar Games said on Friday, a day after the game launched to massive fanfare and ... French actor Depardieu and author Houellebecq under investigation for sexual assault The Paris prosecutor's office said on Saturday it had opened a judicial investigation into actor Gerard Depardieu and author Michel Houellebecq over alleged sexual offences after a legal complaint was filed against them. AFP News agency reported on Friday ⁠that …",
+  "hash": "a3a584d40b6bdfca7cb5d74487e46bd751fed06be362427e1040060301009acb",
+  "notes": []
+ }
+}
