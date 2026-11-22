@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-22T05:04:00+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-22T05:04:00+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Morning Briefing: Nov. 22, 2026",
+    "url": "https://www.aa.com.tr/en/anadolu-post/morning-briefing-nov-22-2026/4133301",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "US President Donald Trump said Saturday that he intends to secure a “permanent” deal with Iran, insisting that no future American president should be able to allow Tehran to obtain a nuclear weapon. \"What I'm doing is making sure that even if, in four, 15, or 20 years, we have an incompetent president, the agreement I reach will be permanent,” said Trump. ... Turkish Foreign Minister Hakan Fidan said Saturday that the policy of Ankara – a member of the Mecca Defense Alliance, along with Saudi Arabia and Pakistan – prioritizes defending Saudi Arabia, while confirming that officials have not yet made any decision on deploying troops to Yemen. ... - UNIFIL begins handing over positions in southern Lebanon to Lebanese army The UN Interim Force in Lebanon (UNIFIL) has begun handing over some of its positions in southern Lebanon to the Lebanese army, mission chief Diodato Abagnara said Saturday. Abagnara stressed the importance of avoiding any security vacuum after the mandate of the UN forces ends on Dec."
+   },
+   {
+    "title": "Reuters World News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4010479-reuters-world-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Fire at power station in Iraq's Basra kills at least 4, injures 35 At least 4 people were killed and 35 injured in a fire at ​a power station in southern Iraq on Saturday, with the toll expected to rise, security officials said. Civil defence teams brought the fire at the Hartha power ‌station north of ​Basra under control after firefighters responded to the incident, Iraq's state news agency, INA, reported. States agree to UN talks aiming to regulate 'killer robots' by 2028 UN talks on regulating weapons with little or no human oversight ended on Saturday with a pledge for further discussions to develop new rules within two years, an outcome weakened by Russia's opposition and disappointing human rights groups. Proponents had called for legally binding rules within a short timeframe to regulate weapons systems that can identify and engage targets with varying degrees of autonomy, sometimes called \"killer robots\". ... Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests Mexican military forces captured Fausto Isidro Meza Flores, known as \"El Chapo Isidro,\" one of the FBI's 10 most wanted fugitives, and two other leaders of his drug-trafficking organization in Sinaloa state on Friday night, Mexico's security chief said on Saturday. For over 20 years, according to the US State Department, Meza Flores and his criminal organization smuggled vast amounts of heroin, methamphetamine, cocaine and marijuana into the United States. Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates A Russian cargo ship with links to the military was hit by drones and caught fire in the Baltic Sea on Saturday in what Finland said was likely an attack by Ukraine, and the vessel later drifted into Finnish waters. The 16-member crew of the Sparta II ‌evacuated onto lifeboats, then to a nearby Russian ship, and is on its way back to Russia, Finnish Border Guard Commander Ilja Iljin told public broadcaster Yle late on Saturday. ... Qatari delegation visits Tehran for talks, Iranian official says A Qatari delegation held talks in Tehran on Friday night, an Iranian official said, as diplomatic efforts continued to end the war triggered by US and Israeli attacks on Iran in February that has destabilised the Middle East and disrupted global energy markets."
+   },
+   {
+    "title": "Daily World Briefing, Nov. 22-Xinhua",
+    "url": "https://english.news.cn/20261122/6ab658d3db0f45648b3ad5968f84974e/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "A magnitude-7.2 earthquake struck waters off Indonesia's Maluku province on ... afternoon, but posed no tsunami threat, the country's meteorological agency said in an initial report. The quake occurred at 4:42 p.m. Jakarta time ("
+   },
+   {
+    "title": "Fossil fuel dispute threatens to derail COP31 climate deal",
+    "url": "https://www.bbc.com/news/articles/cq7827z2841zo",
+    "source": "bbc.com",
+    "published": "",
+    "excerpt": "Talks were set to resume at the UN COP31 summit on Sunday for a second day of overtime as countries struggle to reach a new global climate deal. Nations were deadlocked in Turkey on how to advance the fight against global warming, after new draft agreements included no reference to reducing the world's demand for fossil fuels. A third and \"final\" text was sent to delegates in the early hours of Sunday morning and members had until 06:00 local time (0300 GMT) to raise concerns before a 9am local time (0600GMT) meeting for approval. If countries cannot reach consensus - as required by the UN's climate talks process - the negotiations could be suspended to reconvene next year. A draft deal unveiled earlier this week called for a faster phase-out of fossil fuels, but a second, pared-down version released Thursday stripped away all mentions of coal, oil and gas - sparking threats of a walk out. The fallout led to the summit in Antalya blowing past the original deadline of Friday. On Saturday negotiating teams who had Sunday morning flights were rescheduling them - a sign a deal was still not in sight, and raising the risk that as teams eventually had to leave, the meeting could lose the critical numbers needed to pass an agreement. As part of a last ditch effort to produce an acceptable text, the European Union and Saudi Arabia - who were deeply divided over the future of fossil fuels - were brought together on Saturday to seek a compromise. ... COP31 President and Turkish Environment Minister Murat Kurum told delegates in the early hours of Sunday morning he believed concerns had been addressed. \"We ask you to look at this decision carefully,\" Kurum said. \"We are closer than ever to agreement on the remaining issues.\" If the countries can't agree, the summit would end with no deal and be reconvened next year."
+   },
+   {
+    "title": "World news digest for November 22, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-22",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "Donald Trump has deferred any decision on renewed strikes against Iran until after the New ... near the Strait of Hormuz, and a separate tanker was hit by an unidentified projectile at its stern about 11 nautical miles north of the Omani port of"
+   },
+   {
+    "title": "Russian cargo ship hit by drones | Midday News Bulletin 22 November 2026 | SBS News",
+    "url": "https://www.sbs.com.au/news/podcast-episode/russian-cargo-ship-hit-by-drones-midday-news-bulletin-22-november-2026/xjghvlo6t",
+    "source": "sbs.com.au",
+    "published": "",
+    "excerpt": "Finnish authorities say Ukraine was likely behind the attack, which happened in international waters before the vessel drifted into Finnish territory. Coast Guard Commander Mikko Simola says the vessel has previously been used to transport supplies for Russia's military. \"The first drone strike on the vessel in question is estimated to have occurred between 08:40 and 08:50 this morning. This Sparta II vessel has been used for transports for the Russian state, including the armed forces. I emphasise here that the Border Guard does not have more specific information about the cargo at the moment.\" All 16 crew members were safely evacuated, and Finland has imposed temporary air and maritime restrictions in the area. ... US President Donald Trump says he's planning to make a \"permanent\" deal on Iran, saying he wants a deal that will deny Tehran access to nuclear weapons, rather than regime change."
+   },
+   {
+    "title": "While You Were Sleeping: 5 stories you might have missed, Nov 22, 2026 | The Straits Times",
+    "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-22-2026",
+    "source": "straitstimes.com",
+    "published": "",
+    "excerpt": "southernmost state of Rio Grande do Sul, was reeling on Nov 21 after a storm killed at least three people and damaged thousands of buildings. Rain and wind gusts of 114kmh hit the town early on Nov ... sustained by a long-lived rotating updraft, caused"
+   },
+   {
+    "title": "Kyodo News Digest: Nov. 22",
+    "url": "https://english.kyodonews.net/articles/-/92229",
+    "source": "english.kyodonews.net",
+    "published": "",
+    "excerpt": "in U.N. talks in Geneva on Saturday after a week of intense discussions. Final-stage discussions at the review conference of the Convention on Certain Conventional Weapons continued until early morning on Saturday but ended with a less ambitious text,"
+   },
+   {
+    "title": "COP31 talks go into overtime | Morning News Bulletin 22 November 2026 | SBS News",
+    "url": "https://www.sbs.com.au/news/podcast-episode/cop31-talks-go-into-overtime-morning-news-bulletin-22-november-2026/5vkojtzed",
+    "source": "sbs.com.au",
+    "published": "",
+    "excerpt": "for victory, the hosts completed the highest ever successful T20 run chase at the ground, ending England's seven-match T20 winning streak. ... 38 balls and also claimed two wickets, while debutant Sam Harper blasted"
+   },
+   {
+    "title": "World briefing — November 22, 2026 | Argus",
+    "url": "https://argus.yeomniverse.com/en/archive/2026-11-22/",
+    "source": "argus.yeomniverse.com",
+    "published": "",
+    "excerpt": "Ukraine with three ballistic missiles and 148 drones from the night of Nov. 20 into Nov. 21 ... In Kryvyi Rih, President Zelensky's hometown, a follow-up strike hit as rescuers arrived, killing a 7-year-old boy and a 20-year-old paramedic and"
+   }
+  ],
+  "text": "[1] Morning Briefing: Nov. 22, 2026 (aa.com.tr)\nUS President Donald Trump said Saturday that he intends to secure a “permanent” deal with Iran, insisting that no future American president should be able to allow Tehran to obtain a nuclear weapon. \"What I'm doing is making sure that even if, in four, 15, or 20 years, we have an incompetent president, the agreement I reach will be permanent,” said Trump. ... Turkish Foreign Minister Hakan Fidan said Saturday that the policy of Ankara – a member of the Mecca Defense Alliance, along with Saudi Arabia and Pakistan – prioritizes defending Saudi Arabia, while confirming that officials have not …\n\n[2] Reuters World News Summary | International (devdiscourse.com)\nFire at power station in Iraq's Basra kills at least 4, injures 35 At least 4 people were killed and 35 injured in a fire at ​a power station in southern Iraq on Saturday, with the toll expected to rise, security officials said. Civil defence teams brought the fire at the Hartha power ‌station north of ​Basra under control after firefighters responded to the incident, Iraq's state news agency, INA, reported. States agree to UN talks aiming to regulate 'killer robots' by 2028 UN talks on regulating weapons with little or no human oversight ended on Saturday with a pledge for further …\n\n[3] Daily World Briefing, Nov. 22-Xinhua (english.news.cn)\nA magnitude-7.2 earthquake struck waters off Indonesia's Maluku province on ... afternoon, but posed no tsunami threat, the country's meteorological agency said in an initial report. The quake occurred at 4:42 p.m. Jakarta time (\n\n[4] Fossil fuel dispute threatens to derail COP31 climate deal (bbc.com)\nTalks were set to resume at the UN COP31 summit on Sunday for a second day of overtime as countries struggle to reach a new global climate deal. Nations were deadlocked in Turkey on how to advance the fight against global warming, after new draft agreements included no reference to reducing the world's demand for fossil fuels. A third and \"final\" text was sent to delegates in the early hours of Sunday morning and members had until 06:00 local time (0300 GMT) to raise concerns before a 9am local time (0600GMT) meeting for approval. If countries cannot reach consensus - as required by the UN's …\n\n[5] World news digest for November 22, 2026 | World Watch (worldwatch.media)\nDonald Trump has deferred any decision on renewed strikes against Iran until after the New ... near the Strait of Hormuz, and a separate tanker was hit by an unidentified projectile at its stern about 11 nautical miles north of the Omani port of\n\n[6] Russian cargo ship hit by drones | Midday News Bulletin 22 November 2026 | SBS News (sbs.com.au)\nFinnish authorities say Ukraine was likely behind the attack, which happened in international waters before the vessel drifted into Finnish territory. Coast Guard Commander Mikko Simola says the vessel has previously been used to transport supplies for Russia's military. \"The first drone strike on the vessel in question is estimated to have occurred between 08:40 and 08:50 this morning. This Sparta II vessel has been used for transports for the Russian state, including the armed forces. I emphasise here that the Border Guard does not have more specific information about the cargo at the …\n\n[7] While You Were Sleeping: 5 stories you might have missed, Nov 22, 2026 | The Straits Times (straitstimes.com)\nsouthernmost state of Rio Grande do Sul, was reeling on Nov 21 after a storm killed at least three people and damaged thousands of buildings. Rain and wind gusts of 114kmh hit the town early on Nov ... sustained by a long-lived rotating updraft, caused\n\n[8] Kyodo News Digest: Nov. 22 (english.kyodonews.net)\nin U.N. talks in Geneva on Saturday after a week of intense discussions. Final-stage discussions at the review conference of the Convention on Certain Conventional Weapons continued until early morning on Saturday but ended with a less ambitious text,\n\n[9] COP31 talks go into overtime | Morning News Bulletin 22 November 2026 | SBS News (sbs.com.au)\nfor victory, the hosts completed the highest ever successful T20 run chase at the ground, ending England's seven-match T20 winning streak. ... 38 balls and also claimed two wickets, while debutant Sam Harper blasted\n\n[10] World briefing — November 22, 2026 | Argus (argus.yeomniverse.com)\nUkraine with three ballistic missiles and 148 drones from the night of Nov. 20 into Nov. 21 ... In Kryvyi Rih, President Zelensky's hometown, a follow-up strike hit as rescuers arrived, killing a 7-year-old boy and a 20-year-old paramedic and",
+  "hash": "45dd987efd6efb61175a8576ea1e1e45d9054f9c9f9f417575b3143872f46c36",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-22T05:04:16+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Inflation, economic growth and the mood of US consumers in focus this week | AP News",
+    "url": "https://apnews.com/article/inflation-consumer-confidence-economy-6c207f517113ab0e65c60ac3ee66440e",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "A inflation update is expected to provide more details on what most Americans know — things have become expensive. The U.S. will release the October personal consumption expenditures report, or PCE, on Wednesday. The data carries a lot of weight because it is the preferred measure of inflation used by the Federal Reserve, which is attempting to bring inflation down to its target rate of 2%. Inflation has been rising at a sharp rate since the U.S. and Israel attacked Iran early this year fueling a surge in energy prices. Higher gasoline prices have eaten up a bigger portion of household"
+   },
+   {
+    "title": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
+    "url": "https://finance.yahoo.com/economy/articles/us-consumers-holding-against-inflation-210000941.html",
+    "source": "finance.yahoo.com",
+    "published": "",
+    "excerpt": "Economists estimate inflation-adjusted personal spending rose by 0.1% in October from a month earlier, based on the Bloomberg survey's median estimate ahead of government figures due Wednesday. The modest increase builds on two robust quarters of consumer spending growth. The report, the highlight of a Thanksgiving holiday-shortened trading week, is also expected to show an acceleration in inflation. The personal consumption expenditures price index — the Federal Reserve's preferred inflation metric — is projected to rise 3.8% from October of last year. That's nearly double the Fed's goal and would match May as the biggest annual increase in three years. The core measure, which excludes the volatile food and energy categories, is also seen quickening, adding to evidence that Fed officials will raise interest rates at their December meeting. Steady job growth and solid economic activity this year from consumers and businesses alike are allowing US central bankers to focus squarely on mounting price pressures."
+   },
+   {
+    "title": "US consumer prices rise briskly for third straight month | Reuters",
+    "url": "https://www.reuters.com/5f374b32b07b/world/us/us-consumer-prices-rise-above-expectations-october-2026-11-10/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 10 (Reuters) - US consumer prices increased more than expected in October amid higher costs for food and accommodation, cementing expectations that the Federal Reserve will raise interest rates next month. The Consumer Price Index report from the Labor Department on Tuesday also showed ​a strong buildup of underlying inflation pressures for a third straight month. It followed data last week showing the labor market regained momentum in October. Inflation is being driven by the US-Israeli war with Iran, which has boosted oil ‌prices, the Trump administration's import tariffs, resilient consumer spending and aggressive business investment in artificial intelligence technology. ... The CPI increased 0.4% last month after advancing 0.6% in September, the department's Bureau of Labor Statistics said. It was the third consecutive month of ​gains of 0.4% or more. Economists polled by Reuters had forecast the CPI would climb 0.3% over the month. The BLS did not publish"
+   },
+   {
+    "title": "Inflation pace slowed in October, but prices remain high",
+    "url": "https://www.washingtonpost.com/business/2026/11/10/inflation-pace-slowed-october-prices-remain-high/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "continued its upward climb but at a less-steep rate. The cooling trend may continue, as gas prices fell Tuesday to below $4 a gallon for the first time since July. In October the monthly increase was just"
+   },
+   {
+    "title": "US economy feels pressure as Iran war drives up fuel, food and inflation costs - [İLKHA] Ilke News Agency",
+    "url": "https://ilkha.com/english/world/us-economy-feels-pressure-as-iran-war-drives-up-fuel-food-and-inflation-costs-538102",
+    "source": "ilkha.com",
+    "published": "",
+    "excerpt": "Energy costs have surged since the conflict began. Petrol prices reached an average of $4. ... per gallon for regular fuel, compared to $2.98 before ... ’s Analytics estimates that US households are now spending an average of $750 more due to war-related"
+   },
+   {
+    "title": "GMT EIGHT - Latest - Federal Reserve Beige Book: U.S. economy expands modestly but inflationary pressures intensify; AI boosts productivity while dampening hiring demand at some firms",
+    "url": "https://www.gmt8press.com/flash/detail/1557012",
+    "source": "gmt8press.com",
+    "published": "",
+    "excerpt": "22/11/2026 Zhito Finance APP has learned that the latest Beige Book on economic conditions released by the Federal Reserve on Wednesday shows that U.S. economic activity generally continued to grow, but performance varied across regions, consumer spending was broadly weak, and the labor market changed little. At the same time, rising energy prices, tariffs, and climbing insurance costs continued to push up business operating costs, further intensifying inflationary pressure in some regions. Notably, as companies increase investment in artificial intelligence (AI), some firms have begun to reduce hiring needs by improving productivity, and AI's impact on the U.S. labor market is gradually emerging."
+   },
+   {
+    "title": "GMT EIGHT - Latest - Fed Vice Chair Jefferson States: Inflation Has Become the Most Important Reference Indicator for Interest Rates",
+    "url": "https://gmteight.com/flash/detail/1608542",
+    "source": "gmteight.com",
+    "published": "",
+    "excerpt": "target. \"Accordingly, I see the trajectory of inflation as the core signal for judging the appropriate stance of monetary policy,\" Jefferson said in remarks prepared for delivery in San Diego. He added that policymakers should continue to track the latest"
+   },
+   {
+    "title": "Core inflation measures can't escape high energy prices",
+    "url": "https://www.marketplace.org/story/2026/11/20/core-inflation-measures-cant-escape-high-energy-prices",
+    "source": "marketplace.org",
+    "published": "",
+    "excerpt": "Nov 20, 2026 ... Somewhere between 0.2% and 0.6% of inflation in core PCE over the past year is the product of high energy costs, according to a Dallas Fed report. ... Core personal consumption expenditures (PCE) is an inflation measure that is supposed to strip out the cost of food and energy because they’re so volatile — something the U.S. has been experiencing for a while now. But a new report from the Federal Reserve Bank of Dallas shows that higher energy prices are showing up even in core PCE. It’s 3.1% higher than a year ago. Fed economists estimate that between 0.2% and 0.6% of that are the knock-on effects of high fuel prices. “Ultimately, energy costs have to work their way through the entire ecosystem,” said Rob Haworth, senior investment strategy director at U.S. Bank. “There's not much that shows up at our house or at our store without requiring a fossil fuel to get there.” Often, energy costs permeate the ecosystem through producer prices — the costs businesses charge each other. “If the transportation company or the the maker of the product — or ultimately the the retail store at the end — if they think they can raise prices and still sell as many units of of whatever, they will pass that cost along,” Haworth said."
+   },
+   {
+    "title": "Fed's Cook backs further rate rises, citing 3.8% PCE estimate | BattleTown News",
+    "url": "https://battletown.com/news/fed-s-cook-backs-further-rate-rises-citing-3-8-pce-estimate",
+    "source": "battletown.com",
+    "published": "",
+    "excerpt": "that the personal consumption expenditures (PCE) price index, the measure the Fed uses for its 2% target, rose 3.8% year on year in October. She put the core figure, which excludes food and energy, at 3.2%, and said inflation has been above target for"
+   },
+   {
+    "title": "GMT EIGHT - Latest - Fed Chair Warsh gives no signal on October rate move",
+    "url": "https://www.gmt8press.com/flash/detail/1559459",
+    "source": "gmt8press.com",
+    "published": "",
+    "excerpt": "to raise interest rates this month. Warsh said the Fed no ... data came in firmer than expected. Core consumer prices, which exclude volatile food and energy items, rose 0.33% in September from the prior month, the second straight strong monthly gain."
+   }
+  ],
+  "text": "[1] Inflation, economic growth and the mood of US consumers in focus this week | AP News (apnews.com)\nA inflation update is expected to provide more details on what most Americans know — things have become expensive. The U.S. will release the October personal consumption expenditures report, or PCE, on Wednesday. The data carries a lot of weight because it is the preferred measure of inflation used by the Federal Reserve, which is attempting to bring inflation down to its target rate of 2%. Inflation has been rising at a sharp rate since the U.S. and Israel attacked Iran early this year fueling a surge in energy prices. Higher gasoline prices have eaten up a bigger portion of household\n\n[2] US Consumers Are Holding Up Against Inflation Going Into Holiday Season (finance.yahoo.com)\nEconomists estimate inflation-adjusted personal spending rose by 0.1% in October from a month earlier, based on the Bloomberg survey's median estimate ahead of government figures due Wednesday. The modest increase builds on two robust quarters of consumer spending growth. The report, the highlight of a Thanksgiving holiday-shortened trading week, is also expected to show an acceleration in inflation. The personal consumption expenditures price index — the Federal Reserve's preferred inflation metric — is projected to rise 3.8% from October of last year. That's nearly double the Fed's goal and …\n\n[3] US consumer prices rise briskly for third straight month | Reuters (reuters.com)\nWASHINGTON, Nov 10 (Reuters) - US consumer prices increased more than expected in October amid higher costs for food and accommodation, cementing expectations that the Federal Reserve will raise interest rates next month. The Consumer Price Index report from the Labor Department on Tuesday also showed ​a strong buildup of underlying inflation pressures for a third straight month. It followed data last week showing the labor market regained momentum in October. Inflation is being driven by the US-Israeli war with Iran, which has boosted oil ‌prices, the Trump administration's import tariffs, …\n\n[4] Inflation pace slowed in October, but prices remain high (washingtonpost.com)\ncontinued its upward climb but at a less-steep rate. The cooling trend may continue, as gas prices fell Tuesday to below $4 a gallon for the first time since July. In October the monthly increase was just\n\n[5] US economy feels pressure as Iran war drives up fuel, food and inflation costs - [İLKHA] Ilke News Agency (ilkha.com)\nEnergy costs have surged since the conflict began. Petrol prices reached an average of $4. ... per gallon for regular fuel, compared to $2.98 before ... ’s Analytics estimates that US households are now spending an average of $750 more due to war-related\n\n[6] GMT EIGHT - Latest - Federal Reserve Beige Book: U.S. economy expands modestly but inflationary pressures intensify; AI boosts productivity while dampening hiring demand at some firms (gmt8press.com)\n22/11/2026 Zhito Finance APP has learned that the latest Beige Book on economic conditions released by the Federal Reserve on Wednesday shows that U.S. economic activity generally continued to grow, but performance varied across regions, consumer spending was broadly weak, and the labor market changed little. At the same time, rising energy prices, tariffs, and climbing insurance costs continued to push up business operating costs, further intensifying inflationary pressure in some regions. Notably, as companies increase investment in artificial intelligence (AI), some firms have begun to …\n\n[7] GMT EIGHT - Latest - Fed Vice Chair Jefferson States: Inflation Has Become the Most Important Reference Indicator for Interest Rates (gmteight.com)\ntarget. \"Accordingly, I see the trajectory of inflation as the core signal for judging the appropriate stance of monetary policy,\" Jefferson said in remarks prepared for delivery in San Diego. He added that policymakers should continue to track the latest\n\n[8] Core inflation measures can't escape high energy prices (marketplace.org)\nNov 20, 2026 ... Somewhere between 0.2% and 0.6% of inflation in core PCE over the past year is the product of high energy costs, according to a Dallas Fed report. ... Core personal consumption expenditures (PCE) is an inflation measure that is supposed to strip out the cost of food and energy because they’re so volatile — something the U.S. has been experiencing for a while now. But a new report from the Federal Reserve Bank of Dallas shows that higher energy prices are showing up even in core PCE. It’s 3.1% higher than a year ago. Fed economists estimate that between 0.2% and 0.6% of that …\n\n[9] Fed's Cook backs further rate rises, citing 3.8% PCE estimate | BattleTown News (battletown.com)\nthat the personal consumption expenditures (PCE) price index, the measure the Fed uses for its 2% target, rose 3.8% year on year in October. She put the core figure, which excludes food and energy, at 3.2%, and said inflation has been above target for\n\n[10] GMT EIGHT - Latest - Fed Chair Warsh gives no signal on October rate move (gmt8press.com)\nto raise interest rates this month. Warsh said the Fed no ... data came in firmer than expected. Core consumer prices, which exclude volatile food and energy items, rose 0.33% in September from the prior month, the second straight strong monthly gain.",
+  "hash": "ca304046b67ec3522b1a7c7f1b1f972296e8ecdfe64711c6457d38f556b699bf",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-22T05:04:30+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Trump moves to limit congressional scrutiny before Democrats take power of Congress - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/world/us/trump-moves-to-limit-congressional-scrutiny-before-democrats-take-power-of-congress/articleshow/136065847.cms",
+    "source": "timesofindia.indiatimes.com",
+    "published": "",
+    "excerpt": "US president Donald Trump has ordered companies holding federal contracts to notify the White House before sharing information with Congress. He has also asked for them to withhold material the administration considers confidential, tightening his efforts to restrict congressional oversight ahead of Democrats taking control of Congress in January. The executive order, issued late Friday, applies to federal contractors and their subcontractors. Companies must coordinate with the White House and federal agencies on how to respond to congressional inquiries, including requests for information that the administration considers protected by executive privilege. The order warns that contractors failing to comply could have their existing contracts cancelled or be barred from future federal work. Democrats on their end are preparing to launch investigations into Trump's administration, family business dealings and the awarding of government contracts after winning control of both chambers of Congress in the midterm elections. Federal contracts are expected to be a major focus of the inquiries, with Democrats raising concerns about government funds going to companies linked to Trump's family, particularly through the Pentagon. The order follows a directive issued earlier this week by White House counsel Will Scharf, who told federal agencies to seek approval from his office and the White House Office of Legislative Affairs before allowing employees to testify before Congress. Scharf has also argued that some Democratic investigations could amount to criminal conduct, a claim that has drawn criticism from lawmakers. Responding to the latest order, representative Robert Garcia, the top Democrat on the House Oversight Committee, called it a “blatant attack” on Congress' constitutional right to conduct oversight. He said Democrats would continue their investigations despite the administration's efforts to obstruct them. The White House defended the order as a measure to protect executive privilege and sensitive government communications, including those involving national security. It argued that contractors responding independently to congressional requests could disclose protected information and trigger costly legal disputes. Executive privilege allows presidents to shield certain confidential communications, particularly those involving White House deliberations. However, the protection is not absolute, and disputes over its scope can lead to prolonged legal battles. The order could face court challenges, particularly if contractors are directed to withhold information sought through congressional subpoenas. Democrats are preparing investigations into potential conflicts of interest, federal contracts, immigration enforcement and the administration's handling of the Jeffrey Epstein case."
+   },
+   {
+    "title": "MSNBC Highlights — Nov. 22",
+    "url": "https://www.ms.now/watch/msnbc-highlights-nov-22",
+    "source": "ms.now",
+    "published": "",
+    "excerpt": "## Musk disavows MAGA status after ‘pretty foolish’ $446M GOP midterm spend ... ## Rachel Maddow: Trump’s move to gut the DOJ is ‘really ominous’ ... ## ‘Every American should be concerned’: Co-President of the House Freshman class SLAMS the Trump admin"
+   },
+   {
+    "title": "Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’",
+    "url": "https://www.nbcnews.com/politics/donald-trump/abdul-el-sayed-catches-trumps-attention-pitch-trumpcare-rcna610626",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "to Sen.-elect Abdul El-Sayed’s push for universal healthcare after the progressive Michigan Democrat pitched that it be called “ ... Fox News earlier in the day that he believes the government could “do tremendous things on healthcare” after"
+   },
+   {
+    "title": "Democrats won big in the midterms. Here's what they plan to do next | World News - Business Standard",
+    "url": "https://www.business-standard.com/world-news/democrats-won-big-in-the-midterms-here-s-what-they-plan-to-do-next-126112200091_1.html",
+    "source": "business-standard.com",
+    "published": "",
+    "excerpt": "Democrats basking in their November 3 election wins will soon unveil an ambitious legislative agenda for the first 100 days and ​beyond, in a test of progressives' influence and Republicans' willingness to cooperate, as they take control of the US Congress on January 3. That agenda is likely to be unveiled in early December once a Senate leadership race is settled. It will mark a thunderous reversal of the past two years, when President Donald Trump's Republicans ruled the Senate and House of Representatives. With their narrow majorities, they rammed through major tax cuts skewed toward the rich and stood by as Trump grabbed their powers over tariffs and spending. Democrats' new majorities in Congress are anything but narrow. With a 56-44 majority in the Senate they are four votes short of the 60 votes needed to advance most legislation. In the House, their 257-172 force could grow beyond an 85-vote margin once a ‌handful of races are settled. ... \"This is a realignment,\" said Democratic Senator Raphael Warnock of Georgia in a post-election ​interview with reporters. But in a warning to Democrats, veteran Republican Senator John Boozman of ​Arkansas said in an interview that despite his party's losses across the United States, Trump remains \"a powerful force\" and \"I don't see any of his vetoes getting overridden\" by Congress during his remaining two years in office. AGGRESSIVE AGENDA For ​months, Democrats have been plotting a House-Senate coordinated attack to undo Trump's major accomplishments, according to lawmakers and aides. With the high cost of living the top concern voiced by voters, Democratic leaders are going after the low-hanging fruit that also would help unite their party's progressives and moderates. Early votes are expected on legislation handcuffing Trump's ability to wage war on Iran without Congress' approval, which would help lower gasoline prices. Reversing Republicans' deep cuts to Medicaid and SNAP food stamp programs would begin helping the poor meet healthcare and grocery costs. Meanwhile, progressives have urged raising the federal minimum wage, which is unchanged since 2009 at $7.25 per hour. Some are pushing for $20 to $25. And in response to voter ​disgust over Washington ethics breaches, one of the first bills Democrats are expected to present is one barring lawmakers from insider trading of stocks. Republicans face a bind: joining Democrats could anger Trump unless he backs measures, while stonewalling could anger voters. \"I think ‌there's a real understanding in Congress that things like healthcare, the really exorbitant premiums, you know, that people are having to pay\" must be addressed, said Boozman, who was one of the Republicans ​who supported around $1 trillion in cuts to Medicare, Medicaid and Obamacare programs enacted last year."
+   },
+   {
+    "title": "Congress Passes First of Two Funding Deals, Avoids Weekend Shutdown",
+    "url": "https://www.fedweek.com/fedweek/task-big-time-short-for-heading-off-agency-funding-lapses/",
+    "source": "fedweek.com",
+    "published": "",
+    "excerpt": "Congress again narrowly avoided a partial government shutdown with the Senate voting 75 – 22 on Friday to approve a $459 billion spending bill for agencies that were set to run out of funding at midnight. Congressional negotiators in recent days unveiled"
+   },
+   {
+    "title": "Live: House races remain uncalled nearly 3 weeks post-election",
+    "url": "https://thehill.com/homenews/administration/6234849-live-congress-recess-midterm-results-trump/",
+    "source": "thehill.com",
+    "published": "",
+    "excerpt": "Leaders on both sides of the aisle, including Speaker Mike Johnson (R-La.), expressed frustration this week with Congress members’ low attendance in the lame duck session — especially with bills on permitting reform and"
+   },
+   {
+    "title": "Reuters US Domestic News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4010480-reuters-us-domestic-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "could be headed for a pre-Christmas government shutdown as divisions over the Iran war and ... . Lawmakers have only three weeks to iron out an agreement to keep federal agencies operating after December"
+   },
+   {
+    "title": "Trump says deals possible with Congress on health care, immigration",
+    "url": "https://www.usatoday.com/story/news/politics/2026/11/20/trump-democrats-deals-health-care-immigration-movies-sports/92877379007/",
+    "source": "usatoday.com",
+    "published": "",
+    "excerpt": "– President Donald Trump said he could potentially work with congressional Democrats on health care, immigration, making movies ... and paying college students – but he threatened to veto legislation he doesn’t like."
+   },
+   {
+    "title": "White House Counsel Directs All Federal Agencies to Obtain White House Approval Prior to Congressional Testimony - WashingTone",
+    "url": "https://washingtone.com/nnmbpm-white-house-counsel-directs-all-federal-agencies-to-obtain-white-house-approval-prior-to-congressional-testimony",
+    "source": "washingtone.com",
+    "published": "",
+    "excerpt": "House Counsel Will Scharf issued a sweeping new memorandum requiring all federal executive branch agencies to secure formal clearance from the White House before providing testimony or briefings to congressional committees, tightening executive control"
+   },
+   {
+    "title": "World news digest for November 22, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-22",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "Donald Trump has deferred any decision on renewed strikes against Iran until after the New Year, but attacks on shipping in the Strait of Hormuz have continued and Qatar has stepped in as a mediator.⁠ 1"
+   }
+  ],
+  "text": "[1] Trump moves to limit congressional scrutiny before Democrats take power of Congress - The Times of India (timesofindia.indiatimes.com)\nUS president Donald Trump has ordered companies holding federal contracts to notify the White House before sharing information with Congress. He has also asked for them to withhold material the administration considers confidential, tightening his efforts to restrict congressional oversight ahead of Democrats taking control of Congress in January. The executive order, issued late Friday, applies to federal contractors and their subcontractors. Companies must coordinate with the White House and federal agencies on how to respond to congressional inquiries, including requests for information …\n\n[2] MSNBC Highlights — Nov. 22 (ms.now)\n## Musk disavows MAGA status after ‘pretty foolish’ $446M GOP midterm spend ... ## Rachel Maddow: Trump’s move to gut the DOJ is ‘really ominous’ ... ## ‘Every American should be concerned’: Co-President of the House Freshman class SLAMS the Trump admin\n\n[3] Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ (nbcnews.com)\nto Sen.-elect Abdul El-Sayed’s push for universal healthcare after the progressive Michigan Democrat pitched that it be called “ ... Fox News earlier in the day that he believes the government could “do tremendous things on healthcare” after\n\n[4] Democrats won big in the midterms. Here's what they plan to do next | World News - Business Standard (business-standard.com)\nDemocrats basking in their November 3 election wins will soon unveil an ambitious legislative agenda for the first 100 days and ​beyond, in a test of progressives' influence and Republicans' willingness to cooperate, as they take control of the US Congress on January 3. That agenda is likely to be unveiled in early December once a Senate leadership race is settled. It will mark a thunderous reversal of the past two years, when President Donald Trump's Republicans ruled the Senate and House of Representatives. With their narrow majorities, they rammed through major tax cuts skewed toward the …\n\n[5] Congress Passes First of Two Funding Deals, Avoids Weekend Shutdown (fedweek.com)\nCongress again narrowly avoided a partial government shutdown with the Senate voting 75 – 22 on Friday to approve a $459 billion spending bill for agencies that were set to run out of funding at midnight. Congressional negotiators in recent days unveiled\n\n[6] Live: House races remain uncalled nearly 3 weeks post-election (thehill.com)\nLeaders on both sides of the aisle, including Speaker Mike Johnson (R-La.), expressed frustration this week with Congress members’ low attendance in the lame duck session — especially with bills on permitting reform and\n\n[7] Reuters US Domestic News Summary | International (devdiscourse.com)\ncould be headed for a pre-Christmas government shutdown as divisions over the Iran war and ... . Lawmakers have only three weeks to iron out an agreement to keep federal agencies operating after December\n\n[8] Trump says deals possible with Congress on health care, immigration (usatoday.com)\n– President Donald Trump said he could potentially work with congressional Democrats on health care, immigration, making movies ... and paying college students – but he threatened to veto legislation he doesn’t like.\n\n[9] White House Counsel Directs All Federal Agencies to Obtain White House Approval Prior to Congressional Testimony - WashingTone (washingtone.com)\nHouse Counsel Will Scharf issued a sweeping new memorandum requiring all federal executive branch agencies to secure formal clearance from the White House before providing testimony or briefings to congressional committees, tightening executive control\n\n[10] World news digest for November 22, 2026 | World Watch (worldwatch.media)\nDonald Trump has deferred any decision on renewed strikes against Iran until after the New Year, but attacks on shipping in the Strait of Hormuz have continued and Qatar has stepped in as a mediator.⁠ 1",
+  "hash": "0e0ed53f02b2a603a26e20317c34f00681bd1f863093289d706b1865b70aef2e",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-22T05:04:44+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "FFM35: ‘Khadam’ sweeps 10 awards, Shaheizy Sam ends 15-year Best Actor drought as Malaysian cinema celebrates its finest | Malay Mail",
+    "url": "https://www.malaymail.com/news/showbiz/2026/11/22/ffm35-khadam-sweeps-10-awards-shaheizy-sam-ends-15-year-best-actor-drought-as-malaysian-cinema-celebrates-its-finest/244273",
+    "source": "malaymail.com",
+    "published": "",
+    "excerpt": "By Ian Jeremiah Patrick First Published: Sunday, 22 Nov 2026 10:13 AM MYT KUALA LUMPUR, Nov 22 — Horror ruled the night at the 35th Malaysia Film Festival (FFM35) yesterday as Khadam emerged as the biggest winner with 10 awards, while Shaheizy Sam made a triumphant return to Best Actor glory after 15 years. But the spotlight wasn’t entirely on the night’s biggest names. From promising newcomers to beloved industry veterans, the ceremony delivered its share of breakthrough wins, emotional speeches and career-defining moments. Held for the first time at Panggung Sari, Istana Budaya, the ceremony celebrated Malaysian cinema under the theme “Spectrum of Cinema”. Here are the biggest takeaways from FFM35. ‘Khadam’ makes a killing Horror film Khadam, directed by Shamyl Othman, dominated the ceremony with 10 awards from 12 nominations, including the coveted Best Film prize. The victory also earned the production a RM1 million incentive under the Creative Content Fund. ... — Picture courtesy of Finas Among its other wins were Best Director for Shamyl, Best Makeup for Jessie Yeow, Best Theme Song for Tak Berlagu, Best Sound Design for Soo Yuen Yiet and Best Original Score for Rendra Zawawi. The film also picked up Best Cinematography and Best Screenplay. Fourteen-year-old Ezarra Nurzhaffira won Best Supporting Actress for her portrayal of Puteh, while lead actress Aghniny Haque received a Special Jury Award. ... Shaheizy Sam’s 15-year comeback While Khadam swept the technical and major awards, Badak delivered another of the night’s biggest stories. Shaheizy Sam claimed Best Actor for his performance in the film, marking his first win in the category since Kongsi at FFM24 in 2011. The veteran actor reflected on the significance of the victory after years in the entertainment industry. “ Badak is a very meaningful work and a reminder to everyone. “I hope I can continue to humanise people through this industry,” he said. Aida Amron took home Best Actress for her portrayal of Mirah in ‘Badak’ at FFM35. ... His Badak co-star Aida Amron also celebrated a major victory, taking home Best Actress, while the film received a Special Jury Award. Meanwhile, a new generation of performers made its presence felt. Aila Azizul won Most Promising Actress for Astro Shaw’s Malam Terlarang, while Mierul Aiman, who recently played Kuda in Kudrat 1968, was named Most Promising Actor for Tarung: Unforgiven. ... Elsewhere, animated hit Papa Zola: The Movie, which grossed RM69 million following its 2025 cinema debut, received the Box"
+   },
+   {
+    "title": "K-Culture Daily Briefing (Nov 22, 2026): MAMA Wins and - K-Culture Center",
+    "url": "https://k-culturecenter.com/k-culture-daily-briefing-nov-22-2026-mama-wins-and/",
+    "source": "k-culturecenter.com",
+    "published": "",
+    "excerpt": "## BTS take five at MAMA; Cortis grab Song of the Year At the 2026 MAMA Awards, held over two nights at Kyocera Dome Osaka, BTS collected five trophies including Album of the Year (“Arirang”) and Artist of the Year, while rookie boy group Cortis claimed Song of the Year with “RedRed” and four awards overall. Enhypen took Fans’ Choice of the Year for a second straight year, and BIGBANG, marking their 20th anniversary, won three. ... On screen, SBS’s “Good Partner 2” opened above its first season and MBC’s “The Perfect Lie” doubled its ratings, as Netflix and Prime Video rolled out mid-run episodes."
+   },
+   {
+    "title": "Quickreads: Get quick information on latest, top breaking news | Hindustan Times",
+    "url": "https://www.hindustantimes.com/quick-read/bollywood/deepika-padukone-to-make-her-hollywood-comeback-with-cross-cultural-romantic-comedy-to-co-produce-it-too-101630383934807-quickread.html",
+    "source": "hindustantimes.com",
+    "published": "",
+    "excerpt": "Diljit Dosanjh calls out ‘double standards’ over issues with his song lyrics Nov 22, 2026 04:41 2 min read At Ahmedabad’s Narendra Modi Stadium, Diljit Dosanjh challenged restrictions on songs about alcohol and drugs, accusing authorities of “double standards” because Coldplay performs similar lyrics without objection. An Indore notice reportedly names four tracks and asks organizers to omit them, citing children’s welfare; it follows a 2019 court warning against songs glorifying alcohol, drugs and violence."
+   },
+   {
+    "title": "Michael Jackson Biopic 'Michael' Skipping BAFTAs",
+    "url": "https://deadline.com/2026/11/michael-jackson-biopic-michael-skipping-baftas-1237230863/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "In a surprise move, the record-breaking box office smash Michael is skipping the BAFTAs, Deadline has confirmed. Antoine Fuqua’s billion-dollar film about the King of Pop won’t be submitted by producers GK Films or distributor Universal, which released internationally for Lionsgate. This takes the likes of Jaafar Jackson, Colman Domingo and the craft team out of the BAFTA equation. Variety first reported the news. Sources cited “multiple factors” behind the decision to us but declined to say what they are."
+   },
+   {
+    "title": "Celebrity birthdays for the week of Nov. 22-28 include Mark Ruffalo and Scarlett Johansson",
+    "url": "https://apnews.com/article/celebrity-birthdays-nov-2026-mark-cd87e73bfc4f3690455f3b127bd243da",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Nov. 22: Comedian-director Terry Gilliam (Monty Python) is 86. Actor ... “Reuben, Reuben”) is 85. Guitarist-actor Steven Van Zandt (The E Street Band, “The Sopranos”) is 76. Bassist Tina Weymouth of Talking Heads is 76. Singer Lawrence Gowan of Styx is"
+   },
+   {
+    "title": "What to Watch This Weekend: Best New Movies, TV, and GTA VI",
+    "url": "https://www.vulture.com/article/what-to-watch-this-weekend-best-new-movies-and-tv-november-20-22.html",
+    "source": "vulture.com",
+    "published": "",
+    "excerpt": "on the Reaping recounts the character’s games, as Joseph Zada (East of Eden) takes on ... role of teenage Haymitch. Along the way, he meets some other younger counterparts of beloved Hunger Games characters, like"
+   },
+   {
+    "title": "Ent Top News, Nov. 21: Anirudh-Kavya Host Reception; Tiger Shroff Makes First Appearance After Juhu Attack | Bollywood News - News18",
+    "url": "https://www.news18.com/movies/bollywood/entertainment-top-news-november-21-anirudh-ravichander-kavya-maran-reception-tiger-shroff-first-appearance-juhu-attack-ws-l-10435734.html",
+    "source": "news18.com",
+    "published": "",
+    "excerpt": "of Shraddha’s film releasing on the same date when his ... to the stage with a performance at the Global Peace Honours 2026 in Mumbai on Saturday, marking his first public performance since gunshots were allegedly fired at his vehicle in October."
+   },
+   {
+    "title": "TV Schedule: What To Watch The Week Of November 22, 2026 — New Shows & Movies",
+    "url": "https://www.tvline.com/2323631/what-to-watch-week-of-november-22-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "## SUNDAY, NOVEMBER 22 📺 8 p.m. \"Professor T\" Season 5 finale (PBS) 📺 9 p.m. \"Maigret\" Season 2 finale (PBS) 📺 10 p.m. \"The Gold\" Season 2 finale (PBS) 📺 10 p.m. \" Secret Service\" (MGM+) After overhearing Russian operatives discuss a mole at the highest levels of British politics, an MI6 spy (Gemma Arterton) races to uncover the traitor before the prime minister's resignation puts them in power. 📺 11 p.m. \" Oobah: Scams for a Better Tomorrow\" (HBO) To infiltrate the worlds of wine, wellness, royalty, and more, Oobah Butler hatches elaborate and increasingly audacious schemes by gaming online reviews, assuming made-up personas, and launching fake companies with entirely bogus backstories. 🎥 8 p.m. \" Love That Remains\" (Lifetime movie) A grieving widow (Chantel Riley) secretly enters the life of the man (Chris Hong) who received her late husband's donated heart, only to develop unexpected feelings for him. 🎥 8 p.m. \" Double Booked for the Holidays\" (Hallmark Channel movie) Identical twins (Rachael Leigh Cook in a dual role) spend Christmas running a bookshop in Wales, where one falls for a neighboring barista (Owain Yeoman) and the other for a dashing lord (Stephen Hagan), leading to mistaken identities and romantic mix-ups. 🎥 8 p.m. \" Letters This Christmas\" (Great American Family movie) When a struggling Christmas novelist returns home searching for inspiration, reconnecting with family, cherished traditions, and her first love helps her rediscover the story she was meant to write; Ashley Newbrough and Jesse Hutch star."
+   },
+   {
+    "title": "November 2026 Archive | KTRENZ",
+    "url": "https://ktrenz.com/archive/2026/11",
+    "source": "ktrenz.com",
+    "published": "",
+    "excerpt": "### Hong Jin-kyung raises pregnancy suspicion about Seo In-young ahead of Dec. 26 ... - Newsdesk ### Yang Jun-mo and Yang Ji-won share maternity shoot 3 months after wedding - Exclusive ALLDAY PROJECT ### ALLDAY PROJECT's Ani breaks down in tears"
+   },
+   {
+    "title": "News Archive | November 2026 | Louder",
+    "url": "https://www.loudersound.com/news/archive/2026/11",
+    "source": "loudersound.com",
+    "published": "",
+    "excerpt": "Kiss guitarist who definitely wasn’t invited to their farewell show: “If you can get ... gonna fit” - Bleeding Through guitarist John Arnold suffers heart attack: \"Let this remind us all to always tell your people you love them. Life is precious.\""
+   }
+  ],
+  "text": "[1] FFM35: ‘Khadam’ sweeps 10 awards, Shaheizy Sam ends 15-year Best Actor drought as Malaysian cinema celebrates its finest | Malay Mail (malaymail.com)\nBy Ian Jeremiah Patrick First Published: Sunday, 22 Nov 2026 10:13 AM MYT KUALA LUMPUR, Nov 22 — Horror ruled the night at the 35th Malaysia Film Festival (FFM35) yesterday as Khadam emerged as the biggest winner with 10 awards, while Shaheizy Sam made a triumphant return to Best Actor glory after 15 years. But the spotlight wasn’t entirely on the night’s biggest names. From promising newcomers to beloved industry veterans, the ceremony delivered its share of breakthrough wins, emotional speeches and career-defining moments. Held for the first time at Panggung Sari, Istana Budaya, the …\n\n[2] K-Culture Daily Briefing (Nov 22, 2026): MAMA Wins and - K-Culture Center (k-culturecenter.com)\n## BTS take five at MAMA; Cortis grab Song of the Year At the 2026 MAMA Awards, held over two nights at Kyocera Dome Osaka, BTS collected five trophies including Album of the Year (“Arirang”) and Artist of the Year, while rookie boy group Cortis claimed Song of the Year with “RedRed” and four awards overall. Enhypen took Fans’ Choice of the Year for a second straight year, and BIGBANG, marking their 20th anniversary, won three. ... On screen, SBS’s “Good Partner 2” opened above its first season and MBC’s “The Perfect Lie” doubled its ratings, as Netflix and Prime Video rolled out mid-run …\n\n[3] Quickreads: Get quick information on latest, top breaking news | Hindustan Times (hindustantimes.com)\nDiljit Dosanjh calls out ‘double standards’ over issues with his song lyrics Nov 22, 2026 04:41 2 min read At Ahmedabad’s Narendra Modi Stadium, Diljit Dosanjh challenged restrictions on songs about alcohol and drugs, accusing authorities of “double standards” because Coldplay performs similar lyrics without objection. An Indore notice reportedly names four tracks and asks organizers to omit them, citing children’s welfare; it follows a 2019 court warning against songs glorifying alcohol, drugs and violence.\n\n[4] Michael Jackson Biopic 'Michael' Skipping BAFTAs (deadline.com)\nIn a surprise move, the record-breaking box office smash Michael is skipping the BAFTAs, Deadline has confirmed. Antoine Fuqua’s billion-dollar film about the King of Pop won’t be submitted by producers GK Films or distributor Universal, which released internationally for Lionsgate. This takes the likes of Jaafar Jackson, Colman Domingo and the craft team out of the BAFTA equation. Variety first reported the news. Sources cited “multiple factors” behind the decision to us but declined to say what they are.\n\n[5] Celebrity birthdays for the week of Nov. 22-28 include Mark Ruffalo and Scarlett Johansson (apnews.com)\nNov. 22: Comedian-director Terry Gilliam (Monty Python) is 86. Actor ... “Reuben, Reuben”) is 85. Guitarist-actor Steven Van Zandt (The E Street Band, “The Sopranos”) is 76. Bassist Tina Weymouth of Talking Heads is 76. Singer Lawrence Gowan of Styx is\n\n[6] What to Watch This Weekend: Best New Movies, TV, and GTA VI (vulture.com)\non the Reaping recounts the character’s games, as Joseph Zada (East of Eden) takes on ... role of teenage Haymitch. Along the way, he meets some other younger counterparts of beloved Hunger Games characters, like\n\n[7] Ent Top News, Nov. 21: Anirudh-Kavya Host Reception; Tiger Shroff Makes First Appearance After Juhu Attack | Bollywood News - News18 (news18.com)\nof Shraddha’s film releasing on the same date when his ... to the stage with a performance at the Global Peace Honours 2026 in Mumbai on Saturday, marking his first public performance since gunshots were allegedly fired at his vehicle in October.\n\n[8] TV Schedule: What To Watch The Week Of November 22, 2026 — New Shows & Movies (tvline.com)\n## SUNDAY, NOVEMBER 22 📺 8 p.m. \"Professor T\" Season 5 finale (PBS) 📺 9 p.m. \"Maigret\" Season 2 finale (PBS) 📺 10 p.m. \"The Gold\" Season 2 finale (PBS) 📺 10 p.m. \" Secret Service\" (MGM+) After overhearing Russian operatives discuss a mole at the highest levels of British politics, an MI6 spy (Gemma Arterton) races to uncover the traitor before the prime minister's resignation puts them in power. 📺 11 p.m. \" Oobah: Scams for a Better Tomorrow\" (HBO) To infiltrate the worlds of wine, wellness, royalty, and more, Oobah Butler hatches elaborate and increasingly audacious schemes by gaming online …\n\n[9] November 2026 Archive | KTRENZ (ktrenz.com)\n### Hong Jin-kyung raises pregnancy suspicion about Seo In-young ahead of Dec. 26 ... - Newsdesk ### Yang Jun-mo and Yang Ji-won share maternity shoot 3 months after wedding - Exclusive ALLDAY PROJECT ### ALLDAY PROJECT's Ani breaks down in tears\n\n[10] News Archive | November 2026 | Louder (loudersound.com)\nKiss guitarist who definitely wasn’t invited to their farewell show: “If you can get ... gonna fit” - Bleeding Through guitarist John Arnold suffers heart attack: \"Let this remind us all to always tell your people you love them. Life is precious.\"",
+  "hash": "9a14dd2bc9def1f73370d5406c18f4692fcea4985e1dae72580abb42ba1138e0",
+  "notes": []
+ }
+}
