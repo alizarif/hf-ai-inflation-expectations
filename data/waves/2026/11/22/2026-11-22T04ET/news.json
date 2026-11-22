@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-22T09:04:14+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-22T09:04:14+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "World news | World | The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/22/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "- ### Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones ... - ### ‘Serious error of judgment’: outrage over military AI event at Berlin arts complex ... - ### Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations As nationalist, Eurosceptic parties surge in four of the bloc’s biggest member states, the coming year’s polls could test its resilience like never before ... - ### South Korea education minister resigns after AI cheating scandal engulfs university exams Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing"
+   },
+   {
+    "title": "Morning Briefing: Nov. 22, 2026",
+    "url": "https://www.aa.com.tr/en/anadolu-post/morning-briefing-nov-22-2026/4133301",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "US President Donald Trump said Saturday that he intends to secure a “permanent” deal with Iran, insisting that no future American president should be able to allow Tehran to obtain a nuclear weapon. \"What I'm doing is making sure that even if, in four, 15, or 20 years, we have an incompetent president, the agreement I reach will be permanent,” said Trump. ... - UNIFIL begins handing over positions in southern Lebanon to Lebanese army The UN Interim Force in Lebanon (UNIFIL) has begun handing over some of its positions in southern Lebanon to the Lebanese army, mission chief Diodato Abagnara said Saturday. Abagnara stressed the importance of avoiding any security vacuum after the mandate of the UN forces ends on Dec. ... - A fire at Iraq's Hartha power station killed at least four people and injured 35 - Iran's army said an Iranian air defense missile exploded near a US F-16 over the Gulf, damaging it and forcing an emergency landing. The US military’s CENTCOM denied the claim, saying all US fighter aircraft in the Middle East were safe and accounted for - Iranian Foreign Minister Abbas Araghchi said reopening the Strait of Hormuz was not difficult if the US accepts Iran's conditions, but it would stay closed until they are met"
+   },
+   {
+    "title": "Daily World Briefing, Nov. 22-Xinhua",
+    "url": "https://english.news.cn/20261122/6ab658d3db0f45648b3ad5968f84974e/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "the mission. In a later statement on social media platform X, U.S. Central Command said Iran did not attack a U.S. F-16 fighter aircraft. \"All U.S. military fighter jets in the Middle East are safe and accounted for,\" said the statement."
+   },
+   {
+    "title": "Russian cargo ship hit by drones | Midday News Bulletin 22 November 2026 | SBS News",
+    "url": "https://www.sbs.com.au/news/podcast-episode/russian-cargo-ship-hit-by-drones-midday-news-bulletin-22-november-2026/xjghvlo6t",
+    "source": "sbs.com.au",
+    "published": "",
+    "excerpt": "attack, which happened in international waters before the vessel ... :50 this morning. This Sparta II vessel has been used for transports ... All 16 crew members were safely evacuated, and Finland has imposed temporary air and maritime restrictions in"
+   },
+   {
+    "title": "Kyodo News Digest: Nov. 22",
+    "url": "https://english.kyodonews.net/articles/-/92229",
+    "source": "english.kyodonews.net",
+    "published": "",
+    "excerpt": "- Two probes, part of the BepiColombo joint Japan-Europe mission, have entered orbit around Mercury, the European Space Agency said Sunday. Japan ... the planet next spring, after a journey of more than 10 billion kilometers over roughly eight"
+   },
+   {
+    "title": "Latest India & World News Today LIVE Updates Nov 22",
+    "url": "https://www.wionews.com/world/live-blog-latest-india-world-news-today-live-updates-november-22-trump-iran-delhi-aqi-bahrain-mexico-drug-cartel-netanyahu-1795325580882",
+    "source": "wionews.com",
+    "published": "",
+    "excerpt": "Three people were killed and 36 others remain missing after a fire ripped through ... factory west of Indonesia’s capital Jakarta, triggering a search operation amid fears that more victims could be trapped inside. The blaze broke out at the"
+   },
+   {
+    "title": "World news digest for November 22, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-22",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "Donald Trump has deferred any decision on renewed strikes against Iran until after the New ... attacks on shipping in the Strait of Hormuz have continued and Qatar has stepped in as a mediator ... hit by an unidentified projectile at its stern about 11"
+   },
+   {
+    "title": "World briefing — November 22, 2026 | Argus",
+    "url": "https://argus.yeomniverse.com/en/archive/2026-11-22/",
+    "source": "argus.yeomniverse.com",
+    "published": "",
+    "excerpt": "### Russian strike on Kryvyi Rih kills child and paramedic Russia attacked Ukraine with three ballistic missiles and 148 drones from the night of Nov. 20 into Nov. 21. In Kryvyi Rih, President Zelensky's hometown, a follow-up strike hit as rescuers arrived, killing a 7-year-old boy and a 20-year-old paramedic and wounding 60 people, according to preliminary regional figures."
+   },
+   {
+    "title": "News from Sunday, 22 November 2026 · NewsMarkets",
+    "url": "https://newsmarkets.org/archive/2026-11-22",
+    "source": "newsmarkets.org",
+    "published": "",
+    "excerpt": "November 2026 11 stories, most covered first 1. Fire at Indonesian Candy Factory Kills Three, Dozens Missing World · 6 sources · still developing 2. Washington Governor Condemns ICE Detentions at Seattle Airport Politics · 6 sources · still developing"
+   },
+   {
+    "title": "Quickreads: Get quick information on latest, top breaking news | Hindustan Times",
+    "url": "https://www.hindustantimes.com/world-news/us-news/tillman-park-shooting-1-dead-another-sustains-life-threatening-injuries-after-gunfire-erupts-101750750373461-quickread.html",
+    "source": "hindustantimes.com",
+    "published": "",
+    "excerpt": "candy-factory fire killed three Saturday, as teams searched for 36 missing workers; 15 were rescued, four injured. The ... Banten. Survivors said it began near a third-floor cooling unit, though the cause remains unknown. Repeated deadly industrial fires"
+   }
+  ],
+  "text": "[1] World news | World | The Guardian (theguardian.com)\n- ### Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones ... - ### ‘Serious error of judgment’: outrage over military AI event at Berlin arts complex ... - ### Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations As nationalist, Eurosceptic parties surge in four of the bloc’s biggest member states, the coming year’s polls could test its resilience like never before ... - ### South Korea education …\n\n[2] Morning Briefing: Nov. 22, 2026 (aa.com.tr)\nUS President Donald Trump said Saturday that he intends to secure a “permanent” deal with Iran, insisting that no future American president should be able to allow Tehran to obtain a nuclear weapon. \"What I'm doing is making sure that even if, in four, 15, or 20 years, we have an incompetent president, the agreement I reach will be permanent,” said Trump. ... - UNIFIL begins handing over positions in southern Lebanon to Lebanese army The UN Interim Force in Lebanon (UNIFIL) has begun handing over some of its positions in southern Lebanon to the Lebanese army, mission chief Diodato Abagnara …\n\n[3] Daily World Briefing, Nov. 22-Xinhua (english.news.cn)\nthe mission. In a later statement on social media platform X, U.S. Central Command said Iran did not attack a U.S. F-16 fighter aircraft. \"All U.S. military fighter jets in the Middle East are safe and accounted for,\" said the statement.\n\n[4] Russian cargo ship hit by drones | Midday News Bulletin 22 November 2026 | SBS News (sbs.com.au)\nattack, which happened in international waters before the vessel ... :50 this morning. This Sparta II vessel has been used for transports ... All 16 crew members were safely evacuated, and Finland has imposed temporary air and maritime restrictions in\n\n[5] Kyodo News Digest: Nov. 22 (english.kyodonews.net)\n- Two probes, part of the BepiColombo joint Japan-Europe mission, have entered orbit around Mercury, the European Space Agency said Sunday. Japan ... the planet next spring, after a journey of more than 10 billion kilometers over roughly eight\n\n[6] Latest India & World News Today LIVE Updates Nov 22 (wionews.com)\nThree people were killed and 36 others remain missing after a fire ripped through ... factory west of Indonesia’s capital Jakarta, triggering a search operation amid fears that more victims could be trapped inside. The blaze broke out at the\n\n[7] World news digest for November 22, 2026 | World Watch (worldwatch.media)\nDonald Trump has deferred any decision on renewed strikes against Iran until after the New ... attacks on shipping in the Strait of Hormuz have continued and Qatar has stepped in as a mediator ... hit by an unidentified projectile at its stern about 11\n\n[8] World briefing — November 22, 2026 | Argus (argus.yeomniverse.com)\n### Russian strike on Kryvyi Rih kills child and paramedic Russia attacked Ukraine with three ballistic missiles and 148 drones from the night of Nov. 20 into Nov. 21. In Kryvyi Rih, President Zelensky's hometown, a follow-up strike hit as rescuers arrived, killing a 7-year-old boy and a 20-year-old paramedic and wounding 60 people, according to preliminary regional figures.\n\n[9] News from Sunday, 22 November 2026 · NewsMarkets (newsmarkets.org)\nNovember 2026 11 stories, most covered first 1. Fire at Indonesian Candy Factory Kills Three, Dozens Missing World · 6 sources · still developing 2. Washington Governor Condemns ICE Detentions at Seattle Airport Politics · 6 sources · still developing\n\n[10] Quickreads: Get quick information on latest, top breaking news | Hindustan Times (hindustantimes.com)\ncandy-factory fire killed three Saturday, as teams searched for 36 missing workers; 15 were rescued, four injured. The ... Banten. Survivors said it began near a third-floor cooling unit, though the cause remains unknown. Repeated deadly industrial fires",
+  "hash": "6fd2e85018b24748451def831ac115acaf6c656f572a9c59f3d191bdf8754f1f",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-22T09:04:28+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Inflation, economic growth and the mood of US consumers in focus this week",
+    "url": "https://apnews.com/article/inflation-consumer-confidence-economy-6c207f517113ab0e65c60ac3ee66440e",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "the October personal consumption expenditures report, or PCE, on Wednesday. The data carries a lot of weight because it is the preferred measure of inflation used by the Federal Reserve, which is attempting to bring inflation down to its target rate of"
+   },
+   {
+    "title": "US consumer prices rise briskly for third straight month | Reuters",
+    "url": "https://www.reuters.com/5f374b32b07b/world/us/us-consumer-prices-rise-above-expectations-october-2026-11-10/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 10 (Reuters) - US consumer prices increased more than expected in October amid higher costs for food and accommodation, cementing expectations that the Federal Reserve will raise interest rates next month. The Consumer Price Index report from the Labor Department on Tuesday also showed ​a strong buildup of underlying inflation pressures for a third straight month. It followed data last week showing the labor market regained momentum in October. ... The CPI increased 0.4% last month after advancing 0.6% in September, the department's Bureau of Labor Statistics said. It was the third consecutive month of ​gains of 0.4% or more. Economists polled by Reuters had forecast the CPI would climb 0.3% over the month. The BLS did not publish year-over-year inflation readings because last year's federal government ⁠shutdown prevented the collection of consumer price data in October 2025, leaving no comparison base. Some economists used the average index for September and"
+   },
+   {
+    "title": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
+    "url": "https://finance.yahoo.com/economy/articles/us-consumers-holding-against-inflation-210000941.html",
+    "source": "finance.yahoo.com",
+    "published": "",
+    "excerpt": "due Wednesday. The modest increase builds on two robust quarters of consumer spending growth. ... from October of last year. That's nearly double the Fed's goal and would match May as the biggest annual"
+   },
+   {
+    "title": "Inflation pace slowed in October, but prices remain high",
+    "url": "https://www.washingtonpost.com/business/2026/11/10/inflation-pace-slowed-october-prices-remain-high/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "The pace of inflation eased on a monthly basis in October, as households saw some relief from gas prices’ steep climb, but food prices rose. ... release of October 2025 data, making it difficult to compare with recent inflation reports."
+   },
+   {
+    "title": "Just how much have energy costs raised core inflation?",
+    "url": "https://www.marketplace.org/episode/2026/11/20/just-how-much-have-energy-costs-raised-core-inflation",
+    "source": "marketplace.org",
+    "published": "",
+    "excerpt": "### Core inflation measures can't escape high energy prices by Elizabeth Trovall ... Somewhere between 0.2% and 0.6% of inflation in core PCE over the past year is the product of high energy costs, according to a Dallas Fed report."
+   },
+   {
+    "title": "US economy feels pressure as Iran war drives up fuel, food and inflation costs - [İLKHA] Ilke News Agency",
+    "url": "https://ilkha.com/english/world/us-economy-feels-pressure-as-iran-war-drives-up-fuel-food-and-inflation-costs-538102",
+    "source": "ilkha.com",
+    "published": "",
+    "excerpt": ". Petrol prices reached an average of $4.22 per gallon for regular fuel, compared to $2.98 before the escalation, according to the American Automobile Association (AAA). ... average of $750 more due to war-related economic effects, with roughly $447 of"
+   },
+   {
+    "title": "GMT EIGHT - Latest - Federal Reserve Beige Book: U.S. economy expands modestly but inflationary pressures intensify; AI boosts productivity while dampening hiring demand at some firms",
+    "url": "https://www.gmt8press.com/flash/detail/1557012",
+    "source": "gmt8press.com",
+    "published": "",
+    "excerpt": "22/11/2026 Zhito Finance APP has learned that the latest Beige Book on economic conditions released by the Federal Reserve on Wednesday shows that U.S. economic activity generally continued to grow, but performance varied across regions, consumer spending was broadly weak, and the labor market changed little. At the same time, rising energy prices, tariffs, and climbing insurance costs continued to push up business operating costs, further intensifying inflationary pressure in some regions. Notably, as companies increase investment in artificial intelligence (AI), some firms have begun to reduce hiring needs by improving productivity, and AI's impact on the U.S. labor market is gradually emerging."
+   },
+   {
+    "title": "GMT EIGHT - Latest - Fed Chair Warsh gives no signal on October rate move",
+    "url": "https://www.gmt8press.com/flash/detail/1559459",
+    "source": "gmt8press.com",
+    "published": "",
+    "excerpt": "Fed Chair Kevin Warsh did not endorse or push back on recent signals from colleagues that officials aren't in a hurry to raise interest rates this month. Warsh said the Fed no longer gives advance guidance on policy decisions. \"I'm not going to prejudge the meeting. I'm not going to say that I'm likely to do whatever at the coming meeting,\" Warsh said. \"The Fed is turning a new page, and we just don't do that anymore.\" Warsh made the remarks Friday morning local time during a moderated conversation on the sidelines of the International Monetary Fund meetings in Bangkok. ... 27 ... Two weeks ago, however, senior officials who consult with Warsh on policy strategy signaled the Fed wasn't in a hurry to raise rates again this month. Soon after, the probability of an October rate rise implied by futures markets fell sharply. This week, however, the September inflation data came in firmer than expected. Core consumer prices, which exclude volatile food and energy items, rose 0.33% in September from the prior month, the second straight strong monthly gain. A separate measure of producer prices released Thursday was also strong."
+   },
+   {
+    "title": "Economy - Axios",
+    "url": "https://www.axios.com/economy/2026/11/22",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "President Trump said Saturday he'd gladly work with Democrats to cap interest and fees on credit cards, arguing that card companies simply make too much money now. Why it matters: Though ... a year, the banking industry is equally adamant that it would"
+   },
+   {
+    "title": "GMT EIGHT - Latest - Trump economic adviser Hassett says inflation still needs attention, respects Fed independence.",
+    "url": "https://www.gmt8press.com/flash/detail/1563212",
+    "source": "gmt8press.com",
+    "published": "",
+    "excerpt": "September consumer price data shows that overall inflation still requires policy attention. \"If you look at the previous three months, inflation seemed ... control, but now it appears that some more work is needed,\" Hassett said in an interview"
+   }
+  ],
+  "text": "[1] Inflation, economic growth and the mood of US consumers in focus this week (apnews.com)\nthe October personal consumption expenditures report, or PCE, on Wednesday. The data carries a lot of weight because it is the preferred measure of inflation used by the Federal Reserve, which is attempting to bring inflation down to its target rate of\n\n[2] US consumer prices rise briskly for third straight month | Reuters (reuters.com)\nWASHINGTON, Nov 10 (Reuters) - US consumer prices increased more than expected in October amid higher costs for food and accommodation, cementing expectations that the Federal Reserve will raise interest rates next month. The Consumer Price Index report from the Labor Department on Tuesday also showed ​a strong buildup of underlying inflation pressures for a third straight month. It followed data last week showing the labor market regained momentum in October. ... The CPI increased 0.4% last month after advancing 0.6% in September, the department's Bureau of Labor Statistics said. It was the …\n\n[3] US Consumers Are Holding Up Against Inflation Going Into Holiday Season (finance.yahoo.com)\ndue Wednesday. The modest increase builds on two robust quarters of consumer spending growth. ... from October of last year. That's nearly double the Fed's goal and would match May as the biggest annual\n\n[4] Inflation pace slowed in October, but prices remain high (washingtonpost.com)\nThe pace of inflation eased on a monthly basis in October, as households saw some relief from gas prices’ steep climb, but food prices rose. ... release of October 2025 data, making it difficult to compare with recent inflation reports.\n\n[5] Just how much have energy costs raised core inflation? (marketplace.org)\n### Core inflation measures can't escape high energy prices by Elizabeth Trovall ... Somewhere between 0.2% and 0.6% of inflation in core PCE over the past year is the product of high energy costs, according to a Dallas Fed report.\n\n[6] US economy feels pressure as Iran war drives up fuel, food and inflation costs - [İLKHA] Ilke News Agency (ilkha.com)\n. Petrol prices reached an average of $4.22 per gallon for regular fuel, compared to $2.98 before the escalation, according to the American Automobile Association (AAA). ... average of $750 more due to war-related economic effects, with roughly $447 of\n\n[7] GMT EIGHT - Latest - Federal Reserve Beige Book: U.S. economy expands modestly but inflationary pressures intensify; AI boosts productivity while dampening hiring demand at some firms (gmt8press.com)\n22/11/2026 Zhito Finance APP has learned that the latest Beige Book on economic conditions released by the Federal Reserve on Wednesday shows that U.S. economic activity generally continued to grow, but performance varied across regions, consumer spending was broadly weak, and the labor market changed little. At the same time, rising energy prices, tariffs, and climbing insurance costs continued to push up business operating costs, further intensifying inflationary pressure in some regions. Notably, as companies increase investment in artificial intelligence (AI), some firms have begun to …\n\n[8] GMT EIGHT - Latest - Fed Chair Warsh gives no signal on October rate move (gmt8press.com)\nFed Chair Kevin Warsh did not endorse or push back on recent signals from colleagues that officials aren't in a hurry to raise interest rates this month. Warsh said the Fed no longer gives advance guidance on policy decisions. \"I'm not going to prejudge the meeting. I'm not going to say that I'm likely to do whatever at the coming meeting,\" Warsh said. \"The Fed is turning a new page, and we just don't do that anymore.\" Warsh made the remarks Friday morning local time during a moderated conversation on the sidelines of the International Monetary Fund meetings in Bangkok. ... 27 ... Two weeks …\n\n[9] Economy - Axios (axios.com)\nPresident Trump said Saturday he'd gladly work with Democrats to cap interest and fees on credit cards, arguing that card companies simply make too much money now. Why it matters: Though ... a year, the banking industry is equally adamant that it would\n\n[10] GMT EIGHT - Latest - Trump economic adviser Hassett says inflation still needs attention, respects Fed independence. (gmt8press.com)\nSeptember consumer price data shows that overall inflation still requires policy attention. \"If you look at the previous three months, inflation seemed ... control, but now it appears that some more work is needed,\" Hassett said in an interview",
+  "hash": "5d90914f8f0b91cba9627cf9bbcccb0ea2e86557f5aebcf9351aeef317b0de1e",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-22T09:04:40+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/22",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "## Sunday's top stories - Ben Berkowitz 16 hours ago - Business ## Trump says he'd work with Dems to cap credit card interest, fees ... 17 hours ago - Politics & Policy ## Trump says FBI hack might expose Russia \"hoax\""
+   },
+   {
+    "title": "MSNBC Highlights — Nov. 22",
+    "url": "https://www.ms.now/watch/msnbc-highlights-nov-22",
+    "source": "ms.now",
+    "published": "",
+    "excerpt": "## Trump throws unexpected name into the 2028 GOP race ... ## Rachel Maddow: Trump’s move to gut the DOJ is ‘really ominous’ ... ## ‘Every American should be concerned’: Co-President of the House Freshman class SLAMS the Trump admin"
+   },
+   {
+    "title": "Trump moves to limit congressional scrutiny before Democrats take power of Congress - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/world/us/trump-moves-to-limit-congressional-scrutiny-before-democrats-take-power-of-congress/articleshow/136065847.cms",
+    "source": "timesofindia.indiatimes.com",
+    "published": "",
+    "excerpt": "disputes. Executive privilege allows presidents to shield certain confidential communications, particularly those involving White House deliberations. ... , the protection is not absolute, and disputes over its scope can lead to prolonged legal battles."
+   },
+   {
+    "title": "Democrats won big in the midterms. Here's what they plan to do next | World News - Business Standard",
+    "url": "https://www.business-standard.com/world-news/democrats-won-big-in-the-midterms-here-s-what-they-plan-to-do-next-126112200091_1.html",
+    "source": "business-standard.com",
+    "published": "",
+    "excerpt": "Democrats basking in their November 3 election wins will soon unveil an ambitious legislative agenda for the first 100 days and ​beyond, in a test of progressives' influence and Republicans' willingness to cooperate, as they take control of the US Congress on January 3. That agenda is likely to be unveiled in early December once a Senate leadership race is settled. It will mark a thunderous reversal of the past two years, when President Donald Trump's Republicans ruled the Senate and House of Representatives. With their narrow majorities, they rammed through major tax cuts skewed toward the rich and stood by as Trump grabbed their powers over tariffs and spending. Democrats' new majorities in Congress are anything but narrow. With a 56-44 majority in the Senate they are four votes short of the 60 votes needed to advance most legislation. In the House, their 257-172 force could grow beyond an 85-vote margin once a ‌handful of races are settled. ... But in a warning to Democrats, veteran Republican Senator John Boozman of ​Arkansas said in an interview that despite his party's losses across the United States, Trump remains \"a powerful force\" and \"I don't see any of his vetoes getting overridden\" by Congress during his remaining two years in office. ... For ​months, Democrats have been plotting a House-Senate coordinated attack to undo Trump's major accomplishments, according to lawmakers and aides. With the high cost of living the top concern voiced by voters, Democratic leaders are going after the low-hanging fruit that also would help unite their party's progressives and moderates. Early votes are expected on legislation handcuffing Trump's ability to wage war on Iran without Congress' approval, which would help lower gasoline prices. Reversing Republicans' deep cuts to Medicaid and SNAP food stamp programs would begin helping the poor meet healthcare and grocery costs. Meanwhile, progressives have urged raising the federal minimum wage, which is unchanged since 2009 at $7.25 per hour. Some are pushing for $20 to $25. And in response to voter ​disgust over Washington ethics breaches, one of the first bills Democrats are expected to present is one barring lawmakers from insider trading of stocks. Republicans face a bind: joining Democrats could anger Trump unless he backs measures, while stonewalling could anger voters."
+   },
+   {
+    "title": "Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’",
+    "url": "https://www.nbcnews.com/politics/donald-trump/abdul-el-sayed-catches-trumps-attention-pitch-trumpcare-rcna610626",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": ", he said in a phone interview with Fox News earlier in the ... ” after Democrats take control of Congress in January. “They have ... congressional Democrats. “But there’s a chance we could get great healthcare and a lot of other things, and we do it in"
+   },
+   {
+    "title": "Democrats signal shift on Israel as Jeffries unveils first legislative priority",
+    "url": "https://www.israelhayom.com/2026/11/22/democrats-signal-shift-on-israel-as-jeffries-unveils-first-legislative-priority/",
+    "source": "israelhayom.com",
+    "published": "",
+    "excerpt": "In an interview with The New York Times, House Democratic leader Hakeem Jeffries set a goal of advancing legislation targeting violence in Judea and Samaria within the first 100 days of the new Congress. He also called for changes in Gaza and Judea and Samaria and urged the United States to renew its commitment to a two-state solution. Jeffries, nominated by House Democrats this week to become speaker and expected to take office in January, spoke following the party's midterm election victory, which returned both chambers of Congress to Democratic control. \"What ... On Judea and Samaria, Jeffries laid out a specific timetable. \"What I have made clear is that within the first 100 days, I think the most decisive step that we can take relative to the situation in the West Bank is to move the West Bank Settler Violence Protection and Prevention Act,\" he said. ... Jeffries said the measure would have strong support within the House Democratic Caucus and should be advanced early in the new congressional session \"as a meaningful step forward to changing the conditions on the ground\" and as part of the push toward \"two states for two people.\" The proposal is part of a Democratic effort to codify sanctions targeting violence in Judea and Samaria, based on an executive order issued by former President Joe Biden that President Donald Trump revoked upon returning to the White House. The legislation would freeze assets and impose US entry restrictions on individuals involved in violence and those who assist them. It would apply to Israelis and Palestinians alike. Jeffries stopped short, however, of committing to support two more far-reaching bills he was asked about: the Block the Bombs Act, which would restrict transfers of certain weapons to Israel, and the Stop the Settlements Act, which would impose sanctions on settlement activity and prohibit imports of settlement products. \"I haven't articulated a position one way or the other,\" he said, explaining that House Democrats would discuss which steps to pursue as a caucus."
+   },
+   {
+    "title": "House Democrats push back against Trump's latest Mexico tariff threat | Daily News | InsideTrade.com",
+    "url": "https://insidetrade.com/daily-news/house-democrats-push-back-against-trumps-latest-mexico-tariff-threat",
+    "source": "insidetrade.com",
+    "published": "",
+    "excerpt": "4:44 PM House Ways & Means trade subcommittee ranking member Linda Sánchez (D-CA) on Friday criticized President Trump’s threat to double tariffs on Mexico unless it stops a group of migrants heading north, calling it a kind of “tariff chaos” that voters"
+   },
+   {
+    "title": "November 2026 Archive | The Country",
+    "url": "https://thecountry.news/archive/2026-11",
+    "source": "thecountry.news",
+    "published": "",
+    "excerpt": "- November 21, 2026 - Appeals court rules the House's COVID-era proxy votes made the 2022 $1.7 trillion spending law unconstitutional - Trump says he'd work with Democrats to cap credit card interest rates at 10%"
+   },
+   {
+    "title": "White House Counsel Directs All Federal Agencies to Obtain White House Approval Prior to Congressional Testimony - WashingTone",
+    "url": "https://washingtone.com/nnmbpm-white-house-counsel-directs-all-federal-agencies-to-obtain-white-house-approval-prior-to-congressional-testimony",
+    "source": "washingtone.com",
+    "published": "",
+    "excerpt": "issued a sweeping new memorandum requiring all federal executive branch agencies to secure formal clearance from the White House ... testimony or briefings to congressional committees, tightening executive control over agency communications with"
+   },
+   {
+    "title": "Big News Stories Overnight - Sunday, November 22, 2026 | Go Local Prov",
+    "url": "https://www.golocalprov.com/news/big-news-stories-overnight-sunday-november-22-2026",
+    "source": "golocalprov.com",
+    "published": "",
+    "excerpt": "Fox News. On Friday, CNN and NBC reported that the National Crime Information Center (NCIC), which is used by law enforcement agencies across the United States to share information on criminal warrants and background checks, was compromised, citing"
+   }
+  ],
+  "text": "[1] Axios (axios.com)\n## Sunday's top stories - Ben Berkowitz 16 hours ago - Business ## Trump says he'd work with Dems to cap credit card interest, fees ... 17 hours ago - Politics & Policy ## Trump says FBI hack might expose Russia \"hoax\"\n\n[2] MSNBC Highlights — Nov. 22 (ms.now)\n## Trump throws unexpected name into the 2028 GOP race ... ## Rachel Maddow: Trump’s move to gut the DOJ is ‘really ominous’ ... ## ‘Every American should be concerned’: Co-President of the House Freshman class SLAMS the Trump admin\n\n[3] Trump moves to limit congressional scrutiny before Democrats take power of Congress - The Times of India (timesofindia.indiatimes.com)\ndisputes. Executive privilege allows presidents to shield certain confidential communications, particularly those involving White House deliberations. ... , the protection is not absolute, and disputes over its scope can lead to prolonged legal battles.\n\n[4] Democrats won big in the midterms. Here's what they plan to do next | World News - Business Standard (business-standard.com)\nDemocrats basking in their November 3 election wins will soon unveil an ambitious legislative agenda for the first 100 days and ​beyond, in a test of progressives' influence and Republicans' willingness to cooperate, as they take control of the US Congress on January 3. That agenda is likely to be unveiled in early December once a Senate leadership race is settled. It will mark a thunderous reversal of the past two years, when President Donald Trump's Republicans ruled the Senate and House of Representatives. With their narrow majorities, they rammed through major tax cuts skewed toward the …\n\n[5] Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ (nbcnews.com)\n, he said in a phone interview with Fox News earlier in the ... ” after Democrats take control of Congress in January. “They have ... congressional Democrats. “But there’s a chance we could get great healthcare and a lot of other things, and we do it in\n\n[6] Democrats signal shift on Israel as Jeffries unveils first legislative priority (israelhayom.com)\nIn an interview with The New York Times, House Democratic leader Hakeem Jeffries set a goal of advancing legislation targeting violence in Judea and Samaria within the first 100 days of the new Congress. He also called for changes in Gaza and Judea and Samaria and urged the United States to renew its commitment to a two-state solution. Jeffries, nominated by House Democrats this week to become speaker and expected to take office in January, spoke following the party's midterm election victory, which returned both chambers of Congress to Democratic control. \"What ... On Judea and Samaria, …\n\n[7] House Democrats push back against Trump's latest Mexico tariff threat | Daily News | InsideTrade.com (insidetrade.com)\n4:44 PM House Ways & Means trade subcommittee ranking member Linda Sánchez (D-CA) on Friday criticized President Trump’s threat to double tariffs on Mexico unless it stops a group of migrants heading north, calling it a kind of “tariff chaos” that voters\n\n[8] November 2026 Archive | The Country (thecountry.news)\n- November 21, 2026 - Appeals court rules the House's COVID-era proxy votes made the 2022 $1.7 trillion spending law unconstitutional - Trump says he'd work with Democrats to cap credit card interest rates at 10%\n\n[9] White House Counsel Directs All Federal Agencies to Obtain White House Approval Prior to Congressional Testimony - WashingTone (washingtone.com)\nissued a sweeping new memorandum requiring all federal executive branch agencies to secure formal clearance from the White House ... testimony or briefings to congressional committees, tightening executive control over agency communications with\n\n[10] Big News Stories Overnight - Sunday, November 22, 2026 | Go Local Prov (golocalprov.com)\nFox News. On Friday, CNN and NBC reported that the National Crime Information Center (NCIC), which is used by law enforcement agencies across the United States to share information on criminal warrants and background checks, was compromised, citing",
+  "hash": "51bb39922f3d37155a77a09c9fd5fadb9fb27ce439b9e4a232c1909cbf718ae6",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 22, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-22T09:04:57+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+    "url": "https://www.bbc.com/news/articles/cq8e0p87l89lo",
+    "source": "bbc.com",
+    "published": "",
+    "excerpt": "Miley Cyrus has married her partner of four years Maxx Morando during a ceremony in Palm Springs, California. Photos of the wedding on Saturday show the ceremony took place by a swimming pool with the pair standing under an arch covered in white flowers. The singer's mother, Tish Cyrus, and sister, Noah Cyrus, were in attendance, Entertainment Tonight reports. Grammy-winning Cyrus, who donned a white dress for the wedding, confirmed her engagement to the 28-year-old drummer during an interview with US TV show Good Morning America last year."
+   },
+   {
+    "title": "News Archive for November 22, 2026 | The Indian Express",
+    "url": "https://indianexpress.com/archive/2026/11/22/",
+    "source": "indianexpress.com",
+    "published": "",
+    "excerpt": "- Tamil OM box office collection Day 2: Dhanush-Mammootty film sees 14.9% drop, earns Rs 60 crore ... - Bollywood Kaaliya first look: Lord Krishna’s insidious foe returns in Kartik Aaryan’s monster thriller"
+   },
+   {
+    "title": "First Day, First Show Newsletter | Latest Movies & Entertainment - The Hindu",
+    "url": "https://www.thehindu.com/newsletter/first-day-first-show/",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "Sunday | 22 November, 2026 ### Bollywood ‘Ramayana’ becomes 11th Indian film to cross र 1000 crore mark at box office Alia Bhatt, Aryan Khan, Theja Rio, Payal Kapadia feature in TIME100 Next India list"
+   },
+   {
+    "title": "Entertainment news roundup: 22 November 2026 | SVCZZ",
+    "url": "https://svczz.com/articles/entertainment-news-roundup-22-november-2026",
+    "source": "svczz.com",
+    "published": "",
+    "excerpt": "## Sunrise on the Reaping sets the biggest UK opening day of 2026 The Hunger Games: Sunrise on the Reaping took $8.2 million on its opening day in the UK, the biggest of 2026 so far, passing Spider-Man: Brand New Day at $7.8 million, Fiction Horizon reports. It had already taken $21 million in Thursday previews in the US, and ScreenRant projects more than $120 million domestic for the opening weekend as of Saturday morning, with final numbers due Monday. Yesterday’s roundup carried the $51 million Friday projection; our reviews piece has the critics split at 67% on Rotten Tomatoes. ## O.M Chapter 1 opens with Rs 19.75 crore in India on day 1 O.M Chapter 1 opened with Rs 19.75 crore in India on day 1, 20 November 2026, Dhanush’s biggest opener, Pinkvilla reports from trade estimates. Production house Wunderbar Films announced over Rs 40 crore worldwide gross on day 1. ## Helen Fraser dies aged 84 Helen Fraser, best known as Bad Girls prison officer Sylvia Hollamby in all eight series, has died aged 84, The Sun reports. She died on 10 November 2026 at Yaxley House Care Home in Eye, Suffolk, The Oldham Times reports, and was also a two-time Coronation Street guest. No cause of death was given. ## Robin Varghese dies aged 56 Robin Varghese, the Malayalam actor known as Shelly in the 1992 Mammootty film Johny Walker, has died aged 56, the Times of India reports from Manorama Online, with NewsBytes also reporting the death. He died in the United States on 19 November 2026. No cause of death was given. ## Ronny Hallin dies aged 88 Ronny Hallin, the television producer and actress known for Laverne & Shirley and Happy Days, has died aged 88, USA Today reports. She died peacefully at home on 27 October 2026, her daughter Penny Hallin confirmed to Deadline, and was the sister of Garry and Penny Marshall. ## Onslaught streams on HBO Max from 22 December A24’s Onslaught streams on HBO Max from 22 December 2026, ScreenRant reports, after its 4 September 2026 theatrical run and 6 October 2026 digital debut. The date was announced on 20 November 2026. ## Mission: Cross 2 sets a December 2026 Netflix window Mission: Cross 2 has set a December 2026 Netflix release window after a delay from its Q3 2026 slot, What’s on Netflix reports. Hwang Jung Min and Yeom Jung Ah return, with four cast additions, and no exact date has been announced. ... ## King trailer set for 14 December 2026 Shah Rukh Khan’s King trailer is set for 14 December 2026, ten days before the film’s 24 December 2026 theatrical release, Variety India reports. Another song from Sachin-Jigar is due later in November first. ... ## Bhogi locks a 27 November release date Sharwanand film Bhogi has locked a new worldwide release date of 27 November 2026, Gulte reports, after the CBFC revising committee cleared it with an A certificate. The makers announced the date on 19 November 2026 after its 12 November release was postponed, with a trailer launch and pre-release event reported for today, 22 November. ## Haindava postponed from 27 November Haindava, the Bellamkonda Sai Sreenivas mystery thriller, has"
+   },
+   {
+    "title": "What To Watch On TV And Streaming Sunday, November 22, 2026",
+    "url": "https://www.tvline.com/2321595/what-to-watch-november-22-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "### Double Booked for the Holidays Hallmark Channel MOVIE PREMIERE Identical twins (Rachael Leigh Cook in a dual role) spend Christmas running a bookshop in Wales, where one falls for a neighboring barista (Owain Yeoman) and the other for a dashing lord (Stephen Hagan), leading to mistaken identities and romantic mix-ups."
+   },
+   {
+    "title": "Weekly TV Music Roundup (November 22, 2026) – Film Music Reporter",
+    "url": "https://filmmusicreporter.com/2026/11/22/weekly-tv-music-roundup-november-22-2026/",
+    "source": "filmmusicreporter.com",
+    "published": "",
+    "excerpt": "Premiering in the U.S. today is the British TV series **Secret Service** based on Tom Bradby’s novel of the same name and starring Gemma Arterton, Rafe Spall, Alex Kingston, Roger Allam, Amaka Okafor, Mark Stanley, Avi Nash, Alma Prelec, Aoife Hinds and Khalid Abdalla. ... debut on MGM+. Also premiering today is the documentary **Give Me the Ball!** directed by Liz Garbus & Elizabeth Wolff, produced by Dominic Crossley-Holland, Dan Cogan, Chris James & Gentry Kirby about world champion tennis trailblazer Billie Jean King. ... Check out our scoring assignment announcement for more information about the movie, which premiered at this year’s Sundance Film Festival and will air on ESPN and stream on Disney+."
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4010460-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "French actor Depardieu and author Houellebecq under investigation for sexual assault The Paris prosecutor's office said on Saturday it had opened a judicial ⁠investigation into actor Gerard Depardieu and author Michel Houellebecq over alleged sexual offences after a legal complaint was filed against them. AFP News agency reported on Friday that the men had been jointly accused of the gang rape and assault of ​a woman during a 2018 film shoot"
+   },
+   {
+    "title": "K-Culture Daily Briefing (Nov 22, 2026): MAMA Wins and - K-Culture Center",
+    "url": "https://k-culturecenter.com/k-culture-daily-briefing-nov-22-2026-mama-wins-and/",
+    "source": "k-culturecenter.com",
+    "published": "",
+    "excerpt": "## BTS take five at MAMA; Cortis grab Song of the Year At the 2026 MAMA Awards, held over two nights at Kyocera Dome Osaka, BTS collected five trophies including Album of the Year (“Arirang”) and Artist of the Year, while rookie boy group Cortis claimed Song of the Year with “RedRed” and four awards overall. Enhypen took Fans’ Choice of the Year for a second straight year, and BIGBANG, marking their 20th anniversary, won three."
+   },
+   {
+    "title": "Quickreads: Get quick information on latest, top breaking news | Hindustan Times",
+    "url": "https://www.hindustantimes.com/quick-read/bollywood/deepika-padukone-to-make-her-hollywood-comeback-with-cross-cultural-romantic-comedy-to-co-produce-it-too-101630383934807-quickread.html",
+    "source": "hindustantimes.com",
+    "published": "",
+    "excerpt": "61.85 crore worldwide in two days, giving Dhanush his biggest career opening despite mixed reviews and a Saturday dip. Friday brought Rs 40 crore; day two earned Rs 39.85 crore gross in India and Rs 22 crore overseas, surpassing several past Dhanush films."
+   },
+   {
+    "title": "Celebrity birthdays for the week of Nov. 22-28 include Mark Ruffalo and Scarlett Johansson",
+    "url": "https://apnews.com/article/celebrity-birthdays-nov-2026-mark-cd87e73bfc4f3690455f3b127bd243da",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Nov. 22: Comedian-director Terry Gilliam (Monty Python) is 86. Actor Tom Conti (“ ... ,” “Reuben, Reuben”) is 85. Guitarist-actor Steven Van Zandt (The E Street Band, “The Sopranos”) is 76. Bassist Tina Weymouth of Talking Heads is 76. Singer Lawrence"
+   }
+  ],
+  "text": "[1] Miley Cyrus marries Maxx Morando in California ceremony (bbc.com)\nMiley Cyrus has married her partner of four years Maxx Morando during a ceremony in Palm Springs, California. Photos of the wedding on Saturday show the ceremony took place by a swimming pool with the pair standing under an arch covered in white flowers. The singer's mother, Tish Cyrus, and sister, Noah Cyrus, were in attendance, Entertainment Tonight reports. Grammy-winning Cyrus, who donned a white dress for the wedding, confirmed her engagement to the 28-year-old drummer during an interview with US TV show Good Morning America last year.\n\n[2] News Archive for November 22, 2026 | The Indian Express (indianexpress.com)\n- Tamil OM box office collection Day 2: Dhanush-Mammootty film sees 14.9% drop, earns Rs 60 crore ... - Bollywood Kaaliya first look: Lord Krishna’s insidious foe returns in Kartik Aaryan’s monster thriller\n\n[3] First Day, First Show Newsletter | Latest Movies & Entertainment - The Hindu (thehindu.com)\nSunday | 22 November, 2026 ### Bollywood ‘Ramayana’ becomes 11th Indian film to cross र 1000 crore mark at box office Alia Bhatt, Aryan Khan, Theja Rio, Payal Kapadia feature in TIME100 Next India list\n\n[4] Entertainment news roundup: 22 November 2026 | SVCZZ (svczz.com)\n## Sunrise on the Reaping sets the biggest UK opening day of 2026 The Hunger Games: Sunrise on the Reaping took $8.2 million on its opening day in the UK, the biggest of 2026 so far, passing Spider-Man: Brand New Day at $7.8 million, Fiction Horizon reports. It had already taken $21 million in Thursday previews in the US, and ScreenRant projects more than $120 million domestic for the opening weekend as of Saturday morning, with final numbers due Monday. Yesterday’s roundup carried the $51 million Friday projection; our reviews piece has the critics split at 67% on Rotten Tomatoes. ## O.M …\n\n[5] What To Watch On TV And Streaming Sunday, November 22, 2026 (tvline.com)\n### Double Booked for the Holidays Hallmark Channel MOVIE PREMIERE Identical twins (Rachael Leigh Cook in a dual role) spend Christmas running a bookshop in Wales, where one falls for a neighboring barista (Owain Yeoman) and the other for a dashing lord (Stephen Hagan), leading to mistaken identities and romantic mix-ups.\n\n[6] Weekly TV Music Roundup (November 22, 2026) – Film Music Reporter (filmmusicreporter.com)\nPremiering in the U.S. today is the British TV series **Secret Service** based on Tom Bradby’s novel of the same name and starring Gemma Arterton, Rafe Spall, Alex Kingston, Roger Allam, Amaka Okafor, Mark Stanley, Avi Nash, Alma Prelec, Aoife Hinds and Khalid Abdalla. ... debut on MGM+. Also premiering today is the documentary **Give Me the Ball!** directed by Liz Garbus & Elizabeth Wolff, produced by Dominic Crossley-Holland, Dan Cogan, Chris James & Gentry Kirby about world champion tennis trailblazer Billie Jean King. ... Check out our scoring assignment announcement for more information …\n\n[7] Reuters Entertainment News Summary | International (devdiscourse.com)\nFrench actor Depardieu and author Houellebecq under investigation for sexual assault The Paris prosecutor's office said on Saturday it had opened a judicial ⁠investigation into actor Gerard Depardieu and author Michel Houellebecq over alleged sexual offences after a legal complaint was filed against them. AFP News agency reported on Friday that the men had been jointly accused of the gang rape and assault of ​a woman during a 2018 film shoot\n\n[8] K-Culture Daily Briefing (Nov 22, 2026): MAMA Wins and - K-Culture Center (k-culturecenter.com)\n## BTS take five at MAMA; Cortis grab Song of the Year At the 2026 MAMA Awards, held over two nights at Kyocera Dome Osaka, BTS collected five trophies including Album of the Year (“Arirang”) and Artist of the Year, while rookie boy group Cortis claimed Song of the Year with “RedRed” and four awards overall. Enhypen took Fans’ Choice of the Year for a second straight year, and BIGBANG, marking their 20th anniversary, won three.\n\n[9] Quickreads: Get quick information on latest, top breaking news | Hindustan Times (hindustantimes.com)\n61.85 crore worldwide in two days, giving Dhanush his biggest career opening despite mixed reviews and a Saturday dip. Friday brought Rs 40 crore; day two earned Rs 39.85 crore gross in India and Rs 22 crore overseas, surpassing several past Dhanush films.\n\n[10] Celebrity birthdays for the week of Nov. 22-28 include Mark Ruffalo and Scarlett Johansson (apnews.com)\nNov. 22: Comedian-director Terry Gilliam (Monty Python) is 86. Actor Tom Conti (“ ... ,” “Reuben, Reuben”) is 85. Guitarist-actor Steven Van Zandt (The E Street Band, “The Sopranos”) is 76. Bassist Tina Weymouth of Talking Heads is 76. Singer Lawrence",
+  "hash": "b3fcfb5c9c1bf0866aef9a9174dd3f794a4268d396230d2a25d6905fb4b8ac53",
+  "notes": []
+ }
+}
