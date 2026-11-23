@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-23T17:04:48+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 23, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-23T17:04:48+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Morning Briefing: Nov. 23, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-23-2026/4133974",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "- Democrats secure largest US House majority since 1992 with 258 seats Democrats have secured 258 seats in the US House of Representatives following the Nov. 3 midterm elections, marking their strongest performance in the chamber in over three decades, according to election results reported by the Associated Press. The party reached the milestone after Democrat Chuck Hubbard defeated longtime Republican Rep. Virginia Foxx in North Carolina's 5th Congressional District following a recount. Hubbard led Foxx by 330 votes out of approximately 287,000 cast, according to AP. The victory brought Democrats' total gains to 44 seats nationwide, surpassing the 40 seats the party gained in the 2018 midterm elections during President Donald Trump's first term."
+   },
+   {
+    "title": "Morning Edition for November 23, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5988862/morning-edition-for-november-23-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### NATO to meet after Russia-Ukraine war once again inches onto European territory by Teri Schultz, Steve Inskeep ... ### COP31 ends with no deal after negotiators fail to reach an agreement on fossil fuels by Rachel Waldholz, Steve Inskeep"
+   },
+   {
+    "title": "The 7 things to know for Monday, November 23 - The Washington Post",
+    "url": "https://www.washingtonpost.com/the-seven/2026/11/23/7-things-know-monday-november-23/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "Catch up quickly: Trump’s clout; your area’s winter forecast; ... Today’s seven most important and interesting stories. Today at 6:15 a.m. EST By Jamie Ross and Izin Akhabau ## 1 Democrats secured the largest House majority of this century."
+   },
+   {
+    "title": "World news | World | The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/23/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "- ### EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened European Commission president Ursula von der Leyen sets out 22nd package of sanctions"
+   },
+   {
+    "title": "News 23 November 2026 - Archive Euronews",
+    "url": "https://www.euronews.com/2026/11/23",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "- Indonesia At least 24 people killed in Indonesia factory fire, police say Dozens of employees are still reported to be missing after a blaze broke out at a candy factory in Banten province at around 4:30 pm local time on Saturday. 15:39"
+   },
+   {
+    "title": "Headlines for November 23, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/11/23/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "## U.N. Climate Summit Collapses After Countries Fail to Agree to Phase Out Coal, Oil and Gas Nov 23, 2026 In Turkey, the United Nations climate summit collapsed on Sunday as nations failed to produce an agreement phasing out the use of fossil fuels, with a draft text that did not even mention coal, oil or gas. Many poorer countries also objected to the lack of financial commitments from richer nations to help them adapt to a warming world. This is youth climate activist Xiye Bastida. ... The effort to strip the text of references to coal, oil and gas was led by Saudi Arabia and joined by Russia. The United States did not participate in the COP31 talks, after President Trump once again withdrew from the Paris Agreement last year. After headlines, we’ll have more on the failure of COP31 to reach a major new deal. ## Three More Ships Are Struck Amid Record Pace of Attacks in Strait of Hormuz Nov 23, 2026 At least three more ships have been struck by projectiles while attempting to cross the Strait of Hormuz. The weekend attacks came as CNN reported the pace of strikes on ships in and around the strait has reached its highest levels since the U.S. attacked Iran in February. ## Student-Led Protests Sweep Europe, Demanding Higher Wages, Lower Rents and Better Schools Nov 23, 2026 In Italy, thousands of protesters marched through the streets of Rome and more than 100 other cities on Friday as a nationwide strike disrupted transport and school services. The protests were led by workers and students and were part of a wave of actions across Europe over the weekend. > Laura Peritore: “Young people and students across Europe are mobilizing today for this strike against rearmament, against military conscription and against the cuts being made to healthcare and public spending, while billions are being invested in weapons.” Tens of thousands marched in Paris over the cost of living, disinvestment in public services and political gridlock ahead of next year’s presidential election. Protesters also marched in cities across Spain, Portugal, Germany, Austria, Croatia and the U.K. to demand better housing and public education, and higher wages. In Albania, Swedish activist Greta Thunberg joined students in the capital Tirana, which has witnessed months of protests against a luxury coastal resort backed by President Trump’s son-in-law, Jared Kushner. ... ## Democrats’ House Majority Swells to 259 as Chuck Hubbard Defeats 11-Term GOP Rep. Virginia Foxx In North Carolina, Democrat Chuck Hubbard has narrowly defeated 11-term Republican Congresswoman Virginia Foxx. Hubbard’s win gives Democrats at least 259 seats in the next Congress — its largest total since after the 1992 elections. Three U.S. House races remain uncalled."
+   },
+   {
+    "title": "Top news of the day November 23, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/top-news-of-the-day-november-23-2026/article71734724.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "PM Modi announces offshore campus of IIT in Nepal Prime Minister Narendra Modi announced that India will establish an offshore ... IIT) in Nepal, alongside a startup incubator and an innovation hub, as part of a broader push to empower Nepali youth and"
+   },
+   {
+    "title": "Reuters World News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4010829-reuters-world-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Monday the deaths of 24 people in a fire that tore through a factory at the weekend, as rescuers braved unstable structures in the burned wreckage in the search for about 30 people still missing. Authorities were still investigating the cause of the"
+   },
+   {
+    "title": "Ukrainian naval drones strike new Russian warship in Libya, and other Mideast news",
+    "url": "https://apnews.com/article/mideast-iran-gaza-israel-houthis-libya-november-23-2026-c2cb6de3515f887a5786c1147e918489",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Two Libyan officials, speaking on condition of anonymity because they’re not authorized to speak with the media, said that the vessel was only heavily damaged. One of Libya's rival governments later condemned the attack on Facebook."
+   },
+   {
+    "title": "Early Edition: November 23, 2026",
+    "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/",
+    "source": "justsecurity.org",
+    "published": "",
+    "excerpt": "were due to finish on Friday, but ran until late Sunday, becoming the longest U.N. climate conference in history. ... unacceptable to the EU, Pacific island nations, and others because it failed to directly mention fossil fuels, the main cause of global"
+   }
+  ],
+  "text": "[1] Morning Briefing: Nov. 23, 2026 (aa.com.tr)\n- Democrats secure largest US House majority since 1992 with 258 seats Democrats have secured 258 seats in the US House of Representatives following the Nov. 3 midterm elections, marking their strongest performance in the chamber in over three decades, according to election results reported by the Associated Press. The party reached the milestone after Democrat Chuck Hubbard defeated longtime Republican Rep. Virginia Foxx in North Carolina's 5th Congressional District following a recount. Hubbard led Foxx by 330 votes out of approximately 287,000 cast, according to AP. The victory brought …\n\n[2] Morning Edition for November 23, 2026 : NPR (npr.org)\n### NATO to meet after Russia-Ukraine war once again inches onto European territory by Teri Schultz, Steve Inskeep ... ### COP31 ends with no deal after negotiators fail to reach an agreement on fossil fuels by Rachel Waldholz, Steve Inskeep\n\n[3] The 7 things to know for Monday, November 23 - The Washington Post (washingtonpost.com)\nCatch up quickly: Trump’s clout; your area’s winter forecast; ... Today’s seven most important and interesting stories. Today at 6:15 a.m. EST By Jamie Ross and Izin Akhabau ## 1 Democrats secured the largest House majority of this century.\n\n[4] World news | World | The Guardian (theguardian.com)\n- ### EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened European Commission president Ursula von der Leyen sets out 22nd package of sanctions\n\n[5] News 23 November 2026 - Archive Euronews (euronews.com)\n- Indonesia At least 24 people killed in Indonesia factory fire, police say Dozens of employees are still reported to be missing after a blaze broke out at a candy factory in Banten province at around 4:30 pm local time on Saturday. 15:39\n\n[6] Headlines for November 23, 2026 | Democracy Now! (democracynow.org)\n## U.N. Climate Summit Collapses After Countries Fail to Agree to Phase Out Coal, Oil and Gas Nov 23, 2026 In Turkey, the United Nations climate summit collapsed on Sunday as nations failed to produce an agreement phasing out the use of fossil fuels, with a draft text that did not even mention coal, oil or gas. Many poorer countries also objected to the lack of financial commitments from richer nations to help them adapt to a warming world. This is youth climate activist Xiye Bastida. ... The effort to strip the text of references to coal, oil and gas was led by Saudi Arabia and joined by …\n\n[7] Top news of the day November 23, 2026 - The Hindu (thehindu.com)\nPM Modi announces offshore campus of IIT in Nepal Prime Minister Narendra Modi announced that India will establish an offshore ... IIT) in Nepal, alongside a startup incubator and an innovation hub, as part of a broader push to empower Nepali youth and\n\n[8] Reuters World News Summary | International (devdiscourse.com)\nMonday the deaths of 24 people in a fire that tore through a factory at the weekend, as rescuers braved unstable structures in the burned wreckage in the search for about 30 people still missing. Authorities were still investigating the cause of the\n\n[9] Ukrainian naval drones strike new Russian warship in Libya, and other Mideast news (apnews.com)\nTwo Libyan officials, speaking on condition of anonymity because they’re not authorized to speak with the media, said that the vessel was only heavily damaged. One of Libya's rival governments later condemned the attack on Facebook.\n\n[10] Early Edition: November 23, 2026 (justsecurity.org)\nwere due to finish on Friday, but ran until late Sunday, becoming the longest U.N. climate conference in history. ... unacceptable to the EU, Pacific island nations, and others because it failed to directly mention fossil fuels, the main cause of global",
+  "hash": "3357b3a768415922d42c366f1e8f149b7e101c781928c59b553ba93221be819e",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 23, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-23T17:05:03+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "The October 2026 CPI and PPI Reports: A Higher Number, A Similar Story - Center for Commercial Agriculture",
+    "url": "https://ag.purdue.edu/commercialag/home/paer-article/the-october-2026-cpi-and-ppi-reports-a-higher-number-a-similar-story/",
+    "source": "ag.purdue.edu",
+    "published": "",
+    "excerpt": "November 23, 2026 ... Theertha Ramesh, Undergraduate Student, Department of Agricultural Economics; Bernhard Dalheimer, Assistant Professor of Macroeconomics and Trade; Ken Foster, Professor of Agricultural Economics and Director, Purdue Farm Policy Study Group ## A Higher Number, but the Same Story October’s food CPI rose 0.5 percent, the largest monthly increase since April and a break from a flat summer. Food at home rose 0.4 percent, after changes of −0.1, 0.0 and −0.1 percent from July through September, and food away from home rose 0.5 percent. The all items index rose 0.4 percent, and core CPI rose 0.3 percent. Producer prices moved in a similar fashion: the PPI for final demand foods rose 1.3 percent after 1.1 percent in September, its fastest pace since July 2022. Twelve-month changes are not available for most CPI series this month, because BLS could not collect October 2025 data during last year’s government shutdown. Many observers were quick to name rising energy costs as the culprit once again. We read the numbers differently. The headline food CPI is the highest in months, but the underlying dynamics have changed little since the summer. Prices are still largely moving item by item, on product-specific supply and demand, and those moves add up to the aggregate. Energy plays a minor role at most, as it has all year. Upstream, energy actually eased in October as the PPI for final demand energy decreased 0.1 percent and diesel fell 7.9 percent, although diesel is still strongly elevated, 115 percent above a year ago. After three declines from June through August, the two recent gains leave producer food prices only about 0.7 percent above their end-May level and 1.7 percent above a year ago. This is what we expected in the spring. In March, we argued that an energy shock, even when large and sustained, reaches retail food prices modestly and with a delay. Energy is a small share of the retail food dollar. The USDA’s Food Dollar Series puts it at roughly 4 to 7.5 cents of each dollar spent on food at home over the past two decades. Eight months into the conflict, that is how it has played out. Adding up the monthly changes, the food CPI is up about 1.6 percent since February and food at home about 1.0 percent, roughly 2.4 and 1.5 percent at an annual rate. Food inflation over 12 months was 2.5 percent in September, lower than the 3.1 percent recorded in February, before the conflict began."
+   },
+   {
+    "title": "US business activity growth eases further in November, survey shows By Reuters",
+    "url": "https://www.investing.com/news/economic-indicators/us-business-activity-growth-eases-further-in-november-survey-shows-5045933",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Nov 23 (Reuters) - US business activity growth slowed further in November as high prices held back new orders and capacity constraints restrained output, but overall activity remains resilient, suggesting economic growth is continuing at an above-trend rate, a survey showed on Monday. S&P Global said its flash US Composite PMI Output Index, tracking the manufacturing and services sectors, eased to a four-month low of 54.6 this month from a final reading of 55.9 in October. A reading above 50 indicates expansion in the private sector. The pace of growth slackened in both manufacturing and the vast services sector, which is responsible for roughly two-thirds of US economic activity. The manufacturing PMI slipped to a three-month low of 54.5 from 54.9 in October, while the services PMI dropped to a four-month low of 54.7 from 56.1 last month. New business in services slid, while new orders in manufacturing were little changed. Input cost pressures eased but remain elevated and suggest inflation overall will stay well above the Federal Reserve’s 2% target. \"Although output growth slowed in November, recent readings have been impressively strong, and the PMI surveys still point to GDP (gross domestic product) rising at an annualized rate of about 3% in the fourth quarter,\" said Chris Williamson, chief business economist at S&P Global Market Intelligence. \"Growth also remained encouragingly broad-based across both manufacturing and services, with both sectors also still taking on additional staff in numbers that are indicative of a further strong payroll gain during November.\" The US economy grew at a 3.4% annualized rate in the third quarter thanks to ongoing strength in consumer spending and the frenetic artificial intelligence build-out, and employers added a greater-than-expected 165,000 workers to their payrolls in October. \"A key concern is the elevated cost of living and resulting pressures on affordability, and the survey price gauges remain at levels consistent with inflation running well above the Fed’s 2% target in the coming months, despite some moderation of the rate of inflation in November,\" Williamson said. \"Supply disruptions, widely linked to global shipping delays, also appear to have become more widespread, adding to firms’ concerns about being able to fulfill orders and likely to add further to underlying price pressures in the coming months.\" The November 12-20 survey period also dovetailed with a sharp selloff in the US stock market, which has been a key pillar supporting consumer spending, on concerns about the sustainability of the AI boom. It was not clear from the survey data whether that development contributed to the softening in this month’s PMI readings."
+   },
+   {
+    "title": "US PMI: Services Miss Forecast as Price Pressures Ease in November | FXEmpire",
+    "url": "https://www.fxempire.com/forecasts/article/us-pmi-services-miss-forecast-as-price-pressures-ease-in-november-1646578",
+    "source": "fxempire.com",
+    "published": "",
+    "excerpt": "the whole story. The 10-year yield barely moved, ticking down to 4.952 ... The pricing data actually moderated from October’s elevated levels, though S&P Global’s Chris Williamson warned that inflation is still running well"
+   },
+   {
+    "title": "Fed’s preferred inflation index to show price gains well above target - Truflation By Investing.com",
+    "url": "https://www.investing.com/news/economy-news/feds-preferred-inflation-index-to-show-price-gains-well-above-target--truflation-5045939",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "inflation closely tracked by the Federal Reserve is projected to have risen by 3.8% on an annualized basis, according to estimates from alternative data tracker Truflation shared with Investing.com. At that rate, headline inflation as measured by the personal consumption expenditures price index would be nearly double that of the Fed's 2% target level. Stripping out volatile items like food and fuel, the so-called \"core\" reading from the Bureau of Economic Analysis is tipped to stand at 3.2% in the twelve months to October. In September, the BEA's overall PCE index rose by 3.6% year-on-year and the core metric increased by 3.1%."
+   },
+   {
+    "title": "Economic Update: Week of November 23, 2026",
+    "url": "https://www.interactivebrokers.com/campus/traders-insight/securities/macro/economic-update-week-of-november-23-2026/",
+    "source": "interactivebrokers.com",
+    "published": "",
+    "excerpt": "Core ... Core inflation was led higher by several categories, including shelter, transportation services and medical care, while used car and truck prices provided some relief. With this being the final CPI report before the December meeting, the core reading strengthens the case for further tightening, with the size of the next move increasingly in focus."
+   },
+   {
+    "title": "Weekly Market Recap | J.P. Morgan Asset Management",
+    "url": "https://am.jpmorgan.com/au/en/asset-management/liq/insights/market-insights/market-updates/weekly-market-recap/",
+    "source": "am.jpmorgan.com",
+    "published": "",
+    "excerpt": "of earlier tariffs, are gradually filtering through to consumer prices as businesses seek to recover rising operating expenses ... wage growth may provide some relief, the lagged impact of earlier cost increases could keep inflation elevated even as"
+   },
+   {
+    "title": "US business activity growth eases further in November, survey shows",
+    "url": "https://finance.yahoo.com/economy/articles/us-business-activity-growth-eases-145041369.html",
+    "source": "finance.yahoo.com",
+    "published": "",
+    "excerpt": "price gauges remain at ​levels consistent with inflation running well above the Fed's 2 ... coming months, despite some moderation of ​the rate of inflation in November,\" ... said. \"Supply disruptions, widely linked to global shipping ‌delays, also"
+   },
+   {
+    "title": "US consumer prices rise briskly for third straight month | Reuters",
+    "url": "https://www.reuters.com/5f374b32b07b/world/us/us-consumer-prices-rise-above-expectations-october-2026-11-10/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": "-over-year inflation readings because last year's federal government ⁠shutdown prevented the collection of consumer price data in October 2025, leaving no comparison base. ... 2.7% in October after increasing 11.9% in September."
+   },
+   {
+    "title": "Week Ahead: Inflation, Fed Outlook and AI Sell-Off in Focus | Investing.com AU",
+    "url": "https://au.investing.com/analysis/week-ahead-inflation-fed-outlook-and-ai-selloff-in-focus-200618483",
+    "source": "au.investing.com",
+    "published": "",
+    "excerpt": "Attention will be on U.S. core PCE figures (Wednesday), the Federal Reserve’s preferred gauge of ... ). Expectations are for core PCE to rise to 3.2% from 3.1%, while the second estimate of Q3 GDP is forecast at 3.5% annualised. Traders"
+   },
+   {
+    "title": "Treasury yields jump as stocks rebound",
+    "url": "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": ", partially unwinding price action seen at the end of last week, as stocks experienced a strong rebound ... — the key benchmark for mortgages, student loans and credit card debt — was up ... to 4.952%. The 2-year Treasury note yield Add To Watchlist,"
+   }
+  ],
+  "text": "[1] The October 2026 CPI and PPI Reports: A Higher Number, A Similar Story - Center for Commercial Agriculture (ag.purdue.edu)\nNovember 23, 2026 ... Theertha Ramesh, Undergraduate Student, Department of Agricultural Economics; Bernhard Dalheimer, Assistant Professor of Macroeconomics and Trade; Ken Foster, Professor of Agricultural Economics and Director, Purdue Farm Policy Study Group ## A Higher Number, but the Same Story October’s food CPI rose 0.5 percent, the largest monthly increase since April and a break from a flat summer. Food at home rose 0.4 percent, after changes of −0.1, 0.0 and −0.1 percent from July through September, and food away from home rose 0.5 percent. The all items index rose 0.4 percent, and …\n\n[2] US business activity growth eases further in November, survey shows By Reuters (investing.com)\nNov 23 (Reuters) - US business activity growth slowed further in November as high prices held back new orders and capacity constraints restrained output, but overall activity remains resilient, suggesting economic growth is continuing at an above-trend rate, a survey showed on Monday. S&P Global said its flash US Composite PMI Output Index, tracking the manufacturing and services sectors, eased to a four-month low of 54.6 this month from a final reading of 55.9 in October. A reading above 50 indicates expansion in the private sector. The pace of growth slackened in both manufacturing and the …\n\n[3] US PMI: Services Miss Forecast as Price Pressures Ease in November | FXEmpire (fxempire.com)\nthe whole story. The 10-year yield barely moved, ticking down to 4.952 ... The pricing data actually moderated from October’s elevated levels, though S&P Global’s Chris Williamson warned that inflation is still running well\n\n[4] Fed’s preferred inflation index to show price gains well above target - Truflation By Investing.com (investing.com)\ninflation closely tracked by the Federal Reserve is projected to have risen by 3.8% on an annualized basis, according to estimates from alternative data tracker Truflation shared with Investing.com. At that rate, headline inflation as measured by the personal consumption expenditures price index would be nearly double that of the Fed's 2% target level. Stripping out volatile items like food and fuel, the so-called \"core\" reading from the Bureau of Economic Analysis is tipped to stand at 3.2% in the twelve months to October. In September, the BEA's overall PCE index rose by 3.6% year-on-year …\n\n[5] Economic Update: Week of November 23, 2026 (interactivebrokers.com)\nCore ... Core inflation was led higher by several categories, including shelter, transportation services and medical care, while used car and truck prices provided some relief. With this being the final CPI report before the December meeting, the core reading strengthens the case for further tightening, with the size of the next move increasingly in focus.\n\n[6] Weekly Market Recap | J.P. Morgan Asset Management (am.jpmorgan.com)\nof earlier tariffs, are gradually filtering through to consumer prices as businesses seek to recover rising operating expenses ... wage growth may provide some relief, the lagged impact of earlier cost increases could keep inflation elevated even as\n\n[7] US business activity growth eases further in November, survey shows (finance.yahoo.com)\nprice gauges remain at ​levels consistent with inflation running well above the Fed's 2 ... coming months, despite some moderation of ​the rate of inflation in November,\" ... said. \"Supply disruptions, widely linked to global shipping ‌delays, also\n\n[8] US consumer prices rise briskly for third straight month | Reuters (reuters.com)\n-over-year inflation readings because last year's federal government ⁠shutdown prevented the collection of consumer price data in October 2025, leaving no comparison base. ... 2.7% in October after increasing 11.9% in September.\n\n[9] Week Ahead: Inflation, Fed Outlook and AI Sell-Off in Focus | Investing.com AU (au.investing.com)\nAttention will be on U.S. core PCE figures (Wednesday), the Federal Reserve’s preferred gauge of ... ). Expectations are for core PCE to rise to 3.2% from 3.1%, while the second estimate of Q3 GDP is forecast at 3.5% annualised. Traders\n\n[10] Treasury yields jump as stocks rebound (cnbc.com)\n, partially unwinding price action seen at the end of last week, as stocks experienced a strong rebound ... — the key benchmark for mortgages, student loans and credit card debt — was up ... to 4.952%. The 2-year Treasury note yield Add To Watchlist,",
+  "hash": "747b467d61685cfb4ad3c70e514e8951c888965eff2dd3e8fc7001570387c180",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 23, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-23T17:05:20+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Democrats clinch historic House majority | AP News",
+    "url": "https://apnews.com/newsletter/morning-wire/november-23-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "other House races remain outstanding: one each in Minnesota and Tennessee and two in Louisiana that are heading to a December ... the high-water mark of the Franklin D. Roosevelt-era, which saw House Democratic"
+   },
+   {
+    "title": "Live updates: Trump’s calling Putin a ‘friend’ is ‘entirely appropriate,’ intel head says | AP News",
+    "url": "https://apnews.com/live/donald-trump-politics-news-updates-11-23-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "be terminated and their future work with the federal government suspended. The order is the Republican administration’s latest effort to resist what are expected to be ... , noting that federal money has been flowing to companies linked with Trump’s"
+   },
+   {
+    "title": "Morning Edition for November 23, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5988862/morning-edition-for-november-23-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### After midterm losses, Republicans debate what's next for the party by Tamara Keith 4 min #### After midterm losses, Republicans debate what's next for the party ... ### NATO to meet after Russia-Ukraine war once again inches onto European"
+   },
+   {
+    "title": "Live updates: Trump says no reason to believe Jensen Huang poses a national security risk",
+    "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-justice-department-white-house-tree-congress-2026-live-updates-rcna610817",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "JD Vance on healthcare for Americans, adding that \"plans are ... s reinstatement at Nvidia \"underscores the need for Congress to act.\" “Trump is putting his own financial interests and the needs of his billionaire buddies before our national security"
+   },
+   {
+    "title": "Reuters US Domestic News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4010833-reuters-us-domestic-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Chuck Schumer led US Senate Democrats through this month's midterm elections that gave them a decisive ... in the 100-seat chamber. Progressives responded with a collective \"thank you, next,\" arguing that Schumer should"
+   },
+   {
+    "title": "Trump to confront Newsom over plan to spare 548 death row inmates and more top headlines | Fox News",
+    "url": "https://www.foxnews.com/us/trump-confront-newsom-plan-spare-548-death-row-inmates-more-top-headlines",
+    "source": "foxnews.com",
+    "published": "",
+    "excerpt": "November 23, 2026 7:32am EST ... 3 1. Trump to confront Newsom over plan to spare 548 death row inmates, including child killers ... WILL OR WON'T — GOP senator leaves door open to presidential bid, though says it's 'not likely'. Continue reading"
+   },
+   {
+    "title": "GOP leaders signal openness to cutting off Iran war funding as shutdown inches closer",
+    "url": "https://www.washingtonpost.com/business/2026/11/23/senate-gop-leaders-signal-openness-cutting-off-iran-war-funding/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "Senate Republicans hoping to avoid a government shutdown are considering a deal with Democrats that would cut off funding for the Iran war, an unpopular conflict that Congress never approved and that contributed to the GOP’s crushing midterm losses. As Congress prepared last week to leave town for Thanksgiving, Senate Appropriations Committee Chairwoman Susan Collins (R-Maine) told reporters that she is exploring the possibility of a deal to devote fresh cash to restocking dangerously depleted munitions at the Pentagon while denying the Trump administration funds specifically for continuing the Iran conflict. “I’m looking at language that might be able to"
+   },
+   {
+    "title": "Headlines for November 23, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/11/23/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "far last year in loosening training standards for thousands of new officers as it sought to rapidly hire and deploy ... ’s inspector general called the rollbacks in training standards a “catastrophic failure.” Among other things, the report cited a"
+   },
+   {
+    "title": "Live updates: Jensen Huang back in as Nvidia CEO as Donald Trump weighs in on Senate leadership fight and the Iran war",
+    "url": "https://thehill.com/homenews/administration/6236287-live-updates-donald-trump-goverment-spending-senate-leadership-fight-iran-war/",
+    "source": "thehill.com",
+    "published": "",
+    "excerpt": "lawmakers stop talking on the floor, Democrats would be able to pass priorities, such as legislation to revive expanded health insurance premium subsidies, with 51 votes. The filibuster requires 60 votes to pass most legislation"
+   },
+   {
+    "title": "What to know to start your day - The Washington Post",
+    "url": "https://www.washingtonpost.com/the-seven/2026/11/23/what-know-start-your-day/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "detained individuals from a public searchable system eliminates transparency,” the senators wrote in the letter to ... to conceal any harm against people in immigration detention.” DHS and the agency"
+   }
+  ],
+  "text": "[1] Democrats clinch historic House majority | AP News (apnews.com)\nother House races remain outstanding: one each in Minnesota and Tennessee and two in Louisiana that are heading to a December ... the high-water mark of the Franklin D. Roosevelt-era, which saw House Democratic\n\n[2] Live updates: Trump’s calling Putin a ‘friend’ is ‘entirely appropriate,’ intel head says | AP News (apnews.com)\nbe terminated and their future work with the federal government suspended. The order is the Republican administration’s latest effort to resist what are expected to be ... , noting that federal money has been flowing to companies linked with Trump’s\n\n[3] Morning Edition for November 23, 2026 : NPR (npr.org)\n### After midterm losses, Republicans debate what's next for the party by Tamara Keith 4 min #### After midterm losses, Republicans debate what's next for the party ... ### NATO to meet after Russia-Ukraine war once again inches onto European\n\n[4] Live updates: Trump says no reason to believe Jensen Huang poses a national security risk (nbcnews.com)\nJD Vance on healthcare for Americans, adding that \"plans are ... s reinstatement at Nvidia \"underscores the need for Congress to act.\" “Trump is putting his own financial interests and the needs of his billionaire buddies before our national security\n\n[5] Reuters US Domestic News Summary | International (devdiscourse.com)\nChuck Schumer led US Senate Democrats through this month's midterm elections that gave them a decisive ... in the 100-seat chamber. Progressives responded with a collective \"thank you, next,\" arguing that Schumer should\n\n[6] Trump to confront Newsom over plan to spare 548 death row inmates and more top headlines | Fox News (foxnews.com)\nNovember 23, 2026 7:32am EST ... 3 1. Trump to confront Newsom over plan to spare 548 death row inmates, including child killers ... WILL OR WON'T — GOP senator leaves door open to presidential bid, though says it's 'not likely'. Continue reading\n\n[7] GOP leaders signal openness to cutting off Iran war funding as shutdown inches closer (washingtonpost.com)\nSenate Republicans hoping to avoid a government shutdown are considering a deal with Democrats that would cut off funding for the Iran war, an unpopular conflict that Congress never approved and that contributed to the GOP’s crushing midterm losses. As Congress prepared last week to leave town for Thanksgiving, Senate Appropriations Committee Chairwoman Susan Collins (R-Maine) told reporters that she is exploring the possibility of a deal to devote fresh cash to restocking dangerously depleted munitions at the Pentagon while denying the Trump administration funds specifically for continuing …\n\n[8] Headlines for November 23, 2026 | Democracy Now! (democracynow.org)\nfar last year in loosening training standards for thousands of new officers as it sought to rapidly hire and deploy ... ’s inspector general called the rollbacks in training standards a “catastrophic failure.” Among other things, the report cited a\n\n[9] Live updates: Jensen Huang back in as Nvidia CEO as Donald Trump weighs in on Senate leadership fight and the Iran war (thehill.com)\nlawmakers stop talking on the floor, Democrats would be able to pass priorities, such as legislation to revive expanded health insurance premium subsidies, with 51 votes. The filibuster requires 60 votes to pass most legislation\n\n[10] What to know to start your day - The Washington Post (washingtonpost.com)\ndetained individuals from a public searchable system eliminates transparency,” the senators wrote in the letter to ... to conceal any harm against people in immigration detention.” DHS and the agency",
+  "hash": "5fd38ee3ff09425829cb7fb9d55c19211a6d989ee8336aaae08420e03c68a9e8",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 23, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-23T17:05:35+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Morning Edition for November 23, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-5988862/morning-edition-for-november-23-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "Theatre, the performance at the center of the new movie Elsinore, actor Ian Charleson played the role in a ... ### Ian Charleson played Hamlet while he was dying. Still, he was 'dazzling' by Chloe Veltman 4 min #### Ian Charleson played Hamlet while"
+   },
+   {
+    "title": "Flying Cars Are Real, China Loves ‘A Minecraft Movie,’ and an Eclectic Roundup of New Chinese Music - RADII",
+    "url": "https://radii.co/article/newsletter/flying-cars-are-real-china-loves-a-minecraft-movie-and-an-eclectic-roundup-of-new-chinese-music",
+    "source": "radii.co",
+    "published": "",
+    "excerpt": "Cars Are Real, China Loves ‘A Minecraft Movie,’ and an Eclectic Roundup of New Chinese Music - ... # Shu Qi Wins Golden Horse Best New Director For Her Directorial Debut - By Mandy Wong - November 23, 2026 - By Mandy Wong - November 23, 2026"
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4010832-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Disney movie 'Hexed' explores female power through witches and ​family bonds Jodie Foster was thrilled to star in Disney's ​animated film \"Hexed\" because it puts three female ‌witches ​at the center of the story. \"Witches are back,\" Foster, who voices the villainous ruler of witches, Queen Celeste, told Reuters. Beloved Australian music promoter Molly Meldrum dies aged 83 Australian TV presenter and music producer ‌Ian \"Molly\" Meldrum, who helped propel the careers of the country's rock groups and singers like AC/DC and Kylie Minogue, died aged 83 on Monday after an illness, his family said in a statement. As host of public broadcaster ABC's Countdown music programme, Meldrum championed local and international artists from INXS to ‌ABBA, and interviewed figures including Britain's King Charles and Elton John, who called him a \"national treasure\". French actor Depardieu and author Houellebecq under investigation ‌for sexual assault The Paris prosecutor's office said on Saturday it had opened a judicial investigation into actor Gerard Depardieu and author Michel Houellebecq over alleged sexual offences after a legal complaint was filed against them. AFP News agency reported on Friday that the men had been jointly accused of the gang rape and assault of a woman during ⁠a 2018 ​film shoot"
+   },
+   {
+    "title": "AP Entertainment SummaryBrief at 7:01 a.m. EST | Features | rutlandherald.com",
+    "url": "https://www.rutlandherald.com/features/ap-entertainment/ap-entertainment-summarybrief-at-2-24-a-m-est/article_62ca0144-6ea9-5ca7-a2cd-e04516db413e.html",
+    "source": "rutlandherald.com",
+    "published": "",
+    "excerpt": "franchise rediscovered its box-office might, as “Sunrise on the Reaping” debuted with an estimated $120 million in North American theaters over the weekend. ... sun had seemed to be setting on “The Hunger Games” as a cultural force"
+   },
+   {
+    "title": "Daily Music Headlines November 23, 2026 - Daily Music Headlines | Acast",
+    "url": "https://shows.acast.com/daily-music-headlines/episodes/daily-music-headlines-november-23-2026",
+    "source": "shows.acast.com",
+    "published": "",
+    "excerpt": "Monday, November 23, 2026 Miley Cyrus married drummer and collaborator Maxx Morando Saturday in a private Palm Springs ceremony officiated by Flaming Lips frontman Wayne Coyne. Cyrus and Morando have been together since 2021. Coyne and Cyrus have collaborated for more than a decade, including on Miley Cyrus and Her Dead Petz and “We A Family.” Cyrus released Bass Persuades in September, while the Flaming Lips’ The Teardrop Throbs arrives in January on Third Man Records. Stone Sour have released “Full of Empty,” a previously unreleased track from the 15th anniversary deluxe edition of Audio Secrecy. Corey Taylor revisited an instrumental left off the 2010 album, added lyrics and vocals, and brought in Jim Root and Josh Rand for new guitar parts. The band has been on hiatus since 2020. ... Blondie have released “Come Back Home,” featuring Lucius, the second single from High Noon, due February 26 on BMG. It’s the band’s final album with longtime drummer Clem Burke, who died last year. Lucius’ Jess Wolfe and Holly Laessig wrote the melancholic song about touring and distance. Bradford Cox surprise-released Thanatos, the first Atlas Sound album in 15 years. Recorded alone in his Atlanta attic on a portable 8-track, the 10-song album is out digitally through 4AD, with vinyl planned for next year. It completes the trilogy begun with Logos and Parallax. Cox has upcoming appearances at Big Ears, Kilby Block Party and Primavera Sound. The Offspring announced Just the Punk Stuff, a live album recorded September 18 at Sea.Hear.Now in Asbury Park. The 13-song collection arrives January 29, selected by two superfans from the band’s 23-song set. A video for “Jennifer Lost the War” is out now, and the band will support Fall Out Boy on their Summer 2027 tour. Muse guitarist Matt Bellamy wants to build AI into guitars, allowing players to prompt instruments for specific sounds. He says the technology isn’t quite ready, but Muse already uses AI to operate the sound desk on some tour songs and deliver the opening speech to “Psycho.” Bellamy expects live music with real musicians to keep growing."
+   },
+   {
+    "title": "Jennifer Lopez reveals she 'doesn't need to date' any more",
+    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jennifer-lopez-reveals-she-doesnt-203034498.html",
+    "source": "yahoo.com",
+    "published": "",
+    "excerpt": "Lopez has told how she \"doesn't need to date\" any more. The 57-year-old is no longer thinking about romantic ... , she said in an interview with Variety magazine. \"It's not something I'm thinking about"
+   },
+   {
+    "title": "Amelia's Bits & Bytes 11/23: New Stone Sour, Offspring Live Album, Cliff Booth Has AI, MD Hoping For US Space Academy And More Pop Culture News | 98 Rock Online",
+    "url": "https://www.98online.com/amelias-bits-bytes-11-23-new-stone-sour-offspring-live-album-cliff-booth-has-ai-md-hoping-for-us-space-academy-and-more-pop-culture-news",
+    "source": "98online.com",
+    "published": "",
+    "excerpt": "Seth Rogan will direct a sequel to Home Alone with Macauley Culkin. Godzilla Minus Zero comes back to theaters in black and white. Amazon will remake a classic series called The Prisoner. ... David Fincher uses a lot of AI in new Cliff Booth movie."
+   },
+   {
+    "title": "What To Watch On TV And Streaming Monday, November 23, 2026",
+    "url": "https://www.tvline.com/2322384/what-to-watch-november-23-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "10-Episode Binge Series premiere: A team of archaeologists (led by Amy Poehler) spend their summer working on a dig ... rare artifact that sends them on the adventure of a lifetime; Hugh Laurie, Geraldine Viswanathan, Antonia Thomas, and Fina Strazza co"
+   },
+   {
+    "title": "Entertainment News Live Updates Today (November 23): Dhoni Attends Anirudh And Kavya's Wedding Reception On Day 2; Salman Khan Offers Qazi A Song After Bigg Boss 20 | Entertainment Live News Updates Today In India | Latest & Trending Bollywood News Today (Live) - Filmibeat",
+    "url": "https://www.filmibeat.com/bollywood/news/2026/entertainment-news-live-dhoni-attends-anirudh-kavya-wedding-reception-salman-offers-qazi-a-song-538957.html",
+    "source": "filmibeat.com",
+    "published": "",
+    "excerpt": "Maran hosted their second wedding reception last night, and social media is now flooded with pictures ... guests, Thala Dhoni's presence caught everyone's attention. ... arrived at the Anirudh-Kavya reception with his wife, Sakshi, and the couple made a"
+   },
+   {
+    "title": "Film and TV News | JAF News",
+    "url": "https://jafnews.com/entertainment/film-tv/",
+    "source": "jafnews.com",
+    "published": "",
+    "excerpt": "### Hailee Steinfeld Confirms ‘Avengers: Doomsday’ Return as Kate Bishop ... ### Ateez Debuts at No. 1 on Billboard 200 for the Third Time This Year; U2’s ‘Carnaval de Luz’ Bows at No. 4 The ... the Billboard 200 album chart of “Golden Hour: Part 6.”"
+   }
+  ],
+  "text": "[1] Morning Edition for November 23, 2026 : NPR (npr.org)\nTheatre, the performance at the center of the new movie Elsinore, actor Ian Charleson played the role in a ... ### Ian Charleson played Hamlet while he was dying. Still, he was 'dazzling' by Chloe Veltman 4 min #### Ian Charleson played Hamlet while\n\n[2] Flying Cars Are Real, China Loves ‘A Minecraft Movie,’ and an Eclectic Roundup of New Chinese Music - RADII (radii.co)\nCars Are Real, China Loves ‘A Minecraft Movie,’ and an Eclectic Roundup of New Chinese Music - ... # Shu Qi Wins Golden Horse Best New Director For Her Directorial Debut - By Mandy Wong - November 23, 2026 - By Mandy Wong - November 23, 2026\n\n[3] Reuters Entertainment News Summary | International (devdiscourse.com)\nDisney movie 'Hexed' explores female power through witches and ​family bonds Jodie Foster was thrilled to star in Disney's ​animated film \"Hexed\" because it puts three female ‌witches ​at the center of the story. \"Witches are back,\" Foster, who voices the villainous ruler of witches, Queen Celeste, told Reuters. Beloved Australian music promoter Molly Meldrum dies aged 83 Australian TV presenter and music producer ‌Ian \"Molly\" Meldrum, who helped propel the careers of the country's rock groups and singers like AC/DC and Kylie Minogue, died aged 83 on Monday after an illness, his family said …\n\n[4] AP Entertainment SummaryBrief at 7:01 a.m. EST | Features | rutlandherald.com (rutlandherald.com)\nfranchise rediscovered its box-office might, as “Sunrise on the Reaping” debuted with an estimated $120 million in North American theaters over the weekend. ... sun had seemed to be setting on “The Hunger Games” as a cultural force\n\n[5] Daily Music Headlines November 23, 2026 - Daily Music Headlines | Acast (shows.acast.com)\nMonday, November 23, 2026 Miley Cyrus married drummer and collaborator Maxx Morando Saturday in a private Palm Springs ceremony officiated by Flaming Lips frontman Wayne Coyne. Cyrus and Morando have been together since 2021. Coyne and Cyrus have collaborated for more than a decade, including on Miley Cyrus and Her Dead Petz and “We A Family.” Cyrus released Bass Persuades in September, while the Flaming Lips’ The Teardrop Throbs arrives in January on Third Man Records. Stone Sour have released “Full of Empty,” a previously unreleased track from the 15th anniversary deluxe edition of Audio …\n\n[6] Jennifer Lopez reveals she 'doesn't need to date' any more (yahoo.com)\nLopez has told how she \"doesn't need to date\" any more. The 57-year-old is no longer thinking about romantic ... , she said in an interview with Variety magazine. \"It's not something I'm thinking about\n\n[7] Amelia's Bits & Bytes 11/23: New Stone Sour, Offspring Live Album, Cliff Booth Has AI, MD Hoping For US Space Academy And More Pop Culture News | 98 Rock Online (98online.com)\nSeth Rogan will direct a sequel to Home Alone with Macauley Culkin. Godzilla Minus Zero comes back to theaters in black and white. Amazon will remake a classic series called The Prisoner. ... David Fincher uses a lot of AI in new Cliff Booth movie.\n\n[8] What To Watch On TV And Streaming Monday, November 23, 2026 (tvline.com)\n10-Episode Binge Series premiere: A team of archaeologists (led by Amy Poehler) spend their summer working on a dig ... rare artifact that sends them on the adventure of a lifetime; Hugh Laurie, Geraldine Viswanathan, Antonia Thomas, and Fina Strazza co\n\n[9] Entertainment News Live Updates Today (November 23): Dhoni Attends Anirudh And Kavya's Wedding Reception On Day 2; Salman Khan Offers Qazi A Song After Bigg Boss 20 | Entertainment Live News Updates Today In India | Latest & Trending Bollywood News Today (Live) - Filmibeat (filmibeat.com)\nMaran hosted their second wedding reception last night, and social media is now flooded with pictures ... guests, Thala Dhoni's presence caught everyone's attention. ... arrived at the Anirudh-Kavya reception with his wife, Sakshi, and the couple made a\n\n[10] Film and TV News | JAF News (jafnews.com)\n### Hailee Steinfeld Confirms ‘Avengers: Doomsday’ Return as Kate Bishop ... ### Ateez Debuts at No. 1 on Billboard 200 for the Third Time This Year; U2’s ‘Carnaval de Luz’ Bows at No. 4 The ... the Billboard 200 album chart of “Golden Hour: Part 6.”",
+  "hash": "9c56a2f67910b7f01aa0ec972bd75fca90b6cbeae3cbe0e23f981f17b272ec47",
+  "notes": []
+ }
+}
