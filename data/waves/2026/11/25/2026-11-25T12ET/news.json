@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-25T17:04:03+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 25, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-25T17:04:03+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "AP Top Stories November 25 - Yahoo News Canada",
+    "url": "https://ca.news.yahoo.com/ap-top-stories-november-25-111400554.html",
+    "source": "ca.news.yahoo.com",
+    "published": "",
+    "excerpt": "25, 2026 at 6:14 a.m. EST Here's the latest for Wednesday, November 25: Trump administration prepares new tariffs; Kilmar Abrego Garcia leaves U.S. for Spain; King tides flood parts of California; China launches its first foreign astronaut into space."
+   },
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/25",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "& Policy ## Army detonates unstable lead explosives at Iowa plant ... Updated 3 hours ago - Economy ## U.S. economy grew at rapid 4.3% pace in third quarter, new estimate shows Updated 3 hours ago - Business ## Trump prepares new round of tariffs on"
+   },
+   {
+    "title": "World news | World | The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/25/all",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "- ### ‘Russia wants more than Ukraine,’ Germany’s Merz warns – as it happened German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ ... ### China sends first foreign astronaut to ISS rival as it globalises space"
+   },
+   {
+    "title": "Morning Edition for November 25, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-6014164/morning-edition-for-november-25-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### U.S. government investigating Iranian ties to as many as 50 hacked commercial vessels by Jenna McLaughlin 2 ... ### Army detonates nearly five tons of lead-based explosives in Iowa ... win, Democrats secure largest majority since the early"
+   },
+   {
+    "title": "The 7 things to know for Wednesday, November 25 - The Washington Post",
+    "url": "https://www.washingtonpost.com/the-seven/2026/11/25/7-things-know-wednesday-november-25/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "up quickly: Iowa detonation; Smithsonian overhaul; travel deals Today’s seven most important and interesting stories. Today at 6:12 a.m. EST By ... Akhabau ## 1 President Donald Trump’s Nvidia gambit has rewritten the rules of American business."
+   },
+   {
+    "title": "Headlines for November 25, 2026 | Democracy Now!",
+    "url": "https://www.democracynow.org/2026/11/25/headlines",
+    "source": "democracynow.org",
+    "published": "",
+    "excerpt": "## Army Publishes New Map Showing Lead Dust from Munitions Plant Detonation Could Spread to Missouri Nov 25, 2026 Iowa Governor Kim Reynolds has declared a disaster emergency in three counties, as the U.S. Army prepares to detonate nearly five tons of highly unstable lead-based explosives at an ammunition plant in southeastern Iowa today. Environmental groups are warning of an unfolding public health catastrophe, with a detonation scheduled for 9 a.m. Central Time that could spew toxic lead dust across communities, farmland and potentially into the Mississippi River. Officials have recommended that residents of Middletown, where the plant is located, and anyone within a five-mile cone southwest of the plant evacuate, while people living up to 20 miles away have been told to stay indoors with their windows closed. This is Sean Kaufman, a disaster preparedness official with the Department of Health and Human Services. > Sean Kaufman: “Individuals that are in that directly affected area — which, again, we will continuously get updates based on the weather — if they are women who are pregnant, children under the age of 6, or children in general, and individuals who may have chronic disease, you definitely want to be out of that area. I would evacuate that area.” The Army published an updated map estimating the lead plume could spread all the way to northern Missouri, more than 100 miles from ground zero. There is no safe level of exposure to lead, a neurotoxin that can cause permanent cognitive and behavioral harm. Ahead of today’s detonation, The New York Times published an investigation revealing the Army had initially hired a firm to turn the explosives into harmless waste, but then dropped the contract in favor of a so-called controlled blast. We’ll have the latest on this story after headlines. ## Gaza Health Officials Warn of Spread of Meningitis as Israel Continues to Violate Ceasefire Deal Nov 25, 2026 In Gaza, at least four Palestinians were killed this morning in an Israeli airstrike on an apartment building in the al-Shati refugee camp. The strike followed Israeli attacks that killed at least 10 Palestinians across Gaza on Tuesday, including a 30-year-old pregnant mother and Khaled Walid al-Jamal, a 13-year-old boy shot dead in northern Gaza City. Another Israeli airstrike killed a senior Hamas security official, along with his wife and their two teenage daughters. The relentless attacks came as Palestinians held funeral services in Khan Younis for three people killed in an Israeli strike on a police post. ... On Tuesday, Gaza’s Health Ministry declared an epidemic alert over a surge in meningitis, warning that hundreds of thousands of people are at risk of contracting the deadly condition. ## Yemen’s Houthis Strike Saudi Arabia’s Largest Refinery and Riyadh Skyscraper ... Saudi Arabia’s biggest oil refinery caught fire following an attack by Yemen’s Ansar Allah movement, known as the Houthis. Ras Tanura is one of the largest refining complexes and oil export terminals in the world, with a capacity of over a half-million barrels per day. It erupted in flames hours after a Houthi strike on Saudi Arabia’s main financial district in Riyadh Tuesday that injured 11 people. That attack damaged Riyadh’s tallest skyscraper, which is home to the kingdom’s sovereign wealth"
+   },
+   {
+    "title": "Morning Briefing: Nov. 25, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-25-2026/4136600",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "its three-member Shenzhou-24 crewed space mission, carrying Pakistani fighter pilot Muhammad Zeeshan Ali, who is set to become the first Pakistani astronaut to travel into orbit and the first foreign national to visit China’s Tiangong space station. The"
+   },
+   {
+    "title": "Trump unveils new tariffs to fight excess factory capacity, undeterred by midterms defeat | Reuters",
+    "url": "https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 25 (Reuters) - US President Donald Trump on Wednesday fired a new tariff salvo on 14 major trading ​partners including China, Japan and the European Union, undeterred in his protectionist push by the losses his Republican Party suffered in US midterm elections. His administration proposed new ‌headline tariff rates of 20% to 40%, but said duties would be capped at lower levels agreed under trade deals that have already been concluded or remain under negotiation. Separately, the United States Trade Representative proposed a new 10% tariff on imports of Brazil's finished Embraer commercial aircraft, and to raise duties on imports of Brazilian sugar that exceed quotas as part of an effort to push Brasilia to rectify alleged unfair trade practices. The products were previously exempted from ​Trump's 25% tariffs on Brazilian goods that were imposed in July. A US official said that despite negotiations, there were \"substantial differences\" over the allegations. Under the"
+   },
+   {
+    "title": "World News Today: 25 November 2026 in 10 Stories | Nchiwise",
+    "url": "https://nchiwise.com/explainers/world-news-today-25-november-2026/",
+    "source": "nchiwise.com",
+    "published": "",
+    "excerpt": "## 5. Ebola: still a global emergency WHO says the Bundibugyo Ebola outbreak in DR Congo has passed 11,700 cases and 5,700 deaths. Responders were trapped for over 24 hours by fighting in Ituri. ... . ## 9. Landmine casualties hit a five-year high 6,929"
+   },
+   {
+    "title": "Daily World Briefing, Nov. 25-Xinhua",
+    "url": "https://english.news.cn/20261125/bbf3f23aece142ec814e279b35d40a21/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "Send-off ceremony held for Shenzhou-24 astronauts A send-off ceremony ... the Shenzhou-24 crew, consisting of two Chinese astronauts and one Pakistani astronaut, was held early Wednesday morning at the Jiuquan Satellite Launch"
+   }
+  ],
+  "text": "[1] AP Top Stories November 25 - Yahoo News Canada (ca.news.yahoo.com)\n25, 2026 at 6:14 a.m. EST Here's the latest for Wednesday, November 25: Trump administration prepares new tariffs; Kilmar Abrego Garcia leaves U.S. for Spain; King tides flood parts of California; China launches its first foreign astronaut into space.\n\n[2] Axios (axios.com)\n& Policy ## Army detonates unstable lead explosives at Iowa plant ... Updated 3 hours ago - Economy ## U.S. economy grew at rapid 4.3% pace in third quarter, new estimate shows Updated 3 hours ago - Business ## Trump prepares new round of tariffs on\n\n[3] World news | World | The Guardian (theguardian.com)\n- ### ‘Russia wants more than Ukraine,’ Germany’s Merz warns – as it happened German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ ... ### China sends first foreign astronaut to ISS rival as it globalises space\n\n[4] Morning Edition for November 25, 2026 : NPR (npr.org)\n### U.S. government investigating Iranian ties to as many as 50 hacked commercial vessels by Jenna McLaughlin 2 ... ### Army detonates nearly five tons of lead-based explosives in Iowa ... win, Democrats secure largest majority since the early\n\n[5] The 7 things to know for Wednesday, November 25 - The Washington Post (washingtonpost.com)\nup quickly: Iowa detonation; Smithsonian overhaul; travel deals Today’s seven most important and interesting stories. Today at 6:12 a.m. EST By ... Akhabau ## 1 President Donald Trump’s Nvidia gambit has rewritten the rules of American business.\n\n[6] Headlines for November 25, 2026 | Democracy Now! (democracynow.org)\n## Army Publishes New Map Showing Lead Dust from Munitions Plant Detonation Could Spread to Missouri Nov 25, 2026 Iowa Governor Kim Reynolds has declared a disaster emergency in three counties, as the U.S. Army prepares to detonate nearly five tons of highly unstable lead-based explosives at an ammunition plant in southeastern Iowa today. Environmental groups are warning of an unfolding public health catastrophe, with a detonation scheduled for 9 a.m. Central Time that could spew toxic lead dust across communities, farmland and potentially into the Mississippi River. Officials have …\n\n[7] Morning Briefing: Nov. 25, 2026 (aa.com.tr)\nits three-member Shenzhou-24 crewed space mission, carrying Pakistani fighter pilot Muhammad Zeeshan Ali, who is set to become the first Pakistani astronaut to travel into orbit and the first foreign national to visit China’s Tiangong space station. The\n\n[8] Trump unveils new tariffs to fight excess factory capacity, undeterred by midterms defeat | Reuters (reuters.com)\nWASHINGTON, Nov 25 (Reuters) - US President Donald Trump on Wednesday fired a new tariff salvo on 14 major trading ​partners including China, Japan and the European Union, undeterred in his protectionist push by the losses his Republican Party suffered in US midterm elections. His administration proposed new ‌headline tariff rates of 20% to 40%, but said duties would be capped at lower levels agreed under trade deals that have already been concluded or remain under negotiation. Separately, the United States Trade Representative proposed a new 10% tariff on imports of Brazil's finished Embraer …\n\n[9] World News Today: 25 November 2026 in 10 Stories | Nchiwise (nchiwise.com)\n## 5. Ebola: still a global emergency WHO says the Bundibugyo Ebola outbreak in DR Congo has passed 11,700 cases and 5,700 deaths. Responders were trapped for over 24 hours by fighting in Ituri. ... . ## 9. Landmine casualties hit a five-year high 6,929\n\n[10] Daily World Briefing, Nov. 25-Xinhua (english.news.cn)\nSend-off ceremony held for Shenzhou-24 astronauts A send-off ceremony ... the Shenzhou-24 crew, consisting of two Chinese astronauts and one Pakistani astronaut, was held early Wednesday morning at the Jiuquan Satellite Launch",
+  "hash": "de94557dbc22a60e4623ca9b57823e660e371cdf9476ceac65d99cdae4a066e9",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 25, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-25T17:04:21+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+    "url": "https://apnews.com/article/consumer-spending-prices-inflation-tariffs-31fab1e32dda1ad3a29c192f620d5733",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "WASHINGTON (AP) — A key inflation gauge remained high last month even as gas price increases slowed in a sign that elevated costs remain a challenge for the Federal Reserve and elected officials in Washington. The Commerce Department said Wednesday that consumer prices rose 3.8% in October from a year earlier, up from 3.6% in September. On a monthly basis, consumer prices climbed 0.3% from September to October, down from a 0.6% increase the previous month. The stubbornly elevated price figures come as the economy is expanding at a healthy pace, driven by strong consumer spending and surging business investment as"
+   },
+   {
+    "title": "US third-quarter economic growth revised sharply higher; inflation broadening out By Reuters",
+    "url": "https://www.investing.com/news/economy-news/us-inflation-rises-further-in-october-5050840",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "demand is fueling inflation, with a measure of underlying price ... The economy has powered ahead despite the ongoing US-Israeli war with Iran. \"It is more urgent ... tariffs and energy prices from the Mideast war were one-off factors behind the higher"
+   },
+   {
+    "title": "PCE inflation report October 2026: Fed’s preferred inflation gauge accelerated to 3.8%",
+    "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "PCE was 3.3%, the Commerce Department reported Wednesday. That was 0.1 percentage point above the forecast. While the Fed officially follows the headline figure, policymakers consider core to be a more reliable longer-term gauge of inflation trends."
+   },
+   {
+    "title": "US inflation hits highest since May after prices climb 3.8% over the last year | US economy | The Guardian",
+    "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "after the Bureau of Labor Statistics separately reported prices climbed 0.4% from ... Energy prices, including gas prices at the pump, have cooled, going from a high of $4.41 a gallon in early October to $3.61 a gallon by mid-November, according to AAA."
+   },
+   {
+    "title": "GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 | U.S. Bureau of Economic Analysis (BEA)",
+    "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+    "source": "bea.gov",
+    "published": "",
+    "excerpt": "EMBARGOED UNTIL RELEASE AT 8:30 a.m. EST, Wednesday, November 25, 2026 # GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 Real gross domestic product (GDP) increased at an annual rate of 4.3 percent in the third quarter of 2026 (July, August, and September), according to the second estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the second quarter, real GDP increased 2.2 percent. The contributors to the increase in real GDP in the third quarter were increases in investment, consumer spending, and government spending that were partly offset by a decrease in exports. Imports, which are a subtraction in the calculation of GDP, increased. Real GDP was revised up 0.9 percentage point from the advance estimate, primarily reflecting upward revisions to investment and consumer spending. For more information, refer to the \" Technical Notes\" below. Compared to the second quarter, the acceleration in real GDP in the third quarter primarily reflected an acceleration in investment and an upturn in government spending that were partly offset by a downturn in exports. Imports increased more in the third quarter than in the second quarter. Real final sales to private domestic purchasers, the sum of consumer spending and gross private fixed investment, increased 5.8 percent in the third quarter, revised up 0.9 percentage point from the previous estimate. The price index for gross domestic purchases increased 2.7 percent in the third quarter, revised down 0.3 percentage point from the previous estimate. The personal consumption expenditures (PCE) price index increased 2.1 percent, and the PCE price index, excluding food and energy increased 2.5 percent, both the same as previously estimated. Real gross domestic income (GDI) increased 4.4 percent in the third quarter, compared with an increase of 2.3 percent (revised) in the second quarter. The average of real GDP and real GDI also increased 4.4 percent, compared with an increase of 2.2 percent (revised). ... | Real GDP and Related Measures [Percent change (SAAR) from 2026:Q2 to 2026:Q3] | | | | --- | --- | --- | | | Advance Estimate | Second Estimate | | Real GDP | 3.4 | 4.3 | | Current-dollar GDP | 5.6 | 6.2 | | Real final sales to private domestic purchasers | 4.9 | 5.8 | | Real GDI | … | 4.4 | ... | Gross domestic purchases ... | PCE price index | 2.1 | 2.1 |"
+   },
+   {
+    "title": "U.S. inflation rises further in October, bolstering odds of successive Fed rate hikes - The Globe and Mail",
+    "url": "https://www.theglobeandmail.com/business/article-us-inflation-rises-further-in-october-bolstering-odds-of-successive/",
+    "source": "theglobeandmail.com",
+    "published": "",
+    "excerpt": "low layoffs and moderate hiring are also helping other households to sustain spending, though inflation is eroding wage gains. Households are also saving less and dipping into their nest eggs. Economists expect consumer spending to slow into 2027 because"
+   },
+   {
+    "title": "U.S. economy grew at rapid 4.3% pace in third quarter, new estimate shows",
+    "url": "https://www.axios.com/2026/11/25/economy-gdp-inflation-ai",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "spending stalled, pushing the saving rate up to 4.1% from 3.6% the prior month. ... The bottom line: The U.S. economy was on remarkably strong footing heading into the end of the year, though inflation remains stubbornly high."
+   },
+   {
+    "title": "US stock futures extend losses after economic data By Reuters",
+    "url": "https://www.investing.com/news/economy-news/us-stock-futures-extend-losses-after-economic-data-5050842",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": ") - US stock index futures extended losses on Wednesday as investors assessed the latest ... A jobless claims report for the week ended November 21 showed claims stood at 189,000, compared with the estimate of 200,000."
+   },
+   {
+    "title": "PCE Inflation Overshoots As Fed Fears Worsen AI-Stock Volatility (Live Coverage) | Investor's Business Daily",
+    "url": "https://www.investors.com/news/pce-inflation-oct-federal-reserve-sp-500-ai-nvidia-liquidity-crunch/",
+    "source": "investors.com",
+    "published": "",
+    "excerpt": "GRAHAM - Updated 09:24 AM ET 11/25/ ... Core PCE inflation, the Federal Reserve's primary inflation gauge, heated up slightly more than ... &P 500 futures, down sharply ahead of the inflation data, extended losses as the report showed core inflation"
+   },
+   {
+    "title": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates. - MarketWatch",
+    "url": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f",
+    "source": "marketwatch.com",
+    "published": "",
+    "excerpt": "to influence U.S. interest rates rose again in October at an accelerated ... The Fed’s preferred inflation barometer, known as the PCE index, climbed 0.3% last month as Wall Street ... of inflation up to 3.8% from 3.7% to match an almost three-year high."
+   }
+  ],
+  "text": "[1] Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed (apnews.com)\nWASHINGTON (AP) — A key inflation gauge remained high last month even as gas price increases slowed in a sign that elevated costs remain a challenge for the Federal Reserve and elected officials in Washington. The Commerce Department said Wednesday that consumer prices rose 3.8% in October from a year earlier, up from 3.6% in September. On a monthly basis, consumer prices climbed 0.3% from September to October, down from a 0.6% increase the previous month. The stubbornly elevated price figures come as the economy is expanding at a healthy pace, driven by strong consumer spending and surging …\n\n[2] US third-quarter economic growth revised sharply higher; inflation broadening out By Reuters (investing.com)\ndemand is fueling inflation, with a measure of underlying price ... The economy has powered ahead despite the ongoing US-Israeli war with Iran. \"It is more urgent ... tariffs and energy prices from the Mideast war were one-off factors behind the higher\n\n[3] PCE inflation report October 2026: Fed’s preferred inflation gauge accelerated to 3.8% (cnbc.com)\nPCE was 3.3%, the Commerce Department reported Wednesday. That was 0.1 percentage point above the forecast. While the Fed officially follows the headline figure, policymakers consider core to be a more reliable longer-term gauge of inflation trends.\n\n[4] US inflation hits highest since May after prices climb 3.8% over the last year | US economy | The Guardian (theguardian.com)\nafter the Bureau of Labor Statistics separately reported prices climbed 0.4% from ... Energy prices, including gas prices at the pump, have cooled, going from a high of $4.41 a gallon in early October to $3.61 a gallon by mid-November, according to AAA.\n\n[5] GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 | U.S. Bureau of Economic Analysis (BEA) (bea.gov)\nEMBARGOED UNTIL RELEASE AT 8:30 a.m. EST, Wednesday, November 25, 2026 # GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 Real gross domestic product (GDP) increased at an annual rate of 4.3 percent in the third quarter of 2026 (July, August, and September), according to the second estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the second quarter, real GDP increased 2.2 percent. The contributors to the increase in real GDP in the third quarter were increases in investment, consumer spending, and government spending that were partly offset by a decrease …\n\n[6] U.S. inflation rises further in October, bolstering odds of successive Fed rate hikes - The Globe and Mail (theglobeandmail.com)\nlow layoffs and moderate hiring are also helping other households to sustain spending, though inflation is eroding wage gains. Households are also saving less and dipping into their nest eggs. Economists expect consumer spending to slow into 2027 because\n\n[7] U.S. economy grew at rapid 4.3% pace in third quarter, new estimate shows (axios.com)\nspending stalled, pushing the saving rate up to 4.1% from 3.6% the prior month. ... The bottom line: The U.S. economy was on remarkably strong footing heading into the end of the year, though inflation remains stubbornly high.\n\n[8] US stock futures extend losses after economic data By Reuters (investing.com)\n) - US stock index futures extended losses on Wednesday as investors assessed the latest ... A jobless claims report for the week ended November 21 showed claims stood at 189,000, compared with the estimate of 200,000.\n\n[9] PCE Inflation Overshoots As Fed Fears Worsen AI-Stock Volatility (Live Coverage) | Investor's Business Daily (investors.com)\nGRAHAM - Updated 09:24 AM ET 11/25/ ... Core PCE inflation, the Federal Reserve's primary inflation gauge, heated up slightly more than ... &P 500 futures, down sharply ahead of the inflation data, extended losses as the report showed core inflation\n\n[10] Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates. - MarketWatch (marketwatch.com)\nto influence U.S. interest rates rose again in October at an accelerated ... The Fed’s preferred inflation barometer, known as the PCE index, climbed 0.3% last month as Wall Street ... of inflation up to 3.8% from 3.7% to match an almost three-year high.",
+  "hash": "10b34200bdabddc91de698387d6587c76a34240e729dcf723bd88e50ccf6c4ef",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 25, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-25T17:04:41+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "with the the New York Post, the president – took credit for convincing Nvidia’s board to reinstate Huang - admitted he could intervene again to help the embattled CEO. “It’s always an option, I guess, but I don’t think it’ll be necessary,” the president"
+   },
+   {
+    "title": "Morning Edition for November 25, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-6014164/morning-edition-for-november-25-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Republican wants FBI and CIA answers before questioning Nvidia chief by Michel Martin, Majd Al-Waheidi 5 min #### Rep. Brian Fitzpatrick, R-Penn., on Nvidia CEO's upcoming House committee interview"
+   },
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/25",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "## Wednesday's top stories - Avery Lotz, - Julianna Bragg Updated 34 mins ago - Politics & Policy ## Army detonates unstable lead explosives at Iowa plant ... ## GOP firm's executive linked to effort to oust Republican senators"
+   },
+   {
+    "title": "First Thing: Democrats say Trump risked US security over Nvidia as Huang apologises | US news | The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/25/first-thing-democrats-trump-risked-us-security-nvidia-huang-apologises",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": ". - How close was her stunning result? Broderick prevailed by fewer than 400 votes, according to the Associated Press race call. DesJarlais, 62, who aligned himself closely with Trump during his time in office"
+   },
+   {
+    "title": "The 7 things to know for Wednesday, November 25 - The Washington Post",
+    "url": "https://www.washingtonpost.com/the-seven/2026/11/25/7-things-know-wednesday-november-25/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "# Catch up quickly: Iowa detonation; Smithsonian overhaul; travel deals Today’s seven most important and interesting stories ... By Jamie Ross and Izin Akhabau ## 1 President Donald Trump’s Nvidia gambit has rewritten the rules of American business."
+   },
+   {
+    "title": "Live updates: White House unveils new tariffs on China, E.U. nations and others",
+    "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/live-updates-white-house-tariffs-china-european-union-rcna611183",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "in an interview on \"The Daily Blast\" podcast that Attorney General Todd ... slippery.\" Later in the interview, Raskin said, \"We need to know whether there was an investigation or there was not.\" \"And if there was, what were the actual results of it?\""
+   },
+   {
+    "title": "Trump unveils new tariffs to fight excess factory capacity, undeterred by midterms defeat | Reuters",
+    "url": "https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 25 (Reuters) - US President Donald Trump on Wednesday fired a new tariff salvo on 14 major trading ​partners including China, Japan and the European Union, undeterred in his protectionist push by the losses his Republican Party suffered in US midterm elections. His administration proposed new ‌headline tariff rates of 20% to 40%, but said duties would be capped at lower levels agreed under trade deals that have already been concluded or remain under negotiation. Separately, the United States Trade Representative proposed a new 10% tariff on imports of Brazil's finished Embraer commercial aircraft, and to raise duties on imports of Brazilian sugar that exceed quotas as part of an effort to push Brasilia to rectify alleged unfair trade practices. The products were previously exempted from ​Trump's 25% tariffs on Brazilian goods that were imposed in July. A US official said that despite negotiations, there were \"substantial differences\" over the allegations. Under the"
+   },
+   {
+    "title": "Army plans to detonate US stockpile of bomb-making chemicals | AP News",
+    "url": "https://apnews.com/newsletter/morning-wire/november-25-2026",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "concerns about potential health and environmental impacts from lead dust. Environmentalists who sued ... the harm,” one filing stated. - The Army changed the detonation date ... . A federal appeals court found the U.S. Environmental Protection Agency"
+   },
+   {
+    "title": "In backing Nvidia's Huang, Trump deals his China hawks a setback",
+    "url": "https://www.washingtonpost.com/politics/2026/11/25/backing-jensen-huang-trump-delivers-setback-china-hawks/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "has been buoyed over his second term by the growth of artificial intelligence. However, he faces a hardening bipartisan consensus in Congress that Washington needs to be far more ... but it doesn’t change the reality of growing support for tighter rules,"
+   },
+   {
+    "title": "AP Top Stories November 25 - Yahoo News Canada",
+    "url": "https://ca.news.yahoo.com/ap-top-stories-november-25-111400554.html",
+    "source": "ca.news.yahoo.com",
+    "published": "",
+    "excerpt": "\" over whether the House's general counsel, Matthew Berry, supported the ... 's position on the Constitution's Speech or Debate Clause, which protects lawmakers for actions taken in the course of their official duties or legislative activities."
+   }
+  ],
+  "text": "[1] Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live (theguardian.com)\nwith the the New York Post, the president – took credit for convincing Nvidia’s board to reinstate Huang - admitted he could intervene again to help the embattled CEO. “It’s always an option, I guess, but I don’t think it’ll be necessary,” the president\n\n[2] Morning Edition for November 25, 2026 : NPR (npr.org)\n### Republican wants FBI and CIA answers before questioning Nvidia chief by Michel Martin, Majd Al-Waheidi 5 min #### Rep. Brian Fitzpatrick, R-Penn., on Nvidia CEO's upcoming House committee interview\n\n[3] Axios (axios.com)\n## Wednesday's top stories - Avery Lotz, - Julianna Bragg Updated 34 mins ago - Politics & Policy ## Army detonates unstable lead explosives at Iowa plant ... ## GOP firm's executive linked to effort to oust Republican senators\n\n[4] First Thing: Democrats say Trump risked US security over Nvidia as Huang apologises | US news | The Guardian (theguardian.com)\n. - How close was her stunning result? Broderick prevailed by fewer than 400 votes, according to the Associated Press race call. DesJarlais, 62, who aligned himself closely with Trump during his time in office\n\n[5] The 7 things to know for Wednesday, November 25 - The Washington Post (washingtonpost.com)\n# Catch up quickly: Iowa detonation; Smithsonian overhaul; travel deals Today’s seven most important and interesting stories ... By Jamie Ross and Izin Akhabau ## 1 President Donald Trump’s Nvidia gambit has rewritten the rules of American business.\n\n[6] Live updates: White House unveils new tariffs on China, E.U. nations and others (nbcnews.com)\nin an interview on \"The Daily Blast\" podcast that Attorney General Todd ... slippery.\" Later in the interview, Raskin said, \"We need to know whether there was an investigation or there was not.\" \"And if there was, what were the actual results of it?\"\n\n[7] Trump unveils new tariffs to fight excess factory capacity, undeterred by midterms defeat | Reuters (reuters.com)\nWASHINGTON, Nov 25 (Reuters) - US President Donald Trump on Wednesday fired a new tariff salvo on 14 major trading ​partners including China, Japan and the European Union, undeterred in his protectionist push by the losses his Republican Party suffered in US midterm elections. His administration proposed new ‌headline tariff rates of 20% to 40%, but said duties would be capped at lower levels agreed under trade deals that have already been concluded or remain under negotiation. Separately, the United States Trade Representative proposed a new 10% tariff on imports of Brazil's finished Embraer …\n\n[8] Army plans to detonate US stockpile of bomb-making chemicals | AP News (apnews.com)\nconcerns about potential health and environmental impacts from lead dust. Environmentalists who sued ... the harm,” one filing stated. - The Army changed the detonation date ... . A federal appeals court found the U.S. Environmental Protection Agency\n\n[9] In backing Nvidia's Huang, Trump deals his China hawks a setback (washingtonpost.com)\nhas been buoyed over his second term by the growth of artificial intelligence. However, he faces a hardening bipartisan consensus in Congress that Washington needs to be far more ... but it doesn’t change the reality of growing support for tighter rules,\n\n[10] AP Top Stories November 25 - Yahoo News Canada (ca.news.yahoo.com)\n\" over whether the House's general counsel, Matthew Berry, supported the ... 's position on the Constitution's Speech or Debate Clause, which protects lawmakers for actions taken in the course of their official duties or legislative activities.",
+  "hash": "d08bc50a2fc650d1cf96f4e96129728d680388cdb657af004f2d454d1a116131",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 25, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-25T17:04:56+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4012030-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Disney movie 'Hexed' explores female power through witches and family bonds Jodie Foster was thrilled to star in Disney's ​animated film \"Hexed\" because it puts three female witches at the center of the story. \"Witches are back,\" ​Foster, who voices the villainous ruler of witches, Queen Celeste, told Reuters. ... Cardamom ad sparks clash between Bollywood star, India's food regulator An advertisement for cardamom is at the centre of a legal spat between a Bollywood actor and India's most prominent food commissioner, with a court ruling set to shape how far companies can go in indirectly advertising brands whose promotion is restricted. ‌India restricts advertising for liquor and tobacco but officials have for years also frowned upon the use of indirect means, called surrogate advertising, by companies in such sectors promoting their brands in the guise of sodas, water or ‌glassware. Bollywood union asks Modi to bar Netflix's Pakistani series in India A prominent Bollywood workers' union has asked Prime Minister Narendra Modi's government to ban a forthcoming Pakistani series on Netflix in India, while seeking a law prohibiting content from its foe from being shown in the country. The first part of \"Jo Bachay Hain Sang Samait Lo\" (All the Love Our Hearts Carry) is scheduled to air on Netflix on December 4 and is the global streaming giant's first Urdu-language series. Several top Pakistani actors feature in it."
+   },
+   {
+    "title": "Amelia's Bits & Bytes 11/25: Twenty One Pilots Double Live Album, Foo Fighters Fandemonium Trailer, Tidal Bans AI Music, Al Roker Talks Macy Day Parade Weather, Ravens Donate to Poe House And More Pop Culture News | 98 Rock Online",
+    "url": "https://www.98online.com/amelias-bits-bytes-11-25-twenty-one-pilots-double-live-album-foo-fighters-fandemonium-trailer-tidal-bans-ai-music-al-roker-talks-macy-day-parade-weather-ravens-donate-to-poe-house-and",
+    "source": "98online.com",
+    "published": "",
+    "excerpt": "Twenty One Pilots has a live double album due out. Travis Barker says Phil ... Live Nation has a series called Fandemonium. Here is a trailer for the Foo Fighters episode. Peter Gabriel has a new album due out and released a new tune called oi."
+   },
+   {
+    "title": "Daily Music Headlines November 25, 2026 - Daily Music Headlines | Acast",
+    "url": "https://shows.acast.com/daily-music-headlines/episodes/daily-music-headlines-november-25-2026",
+    "source": "shows.acast.com",
+    "published": "",
+    "excerpt": "Wednesday, November 25, 2026 U2 has announced the North American leg of its Greatest Show On Earth World Tour for 2027, with stadium dates beginning August 13 in Miami and wrapping October 18 in Vancouver. The tour includes two nights at MetLife Stadium and two at SoFi Stadium. Stephen Wilson Jr. opens the early dates, with The War on Drugs joining for the fall shows. U2.com subscriber presale begins November 30, with general tickets on sale December 4 through Ticketmaster. U2 Announces 2027 North American Tour Noah Kahan is releasing Live from the Great Divide on December 11. The 16-track live album captures performances from different cities on his 2026 tour. The first preview, “Orbiter,” recorded at Citi Field in New York, is out now with a video. Noah Kahan Announces Live Album Peter Gabriel has shared “Yes, It Will Go,” the penultimate song from his new album i/o. The piano ballad explores impermanence and features his daughter Melanie singing at the end. The full album arrives November 27. Peter Gabriel Shares “Yes, It Will Go” Wilco has announced 17 US dates for its Wilcoworld Tour, running April 20 through May 15, 2027. The tour includes a five-night stand at The Fillmore in San Francisco. Tickets go on sale November 27. An expanded Mermaid Avenue: The Complete Sessions, recorded with Billy Bragg, arrives December 14. Wilco Announces 2027 Tour Slipknot and Dr. Martens have announced a footwear collaboration arriving Black Friday. The collection features four shoe styles, along with socks, a card holder and a backpack, inspired by the band's visual identity and early boiler suits. Slipknot and Dr. Martens Collaborate Tidal says it will remove music it identifies as entirely AI-generated beginning December 9 and reject deliveries labeled as made solely with AI tools. AI-assisted music remains permitted. The policy places Tidal closer to Bandcamp's approach than Spotify's. Tidal to Remove Fully AI-Generated Music Stray Kids told Consequence they'd love to hear My Chemical Romance, Yungblud and Metallica cover their songs. Madrid creator Sergio Moreno responded with a heavy version of “RUN IT,” combining elements of all three acts. The cover has earned roughly 400,000 views and 70,000 likes. Stray Kids' “RUN IT” Gets a Heavy Cover"
+   },
+   {
+    "title": "What To Watch On TV And Streaming Wednesday, November 25, 2026",
+    "url": "https://www.tvline.com/2323989/what-to-watch-november-25-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "Blade Runner 2099 Prime Video Eight-Episode Binge Series premiere: Michelle Yeoh leads the dystopian sequel set decades after \"Blade Runner 2049,\" exploring a future Los Angeles shaped by artificial humans known as replicants; Hunter Schafer co-stars."
+   },
+   {
+    "title": "Music News Today — November 25, 2026 — MusicNewsletter.com",
+    "url": "https://musicnewsletter.com/news/daily-signal-20261125",
+    "source": "musicnewsletter.com",
+    "published": "",
+    "excerpt": "(variety.com) • Brandi Carlile Says the ‘Horror ... of ICE Arrests at Seattle Airport ‘Cannot Be Overstated’ (rollingstone.com) • ‘Dancing With the ... Hack, ‘American Horror Story’ Actor and Original Cast Member of ‘Cats,’ Dies at"
+   },
+   {
+    "title": "Ariana Grande unveils concert film and tour documentary",
+    "url": "https://www.geo.tv/latest/692524-ariana-grande-unveils-concert-film-and-tour-documentary",
+    "source": "geo.tv",
+    "published": "",
+    "excerpt": "The pop icon, 33, announced on Tuesday, November 24, that a concert film and a documentary chronicling the making of her Eternal Sunshine Tour will both arrive on Peacock next month. Titled Eternal Sunshine Diaries: The Making of the Tour, the documentary will premiere on December 11, followed by The Eternal Sunshine Tour on December 12. The behind-the-scenes project follows Grande during the 30 days leading up to her tour opener, capturing the Grammy-winner and her team racing to prepare the ambitious production. It also offers a glimpse into her creative process as she puts the finishing touches on her eighth studio album. Meanwhile, the concert film promises to take viewers through the emotional journey behind her performances, exploring themes of healing, reconnection and personal growth."
+   },
+   {
+    "title": "Wednesday round-up: Latest news, deals & hires | News | Broadcast",
+    "url": "https://www.broadcastnow.co.uk/broadcast-international/wednesday-round-up-latest-news-deals-and-hires/5222768.article",
+    "source": "broadcastnow.co.uk",
+    "published": "",
+    "excerpt": "and will begin filming this spring at Shepperton Studios in the UK. The extension for the pricey show comes two weeks after S3 debuted on Prime Video. Prime Video said it had reached 33 million ... its first 12 days, ranking among the Top 10"
+   },
+   {
+    "title": "Entertainment news roundup: 25 November 2026 | SVCZZ",
+    "url": "https://svczz.com/articles/entertainment-news-roundup-25-november-2026",
+    "source": "svczz.com",
+    "published": "",
+    "excerpt": "## Lead stories The Hunger Games passes Twilight at the worldwide box office. About $3.437 billion across six films, against Twilight’s $3.31 to $3.36 billion, makes The Hunger Games Lionsgate’s highest-grossing film franchise. The Tribune reports the figure, citing The Hollywood Reporter, after Sunrise on the Reaping opened to approximately $120 million domestic. Ramayana sets the Nepal record for an Indian film. NPR 26.90 crore through its third weekend puts Ramayana: Part 1 past Pushpa 2: The Rule, which held the record at NPR 26.46 crore, News18 reports. OM opens to Rs 85.30 crore worldwide. Dhanush’s OM took Rs 50.25 crore India net in its opening weekend, 20 to 22 November 2026, for a worldwide total of Rs 85.30 crore, ABP Live reports."
+   },
+   {
+    "title": "News Summary",
+    "url": "https://www.nst.com.my/newssummary/1562266",
+    "source": "nst.com.my",
+    "published": "",
+    "excerpt": ": K-pop queen IU confirms two-night March 2027 world tour concerts in KL 25 November ... , 7:30pm - IU will bring her World Tour Concert to Kuala ... Asian and Australian cities. - She will be the first South Korean female solo act to headline the"
+   },
+   {
+    "title": "Wake Up With BroadwayWorld November 25, 2026- HAMILTON Tops $3 Million in Grosses and More",
+    "url": "https://www.broadwayworld.com/article/Wake-Up-With-BroadwayWorld-November-25-2026--HAMILTON-Tops-3-Million-in-Grosses-and-More-20261125",
+    "source": "broadwayworld.com",
+    "published": "",
+    "excerpt": "make some noise as the show begins performances Off-Broadway at New York Theatre Workshop, while Broadway grosses for ... 11/22 show HAMILTON topping $3 million as three shows opened. Jennifer Lopez also fans out a first look at her"
+   }
+  ],
+  "text": "[1] Reuters Entertainment News Summary | International (devdiscourse.com)\nDisney movie 'Hexed' explores female power through witches and family bonds Jodie Foster was thrilled to star in Disney's ​animated film \"Hexed\" because it puts three female witches at the center of the story. \"Witches are back,\" ​Foster, who voices the villainous ruler of witches, Queen Celeste, told Reuters. ... Cardamom ad sparks clash between Bollywood star, India's food regulator An advertisement for cardamom is at the centre of a legal spat between a Bollywood actor and India's most prominent food commissioner, with a court ruling set to shape how far companies can go in indirectly …\n\n[2] Amelia's Bits & Bytes 11/25: Twenty One Pilots Double Live Album, Foo Fighters Fandemonium Trailer, Tidal Bans AI Music, Al Roker Talks Macy Day Parade Weather, Ravens Donate to Poe House And More Pop Culture News | 98 Rock Online (98online.com)\nTwenty One Pilots has a live double album due out. Travis Barker says Phil ... Live Nation has a series called Fandemonium. Here is a trailer for the Foo Fighters episode. Peter Gabriel has a new album due out and released a new tune called oi.\n\n[3] Daily Music Headlines November 25, 2026 - Daily Music Headlines | Acast (shows.acast.com)\nWednesday, November 25, 2026 U2 has announced the North American leg of its Greatest Show On Earth World Tour for 2027, with stadium dates beginning August 13 in Miami and wrapping October 18 in Vancouver. The tour includes two nights at MetLife Stadium and two at SoFi Stadium. Stephen Wilson Jr. opens the early dates, with The War on Drugs joining for the fall shows. U2.com subscriber presale begins November 30, with general tickets on sale December 4 through Ticketmaster. U2 Announces 2027 North American Tour Noah Kahan is releasing Live from the Great Divide on December 11. The 16-track …\n\n[4] What To Watch On TV And Streaming Wednesday, November 25, 2026 (tvline.com)\nBlade Runner 2099 Prime Video Eight-Episode Binge Series premiere: Michelle Yeoh leads the dystopian sequel set decades after \"Blade Runner 2049,\" exploring a future Los Angeles shaped by artificial humans known as replicants; Hunter Schafer co-stars.\n\n[5] Music News Today — November 25, 2026 — MusicNewsletter.com (musicnewsletter.com)\n(variety.com) • Brandi Carlile Says the ‘Horror ... of ICE Arrests at Seattle Airport ‘Cannot Be Overstated’ (rollingstone.com) • ‘Dancing With the ... Hack, ‘American Horror Story’ Actor and Original Cast Member of ‘Cats,’ Dies at\n\n[6] Ariana Grande unveils concert film and tour documentary (geo.tv)\nThe pop icon, 33, announced on Tuesday, November 24, that a concert film and a documentary chronicling the making of her Eternal Sunshine Tour will both arrive on Peacock next month. Titled Eternal Sunshine Diaries: The Making of the Tour, the documentary will premiere on December 11, followed by The Eternal Sunshine Tour on December 12. The behind-the-scenes project follows Grande during the 30 days leading up to her tour opener, capturing the Grammy-winner and her team racing to prepare the ambitious production. It also offers a glimpse into her creative process as she puts the finishing …\n\n[7] Wednesday round-up: Latest news, deals & hires | News | Broadcast (broadcastnow.co.uk)\nand will begin filming this spring at Shepperton Studios in the UK. The extension for the pricey show comes two weeks after S3 debuted on Prime Video. Prime Video said it had reached 33 million ... its first 12 days, ranking among the Top 10\n\n[8] Entertainment news roundup: 25 November 2026 | SVCZZ (svczz.com)\n## Lead stories The Hunger Games passes Twilight at the worldwide box office. About $3.437 billion across six films, against Twilight’s $3.31 to $3.36 billion, makes The Hunger Games Lionsgate’s highest-grossing film franchise. The Tribune reports the figure, citing The Hollywood Reporter, after Sunrise on the Reaping opened to approximately $120 million domestic. Ramayana sets the Nepal record for an Indian film. NPR 26.90 crore through its third weekend puts Ramayana: Part 1 past Pushpa 2: The Rule, which held the record at NPR 26.46 crore, News18 reports. OM opens to Rs 85.30 crore …\n\n[9] News Summary (nst.com.my)\n: K-pop queen IU confirms two-night March 2027 world tour concerts in KL 25 November ... , 7:30pm - IU will bring her World Tour Concert to Kuala ... Asian and Australian cities. - She will be the first South Korean female solo act to headline the\n\n[10] Wake Up With BroadwayWorld November 25, 2026- HAMILTON Tops $3 Million in Grosses and More (broadwayworld.com)\nmake some noise as the show begins performances Off-Broadway at New York Theatre Workshop, while Broadway grosses for ... 11/22 show HAMILTON topping $3 million as three shows opened. Jennifer Lopez also fans out a first look at her",
+  "hash": "5c46f5d48985a2f639b60bd3e72201631b24706f522d8ce50e8430553e29455f",
+  "notes": []
+ }
+}
