@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-25T05:04:22+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 25, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-25T05:04:22+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/25",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "8 hours ago - Politics & Policy ## Trump talks turkey, and his ballroom, at pardoning event ... 9 hours ago - Politics & Policy ## Criminal charge against incoming House Democrat ... - Energy & Climate ## Oil's downward trend is pushing gasoline lower"
+   },
+   {
+    "title": "Globe at a glance: From Jensen Huang's all-hands meet to China launching Shenzhou-24 spacecraft",
+    "url": "https://www.firstpost.com/world/globe-at-a-glance-from-jensen-huangs-all-hands-meet-to-china-launching-shenzhou-24-spacecraft-14062373.html",
+    "source": "firstpost.com",
+    "published": "",
+    "excerpt": "Jensen Huang says he's in therapy: Nvidia CEO Jensen Huang told employees he was undergoing more than an hour of therapy daily during his first company-wide meeting after being reinstated. He admitted to making 'terrible mistakes', apologised to his wife and children, and said his conversation with his wife was the hardest meeting he had ever faced. Huang also rejected claims that US President Donald Trump had orchestrated his return, insisting the decision was made independently by Nvidia's board. ... CIA, ODNI hit by cyber breach: A cyberattack exposed unclassified information on networks used by the CIA and the Office of the Director of National Intelligence (ODNI) to analyse publicly available intelligence. Officials said classified systems were not affected, while investigators have yet to identify the attackers or establish what data was accessed. ... Turkey helicopter crash: Five Turkish Air Force personnel were killed after an AS-532 Cougar military helicopter crashed during a training flight in Eskisehir province on Tuesday. The aircraft had taken off from a nearby airbase. The cause of the crash remains unknown. Pakistan's first astronaut enters space: China successfully launched its Shenzhou-24 spacecraft on Wednesday, carrying Pakistani astronaut Muhammad Zeeshan Ali alongside two Chinese astronauts to its Tiangong space station."
+   },
+   {
+    "title": "The Hindu Morning Digest: November 25, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/morning-digest-november-25-2026/article71740013.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "S. CIA, ODNI suffer cybersecurity breach of some ... ⁠discovered a cybersecurity breach that exposed some of their unclassified information, the New ‌York Times reported on Tuesday (November 24, 2026), citing people familiar with ‌the matter."
+   },
+   {
+    "title": "Reuters World News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4011704-reuters-world-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Ukrainian President Volodymyr Zelenskiy confirmed his country was responsible for Saturday's drone strike on a Russian cargo ship in the Gulf of Finland, while Norway, a strong supporter of Kyiv ... it to exercise caution in such operations. Finnish,"
+   },
+   {
+    "title": "Daily World Briefing, Nov. 25-Xinhua",
+    "url": "https://english.news.cn/20261125/bbf3f23aece142ec814e279b35d40a21/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "called for effective cooperation to set up guardrails for the development of artificial intelligence (AI). AI is reshaping economies, societies and security faster than current institutions can adapt, he told a Security Council"
+   },
+   {
+    "title": "Kyodo News Digest: Nov. 25",
+    "url": "https://english.kyodonews.net/articles/-/92507",
+    "source": "english.kyodonews.net",
+    "published": "",
+    "excerpt": "'s Senate agreed Tuesday to submit a censure motion against education minister Yoshihiro Seki over a scandal involving his invitation of bureaucrats to political ... he disclosed at a press conference Friday that he had held more fundraising parties than"
+   },
+   {
+    "title": "World news digest for November 25, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-25",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "Iran's Revolutionary Guards say a fourth tanker has hit a mine in the ... as Qatar presses for talks to resume, the US-Iran standoff is moving from tanker strikes toward a contest of maritime ... 2 Iran's parliament speaker and senior negotiator,"
+   },
+   {
+    "title": "HT morning brief Nov 25: Gang-rape at East Delhi cafe; Gukesh-Sindarov draw in Chess Championship and more | India News",
+    "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-nov-25-gang-rape-at-east-delhi-cafe-gukesh-sindarov-draw-in-chess-championship-and-more-101795575052271.html",
+    "source": "hindustantimes.com",
+    "published": "",
+    "excerpt": "## US prepares for more tariffs on several countries The United States is preparing to raise tariffs on China, the European Union and 14 other economies as early as this week, according to reports in The"
+   },
+   {
+    "title": "Breaking News Live Nov 25: India urges human oversight in AI warfare, warns against risks of autonomous weapons at UN - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/india/india-international-breaking-news-today-nov-25/liveblog/136141476.cms",
+    "source": "timesofindia.indiatimes.com",
+    "published": "",
+    "excerpt": "09:07 (IST) Nov 25 6.0-magnitude earthquake struck the South Pacific Ocean A 6.0-magnitude earthquake struck the South Pacific Ocean at a depth of 10 km at 7.08 am IST on Wednesday, November 25, at latitude 63.167°S and longitude 171.427°E."
+   },
+   {
+    "title": "India News Today's Live Updates, 25 November 2026: Latest Breaking News From India, Delhi, Mumbai & Around the World | India News - The Indian Express",
+    "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-25-november-2026-india-unsc-ai-conflict-congress-sad-bjp-reunion-miss-universe-10977499/",
+    "source": "indianexpress.com",
+    "published": "",
+    "excerpt": "’s potential in conflict prevention and peacekeeping, while cautioning against its misuse by terrorist groups and non-state ... replace human judgement, he also called for equitable access to emerging technologies, particularly for developing countries."
+   }
+  ],
+  "text": "[1] Axios (axios.com)\n8 hours ago - Politics & Policy ## Trump talks turkey, and his ballroom, at pardoning event ... 9 hours ago - Politics & Policy ## Criminal charge against incoming House Democrat ... - Energy & Climate ## Oil's downward trend is pushing gasoline lower\n\n[2] Globe at a glance: From Jensen Huang's all-hands meet to China launching Shenzhou-24 spacecraft (firstpost.com)\nJensen Huang says he's in therapy: Nvidia CEO Jensen Huang told employees he was undergoing more than an hour of therapy daily during his first company-wide meeting after being reinstated. He admitted to making 'terrible mistakes', apologised to his wife and children, and said his conversation with his wife was the hardest meeting he had ever faced. Huang also rejected claims that US President Donald Trump had orchestrated his return, insisting the decision was made independently by Nvidia's board. ... CIA, ODNI hit by cyber breach: A cyberattack exposed unclassified information on networks …\n\n[3] The Hindu Morning Digest: November 25, 2026 - The Hindu (thehindu.com)\nS. CIA, ODNI suffer cybersecurity breach of some ... ⁠discovered a cybersecurity breach that exposed some of their unclassified information, the New ‌York Times reported on Tuesday (November 24, 2026), citing people familiar with ‌the matter.\n\n[4] Reuters World News Summary | International (devdiscourse.com)\nUkrainian President Volodymyr Zelenskiy confirmed his country was responsible for Saturday's drone strike on a Russian cargo ship in the Gulf of Finland, while Norway, a strong supporter of Kyiv ... it to exercise caution in such operations. Finnish,\n\n[5] Daily World Briefing, Nov. 25-Xinhua (english.news.cn)\ncalled for effective cooperation to set up guardrails for the development of artificial intelligence (AI). AI is reshaping economies, societies and security faster than current institutions can adapt, he told a Security Council\n\n[6] Kyodo News Digest: Nov. 25 (english.kyodonews.net)\n's Senate agreed Tuesday to submit a censure motion against education minister Yoshihiro Seki over a scandal involving his invitation of bureaucrats to political ... he disclosed at a press conference Friday that he had held more fundraising parties than\n\n[7] World news digest for November 25, 2026 | World Watch (worldwatch.media)\nIran's Revolutionary Guards say a fourth tanker has hit a mine in the ... as Qatar presses for talks to resume, the US-Iran standoff is moving from tanker strikes toward a contest of maritime ... 2 Iran's parliament speaker and senior negotiator,\n\n[8] HT morning brief Nov 25: Gang-rape at East Delhi cafe; Gukesh-Sindarov draw in Chess Championship and more | India News (hindustantimes.com)\n## US prepares for more tariffs on several countries The United States is preparing to raise tariffs on China, the European Union and 14 other economies as early as this week, according to reports in The\n\n[9] Breaking News Live Nov 25: India urges human oversight in AI warfare, warns against risks of autonomous weapons at UN - The Times of India (timesofindia.indiatimes.com)\n09:07 (IST) Nov 25 6.0-magnitude earthquake struck the South Pacific Ocean A 6.0-magnitude earthquake struck the South Pacific Ocean at a depth of 10 km at 7.08 am IST on Wednesday, November 25, at latitude 63.167°S and longitude 171.427°E.\n\n[10] India News Today's Live Updates, 25 November 2026: Latest Breaking News From India, Delhi, Mumbai & Around the World | India News - The Indian Express (indianexpress.com)\n’s potential in conflict prevention and peacekeeping, while cautioning against its misuse by terrorist groups and non-state ... replace human judgement, he also called for equitable access to emerging technologies, particularly for developing countries.",
+  "hash": "b74e8bcc830697de34f09b78c45adeb6e482ba87547a9f27b1fa29c5514af3d2",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 25, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-25T05:04:44+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Consumer confidence jets higher after midterm elections | AP News",
+    "url": "https://apnews.com/article/consumer-economy-confidence-inflation-9d13d96cc3e4bac8f334f9145c718e42",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "said Tuesday that its consumer confidence index soared to 103.3 this month, from a reading of 91.9 in October. It’s the second straight increase after the index fell in September to its lowest level since April 2014, even lower than during the pandemic."
+   },
+   {
+    "title": "Dollar takes breather before key inflation reading; Aussie slumps By Reuters",
+    "url": "https://www.investing.com/news/economy-news/dollar-takes-breather-ahead-of-us-data-on-fed-path-aussie-jumps-on-cpi-5049486",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "On Wednesday, the US Commerce Department is widely expected to report that the Personal Consumption Expenditures index nudged up 0.3% in October, compared with a 0.5% gain in the month before. The agency will also release its second estimate of GDP for the"
+   },
+   {
+    "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+    "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "In remarks consistent with previous statements, the influential central banker expressed confidence that inflation will get closer to ... 's 2% target in 2027 before hitting the ... s \"little evidence\" it will be the source of more persistent inflation."
+   },
+   {
+    "title": "AI boom looms over Warsh’s Fed as inflation worries grow By Reuters",
+    "url": "https://www.investing.com/news/economy-news/ai-boom-looms-over-warshs-fed-as-inflation-worries-grow-5047641",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "as a source of inflation has put the Fed at direct odds with Trump, who wants the boom to roll on. ... acknowledged that AI \"hits demand first,\" with supply and productivity improvements coming later and possibly helping ease inflation down the road."
+   },
+   {
+    "title": "US business activity growth eases further in November, survey shows By Reuters",
+    "url": "https://www.investing.com/news/economic-indicators/us-business-activity-growth-eases-further-in-november-survey-shows-5045933",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Nov 23 (Reuters) - US business activity growth slowed further in November as high prices held back new orders and capacity constraints restrained output, but overall activity remains resilient, suggesting economic growth is continuing at an above-trend rate, a survey showed on Monday. S&P Global said its flash US Composite PMI Output Index, tracking the manufacturing and services sectors, eased to a four-month low of 54.6 this month from a final reading of 55.9 in October. A reading above 50 indicates expansion in the private sector. The pace of growth slackened in both manufacturing and the vast services sector, which is responsible for roughly two-thirds of US economic activity. The manufacturing PMI slipped to a three-month low of 54.5 from 54.9 in October, while the services PMI dropped to a four-month low of 54.7 from 56.1 last month. New business in services slid, while new orders in manufacturing were little changed. Input cost pressures eased but remain elevated and suggest inflation overall will stay well above the Federal Reserve’s 2% target. \"Although output growth slowed in November, recent readings have been impressively strong, and the PMI surveys still point to GDP (gross domestic product) rising at an annualized rate of about 3% in the fourth quarter,\" said Chris Williamson, chief business economist at S&P Global Market Intelligence. \"Growth also remained encouragingly broad-based across both manufacturing and services, with both sectors also still taking on additional staff in numbers that are indicative of a further strong payroll gain during November.\" The US economy grew at a 3.4% annualized rate in the third quarter thanks to ongoing strength in consumer spending and the frenetic artificial intelligence build-out, and employers added a greater-than-expected 165,000 workers to their payrolls in October. \"A key concern is the elevated cost of living and resulting pressures on affordability, and the survey price gauges remain at levels consistent with inflation running well above the Fed’s 2% target in the coming months, despite some moderation of the rate of inflation in November,\" Williamson said. \"Supply disruptions, widely linked to global shipping delays, also appear to have become more widespread, adding to firms’ concerns about being able to fulfill orders and likely to add further to underlying price pressures in the coming months.\" The November 12-20 survey period also dovetailed with a sharp selloff in the US stock market, which has been a key pillar supporting consumer spending, on concerns about the sustainability of the AI boom. It was not clear from the survey data whether that development contributed to the softening in this month’s PMI readings."
+   },
+   {
+    "title": "US consumer prices rise briskly for third straight month | Reuters",
+    "url": "https://www.reuters.com/5f374b32b07b/world/us/us-consumer-prices-rise-above-expectations-october-2026-11-10/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 10 (Reuters) - US consumer prices increased more than expected in October amid higher costs for food and accommodation, cementing expectations that the Federal Reserve will raise interest rates next month. The Consumer Price Index report from the Labor Department on Tuesday also showed ​a strong buildup of underlying inflation pressures for a third straight month. It followed data last week showing the labor market regained momentum in October. Inflation is being driven by the US-Israeli war with Iran, which has boosted oil ‌prices, the Trump administration's import tariffs, resilient consumer spending and aggressive business investment in artificial intelligence technology. ... The CPI increased 0.4% last month after advancing 0.6% in September, the department's Bureau of Labor Statistics said. It was the third consecutive month of ​gains of 0.4% or more. Economists polled by Reuters had forecast the CPI would climb 0.3% over the month. The BLS did not publish"
+   },
+   {
+    "title": "GDP Price Index QOQ: 2.2% (Q3 2026) — United States | Sigmanomics",
+    "url": "https://sigmanomics.com/us/gdp-price-index-qoq",
+    "source": "sigmanomics.com",
+    "published": "",
+    "excerpt": "25 Nov 2026 US GDP Price Index QoQ fell to 2.2% in Q3 2026, released 25 Nov 2026, down 3.9% from June's 6.1% reading. The reading matched the 2.2% consensus. Year-over-year, the indicator is down 1.5%. GDP Price Index QoQ is now the lowest in 11 months."
+   },
+   {
+    "title": "US Inflation Remains Under Pressure Ahead of Key November 25 PCE Report | Investing.com",
+    "url": "https://www.investing.com/analysis/us-inflation-remains-under-pressure-ahead-of-key-november-25-pce-report-200692237",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "It is important to distinguish between CPI and PCE when evaluating inflation trends. ... indicators measure changes in consumer prices, they use different expenditure weights, coverage and calculation methodologies. Consequently, the 0.4% monthly increase"
+   },
+   {
+    "title": "Fed’s Williams says inflation still too high, signals more rate hikes possible By Reuters",
+    "url": "https://www.investing.com/news/economy-news/fed-has-work-to-do-to-lower-inflation-williams-says-5046374",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Reuters) - New York Federal Reserve President John Williams said on Monday that persistently high inflation continues to point the US central bank ... to inflation continue to be skewed to the upside and said among the key drivers of high price pressures,"
+   },
+   {
+    "title": "GDP, jobless claims, and PCE among key data due Wednesday By Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/gdp-jobless-claims-and-pce-among-key-data-due-wednesday-93CH-5048884",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "AM ET – Core PCE Price Index (Forecast:0.3%, Previous: 0.3%): Measures changes in the price of goods and services purchased by consumers, excluding food and energy, ... a key gauge of underlying inflation trends closely monitored by the Federal Reserve."
+   }
+  ],
+  "text": "[1] Consumer confidence jets higher after midterm elections | AP News (apnews.com)\nsaid Tuesday that its consumer confidence index soared to 103.3 this month, from a reading of 91.9 in October. It’s the second straight increase after the index fell in September to its lowest level since April 2014, even lower than during the pandemic.\n\n[2] Dollar takes breather before key inflation reading; Aussie slumps By Reuters (investing.com)\nOn Wednesday, the US Commerce Department is widely expected to report that the Personal Consumption Expenditures index nudged up 0.3% in October, compared with a 0.5% gain in the month before. The agency will also release its second estimate of GDP for the\n\n[3] Fed's John Williams indicates higher interest rates likely 'over time' to address inflation (cnbc.com)\nIn remarks consistent with previous statements, the influential central banker expressed confidence that inflation will get closer to ... 's 2% target in 2027 before hitting the ... s \"little evidence\" it will be the source of more persistent inflation.\n\n[4] AI boom looms over Warsh’s Fed as inflation worries grow By Reuters (investing.com)\nas a source of inflation has put the Fed at direct odds with Trump, who wants the boom to roll on. ... acknowledged that AI \"hits demand first,\" with supply and productivity improvements coming later and possibly helping ease inflation down the road.\n\n[5] US business activity growth eases further in November, survey shows By Reuters (investing.com)\nNov 23 (Reuters) - US business activity growth slowed further in November as high prices held back new orders and capacity constraints restrained output, but overall activity remains resilient, suggesting economic growth is continuing at an above-trend rate, a survey showed on Monday. S&P Global said its flash US Composite PMI Output Index, tracking the manufacturing and services sectors, eased to a four-month low of 54.6 this month from a final reading of 55.9 in October. A reading above 50 indicates expansion in the private sector. The pace of growth slackened in both manufacturing and the …\n\n[6] US consumer prices rise briskly for third straight month | Reuters (reuters.com)\nWASHINGTON, Nov 10 (Reuters) - US consumer prices increased more than expected in October amid higher costs for food and accommodation, cementing expectations that the Federal Reserve will raise interest rates next month. The Consumer Price Index report from the Labor Department on Tuesday also showed ​a strong buildup of underlying inflation pressures for a third straight month. It followed data last week showing the labor market regained momentum in October. Inflation is being driven by the US-Israeli war with Iran, which has boosted oil ‌prices, the Trump administration's import tariffs, …\n\n[7] GDP Price Index QOQ: 2.2% (Q3 2026) — United States | Sigmanomics (sigmanomics.com)\n25 Nov 2026 US GDP Price Index QoQ fell to 2.2% in Q3 2026, released 25 Nov 2026, down 3.9% from June's 6.1% reading. The reading matched the 2.2% consensus. Year-over-year, the indicator is down 1.5%. GDP Price Index QoQ is now the lowest in 11 months.\n\n[8] US Inflation Remains Under Pressure Ahead of Key November 25 PCE Report | Investing.com (investing.com)\nIt is important to distinguish between CPI and PCE when evaluating inflation trends. ... indicators measure changes in consumer prices, they use different expenditure weights, coverage and calculation methodologies. Consequently, the 0.4% monthly increase\n\n[9] Fed’s Williams says inflation still too high, signals more rate hikes possible By Reuters (investing.com)\nReuters) - New York Federal Reserve President John Williams said on Monday that persistently high inflation continues to point the US central bank ... to inflation continue to be skewed to the upside and said among the key drivers of high price pressures,\n\n[10] GDP, jobless claims, and PCE among key data due Wednesday By Investing.com (investing.com)\nAM ET – Core PCE Price Index (Forecast:0.3%, Previous: 0.3%): Measures changes in the price of goods and services purchased by consumers, excluding food and energy, ... a key gauge of underlying inflation trends closely monitored by the Federal Reserve.",
+  "hash": "793622bba3e458eb23822c065d8de2c0d3c01df6798ada0a5a13ba12805f40e2",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 25, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-25T05:05:00+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/2026/11/25",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "## Wednesday's top stories - Avery Lotz 8 hours ago - Politics & Policy ## Trump talks turkey, and his ballroom, at pardoning event ... and tie, watch. 9 hours ago - Politics & Policy ## Criminal charge against incoming House Democrat dropped"
+   },
+   {
+    "title": "Daily Brew: November 25, 2026 - Ballotpedia",
+    "url": "https://ballotpedia.org/Daily_Brew:_November_25,_2026",
+    "source": "ballotpedia.org",
+    "published": "",
+    "excerpt": "## Trump administration provides states option for six more months before enforcing Medicaid work requirements The Centers for Medicare and Medicaid Services (CMS) announced on Nov. 13, that states with CMS approval may be able to delay enforcement of new Medicaid work requirements for up to six months. The Medicaid work requirements, established under the One Big Beautiful Bill Act (OBBBA) of 2025, are scheduled to take effect Jan. 1, 2027. CMS' new guidance gives states the option, if they submit a plan for CMS approval, to have until July 1, 2027, to fully implement them. The work requirements apply to certain adults ages 19 to 64 enrolled in Medicaid through the expansion authorized by the Affordable Care Act. They generally require affected beneficiaries to complete at least 80 hours of work, community service, or other qualifying activities each month, enroll in school at least half-time, or qualify for an exemption. During the optional extended period running from Jan. 1 through June 30, states may temporarily suspend Medicaid coverage denials and terminations for individuals who fail to demonstrate compliance with the work requirements. States must still assess whether applicants and beneficiaries meet the requirements or qualify for exemptions beginning Jan. 1. CMS said the additional flexibility would allow states to address implementation"
+   },
+   {
+    "title": "US prepares new tariffs for China, EU and others over subsidies | AP News",
+    "url": "https://apnews.com/article/trump-tariffs-china-european-union-d97ed6f4017152ca4c18de5517db6d51",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "to two people familiar with the matter. The U.S. Trade ... ’s Office is expected to release the results of a monthslong tariff ... the coming days, according to the people who were not authorized to comment publicly"
+   },
+   {
+    "title": "Democrats clinch historic House majority, largest since 1990 | AP News",
+    "url": "https://apnews.com/article/democrats-house-majority-election-2026-congress-07b3ccbe60db7c1d3d3f3087d8fca721",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "40 they picked up in President Donald Trump’s first midterm in 2018 ... races remain outstanding: one in Minnesota and two in Louisiana that are heading to a December runoff. Republicans will have at least"
+   },
+   {
+    "title": "Alaska ends deal to give voter records to US Justice Department | US Midterm Elections 2026 News | Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department",
+    "source": "aljazeera.com",
+    "published": "",
+    "excerpt": "Published On 25 Nov 2026 25 Nov 2026 Alaska has terminated a memorandum of understanding that granted the United States Department of Justice (DOJ) access to the state’s voter rolls. On Monday, outgoing Lieutenant Governor Nancy Dahlstrom, who oversees the state’s elections, announced she had notified the Justice Department that Alaska was withdrawing from the 2025 memo, effective immediately. In a statement, Dahlstrom said her state had entered the agreement “in good faith to cooperate with our federal law enforcement partners”. But she acknowledged a shift had taken place after the 2026 midterm elections. “The circumstances have now changed,” Dahlstrom wrote. “The election has concluded and the agreement no longer serves a continuing purpose.” The reversal comes after months of pressure from the administration of President Donald Trump for states to surrender their voter rolls to federal authorities. Trump has argued that such information was necessary to root out fraud during the November 3 midterms. But officials in certain states argued that the federal government was encroaching on their constitutional authority. Under the US Constitution, only states have the power to administer elections. Experts have also called Trump’s claims of “rigged” elections unsubstantiated. ## No voters flagged for removal The memorandum, signed last December at the Justice Department’s behest, established terms under which federal officials could flag potentially ineligible voters on Alaska’s voter rolls. “Since that time, the DOJ has not identiﬁed any potentially ineligible voters or raised concerns regarding Alaska’s voter registration records,” the state Division of Elections said. “No voters were removed from Alaska’s voter rolls as a result of the agreement.”"
+   },
+   {
+    "title": "Reuters US Domestic News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4011705-reuters-us-domestic-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "both the Senate and House in January, though their exact path to do so ... unclear. More than 5.5 million people have lost Supplemental Nutrition Assistance Program benefits, also known as food stamps, since the July"
+   },
+   {
+    "title": "Nvidia scandal sparks bipartisan concerns in Congress",
+    "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-white-house-congress-2026-live-updates-rcna611009",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "U.S. official and a person with knowledge of the discussions. Administration officials who support the proposal argue it could allow Trump to end the war, the sources said. They said those officials have made the case that such an operation could send a"
+   },
+   {
+    "title": "Poll finds US voters want government to end Iran war regardless of terms | US-Israel war on Iran News | Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms",
+    "source": "aljazeera.com",
+    "published": "",
+    "excerpt": "Published On 25 Nov 2026 25 Nov 2026 A new poll has found that a majority of voters in the United States want an end to the US-Israel war on Iran immediately, even if it means accepting less favourable conditions. Overall, 55 percent of those surveyed agreed with an “end to the war now, regardless of the terms”. That number was even higher among Democrats and independents, who agreed with the statement at a rate of 80 percent and 59 percent, respectively. About 25 percent of Republicans said the same. A majority of Democratic voters also supported steps to pressure the administration of President Donald Trump to stop the conflict. Fifty-three percent of party members said they would favour Congress withholding funding for military operations, and 51 percent would back an “an Iran war-funding cutoff” in upcoming budget negotiations, even if the manoeuvre risked a government shutdown. The numbers were published on Tuesday as part of the latest Critical Issues Poll, released by the University of Maryland and the research firm Ipsos. Shibley Telhami, the poll’s principal investigator, said he was surprised by the level of support for ending the war, regardless of the terms. “We knew that people were strongly opposed to this war and wanted it to end,” he told Al Jazeera in a phone call. “What we were less sure of is what they would be willing to accept to achieve this.” The survey asked 1,022 US adults about their perspectives on the war. In one question, they were tasked with assessing with three options: whether to end the conflict immediately, escalate militarily, or continue on the current path in order to extract concessions from Iran. Just 21 percent of all respondents favoured the current path, and 18 percent supported escalation. “Clearly, the public mood is to end it now, whatever it takes,” said Telhami. ... Voters also appear sceptical about the US government’s arguments in favour of the war, which include dismantling Iran’s nuclear programme. The Critical Issues Poll found that only 28 percent of those surveyed believed that the war had left Iran in “worse position” to develop nuclear weapons. While the US has long voiced concerned that Iran could pursue nuclear arms, intelligence assessments have not found evidence that Tehran has authorised such a step since abandoning its nuclear weapons programme in 2003. The Strait of Hormuz has also emerged as a key issue, with Iran closing the waterway to commercial traffic early in the war. The Trump administration has responded with a naval blockade in the strait. Some 20 percent of the world’s oil supply passes through the maritime artery, and fuel prices have spiked as a result of the war. About 35 percent of respondents in Tuesday’s poll said that they believe Iran is now in control of the strait, while just 12.7 percent said the US is in control."
+   },
+   {
+    "title": "House Democrat expands investigation into Donald Trump Jr.'s investment firm",
+    "url": "https://apnews.com/article/us-congress-donald-trump-jr-1789-investigation-f51c0cd43c57326ab8540ac661dca2ac",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "member of the House Judiciary Committee and the panel’s incoming chair, sent ... firm send him two years’ worth of communications with 1789 Capital and other select documents, saying the materials would"
+   },
+   {
+    "title": "West Wing Playbook: Remaking Government - POLITICO",
+    "url": "https://www.politico.com/newsletters/west-wing-playbook",
+    "source": "politico.com",
+    "published": "",
+    "excerpt": "is borrowing a page from former special counsel JACK SMITH’s book as it seeks to cow newly empowered Democrats conducting oversight. White House and Justice Department officials have spent recent days warning that Democratic investigators could face"
+   }
+  ],
+  "text": "[1] Axios (axios.com)\n## Wednesday's top stories - Avery Lotz 8 hours ago - Politics & Policy ## Trump talks turkey, and his ballroom, at pardoning event ... and tie, watch. 9 hours ago - Politics & Policy ## Criminal charge against incoming House Democrat dropped\n\n[2] Daily Brew: November 25, 2026 - Ballotpedia (ballotpedia.org)\n## Trump administration provides states option for six more months before enforcing Medicaid work requirements The Centers for Medicare and Medicaid Services (CMS) announced on Nov. 13, that states with CMS approval may be able to delay enforcement of new Medicaid work requirements for up to six months. The Medicaid work requirements, established under the One Big Beautiful Bill Act (OBBBA) of 2025, are scheduled to take effect Jan. 1, 2027. CMS' new guidance gives states the option, if they submit a plan for CMS approval, to have until July 1, 2027, to fully implement them. The work …\n\n[3] US prepares new tariffs for China, EU and others over subsidies | AP News (apnews.com)\nto two people familiar with the matter. The U.S. Trade ... ’s Office is expected to release the results of a monthslong tariff ... the coming days, according to the people who were not authorized to comment publicly\n\n[4] Democrats clinch historic House majority, largest since 1990 | AP News (apnews.com)\n40 they picked up in President Donald Trump’s first midterm in 2018 ... races remain outstanding: one in Minnesota and two in Louisiana that are heading to a December runoff. Republicans will have at least\n\n[5] Alaska ends deal to give voter records to US Justice Department | US Midterm Elections 2026 News | Al Jazeera (aljazeera.com)\nPublished On 25 Nov 2026 25 Nov 2026 Alaska has terminated a memorandum of understanding that granted the United States Department of Justice (DOJ) access to the state’s voter rolls. On Monday, outgoing Lieutenant Governor Nancy Dahlstrom, who oversees the state’s elections, announced she had notified the Justice Department that Alaska was withdrawing from the 2025 memo, effective immediately. In a statement, Dahlstrom said her state had entered the agreement “in good faith to cooperate with our federal law enforcement partners”. But she acknowledged a shift had taken place after the 2026 …\n\n[6] Reuters US Domestic News Summary | International (devdiscourse.com)\nboth the Senate and House in January, though their exact path to do so ... unclear. More than 5.5 million people have lost Supplemental Nutrition Assistance Program benefits, also known as food stamps, since the July\n\n[7] Nvidia scandal sparks bipartisan concerns in Congress (nbcnews.com)\nU.S. official and a person with knowledge of the discussions. Administration officials who support the proposal argue it could allow Trump to end the war, the sources said. They said those officials have made the case that such an operation could send a\n\n[8] Poll finds US voters want government to end Iran war regardless of terms | US-Israel war on Iran News | Al Jazeera (aljazeera.com)\nPublished On 25 Nov 2026 25 Nov 2026 A new poll has found that a majority of voters in the United States want an end to the US-Israel war on Iran immediately, even if it means accepting less favourable conditions. Overall, 55 percent of those surveyed agreed with an “end to the war now, regardless of the terms”. That number was even higher among Democrats and independents, who agreed with the statement at a rate of 80 percent and 59 percent, respectively. About 25 percent of Republicans said the same. A majority of Democratic voters also supported steps to pressure the administration of …\n\n[9] House Democrat expands investigation into Donald Trump Jr.'s investment firm (apnews.com)\nmember of the House Judiciary Committee and the panel’s incoming chair, sent ... firm send him two years’ worth of communications with 1789 Capital and other select documents, saying the materials would\n\n[10] West Wing Playbook: Remaking Government - POLITICO (politico.com)\nis borrowing a page from former special counsel JACK SMITH’s book as it seeks to cow newly empowered Democrats conducting oversight. White House and Justice Department officials have spent recent days warning that Democratic investigators could face",
+  "hash": "21baf5f27cfaac28d9d6689b7c6dd60323fa5705455715c82d00d1caea3e0ad5",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 25, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-25T05:05:20+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4011662-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Reuters | Updated: 25-11-2026 02:30 IST | Created: 25-11-2026 02:30 IST ... Disney movie 'Hexed' explores female power through witches and family bonds Jodie Foster was thrilled to star ​in Disney's animated film \"Hexed\" because it puts three female witches at the center of the story. \"Witches ​are back,\" Foster, who voices the villainous ruler of witches, Queen Celeste, ‌told ​Reuters. Beloved Australian music promoter Molly Meldrum dies aged 83 Australian TV presenter and music producer Ian \"Molly\" Meldrum, who helped propel the careers of the country's rock groups and singers like AC/DC and Kylie Minogue, died aged 83 on Monday after an illness, his family said in a statement. As host of public broadcaster ‌ABC's Countdown music programme, Meldrum championed local and international artists from INXS to ABBA, and interviewed figures including Britain's King Charles and Elton John, who called him a \"national treasure\". ... Disney, ESPN and NFL take Super Bowl to IMAX theaters Walt Disney, ESPN and the National Football League are partnering with IMAX to show the ‌Super Bowl in movie theaters for the first time, adding another viewing option for one of the biggest sporting events in the US. The NFL championship game, scheduled for February 14 next year, will be shown at hundreds of IMAX locations across the United States and in select international markets including Australia, New Zealand and Brazil, the companies said on Monday Pop star Miley Cyrus weds drummer Maxx Morando in California Grammy-winning pop star Miley Cyrus married her longtime partner, drummer Maxx Morando, in a private ceremony in California, with black-and-white ⁠pictures of the ​event posted on social media. The 33-year-old singer announced ⁠the marriage on Instagram on Sunday, with the wedding photographs captioned simply \"M + M\" and \"11.21.26.\" UK police evacuate 12,000 people from concert after release of 'unknown substance' British police said they evacuated 12,000 people from a concert venue in Manchester, northern England, after the release of an \"unknown substance\" required some ⁠in the crowd to be treated and one person to be taken to hospital. Police declared a major incident late on Sunday after staff at the Co-op Live arena alerted them at 10 p.m. (2200 GMT) that people in the crowd had ​fallen ill during a performance by US rapper Don Toliver. ... Ridley Scott's franchise adds female-led 'Blade Runner 2099' TV series Working on \"Blade Runner 2099,\" the latest expansion of the science-fiction franchise launched by Ridley Scott, Michelle Yeoh found herself worrying about co-star Hunter Schafer during the show's demanding action sequences."
+   },
+   {
+    "title": "Entertainment News: Get Top Punjabi, Bhojpuri Cinema News along with movies and celebrity news. | Hindustan Times | Hindustan Times",
+    "url": "https://www.hindustantimes.com/entertainment/others",
+    "source": "hindustantimes.com",
+    "published": "",
+    "excerpt": "## Gondhal, Angh deemed eligible for Oscars 2027 by the Academy, but nomination still far away Published on Nov 25, 2026 03:21 IST ## Reply ... actor Go Kyung Pyo admits drunk driving charges, apologises in front of media in tears Published on Nov"
+   },
+   {
+    "title": "From dark Aussie comedy to returning franchises — new to cinemas in November - ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-25/what-to-watch-in-cinemas-in-november/107394710",
+    "source": "abc.net.au",
+    "published": "",
+    "excerpt": "Welcome to the ABC Arts November film wrap. This month, The Hunger Games franchise returns with a new Australian star, Ariana Grande returns to acting post-Wicked with Focker-in-Law, and the Oscar-winning team behind Godzilla Minus One are back with another city-destroying epic. Plus, Sam Neill delivers his final Australian performance as a chatty magpie in The Fox, and another awards season contender lands in local cinemas with Wild Horse Nine."
+   },
+   {
+    "title": "November 2026 – Deadline",
+    "url": "https://deadline.com/2026/11/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "’s Oscar Contender ‘The Disciple,’ Wu-Tang Clan Superfan Cilvaringz Morphs Into A Killer Bee Wu- ... big plans for Thanksgiving. The hip-hop legends will be in Detroit to headline the halftime show for the NFL game between the host Lions and the"
+   },
+   {
+    "title": "Movies Coming Out November 25, 2026",
+    "url": "https://www.movieinsider.com/movies/november/2026/25",
+    "source": "movieinsider.com",
+    "published": "",
+    "excerpt": "## Wednesday, November 25 ### The Further Mis-Adventures of Cliff Booth R Murder, blackmail, theft, extortion — just another summer in Hollywood. Set in the late 1970s, the film follows the stuntman Cliff Booth, now working as a Hollywood studio fixer, handling scandals and secrets in a grittier, post-hippie era. David Fincher, Brad Pitt, Carla Gugino, Quentin Tarantino, Holt McCallany, Timothy Olyphant, Elizabeth Debicki, Scott Caan Drama Comedy Sequel Where to Watch: In Theaters More Info Buy tickets at Fandango Coming in 1 day ### Hexed In Hexed, an impulsive and unconventional teenage girl named Billie (voice of Hailee Steinfeld) discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice (voice of Rashida Jones), they uncover family mysteries that could change the world of witches forever. Directed by Fawn Veerasunthorn and Jason Hand, co-directed by Josie Trinidad, and produced by Roy Conli and Yvett Merino. Hailee Steinfeld, Jodie Foster, Rashida Jones, Walton Goggins, Fawn Veerasunthorn, Jason Hand, Yvett Merino, Josie Trinidad Adventure Family Animated Where to Watch: In Theaters More Info Buy tickets at Fandango ... ### Hershey PG Based on the life of Milton Hershey, founder of the iconic Hershey chocolate company. Milton's grit and determination to conquer the world of candy-making propel him from bankruptcy to monumental success, and the love of his life, Kitty, helps him build a legacy sweeter than any candy bar. But when Kitty falls ill, Milton’s wild optimism teeters on the edge of destruction, and she sparks an even bolder dream: to leave their fortune in the hands of America’s children in need. Alexandra Daddario, Michael Moreland Milligan, Finn Wittrock, David Costabile, Mark Waters, Sharon Paul, Will Hardy, Richard Kind Drama Historical Biography Where to Watch: In Theaters ... ### Focker In-Law PG-13 This November, comedy icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Niro reunite, joined by Grammy winner and Oscar® nominee Ariana Grande, in Focker-In-Law, a new chapter in the blockbuster Meet the Parents franchise. Robert De Niro, John Hamburg, Ariana Grande, Ben Stiller, Owen Wilson, Jay Roach, Blythe Danner, Teri Polo Comedy Sequel Where to Watch: In Theaters"
+   },
+   {
+    "title": "'X-Men's James Marsden On Cyclops Leading In 'Avengers: Doomsday' After Taking \"Back Seat To Wolverine\": \"It Was Important That My Return Felt Meaningful\"",
+    "url": "https://deadline.com/2026/11/james-marsden-cyclops-x-men-avengers-doomsday-wolverine-1237233013/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "of the things people have said for years is that Cyclops is a leader, yet in many of ... films he often took a back seat to Wolverine and some of the other characters,” Marsden told ... large, but it was important to me that my return felt meaningful.”"
+   },
+   {
+    "title": "November 25, 2026 - Media Solutions in BlackNewss Diversity",
+    "url": "https://www.blacknewss.com/2026/11/25/",
+    "source": "blacknewss.com",
+    "published": "",
+    "excerpt": ".com *Babyface will make his first-ever performance in Nigeria this December, joining Nigerian singer-songwriter Asa for a night of R&B and soul at Flytime Fest 2026. The 13-time Grammy winner and Asa will headline Day Two of the festival on Dec. 23 at"
+   },
+   {
+    "title": "Tems Opens a New Era as Executive Producer of 'Children of Blood and Bone' Soundtrack - DancehallMag",
+    "url": "https://www.dancehallmag.com/2026/11/24/features/interviews/tems-opens-a-new-era-as-executive-producer-of-children-of-blood-and-bone-soundtrack.html",
+    "source": "dancehallmag.com",
+    "published": "",
+    "excerpt": "Tems has never ... she told Billboard. “I feel like that’s faith, and I don’t take that for granted at all.” That faith came from director Gina Prince-Bythewood, who tapped the Nigerian star to shape the music for her adaptation of Tomi Adeyemi’s 2018 fantasy novel Children of Blood and Bone. The first taste arrived Friday (Nov. 20) with “African Love Story,” the lead single from the project."
+   },
+   {
+    "title": "'Avengers: Doomsday' Final Trailer 563M Views 2nd Best Ever",
+    "url": "https://deadline.com/2026/11/avengers-doomsday-final-trailer-viewership-record-1237232943/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "first 24 hours, the trailer racked up 563 million views, ... , beating out the Avengers: Doomsday teaser (503M in 24-hour traffic) and Deadpool & Wolverine’s 2024 Super Bowl teaser (365M including broadcast, $211"
+   },
+   {
+    "title": "Marvel Plans Patrick Stewart Tribute In 'Avengers: Doomsday' As Anthony Russo Recalls Actor's Last Day Of Filming: \"He Was Struggling With His Health\"",
+    "url": "https://deadline.com/2026/11/marvel-patrick-stewart-tribute-avengers-doomsday-last-day-filming-1237233059/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "’s Kevin Feige revealed they are planning to add a special tribute to the film, set for release on December 18. “We’ ... us,” the studio head told Entertainment Weekly. “We’re looking now at how we can put something together that honors and respects our"
+   }
+  ],
+  "text": "[1] Reuters Entertainment News Summary | International (devdiscourse.com)\nReuters | Updated: 25-11-2026 02:30 IST | Created: 25-11-2026 02:30 IST ... Disney movie 'Hexed' explores female power through witches and family bonds Jodie Foster was thrilled to star ​in Disney's animated film \"Hexed\" because it puts three female witches at the center of the story. \"Witches ​are back,\" Foster, who voices the villainous ruler of witches, Queen Celeste, ‌told ​Reuters. Beloved Australian music promoter Molly Meldrum dies aged 83 Australian TV presenter and music producer Ian \"Molly\" Meldrum, who helped propel the careers of the country's rock groups and singers like AC/DC …\n\n[2] Entertainment News: Get Top Punjabi, Bhojpuri Cinema News along with movies and celebrity news. | Hindustan Times | Hindustan Times (hindustantimes.com)\n## Gondhal, Angh deemed eligible for Oscars 2027 by the Academy, but nomination still far away Published on Nov 25, 2026 03:21 IST ## Reply ... actor Go Kyung Pyo admits drunk driving charges, apologises in front of media in tears Published on Nov\n\n[3] From dark Aussie comedy to returning franchises — new to cinemas in November - ABC News (abc.net.au)\nWelcome to the ABC Arts November film wrap. This month, The Hunger Games franchise returns with a new Australian star, Ariana Grande returns to acting post-Wicked with Focker-in-Law, and the Oscar-winning team behind Godzilla Minus One are back with another city-destroying epic. Plus, Sam Neill delivers his final Australian performance as a chatty magpie in The Fox, and another awards season contender lands in local cinemas with Wild Horse Nine.\n\n[4] November 2026 – Deadline (deadline.com)\n’s Oscar Contender ‘The Disciple,’ Wu-Tang Clan Superfan Cilvaringz Morphs Into A Killer Bee Wu- ... big plans for Thanksgiving. The hip-hop legends will be in Detroit to headline the halftime show for the NFL game between the host Lions and the\n\n[5] Movies Coming Out November 25, 2026 (movieinsider.com)\n## Wednesday, November 25 ### The Further Mis-Adventures of Cliff Booth R Murder, blackmail, theft, extortion — just another summer in Hollywood. Set in the late 1970s, the film follows the stuntman Cliff Booth, now working as a Hollywood studio fixer, handling scandals and secrets in a grittier, post-hippie era. David Fincher, Brad Pitt, Carla Gugino, Quentin Tarantino, Holt McCallany, Timothy Olyphant, Elizabeth Debicki, Scott Caan Drama Comedy Sequel Where to Watch: In Theaters More Info Buy tickets at Fandango Coming in 1 day ### Hexed In Hexed, an impulsive and unconventional teenage …\n\n[6] 'X-Men's James Marsden On Cyclops Leading In 'Avengers: Doomsday' After Taking \"Back Seat To Wolverine\": \"It Was Important That My Return Felt Meaningful\" (deadline.com)\nof the things people have said for years is that Cyclops is a leader, yet in many of ... films he often took a back seat to Wolverine and some of the other characters,” Marsden told ... large, but it was important to me that my return felt meaningful.”\n\n[7] November 25, 2026 - Media Solutions in BlackNewss Diversity (blacknewss.com)\n.com *Babyface will make his first-ever performance in Nigeria this December, joining Nigerian singer-songwriter Asa for a night of R&B and soul at Flytime Fest 2026. The 13-time Grammy winner and Asa will headline Day Two of the festival on Dec. 23 at\n\n[8] Tems Opens a New Era as Executive Producer of 'Children of Blood and Bone' Soundtrack - DancehallMag (dancehallmag.com)\nTems has never ... she told Billboard. “I feel like that’s faith, and I don’t take that for granted at all.” That faith came from director Gina Prince-Bythewood, who tapped the Nigerian star to shape the music for her adaptation of Tomi Adeyemi’s 2018 fantasy novel Children of Blood and Bone. The first taste arrived Friday (Nov. 20) with “African Love Story,” the lead single from the project.\n\n[9] 'Avengers: Doomsday' Final Trailer 563M Views 2nd Best Ever (deadline.com)\nfirst 24 hours, the trailer racked up 563 million views, ... , beating out the Avengers: Doomsday teaser (503M in 24-hour traffic) and Deadpool & Wolverine’s 2024 Super Bowl teaser (365M including broadcast, $211\n\n[10] Marvel Plans Patrick Stewart Tribute In 'Avengers: Doomsday' As Anthony Russo Recalls Actor's Last Day Of Filming: \"He Was Struggling With His Health\" (deadline.com)\n’s Kevin Feige revealed they are planning to add a special tribute to the film, set for release on December 18. “We’ ... us,” the studio head told Entertainment Weekly. “We’re looking now at how we can put something together that honors and respects our",
+  "hash": "81f4fdcac52a95c5b4dd43aba7b1df05fdf9f8df1a3ed4edc8b8ad37de91b3df",
+  "notes": []
+ }
+}
