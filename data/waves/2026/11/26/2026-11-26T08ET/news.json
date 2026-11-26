@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-26T13:05:29+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 26, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-26T13:05:29+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "AP Top Stories November 26 | AP News",
+    "url": "https://apnews.com/video/ap-top-stories-november-26-2c8f08739d7f4f1ebcbf6e0bd674f318",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "the latest for Thursday, Nov. 26th: China responds to proposed ... tariffs, calls it ‘unilateral action'; Fuel tanker crash ignites a massive fire on a highway surrounding ... ; Heavy rain, wind and flooding plagues much of U.S. on Thanksgiving holiday;"
+   },
+   {
+    "title": "Up First briefing: Thanksgiving weather; Trump tariffs; Iowa; FCC : NPR",
+    "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "Severe storms sweeping across the nation threaten to cause widespread travel delays today, as millions of people gather with their loved ones. New York City officials announced that the Macy's Thanksgiving Day Parade has been rescheduled to Saturday due to the threat of powerful wind gusts that could reach up to 60 mph. This year marked the 100th procession, and the first time the iconic event is being postponed. ... - 🎧 Something is happening across almost every part of the country right now, NPR's Kat Lonsdorf tells Up First. Extreme high tides are affecting the West Coast, snow is expected in parts of the Midwest, and in the South and Southeast, a major storm is advancing up the East Coast. Meteorologist Richard Bann with the National Weather Service Weather Prediction Center tells Lonsdorf the East Coast storm is the primary concern. Bann says the storm will become better organized throughout the day, bringing strong winds and heavy rain that could lead to coastal flooding. The good news: Forecasters expect the East Coast's major storm to move on, mostly wrapping up by Saturday, Lonsdorf says. The Trump administration has proposed new tariffs targeting goods from 14 major U.S. trading partners, including China, Japan and the European Union. Administration officials argue the measures counter unfair foreign trade practices, though critics question their ultimate effectiveness. Proposed rates may reach 40% on Chinese imports, 35% on Vietnamese goods, and 20-25% on products from other targeted nations. Additional tariffs on Brazilian sugar and aircraft are also being suggested. ... Federal scientists are testing the air, soil and water in Eastern Iowa for lead contamination after the U.S. Army detonated thousands of pounds of unstable lead azide at the Iowa Army Ammunition Plant in Middletown yesterday. Officials said the controlled explosion was the only safe way to dispose of the bomb-making compound. - 🎧 Eliza Billingham of NPR network station Iowa Public Radio says the major concern is the potential release of lead into the air from the explosion. She adds that the U.S. Environmental Protection Agency has tested the area since the detonation and hasn't found lead in the air. The EPA has deployed around 300 people to sample the air, ground and nearby water. Lead is a neurotoxin that especially endangers children and pregnant people because it can impede childhood development. After a week and a half of delays and inconsistent communication from the Army, residents have grown hesitant about the Army and the EPA's initial findings, Billingham says. Residents want independent monitoring and the University of Iowa and the University of Illinois are conducting regional sampling. Results are expected in a few days and should show if their measurements align with the EPA's data, Billingham says."
+   },
+   {
+    "title": "Morning news brief : NPR",
+    "url": "https://www.npr.org/2026/11/26/nx-s1-6044262/morning-news-brief",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "news brief November 26, 2026 4:44 AM ET Heard on ... Martínez Severe weather dampens Thanksgiving travel, Trump administration proposes new tariffs on major U.S. trading partners, EPA testing for lead contamination after Iowa munitions detonation."
+   },
+   {
+    "title": "The 7 things to know for Thursday, November 26 - The Washington Post",
+    "url": "https://www.washingtonpost.com/the-seven/2026/11/26/7-things-know-thursday-november-26/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "# Catch up quickly: Thanksgiving storm; post-dinner slump; asteroid images Today’s seven most important and interesting stories. Today at 6:15 a.m. EST By ... ## 1 The East Coast could experience its worst Thanksgiving storm in decades today."
+   },
+   {
+    "title": "Morning Briefing: Nov. 26, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-26-2026/4138215",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "US President Donald Trump and NATO Secretary General Mark Rutte discussed the Russia-Ukraine war, the conflict in Iran and increased defense spending across ... , according to a joint statement released by the White House. The meeting, held at Trump's"
+   },
+   {
+    "title": "Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian",
+    "url": "https://www.theguardian.com/theguardian/2026/nov/26",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "### Poundland collapses, putting more than 10,000 jobs at risk Budget retail chain expected to be broken up, with store closures, after US ... ### UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules"
+   },
+   {
+    "title": "Globe at a glance: From fresh US tariff plans to Houthi attacks on Saudi ports",
+    "url": "https://www.firstpost.com/world/globe-at-a-glance-from-fresh-us-tariff-plans-to-houthi-attacks-on-saudi-ports-14062633.html",
+    "source": "firstpost.com",
+    "published": "",
+    "excerpt": "the European Union. The tariffs on Indian goods would be reduced to 17 per cent once New Delhi and Washington sign a formal trade agreement, replacing the existing 10 per cent levies. ... nvestigation: India has taken note of the USTR's Section 301"
+   },
+   {
+    "title": "Daily World Briefing, Nov. 26-Xinhua",
+    "url": "https://english.news.cn/20261126/0bc98938aa46439e80be9d715c53074d/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "China launched the Shenzhou-24 crewed spaceship on Wednesday, sending three astronauts, including a Pakistani payload specialist, to its orbiting Tiangong space station. The spaceship ... March-2F carrier rocket, blasted off from the Jiuquan Satellite"
+   },
+   {
+    "title": "Morning Briefing, Nov. 26: Kyiv Strike, New Tariffs | TBR",
+    "url": "https://thebostonreport.com/2026/11/26/morning-briefing-november-26-2026/",
+    "source": "thebostonreport.com",
+    "published": "",
+    "excerpt": ". Russian ballistic missiles hit a shopping center and an industrial building in Kyiv’s Desnianskyi district late Wednesday, injuring seven people, Mayor Vitali Klitschko said. Ukraine’s Air Force said Russia launched 113 strike drones and several types of"
+   },
+   {
+    "title": "The Hindu Morning Digest: November 26, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/the-hindu-morning-digest-november-26-2026/article71744115.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": ", 2026) announced a tariff of 25% on goods imported from India in response to India’s “unreasonable acts, policies, and practices” that “burden or restrict U.S. commerce”. This is the second-highest tariff"
+   }
+  ],
+  "text": "[1] AP Top Stories November 26 | AP News (apnews.com)\nthe latest for Thursday, Nov. 26th: China responds to proposed ... tariffs, calls it ‘unilateral action'; Fuel tanker crash ignites a massive fire on a highway surrounding ... ; Heavy rain, wind and flooding plagues much of U.S. on Thanksgiving holiday;\n\n[2] Up First briefing: Thanksgiving weather; Trump tariffs; Iowa; FCC : NPR (npr.org)\nSevere storms sweeping across the nation threaten to cause widespread travel delays today, as millions of people gather with their loved ones. New York City officials announced that the Macy's Thanksgiving Day Parade has been rescheduled to Saturday due to the threat of powerful wind gusts that could reach up to 60 mph. This year marked the 100th procession, and the first time the iconic event is being postponed. ... - 🎧 Something is happening across almost every part of the country right now, NPR's Kat Lonsdorf tells Up First. Extreme high tides are affecting the West Coast, snow is expected …\n\n[3] Morning news brief : NPR (npr.org)\nnews brief November 26, 2026 4:44 AM ET Heard on ... Martínez Severe weather dampens Thanksgiving travel, Trump administration proposes new tariffs on major U.S. trading partners, EPA testing for lead contamination after Iowa munitions detonation.\n\n[4] The 7 things to know for Thursday, November 26 - The Washington Post (washingtonpost.com)\n# Catch up quickly: Thanksgiving storm; post-dinner slump; asteroid images Today’s seven most important and interesting stories. Today at 6:15 a.m. EST By ... ## 1 The East Coast could experience its worst Thanksgiving storm in decades today.\n\n[5] Morning Briefing: Nov. 26, 2026 (aa.com.tr)\nUS President Donald Trump and NATO Secretary General Mark Rutte discussed the Russia-Ukraine war, the conflict in Iran and increased defense spending across ... , according to a joint statement released by the White House. The meeting, held at Trump's\n\n[6] Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian (theguardian.com)\n### Poundland collapses, putting more than 10,000 jobs at risk Budget retail chain expected to be broken up, with store closures, after US ... ### UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules\n\n[7] Globe at a glance: From fresh US tariff plans to Houthi attacks on Saudi ports (firstpost.com)\nthe European Union. The tariffs on Indian goods would be reduced to 17 per cent once New Delhi and Washington sign a formal trade agreement, replacing the existing 10 per cent levies. ... nvestigation: India has taken note of the USTR's Section 301\n\n[8] Daily World Briefing, Nov. 26-Xinhua (english.news.cn)\nChina launched the Shenzhou-24 crewed spaceship on Wednesday, sending three astronauts, including a Pakistani payload specialist, to its orbiting Tiangong space station. The spaceship ... March-2F carrier rocket, blasted off from the Jiuquan Satellite\n\n[9] Morning Briefing, Nov. 26: Kyiv Strike, New Tariffs | TBR (thebostonreport.com)\n. Russian ballistic missiles hit a shopping center and an industrial building in Kyiv’s Desnianskyi district late Wednesday, injuring seven people, Mayor Vitali Klitschko said. Ukraine’s Air Force said Russia launched 113 strike drones and several types of\n\n[10] The Hindu Morning Digest: November 26, 2026 - The Hindu (thehindu.com)\n, 2026) announced a tariff of 25% on goods imported from India in response to India’s “unreasonable acts, policies, and practices” that “burden or restrict U.S. commerce”. This is the second-highest tariff",
+  "hash": "2867cca2e01ee9f025cc4de80126e9f551b89dc7b89f065fdac403dc44c541c2",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 26, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-26T13:05:44+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "US economy roars ahead in third quarter, inflation remains high in October By Reuters",
+    "url": "https://www.investing.com/news/economy-news/us-inflation-rises-further-in-october-5050840",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 25 (Reuters) - The US economy grew much faster than initially estimated in the third quarter, while inflation increased further in October, reinforcing expectations that the Federal Reserve will raise interest rates next month and again in early 2027. The sharp upward revision to gross domestic product last quarter, reported by the Commerce Department on Wednesday, marked the quickest economic growth pace in three years. It reflected upgrades to consumer spending and business investment, mostly related to artificial intelligence. Robust domestic demand is fueling inflation, with a measure of underlying price pressures in October posting its biggest year-over-year increase since late 2023. The economy has powered ahead despite the ongoing US-Israeli war with Iran. \"It is more urgent than ever that Fed officials step up the pace of interest rate hikes to cool off economic demand,\" said Christopher Rupkey, chief economist at FWDBONDS. \"It was once thought that import tariffs and energy prices from the Mideast war were one-off factors behind the higher inflation numbers, but increasingly the inflation fires look to be stoked by old-fashioned economic demand pressures.\" ... PCE inflation was lifted by higher prices for goods, including food and household furnishings, as well as services such as recreation, dining out and hotel stays. ... Excluding the volatile food and energy components, the PCE Price Index increased 0.3% for the third straight month. So-called core PCE inflation increased 3.3% on a year-over-year basis in October, the largest advance since November 2023, after climbing 3.1% in"
+   },
+   {
+    "title": "US Q3 GDP revised upwards but inflation surges - RTHK",
+    "url": "https://news.rthk.hk/rthk/en/component/k2/1879282-20261126.htm?spTabChangeable=0",
+    "source": "news.rthk.hk",
+    "published": "",
+    "excerpt": "The years of above-target inflation since the pandemic have hit US households hard, with current price levels more than 30 percent higher than in 2020, as per the official Consumer Price Index. Affordability was"
+   },
+   {
+    "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+    "url": "https://apnews.com/article/consumer-spending-prices-inflation-tariffs-31fab1e32dda1ad3a29c192f620d5733",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "relying more on credit to sustain their spending. Gas prices rose just 0.8% last month, according to the department, after surging 9.2% in September. Food prices, however, jumped 0.4% from September to October, the biggest monthly increase since April."
+   },
+   {
+    "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks By Reuters",
+    "url": "https://www.investing.com/news/economy-news/fed-survey-shows-continued-growth-and-sticky-inflation-in-recent-weeks-5051371",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Nov 25 (Reuters) - Economic growth persisted at a \"slight to moderate\" pace across most of the US in recent weeks, while inflation remained sticky and employment levels rose, a Federal Reserve survey showed on Wednesday, two weeks before central bank policymakers decide whether to raise interest rates. \"Prices increased moderately overall, as in the prior reporting period,\" the Fed said in its latest \"Beige Book\" report, a compendium of survey-based data and commentary from businesses compiled by its 12 regional banks to provide a read on economic conditions. \"Contacts across a range of sectors reported sustained cost pressure from energy, transportation, health care, insurance, and tariff-related expenses.\" Still, input costs were outpacing selling price increases, suggesting growing pressure on corporate margins, the report said. \"(C)ompetitive pressures and customer price sensitivity limited firms’ ability to fully pass through higher costs. Contacts expected both expenses and prices to continue rising in the coming months.\" ... The overall picture across the country was varied, with eight districts reporting growth and four reporting that activity was unchanged. Business investment — led by the artificial intelligence boom — remained strong, but consumer spending was flat as households were increasingly stretched and trading down."
+   },
+   {
+    "title": "PCE inflation report October 2026: Fed’s preferred inflation gauge accelerated to 3.8%",
+    "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Excluding food and energy, core PCE was 3.3%, the Commerce Department reported Wednesday. That was 0.1 ... While the Fed officially follows the headline figure, policymakers consider core to be a more reliable longer-term gauge of inflation trends."
+   },
+   {
+    "title": "GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 | U.S. Bureau of Economic Analysis (BEA)",
+    "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+    "source": "bea.gov",
+    "published": "",
+    "excerpt": "Real gross domestic product (GDP) increased at an annual rate of 4.3 percent in the third quarter of 2026 (July, August, and September), according to the second estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the second quarter, real GDP increased 2.2 percent. The contributors to the increase in real GDP in the third quarter were increases in investment, consumer spending, and government spending that were partly offset by a decrease in exports. Imports, which are a subtraction in the calculation of GDP, increased. Real GDP was revised up 0.9 percentage point from the advance estimate, primarily reflecting upward revisions to investment and consumer spending. For more information, refer to the \" Technical Notes\" below. Compared to the second quarter, the acceleration in real GDP in the third quarter primarily reflected an acceleration in investment and an upturn in government spending that were partly offset by a downturn in exports. Imports increased more in the third quarter than in the second quarter. Real final sales to private domestic purchasers, the sum of consumer spending and gross private fixed investment, increased 5.8 percent in the third quarter, revised up 0.9 percentage point from the previous estimate."
+   },
+   {
+    "title": "US inflation hits highest since May after prices climb 3.8% over the last year | US economy | The Guardian",
+    "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "prices climbed 0.4% from September to October, higher than economists had ... Energy prices, including gas prices at the pump, have cooled, going from a high of $4.41 a gallon in early October to $3.61 a gallon by mid-November, according to AAA."
+   },
+   {
+    "title": "Beyond the Fed, Rethinking the US Inflation Outlook | Investing.com",
+    "url": "https://www.investing.com/analysis/beyond-the-fed-rethinking-the-us-inflation-outlook-200692356",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": ". PCE is a backward-looking indicator where it reflects price conditions during October rather than the ... lower oil prices do not directly determine core inflation, they could ease headline inflation and reduce production and transportation cost"
+   },
+   {
+    "title": "Fed's November Beige Book: \"U.S. Wage Growth Accelerates... Consumer Spending Stalls Amid High Inflation\" - The Asia Business Daily",
+    "url": "https://view.asiae.co.kr/en/article/economic-general/2026112608503820401",
+    "source": "view.asiae.co.kr",
+    "published": "",
+    "excerpt": "face cost pressures related to energy, transportation, healthcare, insurance and tariffs, while rising prices for raw materials, metals and specialized imported goods added to those pressures. ... for businesses to pass all of their higher costs on to"
+   },
+   {
+    "title": "Personal Income and Outlays, October 2026 | U.S. Bureau of Economic Analysis (BEA)",
+    "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
+    "source": "bea.gov",
+    "published": "",
+    "excerpt": "EMBARGOED UNTIL RELEASE AT 8:30 a.m. EST, Wednesday, November 25, 2026 # Personal Income and Outlays, October 2026 Personal income increased $201.8 billion (0.7 percent at a monthly rate) in October, according to estimates released today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)—personal income less personal current taxes—increased $200.5 billion (0.8 percent), and personal consumption expenditures (PCE) increased $63.8 billion (0.3 percent). Personal outlays—the sum of PCE, personal interest payments, and personal current transfer payments—increased $69.3 billion in October. Personal saving was $1.00 trillion, and the personal saving rate—personal saving as a percentage of DPI—was 4.1 percent. The increase in current-dollar personal income in October primarily reflected increases in compensation, government social benefits, and personal income receipts on assets. The $63.8 billion increase in current-dollar PCE in October reflected increases of $11.8 billion in spending on goods and $52.1 billion in spending on services. Real PCE decreased $5.8 billion (less than 0.1 percent at a monthly rate) in October. From the preceding month, the PCE price index for October increased 0.3 percent. Excluding food and energy, the PCE price index also increased 0.3 percent. From the same month one year ago, the PCE price index for October increased 3.8 percent. Excluding food and energy, the PCE price index increased 3.3 percent from one year ago. | Personal Income and Related Measures [Percent change from preceding month] | | | | --- | --- | --- | | | September | October | | Current-dollar personal income | 0.3 | 0.7 | | Current-dollar DPI | 0.3 | 0.8 | | Real DPI | -0.2 | 0.5 | | Current-dollar PCE | 0.6 | 0.3 | | Real PCE | 0.1 | 0.0 | | PCE price index | 0.5 | 0.3 | | PCE price index excluding food and energy | 0.3 | 0.3 |"
+   }
+  ],
+  "text": "[1] US economy roars ahead in third quarter, inflation remains high in October By Reuters (investing.com)\nWASHINGTON, Nov 25 (Reuters) - The US economy grew much faster than initially estimated in the third quarter, while inflation increased further in October, reinforcing expectations that the Federal Reserve will raise interest rates next month and again in early 2027. The sharp upward revision to gross domestic product last quarter, reported by the Commerce Department on Wednesday, marked the quickest economic growth pace in three years. It reflected upgrades to consumer spending and business investment, mostly related to artificial intelligence. Robust domestic demand is fueling inflation, …\n\n[2] US Q3 GDP revised upwards but inflation surges - RTHK (news.rthk.hk)\nThe years of above-target inflation since the pandemic have hit US households hard, with current price levels more than 30 percent higher than in 2020, as per the official Consumer Price Index. Affordability was\n\n[3] Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed (apnews.com)\nrelying more on credit to sustain their spending. Gas prices rose just 0.8% last month, according to the department, after surging 9.2% in September. Food prices, however, jumped 0.4% from September to October, the biggest monthly increase since April.\n\n[4] Fed survey shows continued economic growth, sticky inflation in recent weeks By Reuters (investing.com)\nNov 25 (Reuters) - Economic growth persisted at a \"slight to moderate\" pace across most of the US in recent weeks, while inflation remained sticky and employment levels rose, a Federal Reserve survey showed on Wednesday, two weeks before central bank policymakers decide whether to raise interest rates. \"Prices increased moderately overall, as in the prior reporting period,\" the Fed said in its latest \"Beige Book\" report, a compendium of survey-based data and commentary from businesses compiled by its 12 regional banks to provide a read on economic conditions. \"Contacts across a range of …\n\n[5] PCE inflation report October 2026: Fed’s preferred inflation gauge accelerated to 3.8% (cnbc.com)\nExcluding food and energy, core PCE was 3.3%, the Commerce Department reported Wednesday. That was 0.1 ... While the Fed officially follows the headline figure, policymakers consider core to be a more reliable longer-term gauge of inflation trends.\n\n[6] GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 | U.S. Bureau of Economic Analysis (BEA) (bea.gov)\nReal gross domestic product (GDP) increased at an annual rate of 4.3 percent in the third quarter of 2026 (July, August, and September), according to the second estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the second quarter, real GDP increased 2.2 percent. The contributors to the increase in real GDP in the third quarter were increases in investment, consumer spending, and government spending that were partly offset by a decrease in exports. Imports, which are a subtraction in the calculation of GDP, increased. Real GDP was revised up 0.9 percentage point from …\n\n[7] US inflation hits highest since May after prices climb 3.8% over the last year | US economy | The Guardian (theguardian.com)\nprices climbed 0.4% from September to October, higher than economists had ... Energy prices, including gas prices at the pump, have cooled, going from a high of $4.41 a gallon in early October to $3.61 a gallon by mid-November, according to AAA.\n\n[8] Beyond the Fed, Rethinking the US Inflation Outlook | Investing.com (investing.com)\n. PCE is a backward-looking indicator where it reflects price conditions during October rather than the ... lower oil prices do not directly determine core inflation, they could ease headline inflation and reduce production and transportation cost\n\n[9] Fed's November Beige Book: \"U.S. Wage Growth Accelerates... Consumer Spending Stalls Amid High Inflation\" - The Asia Business Daily (view.asiae.co.kr)\nface cost pressures related to energy, transportation, healthcare, insurance and tariffs, while rising prices for raw materials, metals and specialized imported goods added to those pressures. ... for businesses to pass all of their higher costs on to\n\n[10] Personal Income and Outlays, October 2026 | U.S. Bureau of Economic Analysis (BEA) (bea.gov)\nEMBARGOED UNTIL RELEASE AT 8:30 a.m. EST, Wednesday, November 25, 2026 # Personal Income and Outlays, October 2026 Personal income increased $201.8 billion (0.7 percent at a monthly rate) in October, according to estimates released today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)—personal income less personal current taxes—increased $200.5 billion (0.8 percent), and personal consumption expenditures (PCE) increased $63.8 billion (0.3 percent). Personal outlays—the sum of PCE, personal interest payments, and personal current transfer payments—increased …",
+  "hash": "a5acfc0962bb491364d4a33534f1a4fd9da14d8f5b6c60596a5e4e71fedc00d7",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 26, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-26T13:06:02+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Why the wave election may not end the frenzy to redraw political maps",
+    "url": "https://www.washingtonpost.com/politics/2026/11/26/where-national-redistricting-wars-are-probably-headed/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "Democrats say they want to end** **the redistricting war that roiled this year’s midterm elections, and now they have some leverage. Republicans unsuccessfully tried to save their House majority by redrawing districts in their favor, but they’ll have a tougher time getting it back with another round of redistricting. Democrats gained seats in legislatures around the country, giving them new opportunities next year to carve up more districts in their favor and block Republicans from doing the same. Democrats say they want to use the moment to forge a truce and prevent similar redistricting fights. Sen. Alex Padilla (D-California) said"
+   },
+   {
+    "title": "Up First briefing: Thanksgiving weather; Trump tariffs; Iowa; FCC : NPR",
+    "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "Trade Ambassador Jamieson Greer said that new tariffs could take effect within a couple of months. For each country, the White House has listed a \"proposed\" rate and a \"deal\" rate, NPR's Danielle Kurtzleben says. For example, if talks with China progress positively, they may receive a deal rate of 20%, which is different from its proposed rate of 40%. Although the Supreme Court overturned President Trump's"
+   },
+   {
+    "title": "Judge blocks latest Trump effort to restrict birthright citizenship - ABC News",
+    "url": "https://abcnews.com/Politics/judge-blocks-latest-trump-effort-restrict-birthright-citizenship/story?id=138451919",
+    "source": "abcnews.com",
+    "published": "",
+    "excerpt": "executive order directed federal agencies to not grant citizenship to children born in the ... . But in his ruling, Cooper said Trump \"cannot carve out new exceptions to birthright citizenship for children born within the United States and subject to"
+   },
+   {
+    "title": "Morning news brief : NPR",
+    "url": "https://www.npr.org/2026/11/26/nx-s1-6044262/morning-news-brief",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "26, 2026 4:44 AM ET Heard on Morning Edition ... Martínez Severe weather dampens Thanksgiving travel, Trump administration proposes new tariffs on major U.S. trading partners, EPA testing for lead contamination after Iowa munitions detonation."
+   },
+   {
+    "title": "Headlines for November 26, 2026 - by Allison Gill",
+    "url": "https://www.muellershewrote.com/p/headlines-for-november-26-2026",
+    "source": "muellershewrote.com",
+    "published": "",
+    "excerpt": "s second attempt to end birthright citizenship, Democratic Congresswoman Rep. Pingree has promised to investigate Trump ... 15M, 53 incoming House Democrats threaten to boycott Harvard orientation to stand with graduate student workers on strike,"
+   },
+   {
+    "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners : NPR",
+    "url": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "tariffs on goods from major U.S. trading partners November 26, 2026 6:43 AM ET Heard on Morning Edition By Danielle Kurtzleben ... President Trump's new proposed tariffs are already meeting pushback from Democrats and some free trade advocates."
+   },
+   {
+    "title": "Morning News Brief - The Center Voter",
+    "url": "https://centervoter.com/p/morning-news-brief-b86",
+    "source": "centervoter.com",
+    "published": "",
+    "excerpt": "declined to extend a temporary ban on taxpayer-funded government ads that promoted President Donald Trump ahead of ... sued in October and argued the ads were illegal propaganda, the Associated Press reported"
+   },
+   {
+    "title": "AP News Summary at 6:12 a.m. EST | National | phillytrib.com",
+    "url": "https://www.phillytrib.com/ap/national/ap-news-summary-at-12-54-a-m-est/article_769a9220-ffc4-5fef-857c-9b7fee3ffb76.html",
+    "source": "phillytrib.com",
+    "published": "",
+    "excerpt": "A federal judge has sided against Democrats on the federal government’s ... ads, which critics say were illegal propaganda intended to promote President Donald Trump. U.S ... are over, Democrats could not show “irreparable injury.” Some of"
+   },
+   {
+    "title": "Site Map - November 26, 2026 - The Washington Post",
+    "url": "https://www.washingtonpost.com/sitemap/2026/11/26/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "# Stories published on November 26, 2026 - ... - Judge halts FCC review of ABC licenses, saying it probably violates First ... and White Americans keeps shrinking - Trump wants to work with Democrats on health care. But can they find a compromise?"
+   },
+   {
+    "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+    "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "The Trump administration has unveiled a fresh tariff salvo on more than a dozen trading partners, with China, Vietnam, and India facing some of the steepest potential rates and mounting pressure to conclude trade deals with Washington. The proposed tariffs, framed as curbing excess industrial capacity, start at 15% for the European Union, South Korea, Switzerland and Taiwan and rise to as much as 35% for Vietnam. The U.S. Trade Representative's Office said it intends to cap the new duties at lower levels for countries that have completed trade deals or are still negotiating with Washington. The overall impact on the region is likely to be limited, said Mark Williams, chief Asia economist at Capital Economics. The proposal \"puts most of the targeted countries back where they were earlier in the year,\" he said, after the Supreme Court struck down Trump's emergency tariffs in February. Still, the proposal could give some countries an incentive to speed up trade talks in order to lock in lower tariff rates, analysts said. On Wednesday, U.S. Trade Representative Jamieson Greer said that the new policy likely will not take effect for months, with a senior U.S. official saying the duties could take effect as early as January."
+   }
+  ],
+  "text": "[1] Why the wave election may not end the frenzy to redraw political maps (washingtonpost.com)\nDemocrats say they want to end** **the redistricting war that roiled this year’s midterm elections, and now they have some leverage. Republicans unsuccessfully tried to save their House majority by redrawing districts in their favor, but they’ll have a tougher time getting it back with another round of redistricting. Democrats gained seats in legislatures around the country, giving them new opportunities next year to carve up more districts in their favor and block Republicans from doing the same. Democrats say they want to use the moment to forge a truce and prevent similar redistricting …\n\n[2] Up First briefing: Thanksgiving weather; Trump tariffs; Iowa; FCC : NPR (npr.org)\nTrade Ambassador Jamieson Greer said that new tariffs could take effect within a couple of months. For each country, the White House has listed a \"proposed\" rate and a \"deal\" rate, NPR's Danielle Kurtzleben says. For example, if talks with China progress positively, they may receive a deal rate of 20%, which is different from its proposed rate of 40%. Although the Supreme Court overturned President Trump's\n\n[3] Judge blocks latest Trump effort to restrict birthright citizenship - ABC News (abcnews.com)\nexecutive order directed federal agencies to not grant citizenship to children born in the ... . But in his ruling, Cooper said Trump \"cannot carve out new exceptions to birthright citizenship for children born within the United States and subject to\n\n[4] Morning news brief : NPR (npr.org)\n26, 2026 4:44 AM ET Heard on Morning Edition ... Martínez Severe weather dampens Thanksgiving travel, Trump administration proposes new tariffs on major U.S. trading partners, EPA testing for lead contamination after Iowa munitions detonation.\n\n[5] Headlines for November 26, 2026 - by Allison Gill (muellershewrote.com)\ns second attempt to end birthright citizenship, Democratic Congresswoman Rep. Pingree has promised to investigate Trump ... 15M, 53 incoming House Democrats threaten to boycott Harvard orientation to stand with graduate student workers on strike,\n\n[6] Trump administration proposes new tariffs on goods from major U.S. trading partners : NPR (npr.org)\ntariffs on goods from major U.S. trading partners November 26, 2026 6:43 AM ET Heard on Morning Edition By Danielle Kurtzleben ... President Trump's new proposed tariffs are already meeting pushback from Democrats and some free trade advocates.\n\n[7] Morning News Brief - The Center Voter (centervoter.com)\ndeclined to extend a temporary ban on taxpayer-funded government ads that promoted President Donald Trump ahead of ... sued in October and argued the ads were illegal propaganda, the Associated Press reported\n\n[8] AP News Summary at 6:12 a.m. EST | National | phillytrib.com (phillytrib.com)\nA federal judge has sided against Democrats on the federal government’s ... ads, which critics say were illegal propaganda intended to promote President Donald Trump. U.S ... are over, Democrats could not show “irreparable injury.” Some of\n\n[9] Site Map - November 26, 2026 - The Washington Post (washingtonpost.com)\n# Stories published on November 26, 2026 - ... - Judge halts FCC review of ABC licenses, saying it probably violates First ... and White Americans keeps shrinking - Trump wants to work with Democrats on health care. But can they find a compromise?\n\n[10] U.S. tariff-hike threats pile pressure on partners to sign trade deals (cnbc.com)\nThe Trump administration has unveiled a fresh tariff salvo on more than a dozen trading partners, with China, Vietnam, and India facing some of the steepest potential rates and mounting pressure to conclude trade deals with Washington. The proposed tariffs, framed as curbing excess industrial capacity, start at 15% for the European Union, South Korea, Switzerland and Taiwan and rise to as much as 35% for Vietnam. The U.S. Trade Representative's Office said it intends to cap the new duties at lower levels for countries that have completed trade deals or are still negotiating with Washington. …",
+  "hash": "d1dd624917f006dc14c9327a72be34504038f51bec839f94578428d9da6b7a82",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 26, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-26T13:06:16+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "What To Watch On TV And Streaming Thursday, November 26, 2026",
+    "url": "https://www.tvline.com/2323675/what-to-watch-november-26-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "### The Hunting Wives Netflix Eight-Episode Binge Season 2 premiere: Sophie and Margo are on the outs, but soon enough, old secrets and new foes force them back together. As they play their dangerous games, the question arises: Are they the hunters or the hunted? ### The Kardashians Coachella weekend is upon the Kardashian clan, and Kourtney makes it a family affair in the desert and really lets loose with Kylie and Kendall. ### Sidelined 3: End Game Tubi Movie Premiere Two years after their breakup, rising college football star Drayton (Noah Beck) reunites with his high school sweetheart Dallas (Siena Agudong) during Heisman Trophy week in New York City. ... ### The JLO Show: Live In Las Vegas Jennifer Lopez takes viewers inside her Las Vegas residency at Caesars Palace, performing her biggest hits alongside a full orchestra, vocal ensemble, and 16 dancers. (An extended cut streams exclusively on Paramount+.) ### Paul Simon: The Quiet Celebration Concert Simon brings his Grammy-nominated \"Seven Psalms\" to life in this first-ever live performance of the complete piece for his \"Quiet Celebration\" — an intimate evening spanning his vast career and celebrating new arrangements of timeless classics, deep cuts,"
+   },
+   {
+    "title": "News 26 November 2026 - Archive Euronews",
+    "url": "https://www.euronews.com/2026/11/26",
+    "source": "euronews.com",
+    "published": "",
+    "excerpt": "- Culture news Angelina Jolie and Brad Pitt settle long-running legal battle over French winery Ownership of Château Miraval, a prestigious estate in the Var, France, was one of the main points of contention in Brad Pitt and Angelina Jolie’s divorce. 10:18"
+   },
+   {
+    "title": "News Archive | November 2026 | Louder",
+    "url": "https://www.loudersound.com/news/archive/2026/11",
+    "source": "loudersound.com",
+    "published": "",
+    "excerpt": "- Journey's new drummer is the frontman in a Bob Seger tribute band ... May shared a touching tribute to his dear friend Freddie Mercury on the 35th anniversary of the legendary singer's death ... I looked over at the end and it was double thumbs up. I"
+   },
+   {
+    "title": "November 2026 – Deadline",
+    "url": "https://deadline.com/2026/11/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "Netflix Cancels ‘Amsterdam Empire’ Starring Famke Janssen After One Season ... not be returning to the murky underworld of Amsterdam Empire. ... the Dutch series starring Famke Janssen is not currently planned due to scheduling issues. Amsterdam"
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4012378-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "Cardamom ad sparks clash between Bollywood star, Indian food regulator An advertisement for cardamom is at the centre of a legal spat between a Bollywood actor and India's most prominent food commissioner, with ‌a court ruling set to shape how far companies can go in indirectly advertising brands whose promotion is restricted. India restricts advertising for liquor and tobacco but officials have for years also frowned upon the use of indirect means, called surrogate advertising, by companies in such sectors promoting their brands in the guise of sodas, water or glassware. ... Bollywood union asks Modi to bar Netflix's Pakistani series in India A prominent Bollywood workers' union has asked Prime Minister Narendra Modi's government to ban a forthcoming Pakistani series on Netflix in India, while ⁠seeking a law prohibiting ​content from its foe from being shown in the country. The first ⁠part of \"Jo Bachay Hain Sang Samait Lo\" (All the Love Our Hearts Carry) is scheduled to air on Netflix on December 4 and is the global streaming giant's first Urdu-language series. Several top Pakistani actors feature in it. Top Gear to return in 2028 with celebrity chef Gordon Ramsay as lead host British celebrity chef and television presenter ⁠Gordon Ramsay will host a revived version of the BBC's long-running motoring show \"Top Gear\" when it returns to screens in 2028, the broadcaster said on Wednesday. Produced by BBC Studios, the new series will be filmed in 2027 and feature a new lineup of co-presenters alongside Ramsay, while the programme's test driver, ​The Stig, will also return, the BBC said. Paralympics-Ezra Frech's Mirrorball win builds buzz for LA28 Paralympics US Paralympian Ezra Frech's victory on \"Dancing with the Stars\" could help reshape perceptions of disability and build interest in the 2028 Los Angeles Paralympics, fellow ⁠athletes and organizers said after the 21-year-old won the show's coveted Mirrorball trophy on Tuesday. Frech and professional partner Daniella Karagach won the 35th season of the televised dance competition after receiving perfect scores for each of their three finale routines. More than 86 million votes were cast during the three-hour finale, according to the show. Tarantino-Fincher collaboration 'Cliff Booth' ⁠came ​with pressure and fun, cast say Brad Pitt reunites with Quentin Tarantino and David Fincher to bring another eventful episode of stuntman Cliff Booth's life to the screen. Pitt won an Oscar for his portrayal of the laid-back stunt double in Tarantino's 2019 \"Once Upon a Time... in Hollywood\" and worked with Fincher on films including \"Fight Club\" and \"Se7en.\""
+   },
+   {
+    "title": "Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian",
+    "url": "https://www.theguardian.com/theguardian/2026/nov/26",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "voice of John Motson for football video game Late broadcaster’s family allows EA Sports to create digital version of ‘Motty’ to commentate on popular FC27 ... ### Hundreds complain after Mariella Frostrup calls AJ Odudu ‘aggressive’ on I’m a Celebrity"
+   },
+   {
+    "title": "Morning Edition for November 26, 2026 : NPR",
+    "url": "https://www.npr.org/programs/morning-edition/nx-s1-6034678/morning-edition-for-november-26-2026",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "### Storm postpones Macy's Thanksgiving Day Parade by Steve Kastenbaum, A Martínez #### Storm postpones Macy's Thanksgiving Day Parade ### Steelers cut quarterback Aaron Rodgers after he made claims about head coach #### Steelers cut quarterback Aaron"
+   },
+   {
+    "title": "Andy Taylor obituary | Duran Duran | The Guardian",
+    "url": "https://www.theguardian.com/music/2026/nov/26/andy-taylor-obituary",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "Adam Sweeting Thu 26 Nov 2026 07.28 EST Last modified on Thu 26 Nov 2026 07.30 EST In 1980 ... Andy Taylor, who has died aged 65, after suffering from prostate cancer, ... Girls on Film (a UK No 5 in 1981), benefited from the"
+   },
+   {
+    "title": "Music News Today — November 26, 2026 — MusicNewsletter.com",
+    "url": "https://musicnewsletter.com/news/daily-signal-20261126",
+    "source": "musicnewsletter.com",
+    "published": "",
+    "excerpt": "• Jesse Eisenberg Says Fans Aren’t Crazy With Him Because ‘There ... s No Sexuality to My Work’: Life Is ‘Different’ When People ‘Want to Sleep With’ You ... Her Portrayal in Netflix Series ‘The Altruists’ as ‘Racist’ and"
+   },
+   {
+    "title": "Tribute: Duran Duran’s Andy Taylor Was the Wildest of the Wild Boys",
+    "url": "https://www.rollingstone.com/music/music-features/duran-duran-andy-taylor-guitarist-tribute-1235664822/",
+    "source": "rollingstone.com",
+    "published": "",
+    "excerpt": ", the purest rocker in the band. He was the guitarist who brought his own style of glam-rock flash to their classic Eighties hits, from ... Wolf” to “Girls on Film” to “Rio.” He gave them an aggressive edge that no other New Romantic band had — part"
+   }
+  ],
+  "text": "[1] What To Watch On TV And Streaming Thursday, November 26, 2026 (tvline.com)\n### The Hunting Wives Netflix Eight-Episode Binge Season 2 premiere: Sophie and Margo are on the outs, but soon enough, old secrets and new foes force them back together. As they play their dangerous games, the question arises: Are they the hunters or the hunted? ### The Kardashians Coachella weekend is upon the Kardashian clan, and Kourtney makes it a family affair in the desert and really lets loose with Kylie and Kendall. ### Sidelined 3: End Game Tubi Movie Premiere Two years after their breakup, rising college football star Drayton (Noah Beck) reunites with his high school sweetheart …\n\n[2] News 26 November 2026 - Archive Euronews (euronews.com)\n- Culture news Angelina Jolie and Brad Pitt settle long-running legal battle over French winery Ownership of Château Miraval, a prestigious estate in the Var, France, was one of the main points of contention in Brad Pitt and Angelina Jolie’s divorce. 10:18\n\n[3] News Archive | November 2026 | Louder (loudersound.com)\n- Journey's new drummer is the frontman in a Bob Seger tribute band ... May shared a touching tribute to his dear friend Freddie Mercury on the 35th anniversary of the legendary singer's death ... I looked over at the end and it was double thumbs up. I\n\n[4] November 2026 – Deadline (deadline.com)\nNetflix Cancels ‘Amsterdam Empire’ Starring Famke Janssen After One Season ... not be returning to the murky underworld of Amsterdam Empire. ... the Dutch series starring Famke Janssen is not currently planned due to scheduling issues. Amsterdam\n\n[5] Reuters Entertainment News Summary | International (devdiscourse.com)\nCardamom ad sparks clash between Bollywood star, Indian food regulator An advertisement for cardamom is at the centre of a legal spat between a Bollywood actor and India's most prominent food commissioner, with ‌a court ruling set to shape how far companies can go in indirectly advertising brands whose promotion is restricted. India restricts advertising for liquor and tobacco but officials have for years also frowned upon the use of indirect means, called surrogate advertising, by companies in such sectors promoting their brands in the guise of sodas, water or glassware. ... Bollywood union …\n\n[6] Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian (theguardian.com)\nvoice of John Motson for football video game Late broadcaster’s family allows EA Sports to create digital version of ‘Motty’ to commentate on popular FC27 ... ### Hundreds complain after Mariella Frostrup calls AJ Odudu ‘aggressive’ on I’m a Celebrity\n\n[7] Morning Edition for November 26, 2026 : NPR (npr.org)\n### Storm postpones Macy's Thanksgiving Day Parade by Steve Kastenbaum, A Martínez #### Storm postpones Macy's Thanksgiving Day Parade ### Steelers cut quarterback Aaron Rodgers after he made claims about head coach #### Steelers cut quarterback Aaron\n\n[8] Andy Taylor obituary | Duran Duran | The Guardian (theguardian.com)\nAdam Sweeting Thu 26 Nov 2026 07.28 EST Last modified on Thu 26 Nov 2026 07.30 EST In 1980 ... Andy Taylor, who has died aged 65, after suffering from prostate cancer, ... Girls on Film (a UK No 5 in 1981), benefited from the\n\n[9] Music News Today — November 26, 2026 — MusicNewsletter.com (musicnewsletter.com)\n• Jesse Eisenberg Says Fans Aren’t Crazy With Him Because ‘There ... s No Sexuality to My Work’: Life Is ‘Different’ When People ‘Want to Sleep With’ You ... Her Portrayal in Netflix Series ‘The Altruists’ as ‘Racist’ and\n\n[10] Tribute: Duran Duran’s Andy Taylor Was the Wildest of the Wild Boys (rollingstone.com)\n, the purest rocker in the band. He was the guitarist who brought his own style of glam-rock flash to their classic Eighties hits, from ... Wolf” to “Girls on Film” to “Rio.” He gave them an aggressive edge that no other New Romantic band had — part",
+  "hash": "f1398b391e7e1330fc1029a512ba14d8e7537a0522c4ecce553ad9cb9b0dc793",
+  "notes": []
+ }
+}
