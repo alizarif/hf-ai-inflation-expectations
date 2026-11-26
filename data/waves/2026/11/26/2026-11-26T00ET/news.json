@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-26T05:05:00+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 26, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-26T05:05:00+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian",
+    "url": "https://www.theguardian.com/theguardian/2026/nov/26",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "## Front page Thursday 26 November 2026 - Wednesday 25 November 2026 - ### UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged ... - ### Poundland collapses, putting more than 10,000 jobs at risk Poundland collapses, putting more than 10,000 jobs at risk - ### World has six consecutive days 2C above preindustrial levels for first time World has six consecutive days 2C above preindustrial levels for first time ... - ### Trump proposing new tariffs on 14 partners including China and EU"
+   },
+   {
+    "title": "Kyodo News Digest: Nov. 26",
+    "url": "https://english.kyodonews.net/articles/-/92639",
+    "source": "english.kyodonews.net",
+    "published": "",
+    "excerpt": "U.S. mulls new tariffs on Japan, China, 12 others WASHINGTON - The administration of U.S. President Donald Trump said Wednesday it is considering new tariffs on Japan, China, South Korea, the European Union and 10 other economies, marking the latest step in his push to implement high tariffs on U.S. trading partners. The Office of the U.S. Trade Representative said it will eye tariffs of no more than 15 percent on all goods from Japan, a potential increase from the 12.5 percent rate currently applied. Under a Japan-U.S. deal, imports from Japan with preexisting tariffs of 15 percent or higher are exempt from further levies."
+   },
+   {
+    "title": "Morning Recap - November 26, 2026",
+    "url": "https://www.thestandard.com.hk/news/article/349695/Morning-Recap-November-26-2026",
+    "source": "thestandard.com.hk",
+    "published": "",
+    "excerpt": "Indonesian rescuers recovered eight bodies from a flooded mine in West Java province and continued to search for 18 other miners believed to be trapped underground, the search and rescue agency said on Wednesday."
+   },
+   {
+    "title": "The Hindu Morning Digest: November 26, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/the-hindu-morning-digest-november-26-2026/article71744115.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "#### U.S. announces new 25% tariffs on India for ‘harmful trade’ The U.S. government on Wednesday (November 25, 2026) announced a tariff of 25% on goods imported from India in response to India’s “unreasonable acts, policies, and practices” that “burden or restrict U.S. commerce”. This is the second-highest tariff among the 14 economies against which the latest action has been taken, second only to the 35% tariff levied on Vietnam."
+   },
+   {
+    "title": "HT morning brief Nov 26: 4 in 5 Agniveers wanted to stay on, India rejects US excess capacity claims and more | India News",
+    "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-nov-26-4-in-5-agniveers-wanted-to-stay-on-india-rejects-us-excess-capacity-claims-and-more-101795662473573.html",
+    "source": "hindustantimes.com",
+    "published": "",
+    "excerpt": "## HT Exclusive: 4 in 5 Agniveers wanted to stay on before Agnipath’s revamp About 80% of the Indian Army’s first batch of 19,000 Agniveers wanted to stay on beyond their four-year tenure after being asked whether they wished to continue or leave, weeks before the government unveiled a revamped Agnipath scheme in early November offering short-term soldiers a full career in the armed forces, officials familiar with the matter said Wednesday."
+   },
+   {
+    "title": "Daily World Briefing, Nov. 26-Xinhua",
+    "url": "https://english.news.cn/20261126/0bc98938aa46439e80be9d715c53074d/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "in Indonesia's West Java province on Wednesday, with 17 others still missing underground, local authorities said in a statement. The ... from two mining tunnels, with six bodies recovered from Tunnel A and three from Tunnel B as of 7 p.m. local time."
+   },
+   {
+    "title": "World news digest for November 26, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-26",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "2 A fire broke out at the Ras Tanura refinery, and ... for Saudi strikes earlier this week that killed at least 26 people.⁠ ... , while the exchanges have also reached Saudi Red Sea ports, where a Houthi drone was intercepted near Jeddah Islamic Port.⁠"
+   },
+   {
+    "title": "India News Today's Live Updates, 26 November 2026: Latest Breaking News From India, Delhi, Mumbai & Around the World | India News - The Indian Express",
+    "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-26-november-2026-cjp-save-democracy-protest-nagpur-25-percent-us-tariffs-cairo-crash-us-tariffs-congress-constitution-day-pm-narendra-modi-10978950/",
+    "source": "indianexpress.com",
+    "published": "",
+    "excerpt": "The Nepal government has begun the process of presumption and declaration of death for 213 Indian nationals who went missing following the flash floods in the Trishuli-Bhote Koshi river system in August. The National Disaster Risk Reduction and Management Authority (NDRRMA) has published a list of the 213 missing Indian nationals for presumption and declaration of death on its website, the Indian Embassy in Nepal said in a press release on Wednesday. The NDRRMA has invited objections for additions, deletions or amendments in the details contained in the list."
+   },
+   {
+    "title": "Xinhua world news summary at 0030 GMT, Nov. 26-Xinhua",
+    "url": "https://english.news.cn/20261126/eab0f9630b984f36a03ddcc9b8f02a14/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "SANAA/RIYADH -- Yemen's Houthi group said Wednesday it had attacked the Saudi ports of Jeddah and Jazan in retaliation for Saudi airstrikes on Yemen's Red Sea port of Hodeidah, as the Saudi-led coalition reported intercepting eight drones in eastern and western Saudi Arabia and striking multiple targets in Yemen. In a televised statement aired by Houthi-run al-Masirah TV, Houthi military spokesperson Yahya Sarea claimed the attacks caused damage at both ports: Jeddah in western Saudi Arabia and Jazan further south near the Yemeni border. (Yemen-Saudi Arabia-Attacks) ATHENS -- A 24-hour nationwide strike called by Greece's largest public-sector union, ADEDY, and dozens of labor centers and trade unions across the country disrupted transport and public services on Wednesday. In Athens, protesters marched towards parliament, carrying banners and chanting slogans demanding higher wages and better funding for pensions, healthcare and education. Metro, electric railway and tram services operated on reduced schedules. (Greece-Strike) CAIRO -- At least 30 people were killed and 25 others injured when a truck carrying petroleum products crashed and caught fire on Wednesday in Egypt's Giza governorate, near the capital Cairo, the Egyptian public prosecution said. The prosecution said in a statement that it had launched an investigation into the accident on the Ring Road in Al-Warraq district, which also burned out 27 vehicles, including cars and motorcycles. ... SAO PAULO -- At least eight people, including a one-year-old child, have been killed by heavy rains and storms across southern and southeastern Brazil, civil defense authorities confirmed Wednesday. Six people were killed in Parana state, which borders Argentina and Paraguay. Flooding and flash floods have also affected about 10,000 residents across several municipalities in the state since Monday."
+   },
+   {
+    "title": "News Headlines | Thursday, November 26, 2026 - NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/news-headlines-thursday-november-26-2026/NDGFQBQG4SLTKN2QWC3ZJQJSVU/",
+    "source": "nzherald.co.nz",
+    "published": "",
+    "excerpt": "### High tides cause flooding in California’s San Francisco Bay area Exceptionally high tides and El Niño-fuelled weather threaten coastal areas with extreme flooding during the busiest US travel week of the year. Video / AFP"
+   }
+  ],
+  "text": "[1] Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian (theguardian.com)\n## Front page Thursday 26 November 2026 - Wednesday 25 November 2026 - ### UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged ... - ### Poundland collapses, putting more than 10,000 jobs at risk Poundland collapses, putting more than 10,000 jobs at risk - ### World has six consecutive days 2C above preindustrial levels for first time World has six consecutive days 2C above preindustrial levels for first time ... - ### Trump proposing new tariffs on …\n\n[2] Kyodo News Digest: Nov. 26 (english.kyodonews.net)\nU.S. mulls new tariffs on Japan, China, 12 others WASHINGTON - The administration of U.S. President Donald Trump said Wednesday it is considering new tariffs on Japan, China, South Korea, the European Union and 10 other economies, marking the latest step in his push to implement high tariffs on U.S. trading partners. The Office of the U.S. Trade Representative said it will eye tariffs of no more than 15 percent on all goods from Japan, a potential increase from the 12.5 percent rate currently applied. Under a Japan-U.S. deal, imports from Japan with preexisting tariffs of 15 percent or higher …\n\n[3] Morning Recap - November 26, 2026 (thestandard.com.hk)\nIndonesian rescuers recovered eight bodies from a flooded mine in West Java province and continued to search for 18 other miners believed to be trapped underground, the search and rescue agency said on Wednesday.\n\n[4] The Hindu Morning Digest: November 26, 2026 - The Hindu (thehindu.com)\n#### U.S. announces new 25% tariffs on India for ‘harmful trade’ The U.S. government on Wednesday (November 25, 2026) announced a tariff of 25% on goods imported from India in response to India’s “unreasonable acts, policies, and practices” that “burden or restrict U.S. commerce”. This is the second-highest tariff among the 14 economies against which the latest action has been taken, second only to the 35% tariff levied on Vietnam.\n\n[5] HT morning brief Nov 26: 4 in 5 Agniveers wanted to stay on, India rejects US excess capacity claims and more | India News (hindustantimes.com)\n## HT Exclusive: 4 in 5 Agniveers wanted to stay on before Agnipath’s revamp About 80% of the Indian Army’s first batch of 19,000 Agniveers wanted to stay on beyond their four-year tenure after being asked whether they wished to continue or leave, weeks before the government unveiled a revamped Agnipath scheme in early November offering short-term soldiers a full career in the armed forces, officials familiar with the matter said Wednesday.\n\n[6] Daily World Briefing, Nov. 26-Xinhua (english.news.cn)\nin Indonesia's West Java province on Wednesday, with 17 others still missing underground, local authorities said in a statement. The ... from two mining tunnels, with six bodies recovered from Tunnel A and three from Tunnel B as of 7 p.m. local time.\n\n[7] World news digest for November 26, 2026 | World Watch (worldwatch.media)\n2 A fire broke out at the Ras Tanura refinery, and ... for Saudi strikes earlier this week that killed at least 26 people.⁠ ... , while the exchanges have also reached Saudi Red Sea ports, where a Houthi drone was intercepted near Jeddah Islamic Port.⁠\n\n[8] India News Today's Live Updates, 26 November 2026: Latest Breaking News From India, Delhi, Mumbai & Around the World | India News - The Indian Express (indianexpress.com)\nThe Nepal government has begun the process of presumption and declaration of death for 213 Indian nationals who went missing following the flash floods in the Trishuli-Bhote Koshi river system in August. The National Disaster Risk Reduction and Management Authority (NDRRMA) has published a list of the 213 missing Indian nationals for presumption and declaration of death on its website, the Indian Embassy in Nepal said in a press release on Wednesday. The NDRRMA has invited objections for additions, deletions or amendments in the details contained in the list.\n\n[9] Xinhua world news summary at 0030 GMT, Nov. 26-Xinhua (english.news.cn)\nSANAA/RIYADH -- Yemen's Houthi group said Wednesday it had attacked the Saudi ports of Jeddah and Jazan in retaliation for Saudi airstrikes on Yemen's Red Sea port of Hodeidah, as the Saudi-led coalition reported intercepting eight drones in eastern and western Saudi Arabia and striking multiple targets in Yemen. In a televised statement aired by Houthi-run al-Masirah TV, Houthi military spokesperson Yahya Sarea claimed the attacks caused damage at both ports: Jeddah in western Saudi Arabia and Jazan further south near the Yemeni border. (Yemen-Saudi Arabia-Attacks) ATHENS -- A 24-hour …\n\n[10] News Headlines | Thursday, November 26, 2026 - NZ Herald (nzherald.co.nz)\n### High tides cause flooding in California’s San Francisco Bay area Exceptionally high tides and El Niño-fuelled weather threaten coastal areas with extreme flooding during the busiest US travel week of the year. Video / AFP",
+  "hash": "0f3b7741cba1d55c3e596b56feaa67f3a7737b1649f65fa48aba79e52ab0dd81",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 26, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-26T05:05:16+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "US economy roars ahead in third quarter, inflation remains high in October By Reuters",
+    "url": "https://www.investing.com/news/economy-news/us-inflation-rises-further-in-october-5050840",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Spending is being driven mostly by higher-income households, whose wealth was boosted by the stock market before the ongoing AI-led selloff. Economists expect consumer spending to slow to a still-healthy pace in the fourth quarter, though declining gasoline prices should ease some of the financial pressure on middle- and lower-income households. Average retail gasoline prices have dropped below $4 a gallon for the first time since mid-July, data from the US Energy Information Administration showed. ... The Personal Consumption Expenditures Price Index increased 0.3% in October after gaining 0.5% in September, the BEA said. PCE inflation was lifted by higher prices for goods, including food and household furnishings, as well as services such as recreation, dining out and hotel stays. In the 12 months through October, PCE inflation increased 3.8% after advancing 3.6% in September. Excluding the volatile food and energy components, the PCE Price Index increased 0.3% for the third straight month. So-called core PCE inflation increased 3.3% on a year-over-year basis in October, the largest advance since November 2023, after climbing 3.1% in September. The Fed tracks the PCE price measures for its 2% inflation target."
+   },
+   {
+    "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+    "url": "https://apnews.com/article/consumer-spending-prices-inflation-tariffs-31fab1e32dda1ad3a29c192f620d5733",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Gas prices rose just 0.8% last month, according to the department, after surging 9.2% in September. Food prices, however, jumped 0.4% from September to October, the biggest monthly increase since April."
+   },
+   {
+    "title": "US Q3 GDP revised upwards but US inflation surges - RTHK",
+    "url": "https://news.rthk.hk/rthk/en/component/k2/1879282-20261126.htm?spTabChangeable=0",
+    "source": "news.rthk.hk",
+    "published": "",
+    "excerpt": "years of above-target inflation since the pandemic have hit US households hard, with current price levels more than 30 percent higher than in 2020, as per the official Consumer Price Index. Affordability was"
+   },
+   {
+    "title": "PCE inflation report October 2026: Fed’s preferred inflation gauge accelerated to 3.8%",
+    "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": ".S. and Israel. Tariffs also have continued to exert pressure, as has ... Policymakers generally consider factors such as tariffs and supply shocks to be temporary, but some fear the impact has begun spreading through the economy and could become embedded"
+   },
+   {
+    "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks By Reuters",
+    "url": "https://www.investing.com/news/economy-news/fed-survey-shows-continued-growth-and-sticky-inflation-in-recent-weeks-5051371",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "the Fed said in its latest \"Beige Book\" report, a compendium of survey-based data and commentary from businesses compiled by its 12 regional banks to provide a read on economic conditions. \"Contacts across a range of sectors reported sustained cost"
+   },
+   {
+    "title": "US inflation hits highest since May after prices climb 3.8% over the last year | US economy | The Guardian",
+    "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "comes after the Bureau of Labor Statistics separately reported prices climbed 0.4% ... Energy prices, including gas prices at the pump, have cooled, going from a high of $4.41 a gallon in early October to $3.61 a gallon by mid-November, according to AAA."
+   },
+   {
+    "title": "GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 | U.S. Bureau of Economic Analysis (BEA)",
+    "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+    "source": "bea.gov",
+    "published": "",
+    "excerpt": "EMBARGOED UNTIL RELEASE AT 8:30 a.m. EST, Wednesday, November 25, 2026 # GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 Real gross domestic product (GDP) increased at an annual rate of 4.3 percent in the third quarter of 2026 (July, August, and September), according to the second estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the second quarter, real GDP increased 2.2 percent. The contributors to the increase in real GDP in the third quarter were increases in investment, consumer spending, and government spending that were partly offset by a decrease in exports. Imports, which are a subtraction in the calculation of GDP, increased. Real GDP was revised up 0.9 percentage point from the advance estimate, primarily reflecting upward revisions to investment and consumer spending. For more information, refer to the \" Technical Notes\" below. Compared to the second quarter, the acceleration in real GDP in the third quarter primarily reflected an acceleration in investment and an upturn in government spending that were partly offset by a downturn in exports. Imports increased more in the third quarter than in the second quarter. Real final sales to private domestic purchasers, the sum of consumer spending and gross private fixed investment, increased 5.8 percent in the third quarter, revised up 0.9 percentage point from the previous estimate. The price index for gross domestic purchases increased 2.7 percent in the third quarter, revised down 0.3 percentage point from the previous estimate. The personal consumption expenditures (PCE) price index increased 2.1 percent, and the PCE price index, excluding food and energy increased 2.5 percent, both the same as previously estimated. Real gross domestic income (GDI) increased 4.4 percent in the third quarter, compared with an increase of 2.3 percent (revised) in the second quarter. The average of real GDP and real GDI also increased 4.4 percent, compared with an increase of 2.2 percent (revised). ... | Real GDP and Related Measures [Percent change (SAAR) from 2026:Q2 to 2026:Q3] | | | | --- | --- | --- | | | Advance Estimate | Second Estimate | | Real GDP | 3.4 | 4.3 | | Current-dollar GDP | 5.6 | 6.2 | | Real final sales to private domestic purchasers | 4.9 | 5.8 | | Real GDI | … | 4.4 | | Average of real GDP and real GDI | … | 4.4 | | Gross domestic purchases price index | 3.0 | 2.7 | | PCE price index | 2.1 | 2.1 | | PCE price index excluding food and energy | 2.5 | 2.5 | | SAAR seasonally adjusted at annual rates U.S."
+   },
+   {
+    "title": "Fed's November Beige Book: \"U.S. Wage Growth Accelerates... Consumer Spending Stalls Amid High Inflation\" - The Asia Business Daily",
+    "url": "https://view.asiae.co.kr/en/article/economic-general/2026112608503820401",
+    "source": "view.asiae.co.kr",
+    "published": "",
+    "excerpt": "Federal Reserve (Fed) on November 25 (local time), economic activity grew at a \"slight\" to \"moderate\" pace in eight of the 12 Federal Reserve districts. ... Businesses continued to face cost pressures related to energy, transportation, healthcare, insurance and tariffs, while rising prices for raw materials, metals and specialized imported goods added to those pressures. In particular, increases in businesses' input costs generally outpaced increases in selling prices."
+   },
+   {
+    "title": "US Q3 GDP revised up to 4.3% as core PCE rises to 3.3%",
+    "url": "https://www.thedailycontext.com/article/us-q3-gdp-revised-4-3-percent-october-pce-inflation-3-8-core-3-3-november-2026",
+    "source": "thedailycontext.com",
+    "published": "",
+    "excerpt": "food and household furnishings, and by services including recreation, restaurant meals and hotel stays. Gasoline and other energy goods rose 0.8% ... 2.1% annualised rate, with core at 2.5%. The acceleration in annual inflation is therefore mainly a story"
+   },
+   {
+    "title": "Fed policymakers at odds over causes of high inflation By Reuters",
+    "url": "https://www.investing.com/news/economy-news/fed-policymakers-at-odds-over-causes-of-high-inflation-5050327",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": ", regard supply-shock effects as less relevant than the fact that inflation has ... that \"inflation persists meaningfully above 2%, absent further removal of monetary policy accommodation.\" He said several hikes"
+   }
+  ],
+  "text": "[1] US economy roars ahead in third quarter, inflation remains high in October By Reuters (investing.com)\nSpending is being driven mostly by higher-income households, whose wealth was boosted by the stock market before the ongoing AI-led selloff. Economists expect consumer spending to slow to a still-healthy pace in the fourth quarter, though declining gasoline prices should ease some of the financial pressure on middle- and lower-income households. Average retail gasoline prices have dropped below $4 a gallon for the first time since mid-July, data from the US Energy Information Administration showed. ... The Personal Consumption Expenditures Price Index increased 0.3% in October after gaining …\n\n[2] Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed (apnews.com)\nGas prices rose just 0.8% last month, according to the department, after surging 9.2% in September. Food prices, however, jumped 0.4% from September to October, the biggest monthly increase since April.\n\n[3] US Q3 GDP revised upwards but US inflation surges - RTHK (news.rthk.hk)\nyears of above-target inflation since the pandemic have hit US households hard, with current price levels more than 30 percent higher than in 2020, as per the official Consumer Price Index. Affordability was\n\n[4] PCE inflation report October 2026: Fed’s preferred inflation gauge accelerated to 3.8% (cnbc.com)\n.S. and Israel. Tariffs also have continued to exert pressure, as has ... Policymakers generally consider factors such as tariffs and supply shocks to be temporary, but some fear the impact has begun spreading through the economy and could become embedded\n\n[5] Fed survey shows continued economic growth, sticky inflation in recent weeks By Reuters (investing.com)\nthe Fed said in its latest \"Beige Book\" report, a compendium of survey-based data and commentary from businesses compiled by its 12 regional banks to provide a read on economic conditions. \"Contacts across a range of sectors reported sustained cost\n\n[6] US inflation hits highest since May after prices climb 3.8% over the last year | US economy | The Guardian (theguardian.com)\ncomes after the Bureau of Labor Statistics separately reported prices climbed 0.4% ... Energy prices, including gas prices at the pump, have cooled, going from a high of $4.41 a gallon in early October to $3.61 a gallon by mid-November, according to AAA.\n\n[7] GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 | U.S. Bureau of Economic Analysis (BEA) (bea.gov)\nEMBARGOED UNTIL RELEASE AT 8:30 a.m. EST, Wednesday, November 25, 2026 # GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 Real gross domestic product (GDP) increased at an annual rate of 4.3 percent in the third quarter of 2026 (July, August, and September), according to the second estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the second quarter, real GDP increased 2.2 percent. The contributors to the increase in real GDP in the third quarter were increases in investment, consumer spending, and government spending that were partly offset by a decrease …\n\n[8] Fed's November Beige Book: \"U.S. Wage Growth Accelerates... Consumer Spending Stalls Amid High Inflation\" - The Asia Business Daily (view.asiae.co.kr)\nFederal Reserve (Fed) on November 25 (local time), economic activity grew at a \"slight\" to \"moderate\" pace in eight of the 12 Federal Reserve districts. ... Businesses continued to face cost pressures related to energy, transportation, healthcare, insurance and tariffs, while rising prices for raw materials, metals and specialized imported goods added to those pressures. In particular, increases in businesses' input costs generally outpaced increases in selling prices.\n\n[9] US Q3 GDP revised up to 4.3% as core PCE rises to 3.3% (thedailycontext.com)\nfood and household furnishings, and by services including recreation, restaurant meals and hotel stays. Gasoline and other energy goods rose 0.8% ... 2.1% annualised rate, with core at 2.5%. The acceleration in annual inflation is therefore mainly a story\n\n[10] Fed policymakers at odds over causes of high inflation By Reuters (investing.com)\n, regard supply-shock effects as less relevant than the fact that inflation has ... that \"inflation persists meaningfully above 2%, absent further removal of monetary policy accommodation.\" He said several hikes",
+  "hash": "cf07c9c6f3b56b7b9acf032551ebd74cd7fb823d6a0c91d64ff031aaef34c526",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 26, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-26T05:05:32+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda",
+    "url": "https://apnews.com/article/dnc-trump-ads-propaganda-lawsuit-fcc1b61e8e7134c01ca3e6dec7728442",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "NEW YORK (AP) — A federal judge on Wednesday sided against Democrats on the federal government’s taxpayer-funded ads that promoted partisan messages and President Donald Trump ahead of the midterm elections, declining to extend a temporary ban. The Democratic National Committee had argued the TV spots were illegal government-sponsored propaganda intended to promote the president’s campaign message just weeks before November’s midterm elections. The ruling by U.S. District Judge Loren AliKhan comes after another judge in a similar case in New York also declined a long-term ban on the ads. AliKhan noted that a previous temporary restraining order against the ads"
+   },
+   {
+    "title": "Judge blocks latest Trump effort to restrict birthright citizenship - ABC News",
+    "url": "https://abcnews.com/Politics/judge-blocks-latest-trump-effort-restrict-birthright-citizenship/story?id=138451919",
+    "source": "abcnews.com",
+    "published": "",
+    "excerpt": "A federal judge in Washington, D.C., on Wednesday blocked the Trump administration's latest effort to restrict birthright citizenship for the children of international workers born in the United States, according to a newly filed ruling. D.C. District Judge Christopher Cooper, an appointee of former President Barack Obama, granted a request for a preliminary injunction blocking President Donald Trump's executive order earlier this year that came in the wake of the Supreme Court's ruling that struck down Trump's push to formally end birthright citizenship. ... Trump aimed to do away with birthright citizenship altogether in an executive order he signed on the first day of his second term last year. In August, he signed another executive order targeting birthright citizenship -- one that would outlaw what the administration has described as \"birth tourism\" and another that would narrow the criteria for who is eligible for birthright citizenship. The narrower executive order directed federal agencies to not grant citizenship to children born in the U.S. to parents that lacked diplomatic immunity and who worked for foreign governments or other organizations, those born through commercial surrogacy, as well as children with a parent who is a suspected gang member or potential terrorist. But in his ruling, Cooper said Trump \"cannot carve out new exceptions to birthright citizenship for children born within the United States and subject to its laws\" and granted the request for an injunction and class-action status from a group that filed suit who claimed their citizenship would be unlawfully denied if the order was implemented. \"The Citizenship Clause promises citizenship to practically all children born in the United States,\" Cooper said in the ruling. \"Earlier this year, the Supreme Court kept that promise by striking down EO1. This Court does so again today by enjoining EO2’s application as to the certified class.\""
+   },
+   {
+    "title": "A meeting with Democrats over healthcare? Trump says he’s open to it | US Midterm Elections 2026 News | Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it",
+    "source": "aljazeera.com",
+    "published": "",
+    "excerpt": "Published On 26 Nov 2026 26 Nov 2026 Just weeks after attacking Abdul El-Sayed on the campaign trail, United States President Donald Trump says he will meet with the incoming Democratic senator to discuss Medicare for All, a proposal to establish a national healthcare programme. Trump confirmed his willingness to sit down with El-Sayed in an interview with the New York Post on Tuesday, calling the Democrat a “smart guy”. “I know I’ll be meeting with him,” Trump said. “Maybe there’s some place in the middle that we could go.” A former public health official in Detroit, El-Sayed catapulted to national prominence in the 2026 midterm elections, when he won a hotly contested Senate seat in Michigan. A central part of his platform has been expanding access to healthcare. ... The White House initially dismissed the proposal. Then, on Saturday, Trump shared El-Sayed’s image of the card on Truth Social. In his interview with the New York Post, Trump also called the “Trumpcare” branding “very smart”. El-Sayed is pitching a government-run health insurance programme, which would cover “all necessary healthcare” and still allow private insurance. Trump has not endorsed the proposal, and there is no set date for the meeting. But with Democrats set to take control of the US Congress in January, healthcare advocates and political experts are closely watching what will come out of any potential meeting between the two politicians. It remains unclear what Trump’s support could mean for the effort to get guaranteed healthcare for every American. ... However, she expressed doubt that a bill resembling Medicare for All will materialise from any meeting with El-Sayed, saying agreements to lower drug prices, provide more funds for rural healthcare or expand Medicare for children are much more likely."
+   },
+   {
+    "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat | Reuters",
+    "url": "https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+    "source": "reuters.com",
+    "published": "",
+    "excerpt": ". His administration proposed new maximum potential rates of 20% to 40% to counter excess industrial capacity that ‌it says these countries are promoting. ... tariffs at lower levels agreed under trade deals that are completed or still under negotiation."
+   },
+   {
+    "title": "US unveils tariffs on EU, China and others over 'unfair' trade | AFP.com",
+    "url": "https://www.afp.com/en/us-unveils-tariffs-eu-china-and-others-over-unfair-trade",
+    "source": "afp.com",
+    "published": "",
+    "excerpt": "The EU said it rejected the premise of new tariffs and expected Washington to stick by a deal struck with Brussels last year. \"The EU and the US share a real concern about global overcapacity, much of it state-driven and concentrated in third"
+   },
+   {
+    "title": "Kyodo News Digest: Nov. 26",
+    "url": "https://english.kyodonews.net/articles/-/92639",
+    "source": "english.kyodonews.net",
+    "published": "",
+    "excerpt": "The Office of the U.S. Trade Representative said it will eye tariffs of no more than 15 percent on all goods from Japan, a potential increase from ... Japan with preexisting tariffs of 15 percent or higher are exempt from further"
+   },
+   {
+    "title": "Trump proposes new tariffs on China, Europe and other trade partners",
+    "url": "https://www.washingtonpost.com/politics/2026/11/25/trump-proposes-new-tariffs-china-europe-other-trade-partners/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "But obtaining a veto-proof majority to curb Trump’s authority — 290 votes in the House and 67 votes in the Senate — would be difficult, and some tariffs have bipartisan appeal. Biden kept in place many of Trump’s tariffs from the first term."
+   },
+   {
+    "title": "Senate Appropriations Panel Releases Twelve Spending Bills Including Over One Trillion Dollars for Pentagon Ahead of Shutdown Deadline - CNNBC",
+    "url": "https://cnnbc.com/senate-appropriations-panel-releases-twelve-spending-bills-including-over-one-trillion-dollars-for-pentagon-ahead",
+    "source": "cnnbc.com",
+    "published": "",
+    "excerpt": "The United States Senate released all twelve annual appropriations bills, including a defense spending measure topping one trillion United States dollars in line with President Donald Trump’s budget request, as lawmakers race against a year-end government shutdown deadline. Senate Appropriations Committee ranking member Patty Murray criticized the package for prioritizing defense increases over domestic affordability programs, underscoring that Senate Republicans need at least seven Democratic votes to pass funding bills or a stopgap extension before the new Congress convenes."
+   },
+   {
+    "title": "GMT EIGHT - Latest - Today's Trump Top Stories",
+    "url": "https://www.gmt8press.com/flash/detail/1561069",
+    "source": "gmt8press.com",
+    "published": "",
+    "excerpt": ". The White House issued an executive order: Trump exempted multiple Russia-related sanctions, restrictive measures, and tariffs under the \"2026 Lindsey Graham Sanctions on Russia and Iran Act,\" suspending the implementation of relevant provisions, but did"
+   },
+   {
+    "title": "Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian",
+    "url": "https://www.theguardian.com/theguardian/2026/nov/26",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "- ### BBC lodges urgent appeal against Trump’s $10bn defamation lawsuit Corporation asks US court of appeals for the 11th circuit to throw out case brought over Panorama documentary BBC lodges urgent appeal against Trump’s $10bn defamation lawsuit"
+   }
+  ],
+  "text": "[1] Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda (apnews.com)\nNEW YORK (AP) — A federal judge on Wednesday sided against Democrats on the federal government’s taxpayer-funded ads that promoted partisan messages and President Donald Trump ahead of the midterm elections, declining to extend a temporary ban. The Democratic National Committee had argued the TV spots were illegal government-sponsored propaganda intended to promote the president’s campaign message just weeks before November’s midterm elections. The ruling by U.S. District Judge Loren AliKhan comes after another judge in a similar case in New York also declined a long-term ban on the ads. …\n\n[2] Judge blocks latest Trump effort to restrict birthright citizenship - ABC News (abcnews.com)\nA federal judge in Washington, D.C., on Wednesday blocked the Trump administration's latest effort to restrict birthright citizenship for the children of international workers born in the United States, according to a newly filed ruling. D.C. District Judge Christopher Cooper, an appointee of former President Barack Obama, granted a request for a preliminary injunction blocking President Donald Trump's executive order earlier this year that came in the wake of the Supreme Court's ruling that struck down Trump's push to formally end birthright citizenship. ... Trump aimed to do away with …\n\n[3] A meeting with Democrats over healthcare? Trump says he’s open to it | US Midterm Elections 2026 News | Al Jazeera (aljazeera.com)\nPublished On 26 Nov 2026 26 Nov 2026 Just weeks after attacking Abdul El-Sayed on the campaign trail, United States President Donald Trump says he will meet with the incoming Democratic senator to discuss Medicare for All, a proposal to establish a national healthcare programme. Trump confirmed his willingness to sit down with El-Sayed in an interview with the New York Post on Tuesday, calling the Democrat a “smart guy”. “I know I’ll be meeting with him,” Trump said. “Maybe there’s some place in the middle that we could go.” A former public health official in Detroit, El-Sayed catapulted to …\n\n[4] Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat | Reuters (reuters.com)\n. His administration proposed new maximum potential rates of 20% to 40% to counter excess industrial capacity that ‌it says these countries are promoting. ... tariffs at lower levels agreed under trade deals that are completed or still under negotiation.\n\n[5] US unveils tariffs on EU, China and others over 'unfair' trade | AFP.com (afp.com)\nThe EU said it rejected the premise of new tariffs and expected Washington to stick by a deal struck with Brussels last year. \"The EU and the US share a real concern about global overcapacity, much of it state-driven and concentrated in third\n\n[6] Kyodo News Digest: Nov. 26 (english.kyodonews.net)\nThe Office of the U.S. Trade Representative said it will eye tariffs of no more than 15 percent on all goods from Japan, a potential increase from ... Japan with preexisting tariffs of 15 percent or higher are exempt from further\n\n[7] Trump proposes new tariffs on China, Europe and other trade partners (washingtonpost.com)\nBut obtaining a veto-proof majority to curb Trump’s authority — 290 votes in the House and 67 votes in the Senate — would be difficult, and some tariffs have bipartisan appeal. Biden kept in place many of Trump’s tariffs from the first term.\n\n[8] Senate Appropriations Panel Releases Twelve Spending Bills Including Over One Trillion Dollars for Pentagon Ahead of Shutdown Deadline - CNNBC (cnnbc.com)\nThe United States Senate released all twelve annual appropriations bills, including a defense spending measure topping one trillion United States dollars in line with President Donald Trump’s budget request, as lawmakers race against a year-end government shutdown deadline. Senate Appropriations Committee ranking member Patty Murray criticized the package for prioritizing defense increases over domestic affordability programs, underscoring that Senate Republicans need at least seven Democratic votes to pass funding bills or a stopgap extension before the new Congress convenes.\n\n[9] GMT EIGHT - Latest - Today's Trump Top Stories (gmt8press.com)\n. The White House issued an executive order: Trump exempted multiple Russia-related sanctions, restrictive measures, and tariffs under the \"2026 Lindsey Graham Sanctions on Russia and Iran Act,\" suspending the implementation of relevant provisions, but did\n\n[10] Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian (theguardian.com)\n- ### BBC lodges urgent appeal against Trump’s $10bn defamation lawsuit Corporation asks US court of appeals for the 11th circuit to throw out case brought over Panorama documentary BBC lodges urgent appeal against Trump’s $10bn defamation lawsuit",
+  "hash": "c68d7a293692c1be87a9f2a50dc998ab7370620c4bf5901a6141f8bd9940d0e7",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 26, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-26T05:05:48+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Angelina Jolie and Brad Pitt settle winery fight lawsuit that surfaced abuse allegations",
+    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/angelina-jolie-brad-pitt-settle-winery-fight-lawsuit-rcna611378",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "Nov. 25, 2026, 8:06 PM EST / Source: The Associated Press By The Associated Press The long-running legal battles between Angelina Jolie and Brad Pitt have come to an end a decade after the A-list celebrity couple split, with the actors settling a dispute over the ownership of a French winery. The actors said in a joint statement Wednesday that they had reached a settlement of the lawsuit, which transcended business matters when a legal filing from Jolie surfaced abuse allegations against Pitt. “We have settled out of court in the best interests of our family and will not be commenting further,” the statement provided by representatives for Pitt, 62, and Jolie, 51, said. Jolie filed for divorce in 2016, citing the “health of the family,” after a private jet flight from Europe. The couple’s use of private judges — an ... But the winery lawsuit became a way for details of their dispute to become public. Pitt sued Jolie in 2022, saying she had abandoned an agreement that he would buy her half of Chateau Miraval, a French winery they owned together. She instead sold her part to the Tenute del Mondo wine group. Pitt said it was a “vindictive” and “unlawful” move that should not have been made without his consent and ruined a private space that had been a second home. The descriptions of the abuse alleged on the private flight weren’t public until Jolie filed a cross-complaint in the dispute. Jolie and her attorneys said Pitt had demanded she sign a wide-ranging nondisclosure agreement about him as part of the proposed deal that was an attempt to cover up his abuse of her and the children. The FBI and child services officials had investigated Pitt’s actions on the flight, centering on the treatment of their eldest son. The FBI released a statement in late 2016 saying it would not investigate further, and the U.S. attorney did not bring charges. Pitt has denied being abusive but did not defend his behavior on the flight."
+   },
+   {
+    "title": "November 2026 – Deadline",
+    "url": "https://deadline.com/2026/11/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "### Bono Bowl Review: U2 Delivers Halftime Goods & Hits On Netflix & NFL’s First Thanksgiving Eve Game, With A Little Help From Dolly Parton ... matter how many hits and tricks U2 pulled out of the hat at L.A.’"
+   },
+   {
+    "title": "Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian",
+    "url": "https://www.theguardian.com/theguardian/2026/nov/26",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "- ### Hundreds complain after Mariella Frostrup calls AJ Odudu ‘aggressive’ on I’m a Celebrity Ofcom receives 887 complaints, while media figures accuse Frostrup of using ‘microaggression’ against Odudu Hundreds complain after Mariella"
+   },
+   {
+    "title": "Movies Coming Out November 26, 2026",
+    "url": "https://www.movieinsider.com/movies/november/2026/26",
+    "source": "movieinsider.com",
+    "published": "",
+    "excerpt": "## Thursday, November 26 ### Sidelined 3: End Game USC quarterback Drayton Lahey (Noah Beck) lands in New York City as a Heisman hopeful… but it may turn out he’s not just there for football. Somewhere in the city is his former high school sweetheart, Dallas Bryan (Siena Agudong), who is building her new career, navigating her love life alongside Skyler (Charlie Gillespie), chasing her dreams, and not looking back. Now, in the city that never sleeps and with everything on the line, Drayton has one shot to prove he’s not just chasing a trophy… he’s chasing the one who got away. Michael Medico, Charlie Gillespie, Kolton Stewart, Noah Beck, Drew Ray Tanner, Asia Lizardo, Sarah Levy, Siena Agudong Drama Sports Teen Where to Watch: Tubi More Info Pre-order on Tubi"
+   },
+   {
+    "title": "Korea Now · November 26 · The Korea Now",
+    "url": "https://thekoreanow.com/en/brief/2026-11-26",
+    "source": "thekoreanow.com",
+    "published": "",
+    "excerpt": "## TXT Sets Historic Oricon Record in Japan with 'PERFECT STORM' Boy group TOMORROW X TOGETHER (TXT) has topped three weekly Oricon charts in Japan with their 9th mini album 'PERFECT STORM,' generating over 263,000 points on the Weekly Combined Album Ranking. This achievement marks their 15th career number-one on the ranking, setting an all-time record for the most number-one albums by any domestic or foreign artist in Oricon history. The group also earned their first Korean music show win for title track 'Angel Bite' on Show Champion. ... ## EXO Subunit Kai & Sehun (KASE) Previews December 1 Unit Drop SM Entertainment unveiled new music video teasers for 'Waking up the city,' the upcoming project by EXO members Kai and Sehun performing as the unit KASE. The unit release is scheduled to arrive on December 1, backed by concept imagery and preview medleys released across EXO's official channels. The release marks a major joint venture between the two core EXO performers. ... ## Na Hong-jin's 'HOPE' Wins Best Picture at 47th Blue Dragon Film Awards Director Na Hong-jin's film 'HOPE' earned Best Picture and Best Cinematography at the 47th Blue Dragon Film Awards held November 25 at KBS Hall in Seoul. Director Lee Chang-dong's 'Possible Love' secured four honors, including Best Actor for Sol Kyung-gu and Best Actress for Jeon Do-yeon. Actor Park Ji-hoon took home the Best New Actor trophy for his role in 'The Man Who Lives with the King.'"
+   },
+   {
+    "title": "November 2026 Archive | KTRENZ",
+    "url": "https://ktrenz.com/archive/2026/11",
+    "source": "ktrenz.com",
+    "published": "",
+    "excerpt": "## November 26 - Exclusive Choi Hyun-wook ### Seo Hyun-woo and Lee Jong-hyun join ENA's 1997-set retro romance 'Green Light' - Exclusive ### Heart of Woman set a personal first-week sales record with debut mini album ETERNAL FADE ## November 25"
+   },
+   {
+    "title": "Site Map: November 26, 2026",
+    "url": "https://www.broadwayworld.com/sitemap/2026/11/26/",
+    "source": "broadwayworld.com",
+    "published": "",
+    "excerpt": "1 Macy's Thanksgiving Day Parade Will Feature 9 Broadway Casts in Mega-Medley 2 Review Roundup: Tom Hiddleston and Hayley Atwell Star in MUCH ADO ABOUT NOTHING on Broadway 3 CEILIDH Will Make New York Premiere at PAC NYC, Directed by Sam Pinkleton"
+   },
+   {
+    "title": "November 2026 – Billboard",
+    "url": "https://www.billboard.com/date/2026/11/",
+    "source": "billboard.com",
+    "published": "",
+    "excerpt": "2026 – Billboard ### Duran Duran’s Biggest Billboard Hits: ‘Rio,’ ‘Hungry Like the Wolf’ & More 34 minutes ago - Gary Trust 45 minutes ago - Keith Caulfield 2 hrs ago - Keith Caulfield 2 hrs ago - Hannah Dailey 2 hrs ago - Kyle"
+   },
+   {
+    "title": "November 26, 2026 - Media Solutions in BlackNewss Diversity",
+    "url": "https://www.blacknewss.com/2026/11/26/",
+    "source": "blacknewss.com",
+    "published": "",
+    "excerpt": "## Blade Runner 2099 Has A Major Problem That Goes Back To The Original ... .com Prime Video’s new miniseries starring Hunter Schafer, Blade Runner 2099, is a follow-up to the movies Blade Runner and Blade Runner 2049, but it has a problem.http"
+   },
+   {
+    "title": "bnt뉴스",
+    "url": "https://www.bntnews.co.kr/article/list/bnt004003000",
+    "source": "bntnews.co.kr",
+    "published": "",
+    "excerpt": "- ### 아이브, 신곡 '레니게이드' MV 티저 공개 아이브가 PUBG의 시즌형 음악 프로젝트 '더 스쿼드' 첫 아티스트로 참여해 신곡 '레니게이드' 뮤직비디오 티저를 공개했다. 게임 전장을 배경으로 강렬한 존재감을 드러낸 티저는 본편에 대한 기대를 높였으며, 음원과 뮤직비디오 전편은 12월 2일 공개된다. 게임 내 콜라보 아이템과 리스닝 파티 등 온오프라인 협업도 예정돼 Music 윤이현 기자 star@bntnews.co.kr 2026-11-26 11:15:45 - ### 박소은, 연말 단독 공연 전석 매진 싱어송라이터 박소은의 연말 단독 공연 '일기: 어디에도 속하고 싶지 않은 마음'이 예매 시작과 동시에 전 회차 매진됐다. 공연은 12월 24일과 25일 서울 마포구 벨르에서 열리며, 한 해 동안의 감정과 이야기를 음악으로 나눈다. Music 이반지 기자 star@bntnews.co.kr 2026-11-26 11:06:42 - ### 보이넥스트도어, 첫 북미 투어 성료 보이넥스트도어가 첫 북미 투어 10회 공연을 전석 매진시키며 마쳤다. 24일 멕시코시티 공연을 끝으로 댈러스, 뉴욕, LA 등 10개 도시 일정을 마무리했으며, 도시별 맞춤 무대와 산토스 브라보스 합동 무대를 선보였다. 이들은 내달 자카르타를 시작으로 6개 도시 9회 규모의 아시아 투어에 돌입한다. Music 정혜진 기자 star@bntnews.co.kr 2026-11-26 10:39:31 - ### 김나영, tvN '뜨거운 안녕' OST 합류 김나영이 tvN 수목드라마 '뜨거운 안녕' OST Part 5 '동굴'의 가창자로 합류한다. '동굴'은 힘든 시기를 보내는 이에게 위로를 전하는 곡으로, 김나영의 호소력 짙은 보컬이 감정선을 극대화한다. 앞서 기현, 에반, 효정, 시은 등이 참여했으며, '동굴'은 오는 28일 오후 6시 각종 음원 사이트를 통해 발매된다. Music 윤이현 기자 star@bntnews.co.kr 2026-11-26 10:20:40"
+   }
+  ],
+  "text": "[1] Angelina Jolie and Brad Pitt settle winery fight lawsuit that surfaced abuse allegations (nbcnews.com)\nNov. 25, 2026, 8:06 PM EST / Source: The Associated Press By The Associated Press The long-running legal battles between Angelina Jolie and Brad Pitt have come to an end a decade after the A-list celebrity couple split, with the actors settling a dispute over the ownership of a French winery. The actors said in a joint statement Wednesday that they had reached a settlement of the lawsuit, which transcended business matters when a legal filing from Jolie surfaced abuse allegations against Pitt. “We have settled out of court in the best interests of our family and will not be commenting …\n\n[2] November 2026 – Deadline (deadline.com)\n### Bono Bowl Review: U2 Delivers Halftime Goods & Hits On Netflix & NFL’s First Thanksgiving Eve Game, With A Little Help From Dolly Parton ... matter how many hits and tricks U2 pulled out of the hat at L.A.’\n\n[3] Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian (theguardian.com)\n- ### Hundreds complain after Mariella Frostrup calls AJ Odudu ‘aggressive’ on I’m a Celebrity Ofcom receives 887 complaints, while media figures accuse Frostrup of using ‘microaggression’ against Odudu Hundreds complain after Mariella\n\n[4] Movies Coming Out November 26, 2026 (movieinsider.com)\n## Thursday, November 26 ### Sidelined 3: End Game USC quarterback Drayton Lahey (Noah Beck) lands in New York City as a Heisman hopeful… but it may turn out he’s not just there for football. Somewhere in the city is his former high school sweetheart, Dallas Bryan (Siena Agudong), who is building her new career, navigating her love life alongside Skyler (Charlie Gillespie), chasing her dreams, and not looking back. Now, in the city that never sleeps and with everything on the line, Drayton has one shot to prove he’s not just chasing a trophy… he’s chasing the one who got away. Michael Medico, …\n\n[5] Korea Now · November 26 · The Korea Now (thekoreanow.com)\n## TXT Sets Historic Oricon Record in Japan with 'PERFECT STORM' Boy group TOMORROW X TOGETHER (TXT) has topped three weekly Oricon charts in Japan with their 9th mini album 'PERFECT STORM,' generating over 263,000 points on the Weekly Combined Album Ranking. This achievement marks their 15th career number-one on the ranking, setting an all-time record for the most number-one albums by any domestic or foreign artist in Oricon history. The group also earned their first Korean music show win for title track 'Angel Bite' on Show Champion. ... ## EXO Subunit Kai & Sehun (KASE) Previews December 1 …\n\n[6] November 2026 Archive | KTRENZ (ktrenz.com)\n## November 26 - Exclusive Choi Hyun-wook ### Seo Hyun-woo and Lee Jong-hyun join ENA's 1997-set retro romance 'Green Light' - Exclusive ### Heart of Woman set a personal first-week sales record with debut mini album ETERNAL FADE ## November 25\n\n[7] Site Map: November 26, 2026 (broadwayworld.com)\n1 Macy's Thanksgiving Day Parade Will Feature 9 Broadway Casts in Mega-Medley 2 Review Roundup: Tom Hiddleston and Hayley Atwell Star in MUCH ADO ABOUT NOTHING on Broadway 3 CEILIDH Will Make New York Premiere at PAC NYC, Directed by Sam Pinkleton\n\n[8] November 2026 – Billboard (billboard.com)\n2026 – Billboard ### Duran Duran’s Biggest Billboard Hits: ‘Rio,’ ‘Hungry Like the Wolf’ & More 34 minutes ago - Gary Trust 45 minutes ago - Keith Caulfield 2 hrs ago - Keith Caulfield 2 hrs ago - Hannah Dailey 2 hrs ago - Kyle\n\n[9] November 26, 2026 - Media Solutions in BlackNewss Diversity (blacknewss.com)\n## Blade Runner 2099 Has A Major Problem That Goes Back To The Original ... .com Prime Video’s new miniseries starring Hunter Schafer, Blade Runner 2099, is a follow-up to the movies Blade Runner and Blade Runner 2049, but it has a problem.http\n\n[10] bnt뉴스 (bntnews.co.kr)\n- ### 아이브, 신곡 '레니게이드' MV 티저 공개 아이브가 PUBG의 시즌형 음악 프로젝트 '더 스쿼드' 첫 아티스트로 참여해 신곡 '레니게이드' 뮤직비디오 티저를 공개했다. 게임 전장을 배경으로 강렬한 존재감을 드러낸 티저는 본편에 대한 기대를 높였으며, 음원과 뮤직비디오 전편은 12월 2일 공개된다. 게임 내 콜라보 아이템과 리스닝 파티 등 온오프라인 협업도 예정돼 Music 윤이현 기자 star@bntnews.co.kr 2026-11-26 11:15:45 - ### 박소은, 연말 단독 공연 전석 매진 싱어송라이터 박소은의 연말 단독 공연 '일기: 어디에도 속하고 싶지 않은 마음'이 예매 시작과 동시에 전 회차 매진됐다. 공연은 12월 24일과 25일 서울 마포구 벨르에서 열리며, 한 해 동안의 감정과 이야기를 음악으로 나눈다. Music 이반지 기자 star@bntnews.co.kr 2026-11-26 11:06:42 - ### 보이넥스트도어, 첫 북미 투어 성료 보이넥스트도어가 첫 북미 투어 10회 공연을 전석 매진시키며 마쳤다. 24일 멕시코시티 공연을 끝으로 댈러스, 뉴욕, LA 등 10개 도시 일정을 마무리했으며, 도시별 맞춤 무대와 …",
+  "hash": "b4e2af1728c94241841b86e424b3cb5f0e6c9700cff2f337e21c48530143da59",
+  "notes": []
+ }
+}
