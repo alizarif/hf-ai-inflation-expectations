@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-27T09:04:43+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 27, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-27T09:04:43+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Morning Briefing: Nov. 27, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-27-2026/4139900",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "Iranian Foreign Minister Abbas Araghchi on Thursday assured his Kuwaiti counterpart that Tehran was not involved in a drone attack on Kuwait and expressed readiness ... came shortly after the Iranian military spokesman rejected Kuwait’s accusations and"
+   },
+   {
+    "title": "AP News Summary at 3:13 a.m. EST | Nation & World | ktvo.com",
+    "url": "https://www.ktvo.com/news/nation-world/ap-news-summary-at-3-13-a-m-est/article_a1f93a75-0749-52c3-9a5e-b75ccdc4f67d.html",
+    "source": "ktvo.com",
+    "published": "",
+    "excerpt": "Heavy rain, wind and flooding hit much of the US on Thanksgiving Thanksgiving storms have brought severe weather to the East Coast and other parts of the U.S., causing coastal flooding and power outages. On Thursday, high winds and flooding disrupted holiday travel, leaving over 800,000 homes and businesses without electricity. Macy’s postponed its Thanksgiving Day Parade to Saturday due to safety concerns. In New Jersey, a state of emergency was declared, and flooding affected areas from North Carolina to New York. Meanwhile, a winter storm dumped heavy snow in Missouri and Illinois, and California faced coastal floods with record-breaking tides. The storms also led to flight delays and cancellations across the country."
+   },
+   {
+    "title": "Daily World Briefing, Nov. 27-Xinhua",
+    "url": "https://english.news.cn/20261127/9d216d8566854814bcd68db31d50f3b6/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "S. East Coast, triggering flight delays, widespread power outages A powerful storm swept across the U ... S. East Coast on Thursday, Thanksgiving Day, triggering flood warnings, causing flight delays and leaving more than 800,"
+   },
+   {
+    "title": "World news digest for November 27, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-27",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "-led coalition said Houthi forces attacked Aramco's ... In the Democratic Republic of the Congo, confirmed Ebola cases have passed 12,000, with nearly 6,000 deaths, and government data show the outbreak has spread to eight of the country's 26 provinces."
+   },
+   {
+    "title": "10 Things Global News - 27th November 2026",
+    "url": "https://www.10things.news/p/10-things-global-news-27th-november-49b",
+    "source": "10things.news",
+    "published": "",
+    "excerpt": "1. Two Italians Killed in Kuwait Drone Attack (Conflict) 2. US Trading Partners Reject New Tariff Justification (Trade) 3. Hamas Weighs Response to Escalating Israeli Strikes (Middle East) 4. Trump Urges Putin to End Aggression Across Europe (Diplomacy) 5. North Korea Reportedly Suspends Military Aid to Russia (Conflict) 6. European Leaders Choose De Cos as Next ECB President (Europe) 7. Ukraine Aid and US Tax Warning Complicate EU Budget Talks (Europe) 8. Congo Ebola Cases Surpass 12,000 as Fighting Disrupts Aid (Africa) 9. UN Forecasts Zero Growth in Global Maritime Trade (Trade) ... Britain Contacts 100,000 Veterans Over Military Readiness (UK) ... China, Japan and other US trading partners have rejected Washington’s justification for new tariffs targeting 14 economies that together account for roughly half of global economic output. The proposed duties follow a Section 301 investigation into excess manufacturing capacity and are intended to restore tariffs struck down by the US Supreme Court in February. US Trade Representative Jamieson Greer said manufacturing practices in the targeted economies unfairly burden US commerce. China, facing a 20% tariff that could double to 40%, rejected allegations of overcapacity and reserved the right to retaliate. Japan, Singapore, Malaysia and the European Union also disputed Washington’s findings. ... The Ebola outbreak in the Democratic Republic of Congo has reached 12,021 confirmed cases and 5,904 deaths,"
+   },
+   {
+    "title": "Xinhua world news summary at 0030 GMT, Nov. 27-Xinhua",
+    "url": "https://english.news.cn/20261127/8980df94a1a6488a85b5aea9de0a236f/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "storm swept across the U.S. East Coast on Thursday, Thanksgiving Day, triggering flood warnings, causing flight delays and leaving more than 800,000 people without electricity. High-wind and flood warnings were in effect from Virginia Beach to New York"
+   },
+   {
+    "title": "While You Were Sleeping: 5 stories you might have missed, Nov 27, 2026 | The Straits Times",
+    "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-27-2026",
+    "source": "straitstimes.com",
+    "published": "",
+    "excerpt": "back all military aggression” against Europe, in a shift in tone towards the Russian leader, who ... ’s grinding war in Ukraine. The US leader’s comments come a ... not specify which territories Trump meant, and did not specifically include Ukraine."
+   },
+   {
+    "title": "Kuwait Drone Strike, Storms, Spain Vote: world news, November 27, 2026 | One Turn",
+    "url": "https://oneturn.news/day/2026-11-27/",
+    "source": "oneturn.news",
+    "published": "",
+    "excerpt": ",000 without power across US Severe storms hit both US coasts on Thanksgiving, knocking out power to more than 800,000 customers. Flooding and high winds disrupted flights, and about ... 100-year history. In California, king tides and waves nearly"
+   },
+   {
+    "title": "HT Morning News Brief November 27: Parliament special session with delimitation on agenda; Trump backs Jensen Huang and more | India News",
+    "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-27-parliament-special-session-delimitation-trump-jensen-huang-chess-championship-ramayana-movie-delhi-aqi-101795750073142.html",
+    "source": "hindustantimes.com",
+    "published": "",
+    "excerpt": "A special session for the parliament is set to begin from November 30 onwards. The agenda is expected to focus on the delimitation bill. This special session comes after April, ... (131st Amendment) Bill, which sought to raise the Lok Sabha ceiling to"
+   },
+   {
+    "title": "Iran denies Kuwait drone attack that killed two Italians as Hormuz tensions build · Friday 27 November · the noise",
+    "url": "https://thenoise.news/daily/2026-11-27",
+    "source": "thenoise.news",
+    "published": "",
+    "excerpt": "US proposes 15-20% tariffs on 14 economies as India nears ... The US trade representative proposed new 15-20% tariffs on 14 economies after a Section ... 25% on India (17% with a deal). Brazil, China, the EU, India, Japan, South Korea and Singapore"
+   }
+  ],
+  "text": "[1] Morning Briefing: Nov. 27, 2026 (aa.com.tr)\nIranian Foreign Minister Abbas Araghchi on Thursday assured his Kuwaiti counterpart that Tehran was not involved in a drone attack on Kuwait and expressed readiness ... came shortly after the Iranian military spokesman rejected Kuwait’s accusations and\n\n[2] AP News Summary at 3:13 a.m. EST | Nation & World | ktvo.com (ktvo.com)\nHeavy rain, wind and flooding hit much of the US on Thanksgiving Thanksgiving storms have brought severe weather to the East Coast and other parts of the U.S., causing coastal flooding and power outages. On Thursday, high winds and flooding disrupted holiday travel, leaving over 800,000 homes and businesses without electricity. Macy’s postponed its Thanksgiving Day Parade to Saturday due to safety concerns. In New Jersey, a state of emergency was declared, and flooding affected areas from North Carolina to New York. Meanwhile, a winter storm dumped heavy snow in Missouri and Illinois, and …\n\n[3] Daily World Briefing, Nov. 27-Xinhua (english.news.cn)\nS. East Coast, triggering flight delays, widespread power outages A powerful storm swept across the U ... S. East Coast on Thursday, Thanksgiving Day, triggering flood warnings, causing flight delays and leaving more than 800,\n\n[4] World news digest for November 27, 2026 | World Watch (worldwatch.media)\n-led coalition said Houthi forces attacked Aramco's ... In the Democratic Republic of the Congo, confirmed Ebola cases have passed 12,000, with nearly 6,000 deaths, and government data show the outbreak has spread to eight of the country's 26 provinces.\n\n[5] 10 Things Global News - 27th November 2026 (10things.news)\n1. Two Italians Killed in Kuwait Drone Attack (Conflict) 2. US Trading Partners Reject New Tariff Justification (Trade) 3. Hamas Weighs Response to Escalating Israeli Strikes (Middle East) 4. Trump Urges Putin to End Aggression Across Europe (Diplomacy) 5. North Korea Reportedly Suspends Military Aid to Russia (Conflict) 6. European Leaders Choose De Cos as Next ECB President (Europe) 7. Ukraine Aid and US Tax Warning Complicate EU Budget Talks (Europe) 8. Congo Ebola Cases Surpass 12,000 as Fighting Disrupts Aid (Africa) 9. UN Forecasts Zero Growth in Global Maritime Trade (Trade) ... …\n\n[6] Xinhua world news summary at 0030 GMT, Nov. 27-Xinhua (english.news.cn)\nstorm swept across the U.S. East Coast on Thursday, Thanksgiving Day, triggering flood warnings, causing flight delays and leaving more than 800,000 people without electricity. High-wind and flood warnings were in effect from Virginia Beach to New York\n\n[7] While You Were Sleeping: 5 stories you might have missed, Nov 27, 2026 | The Straits Times (straitstimes.com)\nback all military aggression” against Europe, in a shift in tone towards the Russian leader, who ... ’s grinding war in Ukraine. The US leader’s comments come a ... not specify which territories Trump meant, and did not specifically include Ukraine.\n\n[8] Kuwait Drone Strike, Storms, Spain Vote: world news, November 27, 2026 | One Turn (oneturn.news)\n,000 without power across US Severe storms hit both US coasts on Thanksgiving, knocking out power to more than 800,000 customers. Flooding and high winds disrupted flights, and about ... 100-year history. In California, king tides and waves nearly\n\n[9] HT Morning News Brief November 27: Parliament special session with delimitation on agenda; Trump backs Jensen Huang and more | India News (hindustantimes.com)\nA special session for the parliament is set to begin from November 30 onwards. The agenda is expected to focus on the delimitation bill. This special session comes after April, ... (131st Amendment) Bill, which sought to raise the Lok Sabha ceiling to\n\n[10] Iran denies Kuwait drone attack that killed two Italians as Hormuz tensions build · Friday 27 November · the noise (thenoise.news)\nUS proposes 15-20% tariffs on 14 economies as India nears ... The US trade representative proposed new 15-20% tariffs on 14 economies after a Section ... 25% on India (17% with a deal). Brazil, China, the EU, India, Japan, South Korea and Singapore",
+  "hash": "ec55a547ff564fce5ee859e1d6f832d5bef59dd4bc4edf9a0243b3bc0d635f8a",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 27, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-27T09:05:01+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Three supply shocks driving up U.S. inflation, says Oxford Economics",
+    "url": "https://www.cnbc.com/video/2026/11/27/three-supply-shocks-driving-up-inflation-in-the-u-s-oxford-economics.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "Ryan Sweet, Chief Global Economist at Oxford Economics, joins CNBC's Dan Murphy to discuss the U.S. inflation outlook, Federal Reserve interest ... spending. Sweet breaks down the three key supply shocks currently driving core inflation and explains why a"
+   },
+   {
+    "title": "Cautious consumers gear up for Black Friday as inflation woes bite By Reuters",
+    "url": "https://www.investing.com/news/stock-market-news/cautious-consumers-gear-up-for-black-friday-as-inflation-woes-bite-5052778",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "NEW YORK/LOS ANGELES, Nov 27 (Reuters) - Neither high fuel ... from spending robustly as their turkey hangovers wear off on Black Friday. But below healthy top-line forecasts lie signs of stress. ... show. But most of the gains will be attributable to"
+   },
+   {
+    "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+    "url": "https://apnews.com/article/consumer-spending-prices-inflation-tariffs-31fab1e32dda1ad3a29c192f620d5733",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "The Commerce Department said Wednesday that consumer prices rose 3.8% in October from a year earlier, up from 3.6% in September. ... Consumer spending has been resilient even as persistent inflation raises the costs of many necessities and has soured most Americans on the economy. Yet much of the spending is driven by upper-income households, and there are signs poorer Americans are relying more on credit to sustain their spending. Gas prices rose just 0.8% last month, according to the department, after surging 9.2% in September. Food prices, however, jumped 0.4% from September to October, the biggest monthly increase since April."
+   },
+   {
+    "title": "US economy roars ahead in third quarter, inflation remains high in October By Reuters",
+    "url": "https://www.investing.com/news/economy-news/us-inflation-rises-further-in-october-5050840",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 25 (Reuters) - The US economy grew much faster than initially estimated in the third quarter, while inflation increased further in October, reinforcing expectations that the Federal Reserve will raise interest rates next month and again in early 2027. The sharp upward revision to gross domestic product last quarter, reported by the Commerce Department on Wednesday, marked the quickest economic growth pace in three years. It reflected upgrades to consumer spending and business investment, mostly related to artificial intelligence. Robust domestic demand is fueling inflation, with a measure of underlying price pressures in October posting its biggest year-over-year increase since late 2023. The economy has powered ahead despite the ongoing US-Israeli war with Iran. ... Growth in consumer spending, which accounts for more than two-thirds of the economy, was revised up to a ... That was the strongest pace since the fourth quarter of 2024 and was an upgrade from the previously reported 3.8% pace. ... The Personal Consumption Expenditures Price Index increased 0.3% in October after gaining 0.5% in September, the BEA said. PCE inflation was lifted by higher prices for goods, including food and household furnishings, as well as services such as recreation, dining out and hotel stays. In the 12 months through October, PCE inflation increased 3.8% after advancing 3.6% in September. Excluding the volatile food and energy components, the PCE Price Index increased 0.3% for the third straight month. So-called core PCE inflation increased 3.3% on a year-over-year basis in October, the largest advance since November 2023, after climbing 3.1% in September."
+   },
+   {
+    "title": "PCE inflation report October 2026: Fed’s preferred inflation gauge accelerated to 3.8%",
+    "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "food and energy, core PCE was 3.3%, the Commerce Department reported Wednesday. That was 0.1 percentage point above the forecast. While the Fed officially follows the headline figure, policymakers consider core to be a more reliable longer-term gauge of"
+   },
+   {
+    "title": "Inflation, GDP Both Run Hot in Latest Commerce Department Data - The Daily Upside",
+    "url": "https://www.thedailyupside.com/economics/indicators/inflation-gdp-both-run-hot-in-latest-commerce-department-data/",
+    "source": "thedailyupside.com",
+    "published": "",
+    "excerpt": "bad. The personal consumption expenditures price index, aka the Fed’s preferred inflation gauge, rose 0.3% month over month in October and 3.8% year over year, according to a US Commerce Department report earlier"
+   },
+   {
+    "title": "US Q3 GDP revised upward, Fed inflation gauge hits 3-yr high",
+    "url": "https://www.europeansuntimes.com/news/us-q3-gdp-revised-upward-fed-inflation-gauge-hits-3-yr-high202611271127500010/",
+    "source": "europeansuntimes.com",
+    "published": "",
+    "excerpt": "27, 2026 Washington [US], November 27: US GDP growth in the third quarter was revised strongly upwards, with the Commerce Department citing strong investment and consumer spending, as the Fed's preferred inflation gauge hit a three-year high in October."
+   },
+   {
+    "title": "US inflation hits highest since May after prices climb 3.8% over the last year | US economy | The Guardian",
+    "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "prices climbed 0.4% from September to October, higher than ... had anticipated. Energy prices, including gas prices at the pump, have cooled, going from a high of $4.41 a gallon in early October to $3.61 a gallon by mid-November, according to AAA."
+   },
+   {
+    "title": "GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 | U.S. Bureau of Economic Analysis (BEA)",
+    "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+    "source": "bea.gov",
+    "published": "",
+    "excerpt": "EMBARGOED UNTIL RELEASE AT 8:30 a.m. EST, Wednesday, November 25, 2026 # GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 Real gross domestic product (GDP) increased at an annual rate of 4.3 percent in the third quarter of 2026 (July, August, and September), according to the second estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the second quarter, real GDP increased 2.2 percent. The contributors to the increase in real GDP in the third quarter were increases in investment, consumer spending, and government spending that were partly offset by a decrease in exports. Imports, which are a subtraction in the calculation of GDP, increased. Real GDP was revised up 0.9 percentage point from the advance estimate, primarily reflecting upward revisions to investment and consumer spending. For more information, refer to the \" Technical Notes\" below. Compared to the second quarter, the acceleration in real GDP in the third quarter primarily reflected an acceleration in investment and an upturn in government spending that were partly offset by a downturn in exports. Imports increased more in the third quarter than in the second quarter. Real final sales to private domestic purchasers, the sum of consumer spending and gross private fixed investment, increased 5.8 percent in the third quarter, revised up 0.9 percentage point from the previous estimate. The price index for gross domestic purchases increased 2.7 percent in the third quarter, revised down 0.3 percentage point from the previous estimate. The personal consumption expenditures (PCE) price index increased 2.1 percent, and the PCE price index, excluding food and energy increased 2.5 percent, both the same as previously estimated. Real gross domestic income (GDI) increased 4.4 percent in the third quarter, compared with an increase of 2.3 percent (revised) in the second quarter. The average of real GDP and real GDI also increased 4.4 percent, compared with an increase of 2.2 percent (revised)."
+   },
+   {
+    "title": "Inflation is still hot, fueled in part by the AI boom : NPR",
+    "url": "https://www.npr.org/2026/11/25/nx-s1-6053958/inflation-is-still-hot-fueled-in-part-by-the-ai-boom",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "of the accounting firm EY-Parthenon says inflation's being driven by the huge investment in artificial intelligence, the wartime spike in fuel ... tariffs. Daco says businesses are less likely now to absorb those costs and instead are passing them on"
+   }
+  ],
+  "text": "[1] Three supply shocks driving up U.S. inflation, says Oxford Economics (cnbc.com)\nRyan Sweet, Chief Global Economist at Oxford Economics, joins CNBC's Dan Murphy to discuss the U.S. inflation outlook, Federal Reserve interest ... spending. Sweet breaks down the three key supply shocks currently driving core inflation and explains why a\n\n[2] Cautious consumers gear up for Black Friday as inflation woes bite By Reuters (investing.com)\nNEW YORK/LOS ANGELES, Nov 27 (Reuters) - Neither high fuel ... from spending robustly as their turkey hangovers wear off on Black Friday. But below healthy top-line forecasts lie signs of stress. ... show. But most of the gains will be attributable to\n\n[3] Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed (apnews.com)\nThe Commerce Department said Wednesday that consumer prices rose 3.8% in October from a year earlier, up from 3.6% in September. ... Consumer spending has been resilient even as persistent inflation raises the costs of many necessities and has soured most Americans on the economy. Yet much of the spending is driven by upper-income households, and there are signs poorer Americans are relying more on credit to sustain their spending. Gas prices rose just 0.8% last month, according to the department, after surging 9.2% in September. Food prices, however, jumped 0.4% from September to October, …\n\n[4] US economy roars ahead in third quarter, inflation remains high in October By Reuters (investing.com)\nWASHINGTON, Nov 25 (Reuters) - The US economy grew much faster than initially estimated in the third quarter, while inflation increased further in October, reinforcing expectations that the Federal Reserve will raise interest rates next month and again in early 2027. The sharp upward revision to gross domestic product last quarter, reported by the Commerce Department on Wednesday, marked the quickest economic growth pace in three years. It reflected upgrades to consumer spending and business investment, mostly related to artificial intelligence. Robust domestic demand is fueling inflation, …\n\n[5] PCE inflation report October 2026: Fed’s preferred inflation gauge accelerated to 3.8% (cnbc.com)\nfood and energy, core PCE was 3.3%, the Commerce Department reported Wednesday. That was 0.1 percentage point above the forecast. While the Fed officially follows the headline figure, policymakers consider core to be a more reliable longer-term gauge of\n\n[6] Inflation, GDP Both Run Hot in Latest Commerce Department Data - The Daily Upside (thedailyupside.com)\nbad. The personal consumption expenditures price index, aka the Fed’s preferred inflation gauge, rose 0.3% month over month in October and 3.8% year over year, according to a US Commerce Department report earlier\n\n[7] US Q3 GDP revised upward, Fed inflation gauge hits 3-yr high (europeansuntimes.com)\n27, 2026 Washington [US], November 27: US GDP growth in the third quarter was revised strongly upwards, with the Commerce Department citing strong investment and consumer spending, as the Fed's preferred inflation gauge hit a three-year high in October.\n\n[8] US inflation hits highest since May after prices climb 3.8% over the last year | US economy | The Guardian (theguardian.com)\nprices climbed 0.4% from September to October, higher than ... had anticipated. Energy prices, including gas prices at the pump, have cooled, going from a high of $4.41 a gallon in early October to $3.61 a gallon by mid-November, according to AAA.\n\n[9] GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 | U.S. Bureau of Economic Analysis (BEA) (bea.gov)\nEMBARGOED UNTIL RELEASE AT 8:30 a.m. EST, Wednesday, November 25, 2026 # GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 Real gross domestic product (GDP) increased at an annual rate of 4.3 percent in the third quarter of 2026 (July, August, and September), according to the second estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the second quarter, real GDP increased 2.2 percent. The contributors to the increase in real GDP in the third quarter were increases in investment, consumer spending, and government spending that were partly offset by a decrease …\n\n[10] Inflation is still hot, fueled in part by the AI boom : NPR (npr.org)\nof the accounting firm EY-Parthenon says inflation's being driven by the huge investment in artificial intelligence, the wartime spike in fuel ... tariffs. Daco says businesses are less likely now to absorb those costs and instead are passing them on",
+  "hash": "2b0e95021b0df1a06a8c1ef931412f3ad47d227f8d986f5af2acc980b3d9cbd0",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 27, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-27T09:05:19+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Politics & Policy - Axios",
+    "url": "https://www.axios.com/politics-policy/2026/11/27",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "for everyone in exchange for an eye-popping price tag and ... ultra-messy transition. Why it matters: Talk of Medicare for All is growing now that Democrats ... control Congress next year with huge majorities in both chambers — so it's time to take"
+   },
+   {
+    "title": "Donald Trump signals further potential bipartisanship on healthcare after midterms",
+    "url": "https://thehill.com/homenews/administration/6245011-trump-democrats-healthcare-bipartisanship/",
+    "source": "thehill.com",
+    "published": "",
+    "excerpt": ", taking control of the House and Senate. “I have a feeling we’re going to end up with a very bipartisan relationship with the Democrats,” Trump told reporters Thursday while at Mar-a-Lago. “I hope so, where we can take care of a lot of different things"
+   },
+   {
+    "title": "Politics News November 27, 2026: New Zealand election hangs",
+    "url": "https://dailysummaryof.com/politics/2026-11-27",
+    "source": "dailysummaryof.com",
+    "published": "",
+    "excerpt": ". President Trump signaled openness to working with Democrats on healthcare and said the Iran war would be over 'sort ... would be over 'sort of whenever I want it to be' as the conflict nears its ninth month and pushback against it grows. He"
+   },
+   {
+    "title": "Inside U.S. Trade - 11/27/2026 | InsideTrade.com",
+    "url": "https://insidetrade.com/content/inside-us-trade-11272026",
+    "source": "insidetrade.com",
+    "published": "",
+    "excerpt": "27, 2026 Submitted by daniela on Wed, 11/25/2026 - ... USTR proposes new tariffs on China and others for ‘structural excess capacity’ ITC seeks public ... Section 301 panel request at the WTO; a second will come House Republicans urge USTR to confront"
+   },
+   {
+    "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – as it happened | US Congress | The Guardian",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "elect Troy Jackson, of Maine, has endorsed Chris Van Hollen for Senate majority leader, a blow to the current minority leader, Chuck Schumer, ahead of a ... following Democrats’ sweeping success in the midterms, whereas Schumer, who has led Senate"
+   },
+   {
+    "title": "Trump downplays Russia, China support for Iran during talks with US troops | US-Israel war on Iran News | Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops",
+    "source": "aljazeera.com",
+    "published": "",
+    "excerpt": "United States President Donald Trump has claimed Iran possesses missiles capable of reaching Europe and downplayed Russia and China’s support for Tehran while speaking to US military personnel by phone for the Thanksgiving holiday. Taking questions from reporters at his Mar-a-Lago residence in Florida on Thursday, Trump said without “peace in the Middle East”, Iran could launch nuclear attacks against Israel and other countries in the region."
+   },
+   {
+    "title": "Trump Administration Proposes New Section 301 Tariffs on 14 Major Trading Partners, Drawing Democratic and Global Pushback",
+    "url": "https://political.org/2026/11/26/trump-administration-proposes-new-section-301-tariffs-on-14-major-trading-partners-drawing-democratic-and-global-pushback/",
+    "source": "political.org",
+    "published": "",
+    "excerpt": "from each of them. The proposals are already drawing criticism from congressional Democrats, some free trade advocates and the ... of several targeted countries, and none of the tariffs is in effect yet."
+   },
+   {
+    "title": "Trump wants to work with Democrats on health care. But can they find a compromise?",
+    "url": "https://www.washingtonpost.com/business/2026/11/26/can-trump-democrats-find-common-ground-changes-health-care/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "victories this month, seek to make health care a central part of their agenda for the next Congress. But the party is still building consensus around which ideas ... will pursue, such as a progressive push for Medicare-for-all and more moderate proposals"
+   },
+   {
+    "title": "Democrats clinch a historic House majority of at least 259 seats, the largest since 1990",
+    "url": "https://apnews.com/article/democrats-house-majority-election-2026-congress-07b3ccbe60db7c1d3d3f3087d8fca721",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": ", five more than the 40 they picked up in President Donald Trump’s first midterm in ... Republican Rep. Scott DesJarlais in Tennessee. Three other House races remain outstanding: one in Minnesota ... runoff. Republicans will have at least 173 seats in"
+   },
+   {
+    "title": "Dems Push ‘Medicare for More’ - KFF Health News",
+    "url": "https://kffhealthnews.org/podcast/what-the-health-473-democrats-congress-medicare-for-more-november-25-2026/",
+    "source": "kffhealthnews.org",
+    "published": "",
+    "excerpt": "changes give states more flexibility in implementing Medicaid work requirements next year, officials seem apprehensive about making a major policy shift on a tight ... And the outgoing attorney general of Texas, Ken Paxton, has dropped cases against out"
+   }
+  ],
+  "text": "[1] Politics & Policy - Axios (axios.com)\nfor everyone in exchange for an eye-popping price tag and ... ultra-messy transition. Why it matters: Talk of Medicare for All is growing now that Democrats ... control Congress next year with huge majorities in both chambers — so it's time to take\n\n[2] Donald Trump signals further potential bipartisanship on healthcare after midterms (thehill.com)\n, taking control of the House and Senate. “I have a feeling we’re going to end up with a very bipartisan relationship with the Democrats,” Trump told reporters Thursday while at Mar-a-Lago. “I hope so, where we can take care of a lot of different things\n\n[3] Politics News November 27, 2026: New Zealand election hangs (dailysummaryof.com)\n. President Trump signaled openness to working with Democrats on healthcare and said the Iran war would be over 'sort ... would be over 'sort of whenever I want it to be' as the conflict nears its ninth month and pushback against it grows. He\n\n[4] Inside U.S. Trade - 11/27/2026 | InsideTrade.com (insidetrade.com)\n27, 2026 Submitted by daniela on Wed, 11/25/2026 - ... USTR proposes new tariffs on China and others for ‘structural excess capacity’ ITC seeks public ... Section 301 panel request at the WTO; a second will come House Republicans urge USTR to confront\n\n[5] Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – as it happened | US Congress | The Guardian (theguardian.com)\nelect Troy Jackson, of Maine, has endorsed Chris Van Hollen for Senate majority leader, a blow to the current minority leader, Chuck Schumer, ahead of a ... following Democrats’ sweeping success in the midterms, whereas Schumer, who has led Senate\n\n[6] Trump downplays Russia, China support for Iran during talks with US troops | US-Israel war on Iran News | Al Jazeera (aljazeera.com)\nUnited States President Donald Trump has claimed Iran possesses missiles capable of reaching Europe and downplayed Russia and China’s support for Tehran while speaking to US military personnel by phone for the Thanksgiving holiday. Taking questions from reporters at his Mar-a-Lago residence in Florida on Thursday, Trump said without “peace in the Middle East”, Iran could launch nuclear attacks against Israel and other countries in the region.\n\n[7] Trump Administration Proposes New Section 301 Tariffs on 14 Major Trading Partners, Drawing Democratic and Global Pushback (political.org)\nfrom each of them. The proposals are already drawing criticism from congressional Democrats, some free trade advocates and the ... of several targeted countries, and none of the tariffs is in effect yet.\n\n[8] Trump wants to work with Democrats on health care. But can they find a compromise? (washingtonpost.com)\nvictories this month, seek to make health care a central part of their agenda for the next Congress. But the party is still building consensus around which ideas ... will pursue, such as a progressive push for Medicare-for-all and more moderate proposals\n\n[9] Democrats clinch a historic House majority of at least 259 seats, the largest since 1990 (apnews.com)\n, five more than the 40 they picked up in President Donald Trump’s first midterm in ... Republican Rep. Scott DesJarlais in Tennessee. Three other House races remain outstanding: one in Minnesota ... runoff. Republicans will have at least 173 seats in\n\n[10] Dems Push ‘Medicare for More’ - KFF Health News (kffhealthnews.org)\nchanges give states more flexibility in implementing Medicaid work requirements next year, officials seem apprehensive about making a major policy shift on a tight ... And the outgoing attorney general of Texas, Ken Paxton, has dropped cases against out",
+  "hash": "afd67189b05e454624add39badcebd934e0a4e2ae0f641418e49911b62b74ba3",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 27, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-27T09:05:33+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Celeb roundup: Kabza De Small's album rollout, Miley Cyrus’s wedding and more celebrity news",
+    "url": "https://thenational.co.za/culture/2026-11-27-celeb-roundup-kabza-de-small-s-album-rollout-miley-cyrus-s-wedding-and-more-celebrity-news/",
+    "source": "thenational.co.za",
+    "published": "",
+    "excerpt": "## 1. Kabza De Small turns one album into a three-day release Kabza De Small is giving fans more than one project to get through this week. The amapiano DJ has unveiled a three-part release plan, with a different project arriving each day from November 25 to 27 under the banner “The King of Amapiano: The Main Event”. The rollout began with “Catalogue”, a 28-track collection featuring collaborations with DJ Stockie, Leehleza, Ntockzin and Masterpiece. The largely instrumental project also includes long-awaited tracks such as “The Amabele (Remix)”, “Mnike” and “LLM”. The centrepiece is “Tutu”, a 13-track album arrived on November 26, a day earlier than originally announced. Kabza has dedicated the project to his grandmother, whom he previously described as a phenomenal woman. The album includes the single “Impilo” featuring Mkeyz, alongside collaborations with Zwadi Yamungu, Nobuhle and Chronical Deep. A deluxe edition is scheduled for today, November 27. It is an unusually generous release week from one of amapiano’s most established names. ... Mi Casa is easing into the festive season with a new collaboration that brings its familiar house sound into conversation with amapiano. The trio has released “Mawe”, featuring Murumba Pitch, as the first official single from its forthcoming seventh album, “It All Takes Time”. The track combines melodic house and Afro-house influences with the contribution of the South African dance act, known for its amapiano sound."
+   },
+   {
+    "title": "What To Watch On TV And Streaming Friday, November 27, 2026",
+    "url": "https://www.tvline.com/2328272/what-to-watch-november-27-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "## Showtimes for November 27, 2026 ... ### The Magic Faraway Tree HBO Max NEW TO STREAMING Polly (Claire Foy), Tim (Andrew Garfield), and their three children are forced to relocate to the remote English countryside where the children discover a magical tree that can transport them to fantastical lands. ### On the Last Day of Christmas Paramount+ MOVIE PREMIERE A mother (Tanyell Quian) must protect her teenage son (Ellis Hobbs IV) when their Baton Rouge apartment building is overrun by demonic beings on Christmas Eve. ### Percy Jackson and the Olympians Disney+ In the hunt for Annabeth, our quest team finds themselves hunted. ... ### Soul Train Awards BET, CBS Durand Bernarr, Elmiene, Avery Wilson, CeeLo Green, Dave Hollister, Erykah Badu, and Rapsody perform; Chaka Khan receives the Classic Soul Honor; Anthony Anderson hosts. ### Who Killed My Mother? LMN MOVIE PREMIERE"
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4012978-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "French actor Gerard Depardieu to face trial for rape, court rules Film star Gerard Depardieu, one of the leading faces of French cinema, will ​face trial on charges of raping actress Charlotte Arnould in 2018, after a Paris appeal court on Thursday rejected his ​bid to avoid having the case tried. Arnould first accused Depardieu of rape in 2018, ‌saying ​the assaults occurred in his Paris home on two separate occasions when she was in her early 20s. ... Andy Taylor, the guitarist and songwriter for pop-rock band Duran Duran and a Rock and Roll Hall of Fame inductee, died at age 65 on Monday, according to a joint statement from his family and former bandmates released on Wednesday."
+   },
+   {
+    "title": "Olivia Rodrigo Drops ‘Miss This Christmas’ on Amazon Music",
+    "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-miss-this-christmas-amazon-music-1235664984/",
+    "source": "rollingstone.com",
+    "published": "",
+    "excerpt": "Olivia Rodrigo has been letting the holiday spirit guide her lately: Just weeks after releasing her first Christmas song, “Take Me Home (4 Christmas),” she debuted the song’s B-side “Miss This Christmas” live in Nashville. Now, she’s dropping the official version of the track exclusively on Amazon Music. Like her album you seem pretty sad for a girl so in love, the two holiday songs capture different sides of love and romance: “Take Me Home (4 Christmas)” is an upbeat, enthusiastic track, inspired by Christmas songs from the Eighties as Rodrigo sings about the anticipation of meeting a significant other’s family. A playful video starred SNL cast member Ben Marshall as the guy bringing her home for Christmas, while Cynthia Nixon took on the role of Marshall’s mom ... “Miss This Christmas” is a sadder, melancholy ballad, written about longing for someone during the holiday season. “Happy Christmas to the lonely/Broken hearts that feel just like me,” she sings on the track, which she wrote with Dan Nigro and Amy Allen. “Yeah, next year’s gonna look real different/Tell your folks I’ll miss their Christmas.” When Rodrigo performed “Miss This Christmas” at Nashville’s Bridgestone Arena this week, she called it a “really sad Christmas song” and shared that “no one’s ever really heard it before.”"
+   },
+   {
+    "title": "New Music Friday: Cliff Richard, The Rolling Stones, Peter Gabriel and more | Official Charts",
+    "url": "https://www.officialcharts.com/chart-news/new-music-friday-november-27-songs-album-releases/",
+    "source": "officialcharts.com",
+    "published": "",
+    "excerpt": "s launch, Rockstar Games and Atlantic Records surprise-released Grand Theft Auto VI: The Album (Deluxe ... classics including Harry Styles' Sign of the Times and The Beatles' From Me To You. Fittingly, the deluxe edition brings together all 14 of Cliff's"
+   },
+   {
+    "title": "November 27, 2026 | News Headlines | Decider",
+    "url": "https://decider.com/2026/11/27/",
+    "source": "decider.com",
+    "published": "",
+    "excerpt": "27, 2026 - Queue And A ### Olive Abercrombie unpacks Bianca di Angelo's 'Percy Jackson' death scene By Hope Sloop • Nov. 27, 2026, 12:01 a.m. ET Olive Abercrombie is saying goodbye to Bianca di Angelo from Percy Jackson and the Olympians in a"
+   },
+   {
+    "title": "November 2026 – Deadline",
+    "url": "https://deadline.com/2026/11/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "Julianne Hough’s Stylist Addresses Fan Backlash To Her ‘Dancing With the Stars’ Wardrobe This Season ... ” At ‘RHONY’ Season 16 Reunion, Says Devyn Simone Is “Not A Friend I ... Season 16 reunion, revealing there will be “drama” and “resolution.” In a"
+   },
+   {
+    "title": "Entertainment Updates Live News Today (November 27): Yeh Prem Mol Liya Vs Gunmaaster G9 Clash; Samay Raina Creates YouTube History | Trending Bollywood News Today | Ayushmann Khurrana Yeh Prem Mol Liya & Emraan Hashmi Gunmaaster G9 Box Office Clash | Samay Raina YouTube Record; First YouTuber To Globally Cross 1 Million Channel Members - Filmibeat",
+    "url": "https://www.filmibeat.com/bollywood/news/2026/entertainment-updates-live-news-yeh-prem-mol-liya-vs-gunmaaster-g9-clash-samay-raina-youtube-record-539465.html",
+    "source": "filmibeat.com",
+    "published": "",
+    "excerpt": "First things first, the big box-office clash! Ayushmann Khurrana's much-anticipated Sooraj Barjatya film Yeh Prem Mol Liya and Emraan Hashmi's Gunmaaster G9 have hit cinemas today (November 27), grabbing attention with their simultaneous theatrical release. As per a tweet by KBP Reviews, Ayushmann Khurrana's Yeh Prem Mol Liya has recorded ₹2.7 crore in Day 1 advance bookings, including blocked seats. Meanwhile, Emraan Hashmi's Gunmaaster G9 has collected ₹2 crore. This means Ayushmann's film is currently ahead of Emraan's movie in advance booking figures."
+   },
+   {
+    "title": "The Music’s Friday Finds: The Week’s Best New Music – 27 November",
+    "url": "https://themusic.com.au/features/the-music-friday-finds-the-week-best-new-music-27-november/isownJ-egYA/27-11-26",
+    "source": "themusic.com.au",
+    "published": "",
+    "excerpt": "Jaguar Jonze - Limousine Jaguar Jonze continues to release cracking singles in the lead-up to releasing her new album, BEASTMASTER, in January 2027. Limousine is another ripping song, with Jonze embracing self-autonomy and confidence in the ultimate"
+   },
+   {
+    "title": "Movies Coming Out November 27, 2026",
+    "url": "https://www.movieinsider.com/movies/november/2026/27",
+    "source": "movieinsider.com",
+    "published": "",
+    "excerpt": "From Oscar nominee Ava DuVernay, this documentary chronicles the long battle over the US Constitution's 14th Amendment as it asks: Who gets to belong? Ava DuVernay, Spencer Averick, Tammy Garnes"
+   }
+  ],
+  "text": "[1] Celeb roundup: Kabza De Small's album rollout, Miley Cyrus’s wedding and more celebrity news (thenational.co.za)\n## 1. Kabza De Small turns one album into a three-day release Kabza De Small is giving fans more than one project to get through this week. The amapiano DJ has unveiled a three-part release plan, with a different project arriving each day from November 25 to 27 under the banner “The King of Amapiano: The Main Event”. The rollout began with “Catalogue”, a 28-track collection featuring collaborations with DJ Stockie, Leehleza, Ntockzin and Masterpiece. The largely instrumental project also includes long-awaited tracks such as “The Amabele (Remix)”, “Mnike” and “LLM”. The centrepiece is “Tutu”, …\n\n[2] What To Watch On TV And Streaming Friday, November 27, 2026 (tvline.com)\n## Showtimes for November 27, 2026 ... ### The Magic Faraway Tree HBO Max NEW TO STREAMING Polly (Claire Foy), Tim (Andrew Garfield), and their three children are forced to relocate to the remote English countryside where the children discover a magical tree that can transport them to fantastical lands. ### On the Last Day of Christmas Paramount+ MOVIE PREMIERE A mother (Tanyell Quian) must protect her teenage son (Ellis Hobbs IV) when their Baton Rouge apartment building is overrun by demonic beings on Christmas Eve. ### Percy Jackson and the Olympians Disney+ In the hunt for Annabeth, our …\n\n[3] Reuters Entertainment News Summary | International (devdiscourse.com)\nFrench actor Gerard Depardieu to face trial for rape, court rules Film star Gerard Depardieu, one of the leading faces of French cinema, will ​face trial on charges of raping actress Charlotte Arnould in 2018, after a Paris appeal court on Thursday rejected his ​bid to avoid having the case tried. Arnould first accused Depardieu of rape in 2018, ‌saying ​the assaults occurred in his Paris home on two separate occasions when she was in her early 20s. ... Andy Taylor, the guitarist and songwriter for pop-rock band Duran Duran and a Rock and Roll Hall of Fame inductee, died at age 65 on Monday, …\n\n[4] Olivia Rodrigo Drops ‘Miss This Christmas’ on Amazon Music (rollingstone.com)\nOlivia Rodrigo has been letting the holiday spirit guide her lately: Just weeks after releasing her first Christmas song, “Take Me Home (4 Christmas),” she debuted the song’s B-side “Miss This Christmas” live in Nashville. Now, she’s dropping the official version of the track exclusively on Amazon Music. Like her album you seem pretty sad for a girl so in love, the two holiday songs capture different sides of love and romance: “Take Me Home (4 Christmas)” is an upbeat, enthusiastic track, inspired by Christmas songs from the Eighties as Rodrigo sings about the anticipation of meeting a …\n\n[5] New Music Friday: Cliff Richard, The Rolling Stones, Peter Gabriel and more | Official Charts (officialcharts.com)\ns launch, Rockstar Games and Atlantic Records surprise-released Grand Theft Auto VI: The Album (Deluxe ... classics including Harry Styles' Sign of the Times and The Beatles' From Me To You. Fittingly, the deluxe edition brings together all 14 of Cliff's\n\n[6] November 27, 2026 | News Headlines | Decider (decider.com)\n27, 2026 - Queue And A ### Olive Abercrombie unpacks Bianca di Angelo's 'Percy Jackson' death scene By Hope Sloop • Nov. 27, 2026, 12:01 a.m. ET Olive Abercrombie is saying goodbye to Bianca di Angelo from Percy Jackson and the Olympians in a\n\n[7] November 2026 – Deadline (deadline.com)\nJulianne Hough’s Stylist Addresses Fan Backlash To Her ‘Dancing With the Stars’ Wardrobe This Season ... ” At ‘RHONY’ Season 16 Reunion, Says Devyn Simone Is “Not A Friend I ... Season 16 reunion, revealing there will be “drama” and “resolution.” In a\n\n[8] Entertainment Updates Live News Today (November 27): Yeh Prem Mol Liya Vs Gunmaaster G9 Clash; Samay Raina Creates YouTube History | Trending Bollywood News Today | Ayushmann Khurrana Yeh Prem Mol Liya & Emraan Hashmi Gunmaaster G9 Box Office Clash | Samay Raina YouTube Record; First YouTuber To Globally Cross 1 Million Channel Members - Filmibeat (filmibeat.com)\nFirst things first, the big box-office clash! Ayushmann Khurrana's much-anticipated Sooraj Barjatya film Yeh Prem Mol Liya and Emraan Hashmi's Gunmaaster G9 have hit cinemas today (November 27), grabbing attention with their simultaneous theatrical release. As per a tweet by KBP Reviews, Ayushmann Khurrana's Yeh Prem Mol Liya has recorded ₹2.7 crore in Day 1 advance bookings, including blocked seats. Meanwhile, Emraan Hashmi's Gunmaaster G9 has collected ₹2 crore. This means Ayushmann's film is currently ahead of Emraan's movie in advance booking figures.\n\n[9] The Music’s Friday Finds: The Week’s Best New Music – 27 November (themusic.com.au)\nJaguar Jonze - Limousine Jaguar Jonze continues to release cracking singles in the lead-up to releasing her new album, BEASTMASTER, in January 2027. Limousine is another ripping song, with Jonze embracing self-autonomy and confidence in the ultimate\n\n[10] Movies Coming Out November 27, 2026 (movieinsider.com)\nFrom Oscar nominee Ava DuVernay, this documentary chronicles the long battle over the US Constitution's 14th Amendment as it asks: Who gets to belong? Ava DuVernay, Spencer Averick, Tammy Garnes",
+  "hash": "96bb24431d848047952f3f8b3d51bad2f8b53e8f4fc2e5aa365eac046e5e659e",
+  "notes": []
+ }
+}
