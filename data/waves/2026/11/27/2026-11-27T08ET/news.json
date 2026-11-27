@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-27T13:05:40+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 27, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-27T13:05:40+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "The 7 things to know for Friday, November 27 - The Washington Post",
+    "url": "https://www.washingtonpost.com/the-seven/2026/11/27/7-things-know-friday-november-27/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": ": East Coast outages; Black Friday; Thanksgiving leftovers Today’s ... ## 1 The East Coast suffered its worst Thanksgiving Day storm in decades. The storm prompted high-wind and flood warnings from Virginia Beach to New York City. (Yuki Iwamura/AP)"
+   },
+   {
+    "title": "Morning Briefing: Nov. 27, 2026",
+    "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-27-2026/4139900",
+    "source": "aa.com.tr",
+    "published": "",
+    "excerpt": "in a drone attack on Kuwait and expressed readiness to conduct a joint investigation into the incident. His remarks came shortly after the Iranian military spokesman rejected Kuwait’s accusations and alleged that Israel and the US were involved in"
+   },
+   {
+    "title": "Morning news brief : NPR",
+    "url": "https://www.npr.org/2026/11/27/nx-s1-6047116/morning-news-brief",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "November 27, 2026 4:47 AM ET Heard on Morning ... #### Morning news brief Thanksgiving storm pummels the East Coast, Americans expected to spend record amount on Black Friday, Israeli rival factions consider deals in race to form a new government."
+   },
+   {
+    "title": "Daily World Briefing, Nov. 27-Xinhua",
+    "url": "https://english.news.cn/20261127/9d216d8566854814bcd68db31d50f3b6/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "hits U.S. East Coast, triggering flight delays, widespread power outages A powerful storm swept across the U.S. East Coast ... , Thanksgiving Day, triggering flood warnings, causing flight delays and leaving more than 800,000 people without electricity."
+   },
+   {
+    "title": "10 Things Global News - 27th November 2026",
+    "url": "https://www.10things.news/p/10-things-global-news-27th-november-49b",
+    "source": "10things.news",
+    "published": "",
+    "excerpt": "Nov 27, 2026 1. Two Italians Killed in Kuwait Drone Attack (Conflict) 2. US Trading Partners Reject New Tariff Justification (Trade) 3. Hamas Weighs Response to Escalating Israeli Strikes (Middle East) 4. Trump Urges Putin to End Aggression Across Europe (Diplomacy) 5. North Korea Reportedly Suspends Military Aid to Russia (Conflict) 6. European Leaders Choose De Cos as Next ECB President (Europe) 7. Ukraine Aid and US Tax Warning Complicate EU Budget Talks (Europe) 8. Congo Ebola Cases Surpass 12,000 as Fighting Disrupts Aid (Africa) 9. UN Forecasts Zero Growth in Global Maritime Trade (Trade) 10. Britain Contacts 100,000 Veterans Over Military Readiness (UK) Two Italian defence technicians were killed in a drone attack on Kuwait on Thursday, with Kuwaiti and Italian authorities attributing the incident to Iran. The Rheinmetall employees were maintaining detection equipment for Kuwait’s air defence systems. A Kuwaiti and a Pakistani national were also injured. Iran denied responsibility, with armed forces spokesperson Brigadier General Abolfazl Shekarchi claiming the incident was a false flag operation. Italian Foreign Minister Antonio Tajani said the drone was manufactured in Iran, while acknowledging that numerous pro-Iranian militias operate across the region. Iranian Foreign Minister Abbas Araghchi offered to cooperate with Kuwait and Italy to establish the ... China, Japan and other US trading partners have rejected Washington’s justification for new tariffs targeting 14 economies that together account for roughly half of global economic output. The proposed duties follow a Section 301 investigation into excess manufacturing capacity and are intended to restore tariffs struck down by the US Supreme Court in February. US Trade Representative Jamieson Greer said manufacturing practices in the targeted economies unfairly burden US commerce. China, facing a 20% tariff that could double to 40%, rejected allegations of overcapacity and reserved the right to retaliate. Japan, Singapore, Malaysia and the European Union also disputed Washington’s findings. Most of the proposed tariffs broadly match rates established under existing trade agreements. However, the prospect of higher duties threatens to complicate ongoing negotiations, including the US-China trade truce, which was recently extended until 10 January 2027. Vietnam and India also face higher tariffs if trade negotiations fail. ... The Ebola outbreak in the Democratic Republic of Congo has reached 12,021 confirmed cases and 5,904 deaths, according to government data released on Thursday. The outbreak, which began in May in the northeastern province of Ituri, has spread to eight of the country’s 26 provinces. It is the fastest growing Ebola outbreak on record. Renewed fighting between government forces and rebels has disrupted efforts to contain the disease. World Health Organization Ebola incident manager Dr Catherine Smallwood said fighting had prevented response teams from reaching some communities, disrupted contact tracing and reduced staffing at treatment centres. Health officials and WHO personnel have also been evacuated. The outbreak is caused by the rare Bundibugyo strain, for which no approved vaccine or treatment exists. Ebola cases have been detected in five countries, although Congo currently has the only active cases. Just 15% of new infections originate from contacts already known to health authorities."
+   },
+   {
+    "title": "World news digest for November 27, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-27",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "In the Democratic Republic of the Congo, confirmed Ebola cases have passed 12,000, with nearly 6,000 deaths, and government data show the outbreak has spread to eight of ... country's 26 provinces.⁠ 7 8 In North Korea,"
+   },
+   {
+    "title": "Houthis report 11 killed, including children, in an airstrike, and other Mideast news",
+    "url": "https://apnews.com/article/saudi-iran-yemen-israel-november-27-2026-dbb2c950f5cd991a52f3a065b6325535",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "Asbahi said on X that an airstrike hit a cinema building in Turbah city ... Taiz province early Friday morning, killing people including children who sold ice cream in the area ... on Saudi Arabia. The AP couldn’t independently verify his claims and the"
+   },
+   {
+    "title": "Top news of the day: Union Cabinet clears delimitation bill; Supreme Court orders karthigai lamp to be lit on ‘deepathoon’ at Thirupparankundram on November 28; and more - The Hindu",
+    "url": "https://www.thehindu.com/news/top-news-of-the-day-union-cabinet-clears-delimitation-bill-supreme-court-orders-lamp-to-be-lit-on-deepathoon-at-thirupparankundram-on-november-28-and-more/article71750622.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "The Union Cabinet has approved Constitution Amendment Bill providing proportionate increase of 50 per cent seats across all States. This ratio will continue for 25 years till it changes according to the population in the Census after 2051. The Women’s Reservation Bill will come into effect along with the increase in seats."
+   },
+   {
+    "title": "Iran denies Kuwait drone attack that killed two Italians as Hormuz tensions build · Friday 27 November · the noise",
+    "url": "https://thenoise.news/daily/2026-11-27",
+    "source": "thenoise.news",
+    "published": "",
+    "excerpt": "A powerful storm with gusts up to 70 mph knocked out power to nearly 1 million customers along the ... an emergency. About 2 million people in suburban Maryland were asked to cut water use after two filtration plants lost power."
+   },
+   {
+    "title": "World in 24 Hours: Trump Urges Putin to Pull Back, Thanksgiving Storm Batters US, Iran Drone Attack Kills Two in Kuwait | Globe TV",
+    "url": "https://globetv.app/news/world-news-24-hours-november-27-2026",
+    "source": "globetv.app",
+    "published": "",
+    "excerpt": "## United States: Trump urges Putin to pull back as Thanksgiving storm causes chaos ... Trump posted on Truth Social that he hoped a deal between Russia and Ukraine could then be reached quickly. ... A massive Thanksgiving storm hammered the Midwest and Northeast with heavy rain, winds up to 70 mph, and coastal flooding. More than 400 flights were cancelled and 2,200 delayed, while nearly one million households lost power, mainly in Pennsylvania, Maryland, Virginia and New Jersey. Governors in New York and New Jersey declared states of emergency, and the Macy's Thanksgiving Day Parade was postponed to Saturday."
+   }
+  ],
+  "text": "[1] The 7 things to know for Friday, November 27 - The Washington Post (washingtonpost.com)\n: East Coast outages; Black Friday; Thanksgiving leftovers Today’s ... ## 1 The East Coast suffered its worst Thanksgiving Day storm in decades. The storm prompted high-wind and flood warnings from Virginia Beach to New York City. (Yuki Iwamura/AP)\n\n[2] Morning Briefing: Nov. 27, 2026 (aa.com.tr)\nin a drone attack on Kuwait and expressed readiness to conduct a joint investigation into the incident. His remarks came shortly after the Iranian military spokesman rejected Kuwait’s accusations and alleged that Israel and the US were involved in\n\n[3] Morning news brief : NPR (npr.org)\nNovember 27, 2026 4:47 AM ET Heard on Morning ... #### Morning news brief Thanksgiving storm pummels the East Coast, Americans expected to spend record amount on Black Friday, Israeli rival factions consider deals in race to form a new government.\n\n[4] Daily World Briefing, Nov. 27-Xinhua (english.news.cn)\nhits U.S. East Coast, triggering flight delays, widespread power outages A powerful storm swept across the U.S. East Coast ... , Thanksgiving Day, triggering flood warnings, causing flight delays and leaving more than 800,000 people without electricity.\n\n[5] 10 Things Global News - 27th November 2026 (10things.news)\nNov 27, 2026 1. Two Italians Killed in Kuwait Drone Attack (Conflict) 2. US Trading Partners Reject New Tariff Justification (Trade) 3. Hamas Weighs Response to Escalating Israeli Strikes (Middle East) 4. Trump Urges Putin to End Aggression Across Europe (Diplomacy) 5. North Korea Reportedly Suspends Military Aid to Russia (Conflict) 6. European Leaders Choose De Cos as Next ECB President (Europe) 7. Ukraine Aid and US Tax Warning Complicate EU Budget Talks (Europe) 8. Congo Ebola Cases Surpass 12,000 as Fighting Disrupts Aid (Africa) 9. UN Forecasts Zero Growth in Global Maritime Trade …\n\n[6] World news digest for November 27, 2026 | World Watch (worldwatch.media)\nIn the Democratic Republic of the Congo, confirmed Ebola cases have passed 12,000, with nearly 6,000 deaths, and government data show the outbreak has spread to eight of ... country's 26 provinces.⁠ 7 8 In North Korea,\n\n[7] Houthis report 11 killed, including children, in an airstrike, and other Mideast news (apnews.com)\nAsbahi said on X that an airstrike hit a cinema building in Turbah city ... Taiz province early Friday morning, killing people including children who sold ice cream in the area ... on Saudi Arabia. The AP couldn’t independently verify his claims and the\n\n[8] Top news of the day: Union Cabinet clears delimitation bill; Supreme Court orders karthigai lamp to be lit on ‘deepathoon’ at Thirupparankundram on November 28; and more - The Hindu (thehindu.com)\nThe Union Cabinet has approved Constitution Amendment Bill providing proportionate increase of 50 per cent seats across all States. This ratio will continue for 25 years till it changes according to the population in the Census after 2051. The Women’s Reservation Bill will come into effect along with the increase in seats.\n\n[9] Iran denies Kuwait drone attack that killed two Italians as Hormuz tensions build · Friday 27 November · the noise (thenoise.news)\nA powerful storm with gusts up to 70 mph knocked out power to nearly 1 million customers along the ... an emergency. About 2 million people in suburban Maryland were asked to cut water use after two filtration plants lost power.\n\n[10] World in 24 Hours: Trump Urges Putin to Pull Back, Thanksgiving Storm Batters US, Iran Drone Attack Kills Two in Kuwait | Globe TV (globetv.app)\n## United States: Trump urges Putin to pull back as Thanksgiving storm causes chaos ... Trump posted on Truth Social that he hoped a deal between Russia and Ukraine could then be reached quickly. ... A massive Thanksgiving storm hammered the Midwest and Northeast with heavy rain, winds up to 70 mph, and coastal flooding. More than 400 flights were cancelled and 2,200 delayed, while nearly one million households lost power, mainly in Pennsylvania, Maryland, Virginia and New Jersey. Governors in New York and New Jersey declared states of emergency, and the Macy's Thanksgiving Day Parade was …",
+  "hash": "d672153aa6d227c5f9cc5630c802077c5459dfc53828e1d1aba22cf0a7149d5c",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 27, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-27T13:05:56+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Cautious consumers gear up for Black Friday as inflation woes bite By Reuters",
+    "url": "https://www.investing.com/news/stock-market-news/cautious-consumers-gear-up-for-black-friday-as-inflation-woes-bite-5052778",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "NEW YORK/LOS ANGELES, Nov 27 (Reuters) - Neither high fuel prices nor stubborn inflation are expected to stop US shoppers from spending robustly as their turkey hangovers wear off on Black Friday. But below healthy top-line forecasts lie signs of stress. Holiday spending — which unofficially begins on Black Friday — is seen topping last year’s strong figures by 4%-6%, several economic forecasts show. But most of the gains will be attributable to inflation which, at 3.8%, is about a percentage point higher than in each of the last two years. The National Retail Federation sees November-December holiday retail sales rising 4.2% year-over-year, to just above $1 trillion."
+   },
+   {
+    "title": "High Inflation Puts Fed’s Credibility on the Line - Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/high-inflation-puts-fed-s-credibility-on-the-line",
+    "source": "bloomberg.com",
+    "published": "",
+    "excerpt": "of inflation were higher than the month before. Investors now expect the Fed to act: Financial markets have fully priced in a quarter ... .25%, and investors haven’t entirely ruled out an unusual half-point hike."
+   },
+   {
+    "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+    "url": "https://apnews.com/article/consumer-spending-prices-inflation-tariffs-31fab1e32dda1ad3a29c192f620d5733",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "The Commerce Department said Wednesday that consumer prices rose 3.8% in October from a year earlier, up from 3.6% in September. On a monthly basis, consumer prices climbed 0.3% from September to October, down from a 0.6% increase the previous month. The stubbornly elevated price figures come as the economy is expanding at a healthy pace, driven by strong consumer spending and surging business investment as large tech firms splurge on building out AI infrastructure. Consumer spending has been resilient even as persistent inflation raises the costs of many necessities and has soured most Americans on the economy. Yet much"
+   },
+   {
+    "title": "US economy roars ahead in third quarter, inflation remains high in October By Reuters",
+    "url": "https://www.investing.com/news/economy-news/us-inflation-rises-further-in-october-5050840",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 25 (Reuters) - The US economy grew much faster than initially estimated in the third quarter, while inflation increased further in October, reinforcing expectations that the Federal Reserve will raise interest rates next month and again in early 2027. The sharp upward revision to gross domestic product last quarter, reported by the Commerce Department on Wednesday, marked the quickest economic growth pace in three years. It reflected upgrades to consumer spending and business investment, mostly related to artificial intelligence. Robust domestic demand is fueling inflation, with a measure of underlying price pressures in October posting its biggest year-over-year increase since late 2023. The economy has powered ahead despite the ongoing US-Israeli war with Iran. \"It is more urgent than ever that Fed officials step up the pace of interest rate hikes to cool off economic demand,\" said Christopher Rupkey, chief economist at FWDBONDS. \"It was once thought that import tariffs and energy prices from the Mideast war were one-off factors behind the higher inflation numbers, but increasingly the inflation fires look to be stoked by old-fashioned economic demand pressures.\" GDP increased at a 4.3% annualized rate last quarter, the Commerce Department’s Bureau of Economic Analysis said in its second estimate of third-quarter GDP. It was the fastest pace since the third quarter of 2023. The economy was previously estimated to have grown at a 3.4% pace. Economists polled by Reuters had expected GDP growth to be revised up to a 3.5% pace. The economy grew at a 2.2% rate in the April-June quarter. Growth in consumer spending, which accounts for more than two-thirds of the economy, was revised up to a 4.2% rate. That was the strongest pace since the fourth quarter of 2024 and was an upgrade from the previously reported 3.8% pace. Spending is being driven mostly by higher-income households, whose wealth was boosted by the stock market before the ongoing AI-led selloff. Economists expect consumer spending to slow to a still-healthy pace in the fourth quarter, though declining gasoline prices should ease some of the financial pressure on middle- and lower-income households. ... The Personal Consumption Expenditures Price Index increased 0.3% in October after gaining 0.5% in September, the BEA said. PCE inflation was lifted by higher prices for goods, including food and household furnishings, as well as services such as recreation, dining out and hotel stays. In the 12 months through October, PCE inflation increased 3.8% after advancing 3.6% in September. Excluding the volatile food and energy components, the PCE Price Index increased 0.3% for the third straight month. So-called core PCE inflation increased 3.3% on a year-over-year basis in October, the largest advance since November 2023, after climbing 3.1% in September. The Fed tracks the PCE price measures for its 2% inflation target. Financial markets have priced in a quarter-percentage-point rate hike at the US central bank’s December 8-9 meeting from the current 3.75%-4.00% range, and are expecting another increase in January, CME Group’s FedWatch tool showed."
+   },
+   {
+    "title": "PCE inflation report October 2026: Fed’s preferred inflation gauge accelerated to 3.8%",
+    "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "than September. Excluding food and energy, core PCE was 3.3%, ... While the Fed officially follows the headline figure, policymakers consider core to be a more reliable longer-term gauge of inflation trends."
+   },
+   {
+    "title": "Inflation, GDP Both Run Hot in Latest Commerce Department Data - The Daily Upside",
+    "url": "https://www.thedailyupside.com/economics/indicators/inflation-gdp-both-run-hot-in-latest-commerce-department-data/",
+    "source": "thedailyupside.com",
+    "published": "",
+    "excerpt": "price index, aka the Fed’s preferred inflation gauge, rose 0.3% month over month in ... 3.8% year over year, according to a US Commerce Department report earlier this week, meaning it’s now approaching double the Fed’s preferred inflation rate. As for"
+   },
+   {
+    "title": "GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 | U.S. Bureau of Economic Analysis (BEA)",
+    "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+    "source": "bea.gov",
+    "published": "",
+    "excerpt": "Real gross domestic product (GDP) increased at an annual rate of 4.3 percent in the third quarter of 2026 (July, August, and September), according to the second estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the second quarter, real GDP increased 2.2 percent. The contributors to the increase in real GDP in the third quarter were increases in investment, consumer spending, and government spending that were partly offset by a decrease in exports. Imports, which are a subtraction in the calculation of GDP, increased. Real GDP was revised up 0.9 percentage point from the advance estimate, primarily reflecting upward revisions to investment and consumer spending. ... The price index for gross domestic purchases increased 2.7 percent in the third quarter, revised down 0.3 percentage point from the previous ... The personal consumption expenditures (PCE) price index increased 2.1 percent, and the PCE price index, excluding food and energy increased 2.5 percent, both the same as previously estimated."
+   },
+   {
+    "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks By Reuters",
+    "url": "https://www.investing.com/news/economy-news/fed-survey-shows-continued-growth-and-sticky-inflation-in-recent-weeks-5051371",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "data and commentary from businesses compiled by its 12 regional banks to ... energy, transportation, health care, insurance, and tariff-related expenses.\" ... on corporate margins, the report said. \"(C)ompetitive pressures and customer price sensitivity"
+   },
+   {
+    "title": "US inflation hits highest since May after prices climb 3.8% over the last year | US economy | The Guardian",
+    "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "reported prices climbed 0.4% from September to October, higher than economists had ... Energy prices, including gas prices at the pump, have cooled, going from a high of $4.41 a gallon in early October to $3.61 a gallon by mid-November, according to AAA."
+   },
+   {
+    "title": "Inflation is still hot, fueled in part by the AI boom : NPR",
+    "url": "https://www.npr.org/2026/11/25/nx-s1-6053958/inflation-is-still-hot-fueled-in-part-by-the-ai-boom",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "inflation's being driven by the huge investment in artificial intelligence, the wartime spike in fuel prices and President Trump's tariffs. Daco says businesses are less likely now to absorb those costs and instead are passing them on to their customers."
+   }
+  ],
+  "text": "[1] Cautious consumers gear up for Black Friday as inflation woes bite By Reuters (investing.com)\nNEW YORK/LOS ANGELES, Nov 27 (Reuters) - Neither high fuel prices nor stubborn inflation are expected to stop US shoppers from spending robustly as their turkey hangovers wear off on Black Friday. But below healthy top-line forecasts lie signs of stress. Holiday spending — which unofficially begins on Black Friday — is seen topping last year’s strong figures by 4%-6%, several economic forecasts show. But most of the gains will be attributable to inflation which, at 3.8%, is about a percentage point higher than in each of the last two years. The National Retail Federation sees …\n\n[2] High Inflation Puts Fed’s Credibility on the Line - Bloomberg (bloomberg.com)\nof inflation were higher than the month before. Investors now expect the Fed to act: Financial markets have fully priced in a quarter ... .25%, and investors haven’t entirely ruled out an unusual half-point hike.\n\n[3] Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed (apnews.com)\nThe Commerce Department said Wednesday that consumer prices rose 3.8% in October from a year earlier, up from 3.6% in September. On a monthly basis, consumer prices climbed 0.3% from September to October, down from a 0.6% increase the previous month. The stubbornly elevated price figures come as the economy is expanding at a healthy pace, driven by strong consumer spending and surging business investment as large tech firms splurge on building out AI infrastructure. Consumer spending has been resilient even as persistent inflation raises the costs of many necessities and has soured most …\n\n[4] US economy roars ahead in third quarter, inflation remains high in October By Reuters (investing.com)\nWASHINGTON, Nov 25 (Reuters) - The US economy grew much faster than initially estimated in the third quarter, while inflation increased further in October, reinforcing expectations that the Federal Reserve will raise interest rates next month and again in early 2027. The sharp upward revision to gross domestic product last quarter, reported by the Commerce Department on Wednesday, marked the quickest economic growth pace in three years. It reflected upgrades to consumer spending and business investment, mostly related to artificial intelligence. Robust domestic demand is fueling inflation, …\n\n[5] PCE inflation report October 2026: Fed’s preferred inflation gauge accelerated to 3.8% (cnbc.com)\nthan September. Excluding food and energy, core PCE was 3.3%, ... While the Fed officially follows the headline figure, policymakers consider core to be a more reliable longer-term gauge of inflation trends.\n\n[6] Inflation, GDP Both Run Hot in Latest Commerce Department Data - The Daily Upside (thedailyupside.com)\nprice index, aka the Fed’s preferred inflation gauge, rose 0.3% month over month in ... 3.8% year over year, according to a US Commerce Department report earlier this week, meaning it’s now approaching double the Fed’s preferred inflation rate. As for\n\n[7] GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 | U.S. Bureau of Economic Analysis (BEA) (bea.gov)\nReal gross domestic product (GDP) increased at an annual rate of 4.3 percent in the third quarter of 2026 (July, August, and September), according to the second estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the second quarter, real GDP increased 2.2 percent. The contributors to the increase in real GDP in the third quarter were increases in investment, consumer spending, and government spending that were partly offset by a decrease in exports. Imports, which are a subtraction in the calculation of GDP, increased. Real GDP was revised up 0.9 percentage point from …\n\n[8] Fed survey shows continued economic growth, sticky inflation in recent weeks By Reuters (investing.com)\ndata and commentary from businesses compiled by its 12 regional banks to ... energy, transportation, health care, insurance, and tariff-related expenses.\" ... on corporate margins, the report said. \"(C)ompetitive pressures and customer price sensitivity\n\n[9] US inflation hits highest since May after prices climb 3.8% over the last year | US economy | The Guardian (theguardian.com)\nreported prices climbed 0.4% from September to October, higher than economists had ... Energy prices, including gas prices at the pump, have cooled, going from a high of $4.41 a gallon in early October to $3.61 a gallon by mid-November, according to AAA.\n\n[10] Inflation is still hot, fueled in part by the AI boom : NPR (npr.org)\ninflation's being driven by the huge investment in artificial intelligence, the wartime spike in fuel prices and President Trump's tariffs. Daco says businesses are less likely now to absorb those costs and instead are passing them on to their customers.",
+  "hash": "4714b5b9d31b002b4c2d0774f7a913111c8bacc811ea72970553be8bbec4d7bf",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 27, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-27T13:06:13+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
+    "url": "https://apnews.com/article/trump-tariffs-republicans-congress-a438d0649e3b905804eafb63e9803bb3",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": "the election, most said they were open to reviewing tariffs, at least on a case-by-case basis. ... said Congress could reclaim its constitutional authority over tariffs. They were reluctant, however, to broadly curb the president's own tariff powers and"
+   },
+   {
+    "title": "First Thing: Trump claims revised economic data shows pre-midterms figures were ‘fake’ | US news | The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/27/first-thing-trump-claims-revised-economic-data-shows-pre-midterms-figures-were-fake",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "a notice of appeal. - Why are the ballots at the center of an ongoing dispute over the ... , led by Trump, claimed the election results had been rigged despite Joe Biden being certified after several recounts. Republican state officials had refused"
+   },
+   {
+    "title": "A Democratic war over healthcare shows signs of an emerging ceasefire",
+    "url": "https://www.nbcnews.com/politics/congress/democratic-war-health-care-medicare-for-all-potential-truce-rcna610886",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": ":00 AM EST By Sahil Kapur WASHINGTON — In the long-standing Democratic cold war over healthcare policy, there are signs that the competing factions in the left and center are ready to negotiate a ceasefire."
+   },
+   {
+    "title": "Democrats hint at healthcare middle ground and storms leave thousands without power: Morning Rundown",
+    "url": "https://www.nbcnews.com/news/us-news/democrats-healthcare-medicare-macys-parade-performers-morning-rundown-rcna611527",
+    "source": "nbcnews.com",
+    "published": "",
+    "excerpt": "## Democrat war over healthcare shows signs of an emerging truce ... House Speaker-designate Hakeem Jeffries endorsed a significant expansion of Medicare this month, including lowering the eligibility age, guaranteeing dental, vision and hearing benefits, and extending coverage to all children under 18. The top House Democrat’s backing could signal that the party’s progressive and centrist wings are ready to seek common ground on health care. The move drew praise from Sen. Bernie Sanders, author of the Medicare for All Act. Likewise, progressive Sen.-elect Abdul El-Sayed, a longtime advocate for universal health care, said he would accept a compromise that preserves private insurance. He compared such a system to public education, where “everybody is entitled to” attend public schools while parents remain free to pay for private education. That’s a major concession to moderates, who took issue with an existing Medicare for All bill that would end almost all private insurance. The post-election movement by both factions could reshape the debate inside the party and ease divisions on a contentious issue ahead of the 2028 presidential election."
+   },
+   {
+    "title": "What to know to start your day - The Washington Post",
+    "url": "https://www.washingtonpost.com/the-seven/2026/11/27/what-know-start-your-day/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "4 for an expansion at the multibillion-dollar Taiwan Semiconductor Manufacturing Company facility, according to a White House official. The White House has not said whether Huang will also attend. The briefly"
+   },
+   {
+    "title": "Democrats look to trifecta states to pass their affordability agenda",
+    "url": "https://www.usatoday.com/story/news/politics/2026/11/27/democrats-trifecta-states-affordability-agenda/92880912007/",
+    "source": "usatoday.com",
+    "published": "",
+    "excerpt": "Wisconsin is one of six states, alongside Arizona, Michigan, Minnesota, Nevada and Pennsylvania, where Democrats will soon control the governorship and both chambers of the state legislature after the midterm elections. These new majorities, known as trifectas, will give Democrats the chance to pass liberal policy goals, sometimes for the first time in decades. In Michigan, Nevada and Minnesota, where Democrats previously held trifectas earlier in the decade, party leaders are pitching ambitious new programs to expand pre-kindergarten and help make health care more affordable. In states where Democrats haven't had total control for longer, such as Wisconsin and Pennsylvania, legislators are prioritizing raising the minimum wage, codifying abortion rights and possibly legalizing marijuana. For years, Democratic groups that work to elect state lawmakers have stressed the importance of these downballot races. States set rules about voting, draw the congressional maps that help"
+   },
+   {
+    "title": "Iran War Updates: Trump says he's giving Iran \"a chance to be smart\"",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
+    "source": "cbsnews.com",
+    "published": "",
+    "excerpt": "victory in the war with Iran would be achieved \"whenever I want it,\" ... the Islamic Republic regime \"a chance to be smart,\" though he said he doubts they will take it. - ... the importance of Russia and China's intelligence sharing with Iran"
+   },
+   {
+    "title": "Democrats vow to restrain Trump's foreign policy, but foresee limits",
+    "url": "https://www.washingtonpost.com/national-security/2026/11/27/democrats-vow-restrain-trumps-foreign-policy-foresee-limits/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "HALIFAX, Canada — In meeting after meeting with U.S. allies this past weekend, Sen. Andy Kim heard the same request: Speak up. Too often, they told him,** **“the only American voice our countries hear is Donald Trump.” Kim (D-New Jersey) was part of a bipartisan delegation that sought to reassure America’s frustrated partners and allies, gathered here for the annual Halifax International Security Forum, that soon Congress will hold more sway over U.S. foreign policy. In interviews and panel discussions, foreign officials who came to Canada shared optimism that lawmakers could restore balance after two years during which Trump has coerced"
+   },
+   {
+    "title": "Trump draws line on Somali welfare in Thanksgiving message and more top headlines | Fox News",
+    "url": "https://www.foxnews.com/us/trump-somali-welfare-thanksgiving-message-nov-27-newsletter-more-top-headlines",
+    "source": "foxnews.com",
+    "published": "",
+    "excerpt": "### POLITICS ODD ALLIANCES — From Hollywood mogul to Biden-Harris insiders, Democrats turn to familiar faces to shape their next chapter ... DIPLOMATIC FRICTION — North Korea reportedly freezes missile deliveries to Russia after allies clash over Seoul."
+   },
+   {
+    "title": "Politics & Policy - Axios",
+    "url": "https://www.axios.com/politics-policy/2026/11/27",
+    "source": "axios.com",
+    "published": "",
+    "excerpt": "to one massive tradeoff: Guaranteed coverage for everyone in exchange for an eye-popping ... . Why it matters: Talk of Medicare for All is growing now that Democrats will control ... next year with huge majorities in both chambers — so it's time to"
+   }
+  ],
+  "text": "[1] Republicans rethink tariffs, giving Democrats an opening to challenge Trump (apnews.com)\nthe election, most said they were open to reviewing tariffs, at least on a case-by-case basis. ... said Congress could reclaim its constitutional authority over tariffs. They were reluctant, however, to broadly curb the president's own tariff powers and\n\n[2] First Thing: Trump claims revised economic data shows pre-midterms figures were ‘fake’ | US news | The Guardian (theguardian.com)\na notice of appeal. - Why are the ballots at the center of an ongoing dispute over the ... , led by Trump, claimed the election results had been rigged despite Joe Biden being certified after several recounts. Republican state officials had refused\n\n[3] A Democratic war over healthcare shows signs of an emerging ceasefire (nbcnews.com)\n:00 AM EST By Sahil Kapur WASHINGTON — In the long-standing Democratic cold war over healthcare policy, there are signs that the competing factions in the left and center are ready to negotiate a ceasefire.\n\n[4] Democrats hint at healthcare middle ground and storms leave thousands without power: Morning Rundown (nbcnews.com)\n## Democrat war over healthcare shows signs of an emerging truce ... House Speaker-designate Hakeem Jeffries endorsed a significant expansion of Medicare this month, including lowering the eligibility age, guaranteeing dental, vision and hearing benefits, and extending coverage to all children under 18. The top House Democrat’s backing could signal that the party’s progressive and centrist wings are ready to seek common ground on health care. The move drew praise from Sen. Bernie Sanders, author of the Medicare for All Act. Likewise, progressive Sen.-elect Abdul El-Sayed, a longtime advocate …\n\n[5] What to know to start your day - The Washington Post (washingtonpost.com)\n4 for an expansion at the multibillion-dollar Taiwan Semiconductor Manufacturing Company facility, according to a White House official. The White House has not said whether Huang will also attend. The briefly\n\n[6] Democrats look to trifecta states to pass their affordability agenda (usatoday.com)\nWisconsin is one of six states, alongside Arizona, Michigan, Minnesota, Nevada and Pennsylvania, where Democrats will soon control the governorship and both chambers of the state legislature after the midterm elections. These new majorities, known as trifectas, will give Democrats the chance to pass liberal policy goals, sometimes for the first time in decades. In Michigan, Nevada and Minnesota, where Democrats previously held trifectas earlier in the decade, party leaders are pitching ambitious new programs to expand pre-kindergarten and help make health care more affordable. In states where …\n\n[7] Iran War Updates: Trump says he's giving Iran \"a chance to be smart\" (cbsnews.com)\nvictory in the war with Iran would be achieved \"whenever I want it,\" ... the Islamic Republic regime \"a chance to be smart,\" though he said he doubts they will take it. - ... the importance of Russia and China's intelligence sharing with Iran\n\n[8] Democrats vow to restrain Trump's foreign policy, but foresee limits (washingtonpost.com)\nHALIFAX, Canada — In meeting after meeting with U.S. allies this past weekend, Sen. Andy Kim heard the same request: Speak up. Too often, they told him,** **“the only American voice our countries hear is Donald Trump.” Kim (D-New Jersey) was part of a bipartisan delegation that sought to reassure America’s frustrated partners and allies, gathered here for the annual Halifax International Security Forum, that soon Congress will hold more sway over U.S. foreign policy. In interviews and panel discussions, foreign officials who came to Canada shared optimism that lawmakers could restore balance …\n\n[9] Trump draws line on Somali welfare in Thanksgiving message and more top headlines | Fox News (foxnews.com)\n### POLITICS ODD ALLIANCES — From Hollywood mogul to Biden-Harris insiders, Democrats turn to familiar faces to shape their next chapter ... DIPLOMATIC FRICTION — North Korea reportedly freezes missile deliveries to Russia after allies clash over Seoul.\n\n[10] Politics & Policy - Axios (axios.com)\nto one massive tradeoff: Guaranteed coverage for everyone in exchange for an eye-popping ... . Why it matters: Talk of Medicare for All is growing now that Democrats will control ... next year with huge majorities in both chambers — so it's time to",
+  "hash": "eca2e7cb7d36816578761abd4018500ca53654688409ea30e344b62647bab1de",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 27, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-27T13:06:29+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4012978-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "French actor Gerard Depardieu to face trial for rape, court rules Film star Gerard Depardieu, one of the leading faces of French cinema, will ​face trial on charges of raping actress Charlotte Arnould in 2018, after a Paris appeal court on Thursday rejected his ​bid to avoid having the case tried. Arnould first accused Depardieu of rape in 2018, ‌saying ​the assaults occurred in his Paris home on two separate occasions when she was in her early 20s. Depardieu, 77, has denied wrongdoing in the case, and his legal team last year appealed the investigative judge's decision for the case to be tried. ... Duran Duran guitarist and songwriter Andy Taylor dies at 65 Andy Taylor, the guitarist and songwriter for pop-rock band Duran Duran and a Rock and Roll Hall of Fame inductee, died at age 65 on Monday, according to a joint statement from his family and former bandmates released on Wednesday. Taylor, who co-wrote some of the group's biggest hits, including “Hungry Like the Wolf,” “Rio,” and “Girls on Film,” died from metastatic prostate cancer. He was diagnosed in 2018. ... Top Gear to return in ... British celebrity chef and television presenter Gordon Ramsay will host a revived version of the BBC's long-running motoring show \"Top ⁠Gear\" when it returns to screens in 2028, the broadcaster said on Wednesday. Produced by BBC Studios, the new series will be filmed in 2027 and feature a new lineup of co-presenters alongside Ramsay, while the programme's test driver, The Stig, will also return, the BBC said."
+   },
+   {
+    "title": "What To Watch On TV And Streaming Friday, November 27, 2026",
+    "url": "https://www.tvline.com/2328272/what-to-watch-november-27-2026-tv-shows-movies-streaming/",
+    "source": "tvline.com",
+    "published": "",
+    "excerpt": "On TV this Friday: \"S.W.A.T.: Exiles\" wraps Season 1, \"Outlander: Blood of My Blood\" hosts the Twelfth Night Festivities, and Anthony Anderson emcees the Soul Train Awards. ... ### The Magic Faraway Tree HBO Max NEW TO STREAMING ... ### On the Last Day of Christmas Paramount+ MOVIE PREMIERE ... ### Soul Train Awards BET, CBS Durand Bernarr, Elmiene, Avery Wilson, CeeLo Green, Dave Hollister, Erykah Badu, and Rapsody perform; Chaka Khan receives the Classic Soul Honor; Anthony Anderson hosts."
+   },
+   {
+    "title": "The week’s best new tracks and the act you need to know: the pyrotechnic emotions of club-pop kid Tsatsamis | Music | The Guardian",
+    "url": "https://www.theguardian.com/music/2026/nov/27/the-weeks-best-new-tracks-and-the-act-you-need-to-know-the-pyrotechnic-emotions-of-club-pop-kid-tsatsamis",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "​ Molly Santana – Sailin’ On The California rapper had a huge breakout this year via Drake’s Ran to Atlanta, and she now drops noisy debut album Black Punk. Sailin’ On certainly proves her punk bona fides, quoting Bad Brains’ Pay"
+   },
+   {
+    "title": "November 27, 2026 | News Headlines | Decider",
+    "url": "https://decider.com/2026/11/27/",
+    "source": "decider.com",
+    "published": "",
+    "excerpt": "Queue And A ### Olive Abercrombie unpacks Bianca di Angelo's 'Percy Jackson' death scene By Hope Sloop • Nov. 27, 2026, 12:01 a.m. ET Olive Abercrombie is saying goodbye to Bianca di Angelo from Percy Jackson and the Olympians in a touching way."
+   },
+   {
+    "title": "This Week In Entertainment News 27 November 2026 - MADCAP Global Entertainment",
+    "url": "https://madcapglobalentertainment.com/this-week-in-entertainment-news-27-november-2026/",
+    "source": "madcapglobalentertainment.com",
+    "published": "",
+    "excerpt": "gamers worldwide loaded up the freshly released global phenomenon Grand Theft Auto VI and were immediately serenaded by ... McDonald delivering vocals for one of Justice’s most unexpected compositions to date – ‘Starting From Zero’ is available now on"
+   },
+   {
+    "title": "Wake Up With BroadwayWorld November 27, 2026- Macy's Thanksgiving Day Parade Postponed and More",
+    "url": "https://www.broadwayworld.com/article/Wake-Up-With-BroadwayWorld-November-27-2026--Macys-Thanksgiving-Day-Parade-Postponed-and-More-20261127",
+    "source": "broadwayworld.com",
+    "published": "",
+    "excerpt": "Our exclusive this morning is a treat for fans of The Sound of Music: Lisa Howard and Cayleigh Capaldi sing \"My Favorite Things\" from the national tour. ... Note that this year's parade has been postponed until Saturday, November 28 due to severe weather."
+   },
+   {
+    "title": "Music News Today — November 27, 2026 — MusicNewsletter.com",
+    "url": "https://musicnewsletter.com/news/daily-signal-20261127",
+    "source": "musicnewsletter.com",
+    "published": "",
+    "excerpt": "Olivia Rodrigo has just dropped the official version of her melancholy track \"Miss This Christmas\" on Amazon Music, capturing the bittersweet feelings that often come with the time of year. Meanwhile, Snoop Dogg has partnered with Feid on a brand new Thanksgiving single called \"Gracias x Todo\", bringing a fresh and catchy vibe to the holiday playlist."
+   },
+   {
+    "title": "Entertainment News Today (Nov 27): New Music & Streaming Releases This Week",
+    "url": "https://todayin.email/e/t-entertainment",
+    "source": "todayin.email",
+    "published": "",
+    "excerpt": "27, 2026 # Entertainment news today Today in Entertainment (Friday, November 27, 2026): New Music & Streaming Releases This Week. Also: Tinashe explores multiple genres on her latest pop album; Anuel AA releases 'RHLM2' album, says he made it with heart"
+   },
+   {
+    "title": "The Graham Norton Show guests tonight | Music, time and news | Radio Times",
+    "url": "https://www.radiotimes.com/tv/entertainment/graham-norton-show-guests/",
+    "source": "radiotimes.com",
+    "published": "",
+    "excerpt": "Tonight, Graham Norton will be joined on the famous red sofa by Willem Dafoe, who will be talking about his new film Werwulf. Slow Horses star Jack Lowden will be joining them to discuss playing Mr Darcy in the new Netflix adaptation of Pride and Prejudice. Completing the line-up will be Shirley Ballas before she embarks on the Strictly Come Dancing live tour, and Jack Whitehall, talking about his upcoming arena gigs. The Graham Norton Show airs tonight at 10:40pm on BBC One and iPlayer. ... Tonight Graham and the celebrity sofa will be entertained by Sienna Spiro, who will be performing Pure."
+   },
+   {
+    "title": "November 27, 2026 – 27 Magazine",
+    "url": "https://27magazine.com/2026/11/27/",
+    "source": "27magazine.com",
+    "published": "",
+    "excerpt": "TORTURED SOULS RELEASE DEBUT ALBUM ‘UNFORGETTABLE DAYS’ Posted on ... journey through life’s peaks and troughs, Unforgettable Days, the debut album from Perth-based collective The Tortured Souls, is out today. Helmed by singer-songwriter Justin Davies’"
+   }
+  ],
+  "text": "[1] Reuters Entertainment News Summary | International (devdiscourse.com)\nFrench actor Gerard Depardieu to face trial for rape, court rules Film star Gerard Depardieu, one of the leading faces of French cinema, will ​face trial on charges of raping actress Charlotte Arnould in 2018, after a Paris appeal court on Thursday rejected his ​bid to avoid having the case tried. Arnould first accused Depardieu of rape in 2018, ‌saying ​the assaults occurred in his Paris home on two separate occasions when she was in her early 20s. Depardieu, 77, has denied wrongdoing in the case, and his legal team last year appealed the investigative judge's decision for the case to be …\n\n[2] What To Watch On TV And Streaming Friday, November 27, 2026 (tvline.com)\nOn TV this Friday: \"S.W.A.T.: Exiles\" wraps Season 1, \"Outlander: Blood of My Blood\" hosts the Twelfth Night Festivities, and Anthony Anderson emcees the Soul Train Awards. ... ### The Magic Faraway Tree HBO Max NEW TO STREAMING ... ### On the Last Day of Christmas Paramount+ MOVIE PREMIERE ... ### Soul Train Awards BET, CBS Durand Bernarr, Elmiene, Avery Wilson, CeeLo Green, Dave Hollister, Erykah Badu, and Rapsody perform; Chaka Khan receives the Classic Soul Honor; Anthony Anderson hosts.\n\n[3] The week’s best new tracks and the act you need to know: the pyrotechnic emotions of club-pop kid Tsatsamis | Music | The Guardian (theguardian.com)\n​ Molly Santana – Sailin’ On The California rapper had a huge breakout this year via Drake’s Ran to Atlanta, and she now drops noisy debut album Black Punk. Sailin’ On certainly proves her punk bona fides, quoting Bad Brains’ Pay\n\n[4] November 27, 2026 | News Headlines | Decider (decider.com)\nQueue And A ### Olive Abercrombie unpacks Bianca di Angelo's 'Percy Jackson' death scene By Hope Sloop • Nov. 27, 2026, 12:01 a.m. ET Olive Abercrombie is saying goodbye to Bianca di Angelo from Percy Jackson and the Olympians in a touching way.\n\n[5] This Week In Entertainment News 27 November 2026 - MADCAP Global Entertainment (madcapglobalentertainment.com)\ngamers worldwide loaded up the freshly released global phenomenon Grand Theft Auto VI and were immediately serenaded by ... McDonald delivering vocals for one of Justice’s most unexpected compositions to date – ‘Starting From Zero’ is available now on\n\n[6] Wake Up With BroadwayWorld November 27, 2026- Macy's Thanksgiving Day Parade Postponed and More (broadwayworld.com)\nOur exclusive this morning is a treat for fans of The Sound of Music: Lisa Howard and Cayleigh Capaldi sing \"My Favorite Things\" from the national tour. ... Note that this year's parade has been postponed until Saturday, November 28 due to severe weather.\n\n[7] Music News Today — November 27, 2026 — MusicNewsletter.com (musicnewsletter.com)\nOlivia Rodrigo has just dropped the official version of her melancholy track \"Miss This Christmas\" on Amazon Music, capturing the bittersweet feelings that often come with the time of year. Meanwhile, Snoop Dogg has partnered with Feid on a brand new Thanksgiving single called \"Gracias x Todo\", bringing a fresh and catchy vibe to the holiday playlist.\n\n[8] Entertainment News Today (Nov 27): New Music & Streaming Releases This Week (todayin.email)\n27, 2026 # Entertainment news today Today in Entertainment (Friday, November 27, 2026): New Music & Streaming Releases This Week. Also: Tinashe explores multiple genres on her latest pop album; Anuel AA releases 'RHLM2' album, says he made it with heart\n\n[9] The Graham Norton Show guests tonight | Music, time and news | Radio Times (radiotimes.com)\nTonight, Graham Norton will be joined on the famous red sofa by Willem Dafoe, who will be talking about his new film Werwulf. Slow Horses star Jack Lowden will be joining them to discuss playing Mr Darcy in the new Netflix adaptation of Pride and Prejudice. Completing the line-up will be Shirley Ballas before she embarks on the Strictly Come Dancing live tour, and Jack Whitehall, talking about his upcoming arena gigs. The Graham Norton Show airs tonight at 10:40pm on BBC One and iPlayer. ... Tonight Graham and the celebrity sofa will be entertained by Sienna Spiro, who will be performing Pure.\n\n[10] November 27, 2026 – 27 Magazine (27magazine.com)\nTORTURED SOULS RELEASE DEBUT ALBUM ‘UNFORGETTABLE DAYS’ Posted on ... journey through life’s peaks and troughs, Unforgettable Days, the debut album from Perth-based collective The Tortured Souls, is out today. Helmed by singer-songwriter Justin Davies’",
+  "hash": "82986e334f333e65a61195b89a448cac18df42124b5ae5da925ba0f1db64a803",
+  "notes": []
+ }
+}
