@@ -1,0 +1,339 @@
+{
+ "none": {
+  "arm": "none",
+  "query": null,
+  "provider": null,
+  "collected_at_utc": "2026-11-28T05:03:49+00:00",
+  "items": [],
+  "text": "",
+  "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "general": {
+  "arm": "general",
+  "query": "top news stories November 28, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-28T05:03:49+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian",
+    "url": "https://www.theguardian.com/theguardian/2026/nov/28",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "### DWP ‘cyber incident’ knocks almost all pensions and ... - ### Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project"
+   },
+   {
+    "title": "While You Were Sleeping: 5 stories you might have missed, Nov 28, 2026 | The Straits Times",
+    "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-28-2026",
+    "source": "straitstimes.com",
+    "published": "",
+    "excerpt": "## US disables ship trying to leave Iran The US military said on Nov 27 it disabled a commercial ship that attempted ... vowed to break the US embargo. US Central Command said in a statement that ... the Iranian port city of Bandar Abbas. The ship’s"
+   },
+   {
+    "title": "Daily World Briefing, Nov. 28 -Xinhua",
+    "url": "https://english.news.cn/20261128/29f387bb6551413896cc510fc3c37310/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "New Zealand election produces hung parliament, neither bloc wins majority New Zealand's final election results have produced a hung parliament, with neither the governing ... , according to the Electoral Commission on Friday. The National-led coalition"
+   },
+   {
+    "title": "The Hindu Morning Digest: November 28, 2026 - The Hindu",
+    "url": "https://www.thehindu.com/news/the-hindu-morning-digest-november-28-2026/article71752254.ece",
+    "source": "thehindu.com",
+    "published": "",
+    "excerpt": "extension of the existing freeze on the inter-State distribution of Lok Sabha seats for another 25 years, until 2051, addressing the core concern of States that feared a loss of their proportionate strength due to the decline"
+   },
+   {
+    "title": "World news digest for November 28, 2026 | World Watch",
+    "url": "https://worldwatch.media/en/digest/2026-11-28",
+    "source": "worldwatch.media",
+    "published": "",
+    "excerpt": "Africa, and that conflict in Sudan and Yemen has deepened already severe shortages. ... plans to close all five road border crossings with Russia on 1 December, and long queues have ... In Myanmar, a junta airstrike in Magway Region killed at least"
+   },
+   {
+    "title": "World in 24 Hours: US Air Force Cloud Breached, Hamas Leader's Son Survives Strike, Taiwan Votes in Local Elections | Globe TV",
+    "url": "https://globetv.app/news/world-news-24-hours-november-28-2026",
+    "source": "globetv.app",
+    "published": "",
+    "excerpt": "## United States: hackers breach Air Force cloud platform Hackers breached the US Air Force's Cloud One computing platform, potentially exposing sensitive tactical, personnel and logistics data, multiple sources told Reuters. The breach was discovered during system upgrades over the past month. An Air Force spokesperson declined to confirm or deny the intrusion, stating the service does not comment on the security posture of specific networks. The Defence Department said its systems remain safe and managed around the clock. The incident follows a series of breaches and outages at federal agencies this month. Severe Thanksgiving ... ## Middle East: Israeli strike targets Hamas chief's son in Gaza An Israeli air strike in Gaza targeted the family of Hamas political bureau chief Khalil al-Hayya on Friday. His youngest son, Izzeldeen al-Hayya, 29, and his family survived the dawn attack, though several relatives were wounded, including al-Hayya's daughter-in-law, Hamas officials said. Four of al-Hayya's other sons have been killed in previous Israeli strikes. Hamas condemned the attack as an assassination attempt and said it undermines the October 2025 ceasefire agreement. Separate Israeli strikes elsewhere in Gaza killed four Palestinians. ... ## Taiwan: voters choose mayors in closely watched local elections Taiwan held \"nine-in-one\" local elections across its 22 cities and counties on Saturday, with about 11,000 positions at stake. The key contest is for the mayor of Taipei, a traditional stronghold of the opposition Kuomintang (KMT). Incumbent KMT mayor Chiang Wan-an faces a strong challenge from Puma Shen of the ruling Democratic Progressive Party (DPP). Shen, an expert on China's information warfare, has drawn huge crowds and cancelled a final rally for an online event that attracted over 500,000 viewers. President William Lai Ching-te urged voters to back DPP candidates. China has repeatedly weighed in on the elections, denouncing Shen and issuing a wanted notice for \"separatism\". Beijing views the Taipei race as a test for the DPP ahead of the 2028 presidential election. Other notable races include New Taipei City, Taiwan's most populous city, and Kaohsiung in the south. Results were expected early in the evening."
+   },
+   {
+    "title": "HT morning brief Nov 28: Centre unveils new delimitation plan; Netanyahu weighs rotating premiership in Israel and more | India News",
+    "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-november-28-govt-delimitation-plan-lok-sabha-seats-women-reservation-india-bloc-israel-netanyahu-ramayana-rohit-sharma-ipl-101795832077523.html",
+    "source": "hindustantimes.com",
+    "published": "",
+    "excerpt": "Govt’s delimitation plan: 50% seat hike for every state, Lok Sabha strength ceiling rises to 850 ... the reservation of seats for women in Parliament and legislative assemblies of the states and Union territories. The"
+   },
+   {
+    "title": "Xinhua world news summary at 0030 GMT, Nov. 28-Xinhua",
+    "url": "https://english.news.cn/20261128/37bd4526dea7440796bf25a3346f38d6/c.html",
+    "source": "english.news.cn",
+    "published": "",
+    "excerpt": "people died, and 90 others were rescued after a migrant boat was found adrift about ... earlier. According to preliminary investigations, its engine had failed three days before it was spotted, leaving it adrift at sea, according to EFE and Spanish"
+   },
+   {
+    "title": "Breaking News Live November 28: IndiGo resumes Jeddah, Madinah flights; Riyadh, Dammam services cancelled till Dec 7 - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/india/india-international-breaking-news-today-november-28/liveblog/136232806.cms",
+    "source": "timesofindia.indiatimes.com",
+    "published": "",
+    "excerpt": "represented by Ambassador Haytham AlMalki on behalf of Foreign Minister Prince Faisal bin Farhan Al Saud. Chaired by ... minister S Jaishankar, the meeting concluded with the adoption of the Delhi Communique 2026,"
+   },
+   {
+    "title": "India News Today's Live Updates, 28 November 2026: Latest Breaking News From India, Delhi, Mumbai & Around the World | India News - The Indian Express",
+    "url": "https://indianexpress.com/article/india/breaking-news-live-updates-28-november-2026-india-bloc-meeting-punjab-up-elections-delimitation-aqi-kerala-deepam-row-accident-10981877/",
+    "source": "indianexpress.com",
+    "published": "",
+    "excerpt": "after a video showing a Class 9 boy being assaulted by senior students at a ... in September. The school principal has been issued a show-cause notice and an inquiry is underway into the assault and alleged lapses in school management."
+   }
+  ],
+  "text": "[1] Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian (theguardian.com)\n### DWP ‘cyber incident’ knocks almost all pensions and ... - ### Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project\n\n[2] While You Were Sleeping: 5 stories you might have missed, Nov 28, 2026 | The Straits Times (straitstimes.com)\n## US disables ship trying to leave Iran The US military said on Nov 27 it disabled a commercial ship that attempted ... vowed to break the US embargo. US Central Command said in a statement that ... the Iranian port city of Bandar Abbas. The ship’s\n\n[3] Daily World Briefing, Nov. 28 -Xinhua (english.news.cn)\nNew Zealand election produces hung parliament, neither bloc wins majority New Zealand's final election results have produced a hung parliament, with neither the governing ... , according to the Electoral Commission on Friday. The National-led coalition\n\n[4] The Hindu Morning Digest: November 28, 2026 - The Hindu (thehindu.com)\nextension of the existing freeze on the inter-State distribution of Lok Sabha seats for another 25 years, until 2051, addressing the core concern of States that feared a loss of their proportionate strength due to the decline\n\n[5] World news digest for November 28, 2026 | World Watch (worldwatch.media)\nAfrica, and that conflict in Sudan and Yemen has deepened already severe shortages. ... plans to close all five road border crossings with Russia on 1 December, and long queues have ... In Myanmar, a junta airstrike in Magway Region killed at least\n\n[6] World in 24 Hours: US Air Force Cloud Breached, Hamas Leader's Son Survives Strike, Taiwan Votes in Local Elections | Globe TV (globetv.app)\n## United States: hackers breach Air Force cloud platform Hackers breached the US Air Force's Cloud One computing platform, potentially exposing sensitive tactical, personnel and logistics data, multiple sources told Reuters. The breach was discovered during system upgrades over the past month. An Air Force spokesperson declined to confirm or deny the intrusion, stating the service does not comment on the security posture of specific networks. The Defence Department said its systems remain safe and managed around the clock. The incident follows a series of breaches and outages at federal …\n\n[7] HT morning brief Nov 28: Centre unveils new delimitation plan; Netanyahu weighs rotating premiership in Israel and more | India News (hindustantimes.com)\nGovt’s delimitation plan: 50% seat hike for every state, Lok Sabha strength ceiling rises to 850 ... the reservation of seats for women in Parliament and legislative assemblies of the states and Union territories. The\n\n[8] Xinhua world news summary at 0030 GMT, Nov. 28-Xinhua (english.news.cn)\npeople died, and 90 others were rescued after a migrant boat was found adrift about ... earlier. According to preliminary investigations, its engine had failed three days before it was spotted, leaving it adrift at sea, according to EFE and Spanish\n\n[9] Breaking News Live November 28: IndiGo resumes Jeddah, Madinah flights; Riyadh, Dammam services cancelled till Dec 7 - The Times of India (timesofindia.indiatimes.com)\nrepresented by Ambassador Haytham AlMalki on behalf of Foreign Minister Prince Faisal bin Farhan Al Saud. Chaired by ... minister S Jaishankar, the meeting concluded with the adoption of the Delhi Communique 2026,\n\n[10] India News Today's Live Updates, 28 November 2026: Latest Breaking News From India, Delhi, Mumbai & Around the World | India News - The Indian Express (indianexpress.com)\nafter a video showing a Class 9 boy being assaulted by senior students at a ... in September. The school principal has been issued a show-cause notice and an inquiry is underway into the assault and alleged lapses in school management.",
+  "hash": "3a8b6d1b10d9d4b634a420f9492aa0a3a44d0c89932f606574cbb81eee4ddf12",
+  "notes": []
+ },
+ "economy": {
+  "arm": "economy",
+  "query": "U.S. economy inflation prices news November 28, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-28T05:04:13+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "US economy roars ahead in third quarter, inflation remains high in October By Reuters",
+    "url": "https://www.investing.com/news/economy-news/us-inflation-rises-further-in-october-5050840",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "WASHINGTON, Nov 25 (Reuters) - The US economy grew much faster than initially estimated in the third quarter, while inflation increased further in October, reinforcing expectations that the Federal Reserve will raise interest rates next month and again in early 2027. The sharp upward revision to gross domestic product last quarter, reported by the Commerce Department on Wednesday, marked the quickest economic growth pace in three years. It reflected upgrades to consumer spending and business investment, mostly related to artificial intelligence. Robust domestic demand is fueling inflation, with a measure of underlying price pressures in October posting its biggest year-over-year increase since late 2023. The economy has powered ahead despite the ongoing US-Israeli war with Iran. ... GDP increased at a 4.3% annualized rate last quarter, the Commerce Department’s Bureau of Economic Analysis said in its second estimate of third-quarter GDP. It was the fastest pace since the third quarter of 2023. ... Growth in consumer spending, which accounts for more than two-thirds of the economy, was revised up to a 4.2% rate. That was the strongest pace since ... Spending is being driven mostly by higher-income households, whose wealth was boosted by the stock market before the ongoing AI-led selloff. Economists expect consumer spending to slow to a still-healthy pace in the fourth quarter, though declining gasoline prices should ease some of the financial pressure on middle- and lower-income households. ... The Personal Consumption Expenditures Price Index increased 0.3% in October after gaining 0.5% in September, the BEA said. PCE inflation was lifted by higher prices for goods, including food and household furnishings, as well as services such as recreation, dining out and hotel stays. In the 12 months through October, PCE inflation increased 3.8% after advancing 3.6% in September. Excluding the volatile food and energy components, the PCE Price Index increased 0.3% for the third straight month. So-called core PCE inflation increased 3.3% on a year-over-year basis in October, the largest advance since November 2023, after climbing 3.1% in September."
+   },
+   {
+    "title": "PCE inflation report October 2026: Fed’s preferred inflation gauge accelerated to 3.8%",
+    "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+    "source": "cnbc.com",
+    "published": "",
+    "excerpt": "0.1 percentage point above the forecast. While the Fed officially follows the headline figure, policymakers consider core to be a more reliable longer-term gauge of ... lowered odds for a third hike to about 1-in-3, compared to"
+   },
+   {
+    "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+    "url": "https://apnews.com/article/consumer-spending-prices-inflation-tariffs-31fab1e32dda1ad3a29c192f620d5733",
+    "source": "apnews.com",
+    "published": "",
+    "excerpt": ". Gas prices rose just 0.8% last month, according to the department, after surging 9.2% in September. Food prices, however, jumped 0.4% from September to October, the biggest monthly increase since April."
+   },
+   {
+    "title": "GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 | U.S. Bureau of Economic Analysis (BEA)",
+    "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+    "source": "bea.gov",
+    "published": "",
+    "excerpt": "EMBARGOED UNTIL RELEASE AT 8:30 a.m. EST, Wednesday, November 25, 2026 # GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 Real gross domestic product (GDP) increased at an annual rate of 4.3 percent in the third quarter of 2026 (July, August, and September), according to the second estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the second quarter, real GDP increased 2.2 percent. The contributors to the increase in real GDP in the third quarter were increases in investment, consumer spending, and government spending that were partly offset by a decrease in exports. Imports, which are a subtraction in the calculation of GDP, increased. Real GDP was revised up 0.9 percentage point from the advance estimate, primarily reflecting upward revisions to investment and consumer spending. For more information, refer to the \" Technical Notes\" below. Compared to the second quarter, the acceleration in real GDP in the third quarter primarily reflected an acceleration in investment and an upturn in government spending that were partly offset by a downturn in exports. Imports increased more in the third quarter than in the second quarter. Real final sales to private domestic purchasers, the sum of consumer spending and gross private fixed investment, increased 5.8 percent in the third quarter, revised up 0.9 percentage point from the previous estimate. The price index for gross domestic purchases increased 2.7 percent in the third quarter, revised down 0.3 percentage point from the previous estimate. The personal consumption expenditures (PCE) price index increased 2.1 percent, and the PCE price index, excluding food and energy increased 2.5 percent, both the same as previously estimated. Real gross domestic income (GDI) increased 4.4 percent in the third quarter, compared with an increase of 2.3 percent (revised) in the second quarter. The average of real GDP and real GDI also increased 4.4 percent, compared with an increase of 2.2 percent (revised)."
+   },
+   {
+    "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks By Reuters",
+    "url": "https://www.investing.com/news/economy-news/fed-survey-shows-continued-growth-and-sticky-inflation-in-recent-weeks-5051371",
+    "source": "investing.com",
+    "published": "",
+    "excerpt": "Nov 25 (Reuters) - Economic growth persisted at a \"slight to moderate\" pace across most of the US in recent weeks, while inflation remained sticky and employment levels rose, a Federal Reserve survey showed on Wednesday, two weeks before central bank policymakers decide whether to raise interest rates. \"Prices increased moderately overall, as in the prior reporting period,\" the Fed said in its latest \"Beige Book\" report, a compendium of survey-based data and commentary from businesses compiled by its 12 regional banks to provide a read on economic conditions. \"Contacts across a range of sectors reported sustained cost pressure from energy, transportation, health care, insurance, and tariff-related expenses.\" Still, input costs were outpacing selling price increases, suggesting growing pressure on corporate margins, the report said. \"(C)ompetitive pressures and customer price sensitivity limited firms’ ability to fully pass through higher costs. Contacts expected both expenses and prices to continue rising in the coming months.\""
+   },
+   {
+    "title": "US inflation hits highest since May after prices climb 3.8% over the last year | US economy | The Guardian",
+    "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "energy prices, according to the personal consumption expenditure index, the Fed’s ... Energy prices, including gas prices at the pump, have cooled, going from a high of $4.41 a gallon in early October to $3.61 a gallon by mid-November, according to AAA."
+   },
+   {
+    "title": "Inflation is still hot, fueled in part by the AI boom : NPR",
+    "url": "https://www.npr.org/2026/11/25/nx-s1-6053958/inflation-is-still-hot-fueled-in-part-by-the-ai-boom",
+    "source": "npr.org",
+    "published": "",
+    "excerpt": "Greg Daco of the accounting firm EY-Parthenon says inflation's being driven by the huge investment in artificial intelligence, the wartime spike in fuel prices and President Trump's tariffs. Daco says businesses are less likely now to absorb those costs"
+   },
+   {
+    "title": "Fed's Preferred Inflation Gauge Hits 3.8% as Expected: Q3 GDP Growth Revised Up to 4.3% (UPDATED)",
+    "url": "https://www.benzinga.com/markets/economic-data/26/11/63619838/pce-inflation-october-gdp-second-estimate",
+    "source": "benzinga.com",
+    "published": "",
+    "excerpt": "0.4% in October, slowing from 0.8% in September. Energy was the main reason. Energy goods and services prices rose 0.7%, down from a 5.4% jump the month before. ... bought for home consumption increased 0.4%, the biggest monthly gain since April."
+   },
+   {
+    "title": "U.S. PCE inflation hits 3.8%; Dec. Fed hike odds near 98% | Baomazai",
+    "url": "https://baomazai.com/en/macro/2026/11/28/us-october-pce-inflation-fed-hike/",
+    "source": "baomazai.com",
+    "published": "",
+    "excerpt": "3.3% from a year earlier, above the 3.2% forecast by economists polled by LSEG, according to ... Business. - CME FedWatch put the odds of a quarter-point hike at the Dec. 8–9 meeting at 97.8%, up from 93.5% a week earlier, Fox Business reported."
+   },
+   {
+    "title": "Market news 28 Nov 2026: US PCE inflation reaches 3.8% and core 3.3%; S&P 500…",
+    "url": "https://worldmacronews.com/briefing/2026-11-28",
+    "source": "worldmacronews.com",
+    "published": "",
+    "excerpt": "Research as of Sat 28 Nov 2026, 10:10 AM IST · Only news with a verified market reaction, ranked by impact. Each story shows what happened and how markets ... rose 3.8% y/y and core 3.3% y/y, and Q3 GDP was revised up to 4.3% (BEA), so a December Fed hike"
+   }
+  ],
+  "text": "[1] US economy roars ahead in third quarter, inflation remains high in October By Reuters (investing.com)\nWASHINGTON, Nov 25 (Reuters) - The US economy grew much faster than initially estimated in the third quarter, while inflation increased further in October, reinforcing expectations that the Federal Reserve will raise interest rates next month and again in early 2027. The sharp upward revision to gross domestic product last quarter, reported by the Commerce Department on Wednesday, marked the quickest economic growth pace in three years. It reflected upgrades to consumer spending and business investment, mostly related to artificial intelligence. Robust domestic demand is fueling inflation, …\n\n[2] PCE inflation report October 2026: Fed’s preferred inflation gauge accelerated to 3.8% (cnbc.com)\n0.1 percentage point above the forecast. While the Fed officially follows the headline figure, policymakers consider core to be a more reliable longer-term gauge of ... lowered odds for a third hike to about 1-in-3, compared to\n\n[3] Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed (apnews.com)\n. Gas prices rose just 0.8% last month, according to the department, after surging 9.2% in September. Food prices, however, jumped 0.4% from September to October, the biggest monthly increase since April.\n\n[4] GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 | U.S. Bureau of Economic Analysis (BEA) (bea.gov)\nEMBARGOED UNTIL RELEASE AT 8:30 a.m. EST, Wednesday, November 25, 2026 # GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 Real gross domestic product (GDP) increased at an annual rate of 4.3 percent in the third quarter of 2026 (July, August, and September), according to the second estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the second quarter, real GDP increased 2.2 percent. The contributors to the increase in real GDP in the third quarter were increases in investment, consumer spending, and government spending that were partly offset by a decrease …\n\n[5] Fed survey shows continued economic growth, sticky inflation in recent weeks By Reuters (investing.com)\nNov 25 (Reuters) - Economic growth persisted at a \"slight to moderate\" pace across most of the US in recent weeks, while inflation remained sticky and employment levels rose, a Federal Reserve survey showed on Wednesday, two weeks before central bank policymakers decide whether to raise interest rates. \"Prices increased moderately overall, as in the prior reporting period,\" the Fed said in its latest \"Beige Book\" report, a compendium of survey-based data and commentary from businesses compiled by its 12 regional banks to provide a read on economic conditions. \"Contacts across a range of …\n\n[6] US inflation hits highest since May after prices climb 3.8% over the last year | US economy | The Guardian (theguardian.com)\nenergy prices, according to the personal consumption expenditure index, the Fed’s ... Energy prices, including gas prices at the pump, have cooled, going from a high of $4.41 a gallon in early October to $3.61 a gallon by mid-November, according to AAA.\n\n[7] Inflation is still hot, fueled in part by the AI boom : NPR (npr.org)\nGreg Daco of the accounting firm EY-Parthenon says inflation's being driven by the huge investment in artificial intelligence, the wartime spike in fuel prices and President Trump's tariffs. Daco says businesses are less likely now to absorb those costs\n\n[8] Fed's Preferred Inflation Gauge Hits 3.8% as Expected: Q3 GDP Growth Revised Up to 4.3% (UPDATED) (benzinga.com)\n0.4% in October, slowing from 0.8% in September. Energy was the main reason. Energy goods and services prices rose 0.7%, down from a 5.4% jump the month before. ... bought for home consumption increased 0.4%, the biggest monthly gain since April.\n\n[9] U.S. PCE inflation hits 3.8%; Dec. Fed hike odds near 98% | Baomazai (baomazai.com)\n3.3% from a year earlier, above the 3.2% forecast by economists polled by LSEG, according to ... Business. - CME FedWatch put the odds of a quarter-point hike at the Dec. 8–9 meeting at 97.8%, up from 93.5% a week earlier, Fox Business reported.\n\n[10] Market news 28 Nov 2026: US PCE inflation reaches 3.8% and core 3.3%; S&P 500… (worldmacronews.com)\nResearch as of Sat 28 Nov 2026, 10:10 AM IST · Only news with a verified market reaction, ranked by impact. Each story shows what happened and how markets ... rose 3.8% y/y and core 3.3% y/y, and Q3 GDP was revised up to 4.3% (BEA), so a December Fed hike",
+  "hash": "0ad1ee2c1a6638a61a97b7eb02b5157a1e6905e8d594b79a6c4bbbd3763d77d0",
+  "notes": []
+ },
+ "politics": {
+  "arm": "politics",
+  "query": "U.S. politics news November 28, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-28T05:04:37+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Trump officials to speed president's projects with special meeting before new Congress",
+    "url": "https://exa.ai/library/news/story/0xnfwb1nsnbvkt3ydvybp143d",
+    "source": "exa.ai",
+    "published": "",
+    "excerpt": "article: [Trump officials to speed president's projects with special meeting before new Congress](https://www. ... First reported 2026-11-27 20:26 UTC · last updated 2026-11-28 04:23 UTC · 13 publishers"
+   },
+   {
+    "title": "Why Trump officials are living on military bases",
+    "url": "https://exa.ai/library/news/story/n3p8vwq3ddmlsh90nrg2m3b7x",
+    "source": "exa.ai",
+    "published": "",
+    "excerpt": ": [Why Trump officials are living on military ... /2026/11/27/trump-officials-military-bases/92978457007/) · usatoday.com First reported 2026-11-26 13:02 UTC · last updated 2026-11-28 04:52 UTC · 69 publishers"
+   },
+   {
+    "title": "Republicans rethink tariffs, giving Democrats opening to challenge Trump",
+    "url": "https://exa.ai/library/news/story/77dzwfb7xsglbqx12cl8l2nxt",
+    "source": "exa.ai",
+    "published": "",
+    "excerpt": ", giving Democrats opening to challenge Trump Lead article: [Republicans rethink tariffs, giving Democrats opening to challenge Trump](https://t.co/65bG3OYuoS) · t.co First reported 2026-11-26 11:15 UTC · last updated 2026-11-28 02:06 UTC · 94 publishers"
+   },
+   {
+    "title": "Trump to visit Arizona manufacturer of semiconductor chips, including Nvidia's - CBS News",
+    "url": "https://exa.ai/library/news/story/5gfqd41sgbcxfxsxxk8v3lbxk",
+    "source": "exa.ai",
+    "published": "",
+    "excerpt": ": [Trump to visit Arizona manufacturer of semiconductor chips, including Nvidia's - CBS News](https://www ... /news/trump-visit-tsmc-semiconductor-facility-phoenix- ... First reported 2026-11-25 19:59 UTC · last updated 2026-11-28 04:32 UTC · 24 publishers"
+   },
+   {
+    "title": "Exclusive | Trump keeps Vance, Rubio guessing on 2028 endorsement while also praising Hegseth for doing a ’great job",
+    "url": "https://exa.ai/library/news/story/53sdff5xjj1m5gqphhk48q64s",
+    "source": "exa.ai",
+    "published": "",
+    "excerpt": ": [Exclusive \\| Trump keeps Vance, Rubio guessing on 2028 ... while also praising Hegseth for doing a ’great job](https://nypost.com/2026/11/27/us-news ... .com First reported 2026-11-27 18:39 UTC · last updated 2026-11-28 03:15 UTC · 14 publishers"
+   },
+   {
+    "title": "Vance and Rubio learn the price of loyalty to Trump",
+    "url": "https://exa.ai/library/news/story/xv56wsnppxcncjl0s0sp15b09",
+    "source": "exa.ai",
+    "published": "",
+    "excerpt": "the price of loyalty to Trump Lead article: [Vance and Rubio learn the price of loyalty to Trump](https://www.axios.com/2026/11/27/vance-rubio-trump-downside-2028) · axios.com First reported 2026-11-27 12:06 UTC · last updated 2026-11-28 04:03 UTC · 17"
+   },
+   {
+    "title": "Trump says he urged Putin to end 'all military aggression' in Europe",
+    "url": "https://exa.ai/library/news/story/ltykvqj03zt5c85r3hs27nxf6",
+    "source": "exa.ai",
+    "published": "",
+    "excerpt": "article: [Trump says he urged Putin to end 'all military aggression' in ... -putin-end-174831277.html) · Yahoo First reported 2026-11-26 14:55 UTC · last updated 2026-11-28 04:05 UTC · 545 publishers"
+   },
+   {
+    "title": "Why the wave election may not end the frenzy to redraw political maps",
+    "url": "https://www.washingtonpost.com/politics/2026/11/26/where-national-redistricting-wars-are-probably-headed/",
+    "source": "washingtonpost.com",
+    "published": "",
+    "excerpt": "moment to forge a truce and prevent similar redistricting fights. Sen. Alex Padilla (D-California) said he plans ... that would ban mid-decade redistricting and require states to draw districts without favoring one political party. Republicans have"
+   },
+   {
+    "title": "GMT EIGHT - Latest - Today's Trump Top Stories",
+    "url": "https://www.gmt8press.com/flash/detail/1561069",
+    "source": "gmt8press.com",
+    "published": "",
+    "excerpt": "28/11/2026 1. The White House issued an executive order: Trump exempted multiple Russia-related sanctions, restrictive measures, and tariffs under the \"2026 Lindsey Graham Sanctions on Russia and Iran Act,\" suspending the implementation of relevant provisions, but did not repeal the act. ... Trump traveled to Georgia for a campaign rally, promoting local manufacturing growth driven by his policies in order to mobilize voters. Republicans plan to target Democratic Senator Ossoff's seat in the November midterm elections."
+   },
+   {
+    "title": "GMT EIGHT - Latest - Trump rallies in Kentucky, boasts of stronger power this term, makes multiple midterm election campaign promises",
+    "url": "https://gmteight.com/flash/detail/1561251",
+    "source": "gmteight.com",
+    "published": "",
+    "excerpt": "28/11/2026 On Saturday local time, U.S. President Trump held a campaign rally in Kentucky to drum up votes for Republicans and help the party secure higher turnout in a difficult midterm election. While at the White House, he had touted his own power, saying: \"I can do some incredible things.\" ... Trump once again brought up the \"Trump dividend\" plan: if Republicans win both the Senate and the House, every American adult would receive $5,000. The plan would likely cost more than $1 trillion in total, require congressional approval, and further expand the U.S. fiscal deficit of nearly $1.8 trillion a year. At Saturday's rally, Trump added a conditional promise specifically for Kentucky. He said that if Republicans win, the Department of Defense would invest funds to revive a pharmaceutical production base in the state."
+   }
+  ],
+  "text": "[1] Trump officials to speed president's projects with special meeting before new Congress (exa.ai)\narticle: [Trump officials to speed president's projects with special meeting before new Congress](https://www. ... First reported 2026-11-27 20:26 UTC · last updated 2026-11-28 04:23 UTC · 13 publishers\n\n[2] Why Trump officials are living on military bases (exa.ai)\n: [Why Trump officials are living on military ... /2026/11/27/trump-officials-military-bases/92978457007/) · usatoday.com First reported 2026-11-26 13:02 UTC · last updated 2026-11-28 04:52 UTC · 69 publishers\n\n[3] Republicans rethink tariffs, giving Democrats opening to challenge Trump (exa.ai)\n, giving Democrats opening to challenge Trump Lead article: [Republicans rethink tariffs, giving Democrats opening to challenge Trump](https://t.co/65bG3OYuoS) · t.co First reported 2026-11-26 11:15 UTC · last updated 2026-11-28 02:06 UTC · 94 publishers\n\n[4] Trump to visit Arizona manufacturer of semiconductor chips, including Nvidia's - CBS News (exa.ai)\n: [Trump to visit Arizona manufacturer of semiconductor chips, including Nvidia's - CBS News](https://www ... /news/trump-visit-tsmc-semiconductor-facility-phoenix- ... First reported 2026-11-25 19:59 UTC · last updated 2026-11-28 04:32 UTC · 24 publishers\n\n[5] Exclusive | Trump keeps Vance, Rubio guessing on 2028 endorsement while also praising Hegseth for doing a ’great job (exa.ai)\n: [Exclusive \\| Trump keeps Vance, Rubio guessing on 2028 ... while also praising Hegseth for doing a ’great job](https://nypost.com/2026/11/27/us-news ... .com First reported 2026-11-27 18:39 UTC · last updated 2026-11-28 03:15 UTC · 14 publishers\n\n[6] Vance and Rubio learn the price of loyalty to Trump (exa.ai)\nthe price of loyalty to Trump Lead article: [Vance and Rubio learn the price of loyalty to Trump](https://www.axios.com/2026/11/27/vance-rubio-trump-downside-2028) · axios.com First reported 2026-11-27 12:06 UTC · last updated 2026-11-28 04:03 UTC · 17\n\n[7] Trump says he urged Putin to end 'all military aggression' in Europe (exa.ai)\narticle: [Trump says he urged Putin to end 'all military aggression' in ... -putin-end-174831277.html) · Yahoo First reported 2026-11-26 14:55 UTC · last updated 2026-11-28 04:05 UTC · 545 publishers\n\n[8] Why the wave election may not end the frenzy to redraw political maps (washingtonpost.com)\nmoment to forge a truce and prevent similar redistricting fights. Sen. Alex Padilla (D-California) said he plans ... that would ban mid-decade redistricting and require states to draw districts without favoring one political party. Republicans have\n\n[9] GMT EIGHT - Latest - Today's Trump Top Stories (gmt8press.com)\n28/11/2026 1. The White House issued an executive order: Trump exempted multiple Russia-related sanctions, restrictive measures, and tariffs under the \"2026 Lindsey Graham Sanctions on Russia and Iran Act,\" suspending the implementation of relevant provisions, but did not repeal the act. ... Trump traveled to Georgia for a campaign rally, promoting local manufacturing growth driven by his policies in order to mobilize voters. Republicans plan to target Democratic Senator Ossoff's seat in the November midterm elections.\n\n[10] GMT EIGHT - Latest - Trump rallies in Kentucky, boasts of stronger power this term, makes multiple midterm election campaign promises (gmteight.com)\n28/11/2026 On Saturday local time, U.S. President Trump held a campaign rally in Kentucky to drum up votes for Republicans and help the party secure higher turnout in a difficult midterm election. While at the White House, he had touted his own power, saying: \"I can do some incredible things.\" ... Trump once again brought up the \"Trump dividend\" plan: if Republicans win both the Senate and the House, every American adult would receive $5,000. The plan would likely cost more than $1 trillion in total, require congressional approval, and further expand the U.S. fiscal deficit of nearly $1.8 …",
+  "hash": "ba443962ebccfb53a77f21141465c4a618fafe7263dd61fe5e166b2180f467fe",
+  "notes": []
+ },
+ "entertainment": {
+  "arm": "entertainment",
+  "query": "entertainment news movies music celebrities November 28, 2026",
+  "provider": "openrouter_exa",
+  "collected_at_utc": "2026-11-28T05:04:58+00:00",
+  "n_items": 10,
+  "items": [
+   {
+    "title": "Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian",
+    "url": "https://www.theguardian.com/theguardian/2026/nov/28",
+    "source": "theguardian.com",
+    "published": "",
+    "excerpt": "- ### Phoebe Bridgers review – phone-free arena show is a cosmic, communal revelation 5 out of 5 stars. Phoebe Bridgers review – phone-free arena show is a cosmic, communal revelation ... robbed fans at Manchester gig disrupted by ‘unknown substance’"
+   },
+   {
+    "title": "Reuters Entertainment News Summary | International",
+    "url": "https://www.devdiscourse.com/article/international/4013373-reuters-entertainment-news-summary",
+    "source": "devdiscourse.com",
+    "published": "",
+    "excerpt": "French actor Gerard Depardieu to face trial for rape, court rules Film star Gerard Depardieu, one of the leading faces of French cinema, ‌will face trial on charges of raping actress Charlotte Arnould in 2018, after a Paris appeal court on Thursday rejected his bid to avoid having the case tried. Arnould first accused Depardieu of rape in 2018, saying the assaults occurred in his Paris home on two separate occasions when she was in her early 20s. Depardieu, 77, has denied wrongdoing in the case, and his legal team last ‌year appealed the investigative judge's decision for the case to be tried. ... An advertisement for cardamom is at the centre of a ‌legal spat between a Bollywood actor and India's most ... Duran Duran guitarist and songwriter Andy Taylor dies at 65 Andy Taylor, ⁠the guitarist ​and songwriter for pop-rock band Duran Duran and a ⁠Rock and Roll Hall of Fame inductee, died at age 65 on Monday, according to a joint statement from his family and former bandmates released on Wednesday. Taylor, who co-wrote some of the group's biggest hits, including “Hungry Like the Wolf,” “Rio,” ⁠and “Girls on Film,” died from metastatic prostate cancer. He was diagnosed in 2018. ... US Paralympian Ezra Frech's victory on \"Dancing with the Stars\" could help reshape perceptions of disability and build interest in the 2028 Los Angeles Paralympics, fellow athletes and ⁠organizers ​said after the 21-year-old won the show's coveted Mirrorball trophy on Tuesday. Frech and professional partner Daniella Karagach won the 35th season of the televised dance competition after receiving perfect scores for each of their three finale routines."
+   },
+   {
+    "title": "November 2026 – Deadline",
+    "url": "https://deadline.com/2026/11/",
+    "source": "deadline.com",
+    "published": "",
+    "excerpt": "Haley Dies; WWE Star Known To Fans As Bronson Reed was 38 The World Wrestling Federation announced the passing of Jermaine Haley, aka Bronson Reed. The 38-year-old died Nov. 26 of medical complications. “Jermaine was a larger-than-life figure in WWE,”"
+   },
+   {
+    "title": "ILLIT's MOKA returns \"step by step\", BESTie's 'Love Options' tops QQ Music: November 28 news briefing — 노놀 매거진",
+    "url": "https://mag.nonol.co.kr/en/article/20261128-254ae2",
+    "source": "mag.nonol.co.kr",
+    "published": "",
+    "excerpt": "November 28, 2026 at 09:30 AM ... ## Yesterday's news ### 1. ILLIT's MOKA: \"step by step\" On the 27th, ILLIT's MOKA thanked fans for waiting in a post on Weverse and asked them to wait a little longer while the members gradually return to activities. The agency BELIFT LAB said no specific comeback schedule has been set yet. Sources: Korea Times · Soompi · Topstar News ### 2. BESTie's 'Love Options' tops a QQ Music chart in China BESTie's 'Love Options', released in October 2013, reached No. 1 on QQ Music's 'Hot Songs' chart in China. In Korea it climbed as high as No. 5 on the Melon TOP100. It was also No. 1 on the Circle Chart's global K-pop chart for week 47 (the 15th to the 21st), announced on the 26th. Sources: Tenasia · Topstar News · News Culture (Circle Chart) ### 3. SUPER JUNIOR-D&E in Incheon in January, tickets for NCT WISH's added Gocheok show SUPER JUNIOR-D&E announced on its official account that it will hold the concert 'D&ESTIVAL: THE 15/15' in Incheon on January 9 and 10 and then take it to several Asian cities. Tickets for NCT WISH's added January 14 show at Gocheok Sky Dome open with a domestic presale on December 2, a global presale on the 3rd and general sales on the 4th, all at 8 p.m. KST. Sources: Soompi (D&E) · Topstar News (NCT WISH) ... ### 4. NAYEON's 'BOY' music video, aespa's 'KISS N TELL' in English NAYEON posted the music video for 'BOY', a track from 'NA-sty', on the JYP channel at 10 p.m. KST on the 26th. By the evening of the 27th it had 1.27 million views. aespa released an English version of 'KISS N TELL' as an official audio at 2 p.m. KST on the 27th. Sources: NAYEON 'BOY' music video · aespa 'KISS N TELL (English Ver.)' ### 5. BEGRITZ's 'X-do', released with a visualizer The virtual five-member group BEGRITZ released its first single, 'X-do (BACK DO)' (X도), at 6 p.m. KST on the 27th. What went up on the official channel was a visualizer, not a music video. ... TAEYEON's 'Unspecial' music video teaser At midnight on the 27th, TAEYEON released the music video teaser for 'Unspecial', the title track of the fourth full-length album. The album comes out on Monday the 30th at 6 p.m. KST."
+   },
+   {
+    "title": "Breaking News | TheFutonCritic.com - The Web's Best Television Resource",
+    "url": "http://www.thefutoncritic.com/news/2026/11/28/",
+    "source": "thefutoncritic.com",
+    "published": "",
+    "excerpt": "| [saturday, november 28, 2026] | ... - 07:01 AM] The Concluding Chapter: \"Our Fault: London\" Comes to Prime Video on January 22, 2027 The epic conclusion of the ... and will launch exclusively on Prime Video, in more than 240 countries and territories."
+   },
+   {
+    "title": "U2, ATEEZ, Ella Langley & More: Chart Highlights",
+    "url": "https://www.billboard.com/lists/u2-ateez-ella-langley-chart-highlights-november-28-2026/",
+    "source": "billboard.com",
+    "published": "",
+    "excerpt": "Tuesday is new Billboard chart day each week! As all charts update each Tuesday, here’s a look at highlights of the latest rankings, dated Nov. 28 and reflecting the Nov. 13-19 measurement week, according to data tracker Luminate. Among this week’s chart stars are ATEEZ, U2, Ella Langley, Mariah Carey and Wham! ATEEZ and U2 reflect high-profile groups that have hit the Billboard 200 album chart’s upper reaches since earlier this decade and the 1980s, respectively. ATEEZ earns its fourth No. 1 on the list with the debut of GOLDEN HOUR : Part.6. The act first led in December 2023 with THE WORLD EP.FIN: WILL. Meanwhile, U2 debuts at No. 4 on the Billboard 200 with Carnaval de Luz. The band notches its 14th top 10 set, dating to the No. 7 launch of The Joshua Tree (the first of U2’s eight leaders) on the April 4, 1987, chart. The albums above it that week? Six other classics, from No. 1 on down: Beastie Boys’ Licensed to Ill, Bon Jovi’s Slippery When Wet, Paul Simon’s Graceland, Bruce Hornsby & the Range’s The Way It Is, Janet Jackson’s Control and Genesis’ Invisible Touch. U2 adds its second Billboard 200 top 10 this decade, following Songs of Surrender (No. 5, 2023). Upon that LP’s arrival, U2 became just the fourth group to have scored newly charted top 10s in the 1980s, ‘90s, 2000s, ‘10s and ‘20s, joining AC/DC, Def Leppard and Metallica."
+   },
+   {
+    "title": "November 28, 2026 - Media Solutions in BlackNewss Diversity",
+    "url": "https://www.blacknewss.com/2026/11/28/",
+    "source": "blacknewss.com",
+    "published": "",
+    "excerpt": "Lali P Teams with Najee for ‘Keep It Smooth’ | WATCH ... Lali P (Paez) about releasing a single with Grammy winning music producer Michael Mani (Carlos Santana, ... R.) titled “Keep It Smooth” which features Grammy nominated Jazz saxophonist Najee."
+   },
+   {
+    "title": "Vivica A. Fox and Jackée Harry Lead Lifetime's \"Checking Inn for Christmas,\" Premiering Saturday, November 28",
+    "url": "https://wespeakmedia2.com/vivica-a-fox-and-jackee-harry-lead-lifetimes-checking-inn-for-christmas-premiering-saturday-november-28/",
+    "source": "wespeakmedia2.com",
+    "published": "",
+    "excerpt": "Lifetime is bringing a new holiday romance to screens this weekend. “Checking Inn for Christmas,” starring Vivica A. Fox, Jackée Harry, Josh Henderson and Juliah Cheree Taylor, premieres Saturday, November 28 at 10/9c as part of the network’s annual “It’s a Wonderful Lifetime” holiday programming event. The film follows ambitious journalist Claire (Juliah Cheree Taylor), who lands a career-defining assignment from her editor Amelia (Vivica A. Fox): profiling a picturesque holiday resort and its charismatic owner, Julian Clark (Josh Henderson). As Claire races to meet her Christmas deadline, an unexpected romance challenges her professional ambitions and reminds her that the greatest stories are sometimes the ones we never see coming."
+   },
+   {
+    "title": "All briefs · November 2026 · The Korea Now",
+    "url": "https://thekoreanow.com/en/brief/archive/2026-11",
+    "source": "thekoreanow.com",
+    "published": "",
+    "excerpt": "- ILLIT Member Moka Resumes Activities Following Five-Month Health Hiatus - Korea Post Customer ... Cyberattack - TXT Takes Second Music Show Trophy for Angel Bite on Music Bank - Olive Young Launches Month-Long Showcase for 10 Rising K-Beauty Brands"
+   },
+   {
+    "title": "Quickreads: Get quick information on latest, top breaking news | Hindustan Times",
+    "url": "https://www.hindustantimes.com/quick-read/bollywood/param-sundari-beegi-saree-song-janhvi-kapoor-sets-screen-on-fire-fans-react-sridevis-kaate-nahi-sidharth-malhotra-101754645248770-quickread.html",
+    "source": "hindustantimes.com",
+    "published": "",
+    "excerpt": "that Dune: Part Three will face Avengers: Doomsday in a December box-office clash, but says its December ... date cannot change because of an IMAX commitment; Doomsday opens December 17. He hopes Dune survives and says the clash could produce a record"
+   }
+  ],
+  "text": "[1] Top Stories | From the Guardian | The Guardian | Todayspaper | The Guardian (theguardian.com)\n- ### Phoebe Bridgers review – phone-free arena show is a cosmic, communal revelation 5 out of 5 stars. Phoebe Bridgers review – phone-free arena show is a cosmic, communal revelation ... robbed fans at Manchester gig disrupted by ‘unknown substance’\n\n[2] Reuters Entertainment News Summary | International (devdiscourse.com)\nFrench actor Gerard Depardieu to face trial for rape, court rules Film star Gerard Depardieu, one of the leading faces of French cinema, ‌will face trial on charges of raping actress Charlotte Arnould in 2018, after a Paris appeal court on Thursday rejected his bid to avoid having the case tried. Arnould first accused Depardieu of rape in 2018, saying the assaults occurred in his Paris home on two separate occasions when she was in her early 20s. Depardieu, 77, has denied wrongdoing in the case, and his legal team last ‌year appealed the investigative judge's decision for the case to be …\n\n[3] November 2026 – Deadline (deadline.com)\nHaley Dies; WWE Star Known To Fans As Bronson Reed was 38 The World Wrestling Federation announced the passing of Jermaine Haley, aka Bronson Reed. The 38-year-old died Nov. 26 of medical complications. “Jermaine was a larger-than-life figure in WWE,”\n\n[4] ILLIT's MOKA returns \"step by step\", BESTie's 'Love Options' tops QQ Music: November 28 news briefing — 노놀 매거진 (mag.nonol.co.kr)\nNovember 28, 2026 at 09:30 AM ... ## Yesterday's news ### 1. ILLIT's MOKA: \"step by step\" On the 27th, ILLIT's MOKA thanked fans for waiting in a post on Weverse and asked them to wait a little longer while the members gradually return to activities. The agency BELIFT LAB said no specific comeback schedule has been set yet. Sources: Korea Times · Soompi · Topstar News ### 2. BESTie's 'Love Options' tops a QQ Music chart in China BESTie's 'Love Options', released in October 2013, reached No. 1 on QQ Music's 'Hot Songs' chart in China. In Korea it climbed as high as No. 5 on the Melon TOP100. …\n\n[5] Breaking News | TheFutonCritic.com - The Web's Best Television Resource (thefutoncritic.com)\n| [saturday, november 28, 2026] | ... - 07:01 AM] The Concluding Chapter: \"Our Fault: London\" Comes to Prime Video on January 22, 2027 The epic conclusion of the ... and will launch exclusively on Prime Video, in more than 240 countries and territories.\n\n[6] U2, ATEEZ, Ella Langley & More: Chart Highlights (billboard.com)\nTuesday is new Billboard chart day each week! As all charts update each Tuesday, here’s a look at highlights of the latest rankings, dated Nov. 28 and reflecting the Nov. 13-19 measurement week, according to data tracker Luminate. Among this week’s chart stars are ATEEZ, U2, Ella Langley, Mariah Carey and Wham! ATEEZ and U2 reflect high-profile groups that have hit the Billboard 200 album chart’s upper reaches since earlier this decade and the 1980s, respectively. ATEEZ earns its fourth No. 1 on the list with the debut of GOLDEN HOUR : Part.6. The act first led in December 2023 with THE WORLD …\n\n[7] November 28, 2026 - Media Solutions in BlackNewss Diversity (blacknewss.com)\nLali P Teams with Najee for ‘Keep It Smooth’ | WATCH ... Lali P (Paez) about releasing a single with Grammy winning music producer Michael Mani (Carlos Santana, ... R.) titled “Keep It Smooth” which features Grammy nominated Jazz saxophonist Najee.\n\n[8] Vivica A. Fox and Jackée Harry Lead Lifetime's \"Checking Inn for Christmas,\" Premiering Saturday, November 28 (wespeakmedia2.com)\nLifetime is bringing a new holiday romance to screens this weekend. “Checking Inn for Christmas,” starring Vivica A. Fox, Jackée Harry, Josh Henderson and Juliah Cheree Taylor, premieres Saturday, November 28 at 10/9c as part of the network’s annual “It’s a Wonderful Lifetime” holiday programming event. The film follows ambitious journalist Claire (Juliah Cheree Taylor), who lands a career-defining assignment from her editor Amelia (Vivica A. Fox): profiling a picturesque holiday resort and its charismatic owner, Julian Clark (Josh Henderson). As Claire races to meet her Christmas deadline, …\n\n[9] All briefs · November 2026 · The Korea Now (thekoreanow.com)\n- ILLIT Member Moka Resumes Activities Following Five-Month Health Hiatus - Korea Post Customer ... Cyberattack - TXT Takes Second Music Show Trophy for Angel Bite on Music Bank - Olive Young Launches Month-Long Showcase for 10 Rising K-Beauty Brands\n\n[10] Quickreads: Get quick information on latest, top breaking news | Hindustan Times (hindustantimes.com)\nthat Dune: Part Three will face Avengers: Doomsday in a December box-office clash, but says its December ... date cannot change because of an IMAX commitment; Doomsday opens December 17. He hopes Dune survives and says the clash could produce a record",
+  "hash": "edcd67ce21e4716213bcbb1b7cb6451b5ade1c4d36a8b5613e924acc11d17384",
+  "notes": []
+ }
+}
