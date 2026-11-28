@@ -3,15 +3,15 @@
 ## Run calendar
 
 <!-- CALENDAR:START -->
-**Next scheduled wave:** **Fri Nov 27, 20:00 New York** (EST) = **Sat Nov 28, 04:30 Tehran**  
-**Completed waves:** 233 · calendar updated Nov 27, 16:10 New York / 00:40 Tehran (it refreshes after every wave)
+**Next scheduled wave:** **Sat Nov 28, 00:00 New York** (EST) = **Sat Nov 28, 08:30 Tehran**  
+**Completed waves:** 234 · calendar updated Nov 27, 20:15 New York / 04:45 Tehran (it refreshes after every wave)
 
 Times in the cells are **Tehran time** for each New York slot. 🟢 completed · 🔴 missed · 🟡 due now · ⏳ next · ⚪ scheduled
 
 | New York date | 00:00 ET | 04:00 ET | 08:00 ET | 12:00 ET | 16:00 ET | 20:00 ET |
 |---|---|---|---|---|---|---|
-| Sat Nov 28 | ⚪ 08:30 | ⚪ 12:30 | ⚪ 16:30 | ⚪ 20:30 | ⚪ 00:30 (+1d) | ⚪ 04:30 (+1d) |
-| Fri Nov 27 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | ⏳ 04:30 (+1d) |
+| Sat Nov 28 | ⏳ 08:30 | ⚪ 12:30 | ⚪ 16:30 | ⚪ 20:30 | ⚪ 00:30 (+1d) | ⚪ 04:30 (+1d) |
+| Fri Nov 27 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
 | Thu Nov 26 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
 | Wed Nov 25 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
 | Tue Nov 24 | 🟢 08:30 | 🟢 12:30 | 🟢 16:30 | 🟢 20:30 | 🟢 00:30 (+1d) | 🟢 04:30 (+1d) |
@@ -36,8 +36,8 @@ were shown, every prompt, every raw reply, and the parsed answers.
 **Live website:** https://alizarif.github.io/hf-ai-inflation-expectations/ (all waves over time, each wave in detail, and the method; rebuilt after every wave)
 
 <!-- STATUS:START -->
-**Latest wave:** `2026-11-27T16ET` · 420 trials · 420 fully valid · 28 had a probability list rescaled to 100 · cost $0.441  
-**Waves so far:** 233 · **rows in panel:** 97860 · **total cost:** $100.54
+**Latest wave:** `2026-11-27T20ET` · 420 trials · 420 fully valid · 41 had a probability list rescaled to 100 · cost $0.457  
+**Waves so far:** 234 · **rows in panel:** 98280 · **total cost:** $101.00
 <!-- STATUS:END -->
 
 ## Design
